@@ -1,0 +1,1206 @@
+
+
+ 
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:doi="http://dx.doi.org/"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:xsd="http://www.w3.org/2001/XMLSchema-datatypes#"
+      lang="en" xml:lang="en"
+      itemscope itemtype="http://schema.org/Article"
+      class="no-js">
+<head prefix="og: http://ogp.me/ns#">
+  <title>PLOS ONE: Boundary Conditions for Heat Transfer and Evaporative Cooling in the Trachea and Air Sac System of the Domestic Fowl: A Two-Dimensional CFD Analysis</title>
+
+
+<link rel="stylesheet" type="text/css"  href="/css/global-min.css?v=izteQ6tu7kgsJZW_xmrYizvKiHM" />
+
+
+    <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css"  href="/css/lte_ie7-min.css?v=3bykQUyQmReeuobVyPozcJ9LxRc" />
+    <![endif]-->
+
+
+<link rel="stylesheet" type="text/css"  href="/css/jquery-ui-min.css?v=eXDHTEJM0lIAmDe5k0I0Ad4nxNo" />
+
+
+<link rel="stylesheet" type="text/css"  href="/css/journal.css?v=T7ZVxJfgk9jNxLAJ2qHz1vZpgYU" />
+
+
+<link rel="stylesheet" type="text/css" media="print" href="/css/print-min.css?v=T5lb0B3q6EXBsuDluc5V5w+AkRc" />
+
+
+  <link rel="stylesheet" href="http://f.fontdeck.com/s/css/js/www.plosone.org/24557.css" type="text/css"/>
+
+  <!--chartbeat -->
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
+  <script>document.documentElement.className += ' js';</script>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE9"/>
+  <meta name="description" content="PLOS ONE: an inclusive, peer-reviewed, open-access resource from the PUBLIC LIBRARY OF SCIENCE. Reports of well-performed scientific studies from all disciplines freely available to the whole world."/>
+  <meta name="keywords" content="PLOS, Public Library of Science, Open Access, Open-Access, Science, Medicine, Biology, Research, Peer-review, Inclusive, Interdisciplinary, Ante-disciplinary, Physics, Chemistry, Engineering"/>
+  <meta name="almHost" content="http://alm.plos.org/api/v3/articles"/>
+  <meta name="searchHost" content="http://api.plos.org/search" />
+  <meta name="termsHost" content="http://api.plos.org/terms" />
+  <meta name="solrApiKey" content="plos"/>
+  <meta name="almAPIKey" content="3pezRBRXdyzYW6ztfwft" />
+  <meta name="currentJournal" content="PLoSONE" />
+  <meta name="almRequestBatchSize" content="" />
+
+  <meta name="citation_publisher" content="Public Library of Science"/>
+  <meta name="citation_doi" content="10.1371/journal.pone.0045315"/>
+  <meta name="dc.identifier" content="10.1371/journal.pone.0045315" />
+
+    <meta name="citation_title" content="Boundary Conditions for Heat Transfer and Evaporative Cooling in the Trachea and Air Sac System of the Domestic Fowl: A Two-Dimensional CFD Analysis"/>
+    <meta itemprop="name" content="Boundary Conditions for Heat Transfer and Evaporative Cooling in the Trachea and Air Sac System of the Domestic Fowl: A Two-Dimensional CFD Analysis"/>
+
+      <meta name="citation_author" content="Nina S. Sverdlova"/>
+            <meta name="citation_author_institution" content="Institute for Product and Service Engineering, Ruhr-Universität Bochum, Bochum, Germany"/>
+      <meta name="citation_author" content="Markus Lambertz"/>
+            <meta name="citation_author_institution" content="Institute for Zoology, Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany"/>
+      <meta name="citation_author" content="Ulrich Witzel"/>
+            <meta name="citation_author_institution" content="Institute for Product and Service Engineering, Ruhr-Universität Bochum, Bochum, Germany"/>
+      <meta name="citation_author" content="Steven F. Perry"/>
+            <meta name="citation_author_institution" content="Institute for Zoology, Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany"/>
+
+    <meta name="citation_date" content="2012/9/20"/>
+
+  <meta name="citation_pdf_url" content="http://dx.plos.org/10.1371/journal.pone.0045315.pdf" />
+
+      <meta name="citation_journal_title" content="PLOS ONE" />
+    <meta name="citation_firstpage" content="e45315"/>
+    <meta name="citation_issue" content="9"/>
+    <meta name="citation_volume" content="7"/>
+    <meta name="citation_issn" content="1932-6203"/>
+
+    <meta name="citation_journal_abbrev" content="PLoS ONE" />
+
+      <meta name="citation_reference" content="citation_title=Evaporative losses of water by birds; citation_volume=71A(4); citation_number=1; citation_pages=495-509; citation_date=1982; " />
+      <meta name="citation_reference" content="citation_title=Oxygen consumption and respiratory evaporation of the emu and rhea; citation_volume=70(4); citation_number=2; citation_pages=333-339; citation_date=1968; " />
+      <meta name="citation_reference" content="citation_title=Inspiratory aerodynamic valving occurs in the ostrich, Struthio camelus lung: A computational fluid dynamics study under resting unsteady state inhalation; citation_volume=169; citation_number=3; citation_pages=262-270; citation_date=2009; " />
+      <meta name="citation_reference" content="citation_title=The comparative anatomy of the respiratory pathways in the domestic fowl (Gallus domesticus), pigeon (Columba livia) and domestic duck (Anas platyrhyncha); citation_volume=94(4); citation_number=4; citation_pages=487-505; citation_date=1960; " />
+      <meta name="citation_reference" content="citation_title=Structure of avian lung; citation_volume=14; citation_number=5; citation_pages=44-63; citation_date=1972; " />
+      <meta name="citation_reference" content="citation_number=6; " />
+      <meta name="citation_reference" content="citation_number=7; " />
+      <meta name="citation_reference" content="citation_number=8; " />
+      <meta name="citation_reference" content="citation_title=Pathway of respired gas in the air sacs-lung apparatus of fowl and ducks; citation_volume=13; citation_number=9; citation_pages=330-334; citation_date=1971; " />
+      <meta name="citation_reference" content="citation_title=Observations on the sites of respiratory evaporation in the fowl during thermal panting; citation_volume=25; citation_number=10; citation_pages=39-52; citation_date=1975; " />
+      <meta name="citation_reference" content="citation_title=Metabolic heat production and evaporative heat loss in desert phasianids: chukar and sand partridge; citation_volume=59(6); citation_number=11; citation_pages=592-605; citation_date=1986; " />
+      <meta name="citation_reference" content="citation_title=Tracheal dead space in the respiration of birds; citation_volume=25; citation_number=12; citation_pages=427-429; citation_date=1971; " />
+      <meta name="citation_reference" content="citation_title=Respiratory mechanics in the bird; citation_volume=44A; citation_number=13; citation_pages=599-611; citation_date=1973; " />
+      <meta name="citation_reference" content="citation_number=14; " />
+      <meta name="citation_reference" content="citation_number=15; " />
+      <meta name="citation_reference" content="citation_number=16; " />
+      <meta name="citation_reference" content="citation_number=17; " />
+      <meta name="citation_reference" content="citation_number=18; " />
+      <meta name="citation_reference" content="citation_number=19; " />
+
+  <link rel="canonical" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0045315" />
+
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@plosone"/>
+    <meta name="twitter:title" content="Boundary Conditions for Heat Transfer and Evaporative Cooling in the Trachea and Air Sac System of the Domestic Fowl: A Two-Dimensional CFD Analysis"/>
+    <meta name="twitter:description" content="Various parts of the respiratory system play an important role in temperature control in birds. We create a simplified computational fluid dynamics (CFD) model of heat exchange in the trachea and air sacs of the domestic fowl (Gallus domesticus) in order to investigate the boundary conditions for the convective and evaporative cooling in these parts of the respiratory system. The model is based upon published values for respiratory times, pressures and volumes and upon anatomical data for this species, and the calculated heat exchange is compared with experimentally determined values for the domestic fowl and a closely related, wild species. In addition, we studied the trachea histologically to estimate the thickness of the heat transfer barrier and determine the structure and function of moisture-producing glands. In the transient CFD simulation, the airflow in the trachea of a 2-dimensional model is evoked by changing the volume of the simplified air sac. The heat exchange between the respiratory system and the environment is simulated for different ambient temperatures and humidities, and using two different models of evaporation: constant water vapour concentration model and the droplet injection model. According to the histological results, small mucous glands are numerous but discrete serous glands are lacking on the tracheal surface. The amount of water and heat loss in the simulation is comparable with measured respiratory values previously reported. Tracheal temperature control in the avian respiratory system may be used as a model for extinct or rare animals and could have high relevance for explaining how gigantic, long-necked dinosaurs such as sauropoda might have maintained a high metabolic rate."/>
+      <meta name="twitter:image" content="http://dx.plos.org/10.1371/journal.pone.0045315.g009"/>
+
+  <meta property="og:title" content="Boundary Conditions for Heat Transfer and Evaporative Cooling in the Trachea and Air Sac System of the Domestic Fowl: A Two-Dimensional CFD Analysis" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0045315" />
+
+ <!--end articleInfoX-->
+
+  <link rel="pingback" href="http://www.plosone.org/pingback" />
+
+
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"/>
+  <link rel="home" title="home" href="/"/>
+  <link rel="alternate" type="application/rss+xml"
+        title="PLOS ONE: New Articles"
+        href="http://www.plosone.org/article/feed"/>
+</head>
+<body>
+
+  <div id="page-wrap">
+    <div id="topbanner" class="cf">
+
+<!-- Div for the ad at the top of journal home page-->
+<div class="center">
+  <div class="title">Advertisement</div>
+  <iframe id='a3ac9da4' name='a3ac9da4'
+    src='http://ads.plos.org/www/delivery/afr.php?zoneid=345&amp;cb=6362'
+    frameborder='0' scrolling='no' width='730' height='90'>
+    <a href='http://ads.plos.org/www/delivery/ck.php?n=a3ac9da4&amp;cb=2493'
+      target='_top'><img src='http://ads.plos.org/www/delivery/avw.php?zoneid=345&amp;cb=290&amp;n=a3ac9da4'
+      border='0' alt=''/>
+    </a>
+  </iframe>
+</div>    </div>
+
+    <div id="pagehdr-wrap">
+      <div id="pagehdr">
+        <div id="user" class="nav">
+          <ul>
+            <li><a href="http://www.plos.org">plos.org</a></li>
+            <li><a href="https://register.plos.org/ambra-registration/register.action">create account</a></li>
+            <li class="btn-style"><a
+              href="/user/secure/secureRedirect.action?goTo=%2Farticle%2FfetchArticle.action%3FarticleURI%3Dinfo%253Adoi%252F10.1371%252Fjournal.pone.0045315">sign in</a>
+            </li>
+          </ul>
+        </div>
+        <div class="logo">
+          <a href="/"><img src="/images/logo.png" alt="PLOS ONE"></a>
+        </div>
+
+<div id="nav-main" class="nav">
+  <ul>
+        <li id="mn-01"><a href="/taxonomy" class="areas-link">Subject Areas</a></li>
+    <li id="mn-02"><a href="javascript:void(0);">For Authors</a>
+      <div class="submenu" style="width: 540px; margin-left: -300px;">
+        <div class="block">
+          <div class="submit-script">
+            <h3>Submit your Manuscript</h3>
+            <ul>
+              <li>Fair, rigorous peer review</li>
+              <li>Broad scope and wide reach</li>
+            </ul>
+            <a href="/static/submissionInstructions" class="btn">get started</a>
+          </div>
+        </div>
+        <div class="menu">
+          <ul>
+            <li><a href="/static/publish">Why Publish with PLOS ONE</a></li>
+            <li><a href="/static/publication">Publication Criteria</a></li>
+            <li><a href="/static/editorial">Editorial Policies</a></li>
+            <li><a href="/static/guidelines">Preparing A Manuscript</a></li>
+            <li><a href="/static/figureGuidelines">Figure and Table Guidelines</a></li>
+          <li><a href="/static/supportingInformation">Supporting Information Guidelines</a></li>
+            <li><a href="/static/submissionInstructions">Submitting a Manuscript</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+
+    <li id="mn-03"><a href="javascript:void(0);">About Us</a>
+      <div class="submenu" style="width:248px; margin-left:-30px;">
+        <div class="menu">
+          <ul>
+            <li><a href="/static/information">Journal Information</a></li>
+            <li><a href="/static/edboard">Editorial Board</a></li>
+            <li><a href="/static/reviewerGuidelines">Reviewer Guidelines</a></li>
+            <li><a href="/static/almInfo">Article-Level Metrics</a></li>
+            <li><a href="/static/license">Open-Access License</a></li>
+            <li><a href="/static/downloads">Media Downloads</a></li>
+            <li><a href="/static/commentGuidelines">Guidelines for Comments</a></li>
+            <li><a href="/static/corrections">Corrections</a></li>
+            <li><a href="/static/help">Help Using this Site</a></li>
+            <li><a href="/static/contact">Contact Us</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+  </ul>
+<div id="db">
+  <form name="searchForm" action="/search/simple?noSearchFlag=true&amp;query=&amp;articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0045315" method="get" >
+<input type="hidden" name="from" value="globalSimpleSearch" id="from"/><input type="hidden" name="filterJournals" value="PLoSONE" id="filterJournals"/>    <fieldset>
+      <legend>Search</legend>
+      <label for="search">Search</label>
+      <div class="wrap">
+        <input id="search" type="text" name="query" placeholder="Search">
+        <input type="image" alt="SEARCH" src="/images/icon.search.gif">
+      </div>
+    </fieldset>
+  </form>
+    <a id="advSearch" href="/search/advanced?noSearchFlag=true&amp;query=&amp;articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0045315&filterJournals=PLoSONE">advanced search</a>
+</div></div>
+
+      </div>
+      <!-- pagehdr-->
+    </div>
+    <!-- pagehdr-wrap -->
+
+  <!--body and html tags gets closed in global_footer.ftl-->
+<script type="text/javascript" src="/javascript/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<div id="pagebdy-wrap">
+  <div id="pagebdy">
+
+    <div id="article-block" class="cf">
+
+<div class="article-meta cf">
+  <ul id="almSignPost" style="display: none;"></ul>
+  <div class="article-type">
+    <span class="type oa">Open Access</span>
+      <span class="type pr">Peer-Reviewed</span>
+  </div>
+</div>
+
+<div class="header" id="hdr-article">
+
+<div class="article-kicker">
+      <span id="article-type-heading">
+        Research Article
+      </span>
+</div>  <h1 property="dc:title" datatype="" rel="dc:type" href="http://purl.org/dc/dcmitype/Text">
+    Boundary Conditions for Heat Transfer and Evaporative Cooling in the Trachea and Air Sac System of the Domestic Fowl: A Two-Dimensional CFD Analysis
+  </h1>
+
+  <ul class="authors">
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Nina S. Sverdlova
+              <span class="corresponding">mail</span>, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              <p><span class="email">* E-mail:</span> <a href="mailto:sverdlova@lmk.rub.de">sverdlova@lmk.rub.de</a></p>
+
+                <p>Affiliation:
+                  Institute for Product and Service Engineering, Ruhr-Universität Bochum, Bochum, Germany
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Markus Lambertz, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Institute for Zoology, Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Ulrich Witzel, 
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Institute for Product and Service Engineering, Ruhr-Universität Bochum, Bochum, Germany
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+      <li>
+
+
+        <span rel="dc:creator" class="author">
+          <span class="person" property="foaf:name" typeof="foaf:Person">
+            Steven F. Perry
+          </span>
+        </span>
+
+          <div class="author_meta">
+            <div class="author_inner">
+
+
+              
+              
+
+                <p>Affiliation:
+                  Institute for Zoology, Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany
+                </p>
+
+
+              <span class="close">X</span>
+
+            </div>
+          </div>
+      </li>
+  </ul>
+  <ul class="date-doi-line">
+    <li>Published: September 20, 2012</li>
+    <li>DOI: 10.1371/journal.pone.0045315</li>
+  </ul>
+
+
+</div><!--end header-->
+<div class="main cf" id="pjax-container">
+  
+
+<div class="nav items-5" id="nav-article">
+  <ul>
+  <li>
+        <span class="active" name="article">Article</span>
+  </li>
+  <li>
+      <a href="/article/authors/info%3Adoi%2F10.1371%2Fjournal.pone.0045315" name="authors">About the Authors</a>
+  </li>
+  <li>
+      <a href="/article/metrics/info%3Adoi%2F10.1371%2Fjournal.pone.0045315" name="metrics">Metrics</a>
+  </li>
+  <li>
+      <a href="/article/comments/info%3Adoi%2F10.1371%2Fjournal.pone.0045315" name="comments">Comments</a>
+  </li>
+  <li>
+      <a href="/article/related/info%3Adoi%2F10.1371%2Fjournal.pone.0045315" name="related">Related Content</a>
+  </li>
+  </ul>
+</div>
+
+<script type="text/javascript">
+  var selected_tab = "article";
+</script>
+  <div id="figure-thmbs" class="carousel cf">
+    <div class="wrapper">
+      <div class="slider">
+              <div class="item">
+                <a href="#pone-0045315-g001" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g001" title="Figure 1">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g001&representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="#pone-0045315-t001" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.t001" title="Table 1">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.t001&representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="#pone-0045315-t002" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.t002" title="Table 2">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.t002&representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="#pone-0045315-g002" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g002" title="Figure 2">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g002&representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="#pone-0045315-t003" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.t003" title="Table 3">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.t003&representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="#pone-0045315-g003" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g003" title="Figure 3">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g003&representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="#pone-0045315-g004" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g004" title="Figure 4">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g004&representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="#pone-0045315-g005" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g005" title="Figure 5">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g005&representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="#pone-0045315-g006" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g006" title="Figure 6">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g006&representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="#pone-0045315-g007" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g007" title="Figure 7">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g007&representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="#pone-0045315-g008" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g008" title="Figure 8">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g008&representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a href="#pone-0045315-g009" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g009" title="Figure 9">
+                  <span class="thmb-wrap">
+                    <img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g009&representation=PNG_I" alt="">
+                  </span>
+                </a>
+              </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="nav-col">
+    <div class="nav" id="nav-article-page">
+      <ul>
+        <li class="nav-col-comments"><a href="/article/comments/info%3Adoi%2F10.1371%2Fjournal.pone.0045315">Reader Comments (0)</a></li>
+          <li id="nav-figures"><a data-doi="info:doi/10.1371/journal.pone.0045315" >Figures</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="article">
+
+
+
+
+
+
+
+<div class="abstract"><a id="abstract0" name="abstract0" toc="abstract0" title="Abstract"></a><h2>Abstract</h2><a id="article1.front1.article-meta1.abstract1.p1" name="article1.front1.article-meta1.abstract1.p1"></a><p>Various parts of the respiratory system play an important role in temperature control in birds. We create a simplified computational fluid dynamics (CFD) model of heat exchange in the trachea and air sacs of the domestic fowl (<em>Gallus domesticus</em>) in order to investigate the boundary conditions for the convective and evaporative cooling in these parts of the respiratory system. The model is based upon published values for respiratory times, pressures and volumes and upon anatomical data for this species, and the calculated heat exchange is compared with experimentally determined values for the domestic fowl and a closely related, wild species. In addition, we studied the trachea histologically to estimate the thickness of the heat transfer barrier and determine the structure and function of moisture-producing glands. In the transient CFD simulation, the airflow in the trachea of a 2-dimensional model is evoked by changing the volume of the simplified air sac. The heat exchange between the respiratory system and the environment is simulated for different ambient temperatures and humidities, and using two different models of evaporation: constant water vapour concentration model and the droplet injection model. According to the histological results, small mucous glands are numerous but discrete serous glands are lacking on the tracheal surface. The amount of water and heat loss in the simulation is comparable with measured respiratory values previously reported. Tracheal temperature control in the avian respiratory system may be used as a model for extinct or rare animals and could have high relevance for explaining how gigantic, long-necked dinosaurs such as sauropoda might have maintained a high metabolic rate.</p>
+</div>
+
+
+<div class="articleinfo"><p><strong>Citation: </strong>Sverdlova NS, Lambertz M, Witzel U, Perry SF (2012) Boundary Conditions for Heat Transfer and Evaporative Cooling in the Trachea and Air Sac System of the Domestic Fowl: A Two-Dimensional CFD Analysis. PLoS ONE 7(9):
+          e45315.
+            doi:10.1371/journal.pone.0045315</p><p><strong>Editor: </strong>Christos Samakovlis, 
+        Stockholm University, Sweden
+      </p><p><strong>Received:</strong> April 20, 2012; <strong>Accepted:</strong> August 21, 2012; <strong>Published:</strong> September 20, 2012</p><p><strong>Copyright:</strong> ©  Sverdlova et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p><p><strong>Funding: </strong>The study was funded by the German Research Foundation (Deutsche Forschungsgemeinschaft/FOR 533: Biology of the Sauropod Dinosaurs: The Evolution of Gigantism). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p><p><strong>Competing interests:</strong> The authors have declared that no competing interests exist.</p></div>
+
+
+
+
+
+<div id="section1" class="section"><a id="s1" name="s1" toc="s1" title="Introduction"></a><h3>Introduction</h3><a id="article1.body1.sec1.p1" name="article1.body1.sec1.p1"></a><p>Besides supplying oxygen and eliminating carbon dioxide, the respiratory system plays an important role in regulation of body temperature and water balance. The respiratory temperature control is realised through convective and evaporative cooling. The cool air passing through the respiratory system is heated and saturated with water vapour during inspiration. Both processes take place to the large extent in the trachea <a href="#pone.0045315-Dawson1">[1]</a>. During the expiration the energy taken up by the air is transported out of the respiratory system. Some of the water and heat may be resorbed in the nasal cavities <a href="#pone.0045315-Dawson1">[1]</a>. Crawford and Lasiewski <a href="#pone.0045315-Crawford1">[2]</a> calculated an allometric relationship for the total evaporative water loss in nonpasserine birds at an ambient temperature of 25°C. According to Dawson <a href="#pone.0045315-Dawson1">[1]</a>, evaporative water loss through the respiratory system varies significantly among avian species and even may be exceeded by the cutaneous water loss at the temperatures below the heat stress.</p>
+<a id="article1.body1.sec1.p2" name="article1.body1.sec1.p2"></a><p>Computational methods have become a very important tool for modelling and analysing the biology and physiology of extant and extinct animals <a href="#pone.0045315-Maina1">[3]</a>. In order to use its full potential and obtain good simulations of the physiological processes, the boundary conditions must be precisely set, based on an extant, biological model. A model of the avian respiratory system based on the domestic fowl (<em>Gallus domesticus</em>) seems to be very appropriate for this purpose. The anatomy and function of the respiratory system of domestic fowl has been extensively studied experimentally. The gross anatomical and histological structure of the respiratory system in the domestic fowl has been described in detail by several authors <a href="#pone.0045315-Akester1">[4]</a>–<a href="#pone.0045315-Pastor1">[8]</a>. Airflow parameters and time-dependant pressure change have been determined, and air sac pressure, flow rate and flow volume are available from several experimental studies on the domestic fowl and duck <a href="#pone.0045315-Bouverot1">[9]</a>.</p>
+<a id="article1.body1.sec1.p3" name="article1.body1.sec1.p3"></a><p>The evaporative water loss from the respiratory system of the domestic fowl has been measured in normal and heat-stressed conditions by Menuam and Richards <a href="#pone.0045315-Menuam1">[10]</a>, and shows a wide variation. A simulation of the evaporative cooling can therefore help to predict a reasonable water loss that corresponds to a given heat loss. Unfortunately, the published data on metabolic heat production and heat loss is based on an overbred species (domestic fowl) and does not necessarily reflect that of a wild, galliform bird. Data for the chukar (<em>Alectoris chukar</em>) are available and appropriate because this free-living species is closely related to domestic fowl, both being phasianid galliforms. Frumkin et al. <a href="#pone.0045315-Frumkin1">[11]</a> measured heat flux per body weight due to the evaporative cooling in the chukar.</p>
+<a id="article1.body1.sec1.p4" name="article1.body1.sec1.p4"></a><p>In this study we test the boundary conditions for a computational fluid dynamics (CFD) model of the heat exchange in the avian respiratory system on the example of domestic fowl (<em>Gallus domesticus</em>). We create a simplified CFD model of an avian trachea and air sac based on the available anatomical and physiological data. In particular for the simulation of the evaporative cooling in the trachea, along with published data we used our own histological analysis. We gave special attention to the structure of the tracheal glands and to the thickness of the heat conduction barrier between the tracheal surface and the subepithelial capillary network.</p>
+<a id="article1.body1.sec1.p5" name="article1.body1.sec1.p5"></a><p>Using this information the process of evaporative cooling is simulated. Specifically we address the following questions: 1) what values for the boundary conditions in the computational model lead to fully heated and humidified air; and 2) which model is appropriate for the simulation of the evaporative water supply on the tracheal surface.</p>
+</div>
+
+<div id="section2" class="section"><a id="s2" name="s2" toc="s2" title="Materials and Methods"></a><h3>Materials and Methods</h3>
+<h4>Ethics Statement</h4>
+<a id="article1.body1.sec2.sec1.p1" name="article1.body1.sec2.sec1.p1"></a><p>The animal material used in the study was obtained in accordance with German animal protection law, § 4, Abs. 1 and 3 of Tierschutzgesetz (Tierschutzgesetz in der Fassung der Bekanntmachung vom 18. Mai 2006 (BGBI. I S. 1206, 1313), last amendment: Artikel 20 des Gesetzes vom 9. Dezember 2010 (BGBI. I S. 1934)).</p>
+
+
+<h4>Topography of the Model</h4>
+<a id="article1.body1.sec2.sec2.p1" name="article1.body1.sec2.sec2.p1"></a><p>Since our study focuses on the simulation of evaporative cooling in the trachea, we chose to focus the CFD model accordingly. The structure of the respiratory system in the domestic fowl consists of nasal cavities, a trachea, extrapulmonary bronchi and a complex system of parabronchial lungs connected to a total of 9 air sacs <a href="#pone.0045315-Akester1">[4]</a>–<a href="#pone.0045315-Hodges1">[6]</a>. In a bird of approximately 2 kg, the partially ossified, cartilage-reinforced trachea has diameter of approximately 6–7 mm over the length of about 160–175 mm <a href="#pone.0045315-Hodges1">[6]</a>, <a href="#pone.0045315-Hinds1">[12]</a> and the maximal volume of air sacs is about 350 ml <a href="#pone.0045315-Akester1">[4]</a>, <a href="#pone.0045315-Duncker1">[5]</a>.</p>
+<a id="article1.body1.sec2.sec2.p2" name="article1.body1.sec2.sec2.p2"></a><p>The computational model of the respiratory system is reduced to the trachea and air sac with geometrical size based on the anatomical information (<a href="#pone-0045315-t001">Table 1</a>). Accordingly, our model consists of two cylinders (<a href="#pone-0045315-g001">Fig. 1A</a>) representing trachea of 5.8 mm in diameter and 171 mm in length reported in <a href="#pone.0045315-Hinds1">[12]</a> and an air sac dimensioned to concur with published values for the total air sac volume of the fowl respiratory system <a href="#pone.0045315-Akester1">[4]</a>, <a href="#pone.0045315-Duncker1">[5]</a>. This model is represented by an axisymmetric formulation and consists of plane elements. The 2D finite element model of the avian respiratory system (<a href="#pone-0045315-g001">Fig. 1B</a>) was generated using ANSYS ICEM CFD (ANSYS Inc.). Except for the moving posterior wall of the air sac, all surfaces of the model are specified as stationary walls and the orifice is defined as an inlet/outlet vent. The numerical accuracy of the simulation is ensured by the iterative convergence of the results in each individual time step. The mesh sensitivity analysis completed for the range of the representative cell sizes between 3 and 0.3 mm indicated oscillatory convergence in individual time steps.</p>
+<div class="figure" id="pone-0045315-g001"><div class="img"><a name="pone-0045315-g001" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g001&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g001"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g001&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g001/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g001/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g001/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g001/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g001.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g001/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g001/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g001.TIF"></span>)
+                </a></li></ul></div><p><strong>Figure 1.  <span>A simplification of the avian respiratory system for the domestic fowl.</span></strong></p><a id="article1.body1.sec2.sec2.fig1.caption1.p1" name="article1.body1.sec2.sec2.fig1.caption1.p1"></a><p>A) schematic representation; B) 2D finite element model; C) boundary conditions for the 2D model.</p>
+<span>doi:10.1371/journal.pone.0045315.g001</span></div><div class="figure" id="pone-0045315-t001"><div class="img"><a name="pone-0045315-t001" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.t001&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.t001"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.t001&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.t001/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.t001/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.t001/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.t001/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.t001.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.t001/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.t001/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.t001.TIF"></span>)
+                </a></li></ul></div><p><strong>Table 1.  <span>Anatomical data for the domestic fowl.</span></strong></p><span>doi:10.1371/journal.pone.0045315.t001</span></div>
+
+<h4>Simulation of the Breathing Cycle</h4>
+<a id="article1.body1.sec2.sec3.p1" name="article1.body1.sec2.sec3.p1"></a><p>During inspiration, air sacs are expanded by movement of the ribs and sternum. On expiration, the air is forced into the trachea. The air sac volume that increases during the inspiration and decreases during the expiration leads to the correspondingly changing air sac pressure. In the present study, the simulation of the breathing cycle is based on airflow parameters (<a href="#pone-0045315-t002">Table 2</a>) measured in a domestic fowl with mean weight 1900 g <a href="#pone.0045315-Bouverot1">[9]</a>. Several other studies cited by Bouverot and Dejours <a href="#pone.0045315-Bouverot1">[9]</a>, however, show that domestic fowl with body weights ranging between 1.6 and 3.4 kg display no significant difference in tidal volume or breathing frequency.</p>
+<div class="figure" id="pone-0045315-t002"><div class="img"><a name="pone-0045315-t002" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.t002&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.t002"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.t002&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.t002/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.t002/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.t002/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.t002/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.t002.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.t002/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.t002/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.t002.TIF"></span>)
+                </a></li></ul></div><p><strong>Table 2.  <span>Published respiratory parameters for the domestic fowl with mean weight 1900 g from Bouverot and Dejours <a href="#pone.0045315-Bouverot1">[9]</a>.</span></strong></p><span>doi:10.1371/journal.pone.0045315.t002</span></div><a id="article1.body1.sec2.sec3.p2" name="article1.body1.sec2.sec3.p2"></a><p>In the transient simulation of airflow in the trachea is evoked by the movement of the posterior wall of the cylindrical air sac (moving wall in <a href="#pone-0045315-g001">Fig. 1A</a>) guided by a mathematical relationship reflecting a real breathing pattern. Brackenbury <a href="#pone.0045315-Brackenbury1">[13]</a> showed a very close relationship between the sternum motion and air sac pressure. Thus, we use the data sets on the abdominal air sac pressure change within the breathing cycle <a href="#pone.0045315-Bouverot1">[9]</a> in order to define the function for the time dependent motion of the air sac wall. The graph of the air sac wall velocity (<a href="#pone-0045315-g002">Fig. 2</a>) shows a characteristic symmetrical behaviour with plateau during inspiration, which comprises the first third of the three-second breathing cycle, and a peak at the beginning of the expiration with a gradual decrease of the velocity over most of the expiratory phase. This behaviour is modelled by sequential application of three polynomials: one of the 4<sup>th</sup> power (region with plateau), one of the 2<sup>nd</sup> power (peak during expiration begin) followed by a 1<sup>st</sup> power linear decrease:<a name="pone.0045315.e001" id="pone.0045315.e001"></a><span class="equation"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.e001&amp;representation=PNG" class="inline-graphic"><span class="note">(1)</span></span><br></p>
+<div class="figure" id="pone-0045315-g002"><div class="img"><a name="pone-0045315-g002" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g002&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g002"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g002&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g002/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g002/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g002/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g002/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g002.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g002/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g002/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g002.TIF"></span>)
+                </a></li></ul></div><p><strong>Figure 2.  <span>Graph of the moving wall velocity during the breathing cycle used in 2D CFD model.</span></strong></p><span>doi:10.1371/journal.pone.0045315.g002</span></div><a id="article1.body1.sec2.sec3.p3" name="article1.body1.sec2.sec3.p3"></a><p>Note that we normalise the wall motion to fit constraints of fowl average tidal volume and average inspiratory/expiratory times from <a href="#pone-0045315-t002">Table 2</a> and do not use the measured values of the pressure in air sac directly for the simulation. The measured values of the air sac pressure may be very different depending on the experimental conditions even for voluntarily breathing, unrestrained birds (compare the studies <a href="#pone.0045315-Bouverot1">[9]</a> and <a href="#pone.0045315-Brackenbury1">[13]</a>, where as much as two fold difference of pressure values were obtained). The inspiration and expiration are simulated by increasing or decreasing the volume of the air sac by 30 ml sliding the posterior wall of the air sac cylinder along the symmetry axis as shown in <a href="#pone-0045315-g001">Fig. 1B</a>.</p>
+<a id="article1.body1.sec2.sec3.p4" name="article1.body1.sec2.sec3.p4"></a><p>The 2D transient simulations were performed in ANSYS FLUENT 12.0.16 and Microsoft Visual Studio 2010 as a C-compiler. We used a user-defined function in order to supply the time dependence for the dynamic mesh with wall velocity (Eq.1). The boundary conditions for the simulation are summarised in <a href="#pone-0045315-g001">Fig. 1C</a>. The ambient pressure is set to atmospheric pressure of 101325 Pa. Even though the air is heated and humidified in the nasal region not represented in the model, the extent of the heating and humidification of air in bird nasal airways is not known. Therefore, in the 2D model the air is assumed to reach the trachea at ambient conditions. The initial conditions of the transient simulation at the initial time of 0 s are: temperature of the air is 40°C, relative humidity 100% due to saturation of the air. Pressure in the air sacs as well as the velocity and temperature of the air in trachea is calculated based on the air sac wall motion.</p>
+
+
+<h4>Water Loss</h4>
+<a id="article1.body1.sec2.sec4.p1" name="article1.body1.sec2.sec4.p1"></a><p>The evaporative water loss from the respiratory system of the domestic fowl was previously measured in normal and heat-stressed conditions by Menuam and Richards <a href="#pone.0045315-Menuam1">[10]</a>. The domestic fowls used in their study weighed between 2100 and 2650 g, and were 10–16 months old. These authors observed a highly variable rate of water loss from respiratory system during breathing at rest, amounting to 1.2 mgH<sub>2</sub>O*h<sup>−1</sup> per g body weight, which corresponds to the water loss in a 2375-g fowl of 47.5 mgH<sub>2</sub>O* min<sup>−1</sup> or 2.4 mg H<sub>2</sub>O per breath. Similar values of water loss 7.85 mgH<sub>2</sub>O* min<sup>−1</sup> (or 1.1 mg H<sub>2</sub>O* h<sup>−1</sup> per g body weight) were measured in chukars with average body mass of 412 g <a href="#pone.0045315-Frumkin1">[11]</a>. According to the allometric relationship from the exhaustive review by Crawford and Lasiewski <a href="#pone.0045315-Crawford1">[2]</a> the total evaporative water loss in nonpasserine birds at the ambient temperature of 25°C can be calculated:<a name="pone.0045315.e002" id="pone.0045315.e002"></a><span class="equation"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.e002&amp;representation=PNG" class="inline-graphic"><span class="note">(2)</span></span><br>where M is the body mass in gram, E is the evaporative water loss in gram H<sub>2</sub>O per day (24 h). The cited data for domestic fowl of 1650–2750 g ranges between 32 und 55 g H<sub>2</sub>O* day<sup>−1</sup> of total evaporative water loss, corresponding to 22–38 mg H<sub>2</sub>O *min<sup>−1</sup>. These values include cutaneous water loss as well and, thus, predict much lower respiratory water loss than the study by Menuam and Richards <a href="#pone.0045315-Menuam1">[10]</a>. The available evaporative water loss data are summarised in <a href="#pone-0045315-t003">Table 3</a>.</p>
+<div class="figure" id="pone-0045315-t003"><div class="img"><a name="pone-0045315-t003" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.t003&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.t003"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.t003&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.t003/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.t003/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.t003/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.t003/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.t003.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.t003/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.t003/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.t003.TIF"></span>)
+                </a></li></ul></div><p><strong>Table 3.  <span>Published values for respiratory water and heat loss in the domestic fowl.</span></strong></p><span>doi:10.1371/journal.pone.0045315.t003</span></div><a id="article1.body1.sec2.sec4.p2" name="article1.body1.sec2.sec4.p2"></a><p>FLUENT provides a tool for modelling of gas mixtures and evaporative cooling, and dynamic air properties can be explicitly determined based on the water content in the air. The fluid was modelled as a mixture of air and water vapour with water content based on the Mollier diagram <a href="#pone.0045315-Beitz1">[14]</a>: for example, ambient air at 25°C and 50% humidity contains 0.01 kg H<sub>2</sub>O/kg air, the air in the air sac is considered saturated with water content about 0.48 kg H<sub>2</sub>O/kg.</p>
+<a id="article1.body1.sec2.sec4.p3" name="article1.body1.sec2.sec4.p3"></a><p>For humidification of the air passing through trachea, two evaporative models were used. In the first model, a constant water vapour supply was provided on the tracheal surface up to full saturation of air at the syrinx region. Two different runs were performed one with moist (50% humidity) and one with dry (0% humidity) ambient air. In this case the heat flux due to the evaporation is calculated based on the amount of water transported out of the system. In the second model, liquid water droplets were injected into the airways through the trachea surface and only ambient relative humidity of 50% was considered. The upper boundary target value of 2.4 mg H<sub>2</sub>O/breath, which is the maximal value of the water measured in the domestic fowl (<a href="#pone-0045315-t003">Table 3</a>), may lead to incomplete evaporation of the water droplets in the trachea. In the second simulated transient process, the heat flux through the trachea wall is explicitly calculated and the amount water transported out of the system was calculated. For the 2D model we orient on the heat flux of 1.8 J/s due to the evaporative cooling converted from values measured for chukars (<a href="#pone-0045315-t003">Table 3</a>).</p>
+
+
+<h4>Histology</h4>
+<a id="article1.body1.sec2.sec5.p1" name="article1.body1.sec2.sec5.p1"></a><p>In order to test the active secretion (injection) model onto the tracheal surface, we investigated the trachea histologically. To this end samples from five different positions along the course of the trachea of two hens and one rooster were harvested from freshly killed animals. The domestic fowls were anesthetised by inhalation of chloroform and killed by transsection of the cervical spinal cord, a method that keeps suffering of the animal to an absolute minimum. This method is permitted according to § 4, Abs. 1 and 3 of German animal protection law (Tierschutzgesetz). The trachea samples were fixed in phosphate-buffered, 4% paraformaldehyde, dehydrated through graded alcohols and embedded in methyl methacrylate (Technovit 7100, Heraeus Kulzer GmbH &amp; Co. KG, 61273 Wehrheim, Germany). Sections of 2 or 3 µm thickness, obtained with a motorised rotation microtome (Microm HM 350, Microm International GmbH, Walldorf, Germany), were stained with 0.1% toluidine blue for about 60 s and analysed using a Leitz DMRBE research microscope.</p>
+
+</div>
+
+<div id="section3" class="section"><a id="s3" name="s3" toc="s3" title="Results"></a><h3>Results</h3><a id="article1.body1.sec3.p1" name="article1.body1.sec3.p1"></a><p>The change in air sac pressure relative to the ambient pressure is shown in <a href="#pone-0045315-g003">Fig. 3</a> and follows closely the profile of the air sac wall velocity (<a href="#pone-0045315-g002">Fig. 2</a>). The negative relative pressure in air sac is the greatest with the value of –8 Pa in the middle of the inspiration. The positive pressure is at maximum of 6 Pa at 1.5 s. The low values of pressure loss are due to the simplified geometry of the model. Mass flow through the orifice is shown in <a href="#pone-0045315-g004">Fig. 4</a> and totals to 33.3 10<sup>−6</sup> kg during inhalation and 33.2 10<sup>−6</sup> kg during exhalation, with corresponds to the volume flow of 29 ml during inspiration and 30.7 ml during expiration. The average air velocity is greatest passing through the orifice, with maximum of 1.4 m/s at 0.5 s during the inspiration and 1.1 m/s at 1.5 s during the expiration. The Reynolds number is below 500 during the inspiration and about 400 during expiration. The air temperature in the trachea is shown in <a href="#pone-0045315-g005">Fig. 5</a>. In the beginning of the breathing cycle the trachea is filled with warm air at the body temperature of 40°C (313 K). The coming in air at 25°C (298 K) is warmed up in the trachea during inspiration almost to the body temperature with the lowest temperature of 39.5°C (312.5 K) in the syrinx during midinspiration at 0.5 s when the highest air flow velocity is reached (<a href="#pone-0045315-g006">Fig. 6</a>). During expiration the warm air from the air sac fills the trachea and the temperature in the air sac remains at 40°C (313 K).</p>
+<div class="figure" id="pone-0045315-g003"><div class="img"><a name="pone-0045315-g003" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g003&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g003"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g003&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g003/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g003/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g003/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g003/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g003.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g003/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g003/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g003.TIF"></span>)
+                </a></li></ul></div><p><strong>Figure 3.  <span>Pressure change in the air sac during one breathing cycle.</span></strong></p><a id="article1.body1.sec3.fig1.caption1.p1" name="article1.body1.sec3.fig1.caption1.p1"></a><p>1 s corresponds to end-inspiration.</p>
+<span>doi:10.1371/journal.pone.0045315.g003</span></div><div class="figure" id="pone-0045315-g004"><div class="img"><a name="pone-0045315-g004" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g004&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g004"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g004&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g004/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g004/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g004/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g004/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g004.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g004/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g004/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g004.TIF"></span>)
+                </a></li></ul></div><p><strong>Figure 4.  <span>Mass flow through the orifice during one breathing cycle.</span></strong></p><a id="article1.body1.sec3.fig2.caption1.p1" name="article1.body1.sec3.fig2.caption1.p1"></a><p>1 s corresponds to end-inspiration.</p>
+<span>doi:10.1371/journal.pone.0045315.g004</span></div><div class="figure" id="pone-0045315-g005"><div class="img"><a name="pone-0045315-g005" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g005&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g005"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g005&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g005/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g005/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g005/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g005/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g005.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g005/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g005/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g005.TIF"></span>)
+                </a></li></ul></div><p><strong>Figure 5.  <span>Temperature distribution in the 2D model during the breathing cycle.</span></strong></p><a id="article1.body1.sec3.fig3.caption1.p1" name="article1.body1.sec3.fig3.caption1.p1"></a><p>The maximal volume increase is seen at 1 s at the end of inspiration/begin of expiration, the initial air sac volume is reached at 3 s, end expiration.</p>
+<span>doi:10.1371/journal.pone.0045315.g005</span></div><div class="figure" id="pone-0045315-g006"><div class="img"><a name="pone-0045315-g006" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g006&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g006"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g006&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g006/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g006/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g006/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g006/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g006.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g006/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g006/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g006.TIF"></span>)
+                </a></li></ul></div><p><strong>Figure 6.  <span>Temperature in syrinx averaged over the cross-sectional area during the breathing cycle.</span></strong></p><a id="article1.body1.sec3.fig4.caption1.p1" name="article1.body1.sec3.fig4.caption1.p1"></a><p>1 s corresponds to end-inspiration.</p>
+<span>doi:10.1371/journal.pone.0045315.g006</span></div><a id="article1.body1.sec3.p2" name="article1.body1.sec3.p2"></a><p>In the first simulation a constant water vapour concentration was supplied to the tracheal wall in order to obtain water loss and air humidity at the end of the trachea during the breathing cycle. The results show that the air humidity reaches 95% in the syrinx during inspiration and 98.4% during expiration (<a href="#pone-0045315-g007">Fig. 7</a>).The mass flow of water vapour is shown in <a href="#pone-0045315-g008">Fig. 8</a> for two settings of ambient air humidity. Initially the boundary conditions for ambient air were set at 50% humidity (red dashed line in <a href="#pone-0045315-g008">Fig. 8</a>). The net water loss amounted to 1.09 mg H<sub>2</sub>O/breath and was calculated as the difference between the integral water loss during the expiration phase (1–3 s) 1.42 mg H<sub>2</sub>O and the water influx during the inspiration phase (0–1 s) 0.33 mg H<sub>2</sub>O. The boundary conditions of zero humidity in the ambient air (blue line in <a href="#pone-0045315-g008">Fig. 8</a>) render a net water loss of 1.55 mg H<sub>2</sub>O/breath. As seen in <a href="#pone-0045315-g008">Fig. 8</a>, the water influx is zero during the inspiration.</p>
+<div class="figure" id="pone-0045315-g007"><div class="img"><a name="pone-0045315-g007" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g007&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g007"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g007&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g007/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g007/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g007/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g007/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g007.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g007/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g007/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g007.TIF"></span>)
+                </a></li></ul></div><p><strong>Figure 7.  <span>Relative humidity of the air passing through the syrinx in one breathing cycle.</span></strong></p><a id="article1.body1.sec3.fig5.caption1.p1" name="article1.body1.sec3.fig5.caption1.p1"></a><p>1 s corresponds to end-inspiration.</p>
+<span>doi:10.1371/journal.pone.0045315.g007</span></div><div class="figure" id="pone-0045315-g008"><div class="img"><a name="pone-0045315-g008" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g008&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g008"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g008&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g008/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g008/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g008/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g008/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g008.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g008/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g008/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g008.TIF"></span>)
+                </a></li></ul></div><p><strong>Figure 8.  <span>Flow rate of water vapour at tracheal orifice under two simulated experimental conditions.</span></strong></p><a id="article1.body1.sec3.fig6.caption1.p1" name="article1.body1.sec3.fig6.caption1.p1"></a><p>1 s corresponds to end inspiration.</p>
+<span>doi:10.1371/journal.pone.0045315.g008</span></div><a id="article1.body1.sec3.p3" name="article1.body1.sec3.p3"></a><p>Thus, the 2D transient simulation showed that the air passing through the trachea is almost fully humidified and warmed almost to core temperature of 40°C by the time it arrives at the syrinx. Consequently, heat exchange takes place almost exclusively in the trachea as a result of heat loss due to warming of the incoming air and evaporative heat loss. The simulation of the convective heat from the tracheal surface results in 0.492 J/breath, whereby the heat transfer takes place during the inspiration phase. This value is below the heat of 0.496 J theoretically required to warm up the inhaled amount of dry air to the body temperature. The evaporative heat loss is calculated based on the amount of water loss using the enthalpy of vaporization of water <a href="#pone.0045315-Marsh1">[15]</a>. Assuming that the secreted water is at about body temperature of 40°C, the value of the enthalpy of vaporization is 2.406 J/mg. This is the lowest estimate of the value, for the cooled tracheal surfaces the value may increase by 1.5% at the most. Thus, for ambient relative humidity of 50% and 0%, the evaporative heat loss amounts to 2.6 and 3.7 J/breath or 76 and 107 kJ/day, corresponding to the water loss of 1.09 and 1.55 mg H<sub>2</sub>O/breath. The total heat loss then amounts to 3.1 and 4.2 J/breath or 90 and 122 kJ/day, respectively.</p>
+<a id="article1.body1.sec3.p4" name="article1.body1.sec3.p4"></a><p>In the second simulation we use the model of injection of water droplets from the trachea surface at the measured respiratory water rates. In order to correctly apply this simulation, histological analysis of the trachea was performed.</p>
+<a id="article1.body1.sec3.p5" name="article1.body1.sec3.p5"></a><p>Histologically the trachea of the domestic fowl corresponds to what is described for birds in general <a href="#pone.0045315-McLelland1">[7]</a>, <a href="#pone.0045315-Pastor1">[8]</a>. It is lined by ciliated columnar epithelium which contains numerous, simple alveolar glands (<a href="#pone-0045315-g009">Fig. 9</a>). The glands contain mucous cells, which often present a granular appearance. Numerous alveolar tracheal glands are present up to the distal region of the trachea rather than being replaced there by goblet cells.</p>
+<div class="figure" id="pone-0045315-g009"><div class="img"><a name="pone-0045315-g009" title="Click for larger image " href="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g009&amp;representation=PNG_M" data-doi="info:doi/10.1371/journal.pone.0045315" data-uri="info:doi/10.1371/journal.pone.0045315.g009"><img src="/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0045315.g009&amp;representation=PNG_I" alt="thumbnail" class="thumbnail"></a></div><div class="figure-inline-download">
+            Download:
+            <ul><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g009/powerpoint">
+                    PPT
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g009/powerpoint">
+                  PowerPoint slide
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g009/largerimage">
+                    PNG
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g009/largerimage">
+                  larger image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g009.PNG_L"></span>)
+                </a></li><li><div class="icon"><a href="/article/info:doi/10.1371/journal.pone.0045315.g009/originalimage">
+                    TIFF
+                  </a></div><a href="/article/info:doi/10.1371/journal.pone.0045315.g009/originalimage">
+                  original image
+                  (<span id="info:doi/10.1371/journal.pone.0045315.g009.TIF"></span>)
+                </a></li></ul></div><p><strong>Figure 9.  <span>Histological structure of the chicken trachea.</span></strong></p><a id="article1.body1.sec3.fig7.caption1.p1" name="article1.body1.sec3.fig7.caption1.p1"></a><p>A) overview illustrating mucosa with alveolar mucous glands. Note interstitial connective tissue (lamina propria) between the glands contains many blood vessel profiles. The deep vascular layer lies between the tracheal cartilage and the mucosa. B) detail of an alveolar mucous gland showing goblet cells (only one indicated) at its entrance. Note the proximity of the most superficial blood vessels to the luminal surface of the ciliated epithelium. Scale indicated by bars. Staining of 2 µm thick sections with 0.1% toluidine blue.</p>
+<span>doi:10.1371/journal.pone.0045315.g009</span></div><a id="article1.body1.sec3.p6" name="article1.body1.sec3.p6"></a><p>The alveolar lamina propria, which composes the extraepithelial part of the heat transfer barrier, consists primarily of dense, irregular connective tissue and contains some smooth muscle and numerous small blood vessels. A network of large blood vessels within the lamina propria encircles the epithelial layer and gives rise to smaller vessels, which ascend between the alveolar glands. These connecting vessels are convoluted and do not suggest countercurrent function. The entire subepithelial region is well vascularised and no obvious differences were observed between the anterior and posterior tracheal regions. The resulting finest vessels come to lie immediately beneath the epithelial cells. Orthogonal distances between the larger and deeper vessels and the tracheal lumen average about 120 µm; whereas the smaller vessels are about 50 µm below the tracheal surface, but frequently even only 30 µm. There is no indication of systematic changes in these dimensions along the length of the trachea.</p>
+<a id="article1.body1.sec3.p7" name="article1.body1.sec3.p7"></a><p>Our histological results are consistent with the CFD model with droplet injection from the tracheal surface applies only if droplet velocity is set to zero, resulting in a continuous and equally distributed layer of mucous. We found that a higher mass rate of liquid water supply to the trachea is needed to meet the full humidification of the air by the time it reaches syrinx than the measured value (<a href="#pone-0045315-t003">Table 3</a>), which was initially assumed as the upper limit for the analysis. This is due to the incomplete vaporisation of the water droplets during the simulation. However, the pattern of the humidity level in syrinx remains the almost same as in <a href="#pone-0045315-g007">Fig. 7</a>. When mass flow rate of water is set to 4.4 mg/breath the minimal relative humidity level during inspiration is at about 80%, and when mass flow rate of water is set to 5.6 mg/breath the minimal relative humidity level during inspiration is at about 98%. Due to the uniform water supply along the trachea, the humidity values reach local peaks at the beginning and at the end of the inspiration phase, when the flow velocity approaches zero. The mass flow rate of water vapour follows the same pattern as in <a href="#pone-0045315-g008">Fig. 8</a>. The water loss calculated from the simulation data is slightly higher than in constant water vapour supply simulation and sums up to 1.16 mg H<sub>2</sub>O for 4.4 mg/breath water supply on the tracheal surface and to 1.19 mg H<sub>2</sub>O for 5.6 mg/breath water supply.</p>
+</div>
+
+<div id="section4" class="section"><a id="s4" name="s4" toc="s4" title="Discussion"></a><h3>Discussion</h3><a id="article1.body1.sec4.p1" name="article1.body1.sec4.p1"></a><p>In the present study we simulate flow through the trachea by changing air sac volume during breathing. Within simulated boundary conditions we study the heat exchange between the tracheal surface and air flowing through the trachea in the computational model. The morphology of the 2D model is based on the available anatomical information <a href="#pone.0045315-Akester1">[4]</a>–<a href="#pone.0045315-Pastor1">[8]</a>, <a href="#pone.0045315-Hinds1">[12]</a> and the boundary conditions using available physiological data for domestic fowl <a href="#pone.0045315-Bouverot1">[9]</a>–<a href="#pone.0045315-Frumkin1">[11]</a>, <a href="#pone.0045315-Brackenbury1">[13]</a>. Our limited sample suggested that the trachea may be narrower distally than proximally as one author has documented <a href="#pone.0045315-Nickel1">[16]</a>, but other investigators did not notice this and we do not feel justified in deviating from a more generalised, uniform tubular model. We assume the humidification of the air by the water supplied on the tracheal surface, which corresponds to the presence of the mucous glands in trachea. It is unlikely that the thin epithelium of air sacs <a href="#pone.0045315-Hodges1">[6]</a> significantly contributes to the humidification of the air. Since the histological structure did not reveal any obvious structural differences along the length of the trachea, the surface properties of the trachea were approximated by constant values. The transient process of breathing is simulated using the moving air sac wall, the velocity of which is based on the air sac pressure change measured in vivo <a href="#pone.0045315-Brackenbury1">[13]</a>.</p>
+<a id="article1.body1.sec4.p2" name="article1.body1.sec4.p2"></a><p>The air flow parameters based on the tidal volume data <a href="#pone.0045315-Bouverot1">[9]</a> produce very low pressure differential values in our model compared with the measured air sac pressures. This is attributed to the simplified geometry of the system and corresponds to the theoretical pressure loss value for this geometry. A 3D model presently being developed more closely reflects the geometry of the fowl airways and may produce better correlation to the pressure drop level in the air sac than obtained in the present study. However, the air flow velocity and heat exchange parameters are in good agreement with the experimental ones. In particular, the model shows that air is warmed and humidified in the trachea rather than in the air sacs. In the first (evaporative) model, a constant water vapour concentration is supplied to the tracheal surface. In the second model, water droplets are supplied to the tracheal surface at the rate higher than initially assumed based on the measurements, but not all supplied liquid is evaporated. The model with constant water vapour supply on the tracheal surface works very well, but delivers the heat loss based on the water loss in the system that is somewhat lower than measured experimentally. The droplet injection model produces slightly higher water loss in the system than in the first simulation, but leads to very high relative humidity values in the syrinx at low air flow velocities. These possible artefacts suggest non-uniform conditions along the trachea. A more sophisticated model with time-dependent and/or non-uniform water supply along the trachea may better simulate the true condition. The findings of Menuam and Richards <a href="#pone.0045315-Menuam1">[10]</a> show different water loss values for upper and lower airways.</p>
+<a id="article1.body1.sec4.p3" name="article1.body1.sec4.p3"></a><p>Comparison of the present calculated values for water and heat loss with published ones shows that predictions based on our model lie within realistic limits, in spite of the simplified conditions. In both simulations, the water loss is virtually the same and for the comparison we calculate heat loss based on the heat needed to vaporise the water lost in the system. Experimentally, evaporative heat loss <a href="#pone.0045315-Frumkin1">[11]</a> is also based on the measured water loss and obtained in the same way. The calculated water loss is higher for the boundary conditions of the dry air (zero humidity) than for the ambient air with 50% relative humidity. This correlates well with Crawfold and Lasiewski <a href="#pone.0045315-Crawford1">[2]</a>, who reported a higher evaporative water loss for lower ambient water vapour pressure. Note that although experimental conditions employ dry or dehydrated air, the evaporative water loss calculated in our simulation is still 25–50% lower than that measured experimentally in the chukar <a href="#pone.0045315-Frumkin1">[11]</a>. This could be due to the reduction of our model to trachea and air sac and to the lack of glottis, mouth, and nasal regions, which contribute significantly to the evaporative cooling. In addition, whereas the domestic fowl is bred for large muscle mass or egg production, the chukar is a wild partridge that inhabits semi-arid biotopes <a href="#pone.0045315-Frumkin1">[11]</a> is therefore to be expected that the evaporative cooling values per unit body mass would be less in the domestic fowl than its wild relative.</p>
+<a id="article1.body1.sec4.p4" name="article1.body1.sec4.p4"></a><p>Despite the simplifications, the present 2D model produces plausible results and has an advantage of requiring much less computing time than a 3D model. This allows rapid testing of different boundary conditions.</p>
+<a id="article1.body1.sec4.p5" name="article1.body1.sec4.p5"></a><p>Given the ultimate goal of the study, namely the application of the present model to study the heat exchange strategies in an extinct animal group <a href="#pone.0045315-Perry1">[17]</a>–<a href="#pone.0045315-Perry2">[19]</a>, it is encouraging that a relatively simple model can produce realistic results. In other words, the role of a wet, tracheal surface in temperature control follows mathematically from the basic geometry of a long tube, a total air volume that is much larger than the tidal volume, and the physical properties of water and soft tissue are probably similar across species. Just as extinct animals are inaccessible, in human and veterinary medicine direct experimentation is not possible, the present model could also find application in areas such as anaesthesiology, in respirator design or in treatment of exotic zoo animals.</p>
+
+<h4>Conclusions</h4>
+<a id="article1.body1.sec4.sec1.p1" name="article1.body1.sec4.sec1.p1"></a><p>We conclude that the present CFD model is able to reliably predict the properties of end-expired and inspired air based on the geometrical and physical properties of the tracheal surface, and employing measured values for tidal volume and air sac pressures in the domestic fowl. Applications of the present model to extinct animals or to veterinary medicine are implicit.</p>
+
+</div>
+
+
+
+
+
+<div><a id="ack" name="ack" toc="ack" title="Acknowledgments"></a><h3>Acknowledgments</h3>
+<a id="article1.back1.ack1.p1" name="article1.back1.ack1.p1"></a><p>We thank Dr. Ute Müller and Iris Gockel-Böhnen of the Landwirtschaftliche Fakultät, Rheinische Friedrich-Wilhelms-Universität Bonn, for the animal material. Also we thank the reviewers of the manuscript for the useful comments. This is contribution number 133 of the DFG Research Unit FOR 533 “The Biology of Sauropod Dinosaurs”.</p>
+</div><div class="contributions"><a id="authcontrib" name="authcontrib" toc="authcontrib" title="Author Contributions"></a><h3>Author Contributions</h3><p>Conceived and designed the experiments: NSS ML SFP UW. Performed the experiments: NSS ML SFP. Analyzed the data: NSS ML. Contributed reagents/materials/analysis tools: SFP UW. Wrote the paper: NSS SFP ML.</p></div><div><a id="references" name="references" toc="references" title="References"></a><h3>References</h3><ol class="references"><li><span class="label">1.
+              </span><a name="pone.0045315-Dawson1" id="pone.0045315-Dawson1"></a>Dawson WR (1982) Evaporative losses of water by birds. Comp Biochem Physiol 71A(4): 495–509. <ul class="find" data-citedArticleID="5689337"><li><a href="http://www.crossref.org/guestquery/?auth2=&amp;atitle2=Evaporative+losses+of+water+by+birds&amp;auth=&amp;atitle=Evaporative+losses+of+water+by+birds" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Evaporative+losses+of+water+by+birds" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=%22Evaporative+losses+of+water+by+birds%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">2.
+              </span><a name="pone.0045315-Crawford1" id="pone.0045315-Crawford1"></a>Crawford EC, Lasiewski RC (1968) Oxygen consumption and respiratory evaporation of the emu and rhea. Condor 70(4): 333–339.
+        doi: 10.2307/1365927 <ul class="find" data-citedArticleID="5689339" data-doi="10.2307/1365927"><li><a href="http://dx.doi.org/10.2307/1365927" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Oxygen+consumption+and+respiratory+evaporation+of+the+emu+and+rhea" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=%22Oxygen+consumption+and+respiratory+evaporation+of+the+emu+and+rhea%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">3.
+              </span><a name="pone.0045315-Maina1" id="pone.0045315-Maina1"></a>Maina JN, Singh P, Moss EA (2009) Inspiratory aerodynamic valving occurs in the ostrich, Struthio camelus lung: A computational fluid dynamics study under resting unsteady state inhalation. Resp Physiol Neuro 169: 262–270.
+        doi: 10.1016/j.resp.2009.09.011 <ul class="find" data-citedArticleID="5689341" data-doi="10.1016/j.resp.2009.09.011"><li><a href="http://dx.doi.org/10.1016/j.resp.2009.09.011" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Inspiratory+aerodynamic+valving+occurs+in+the+ostrich%2C+Struthio+camelus+lung%3A+A+computational+fluid+dynamics+study+under+resting+unsteady+state+inhalation" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=%22Inspiratory+aerodynamic+valving+occurs+in+the+ostrich%2C+Struthio+camelus+lung%3A+A+computational+fluid+dynamics+study+under+resting+unsteady+state+inhalation%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">4.
+              </span><a name="pone.0045315-Akester1" id="pone.0045315-Akester1"></a>Akester AR (1960) The comparative anatomy of the respiratory pathways in the domestic fowl (<em>Gallus domesticus</em>), pigeon (<em>Columba livia</em>) and domestic duck (<em>Anas platyrhyncha</em>). J Anat 94(4): 487–505. <ul class="find" data-citedArticleID="5689343"><li><a href="http://www.crossref.org/guestquery/?auth2=&amp;atitle2=The+comparative+anatomy+of+the+respiratory+pathways+in+the+domestic+fowl+%28Gallus+domesticus%29%2C+pigeon+%28Columba+livia%29+and+domestic+duck+%28Anas+platyrhyncha%29&amp;auth=&amp;atitle=The+comparative+anatomy+of+the+respiratory+pathways+in+the+domestic+fowl+%28Gallus+domesticus%29%2C+pigeon+%28Columba+livia%29+and+domestic+duck+%28Anas+platyrhyncha%29" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=The+comparative+anatomy+of+the+respiratory+pathways+in+the+domestic+fowl+%28Gallus+domesticus%29%2C+pigeon+%28Columba+livia%29+and+domestic+duck+%28Anas+platyrhyncha%29" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=%22The+comparative+anatomy+of+the+respiratory+pathways+in+the+domestic+fowl+%28Gallus+domesticus%29%2C+pigeon+%28Columba+livia%29+and+domestic+duck+%28Anas+platyrhyncha%29%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">5.
+              </span><a name="pone.0045315-Duncker1" id="pone.0045315-Duncker1"></a>Duncker HR (1972) Structure of avian lung. Resp Physiol 14: 44–63.
+        doi: 10.1016/0034-5687(72)90016-3 <ul class="find" data-citedArticleID="5689345" data-doi="10.1016/0034-5687(72)90016-3"><li><a href="http://dx.doi.org/10.1016/0034-5687(72)90016-3" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Structure+of+avian+lung" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=%22Structure+of+avian+lung%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">6.
+              </span><a name="pone.0045315-Hodges1" id="pone.0045315-Hodges1"></a>Hodges RD (1974) The histology of the fowl. London: Academic Press. 630 p. <ul class="find-nolinks"></ul></li><li><span class="label">7.
+              </span><a name="pone.0045315-McLelland1" id="pone.0045315-McLelland1"></a>McLelland L (1989) Larynx and trachea. In: King AS, McLelland J, editors. Form and function in birds - Volume 4. London etc: Academic Press. 69–103. <ul class="find-nolinks"></ul></li><li><span class="label">8.
+              </span><a name="pone.0045315-Pastor1" id="pone.0045315-Pastor1"></a>Pastor LM, Calvo A (1995) The extrapulmonary airways in birds. In: Pastor LM, editor. Histology, ultrastructure and immunohistochemistry of the respiratory organs in non mammalian vertebrates. Murcia: Servicio de Publicaciones de la Universidad de Murcia. 155–174. <ul class="find-nolinks"></ul></li><li><span class="label">9.
+              </span><a name="pone.0045315-Bouverot1" id="pone.0045315-Bouverot1"></a>Bouverot P, Dejours P (1971) Pathway of respired gas in the air sacs-lung apparatus of fowl and ducks. Resp Physiol 13: 330–334.
+        doi: 10.1016/0034-5687(71)90037-5 <ul class="find" data-citedArticleID="5689353" data-doi="10.1016/0034-5687(71)90037-5"><li><a href="http://dx.doi.org/10.1016/0034-5687(71)90037-5" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Pathway+of+respired+gas+in+the+air+sacs-lung+apparatus+of+fowl+and+ducks" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=%22Pathway+of+respired+gas+in+the+air+sacs-lung+apparatus+of+fowl+and+ducks%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">10.
+              </span><a name="pone.0045315-Menuam1" id="pone.0045315-Menuam1"></a>Menuam B, Richards SA (1975) Observations on the sites of respiratory evaporation in the fowl during thermal panting. Resp Physiol 25: 39–52.
+        doi: 10.1016/0034-5687(75)90049-3 <ul class="find" data-citedArticleID="5689355" data-doi="10.1016/0034-5687(75)90049-3"><li><a href="http://dx.doi.org/10.1016/0034-5687(75)90049-3" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Observations+on+the+sites+of+respiratory+evaporation+in+the+fowl+during+thermal+panting" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=%22Observations+on+the+sites+of+respiratory+evaporation+in+the+fowl+during+thermal+panting%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">11.
+              </span><a name="pone.0045315-Frumkin1" id="pone.0045315-Frumkin1"></a>Frumkin R, Pinshow B, Weinstein Y (1986) Metabolic heat production and evaporative heat loss in desert phasianids: chukar and sand partridge. Physiol Zoology 59(6): 592–605. <ul class="find" data-citedArticleID="5689357"><li><a href="http://www.crossref.org/guestquery/?auth2=&amp;atitle2=Metabolic+heat+production+and+evaporative+heat+loss+in+desert+phasianids%3A+chukar+and+sand+partridge&amp;auth=&amp;atitle=Metabolic+heat+production+and+evaporative+heat+loss+in+desert+phasianids%3A+chukar+and+sand+partridge" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Metabolic+heat+production+and+evaporative+heat+loss+in+desert+phasianids%3A+chukar+and+sand+partridge" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=%22Metabolic+heat+production+and+evaporative+heat+loss+in+desert+phasianids%3A+chukar+and+sand+partridge%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">12.
+              </span><a name="pone.0045315-Hinds1" id="pone.0045315-Hinds1"></a>Hinds DS, Calder WA (1971) Tracheal dead space in the respiration of birds. Evolution 25: 427–429.
+        doi: 10.2307/2406936 <ul class="find" data-citedArticleID="5689359" data-doi="10.2307/2406936"><li><a href="http://dx.doi.org/10.2307/2406936" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Tracheal+dead+space+in+the+respiration+of+birds" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=%22Tracheal+dead+space+in+the+respiration+of+birds%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">13.
+              </span><a name="pone.0045315-Brackenbury1" id="pone.0045315-Brackenbury1"></a>Brackenbury JH (1973) Respiratory mechanics in the bird. Physiol 44A: 599–611.
+        doi: 10.1016/0300-9629(73)90511-2 <ul class="find" data-citedArticleID="5689361" data-doi="10.1016/0300-9629(73)90511-2"><li><a href="http://dx.doi.org/10.1016/0300-9629(73)90511-2" target="_new" title="Go to article in CrossRef">
+                          View Article
+                        </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Respiratory+mechanics+in+the+bird" target="_new" title="Go to article in PubMed">
+                          PubMed/NCBI
+                        </a></li><li><a href="http://scholar.google.com/scholar?hl=en&amp;safe=off&amp;q=%22Respiratory+mechanics+in+the+bird%22" target="_new" title="Go to article in Google Scholar">
+                          Google Scholar
+                        </a></li></ul></li><li><span class="label">14.
+              </span><a name="pone.0045315-Beitz1" id="pone.0045315-Beitz1"></a>Beitz W, Küttner K-H (1981) Dubbel Taschenbuch für den Maschinenbau, 14. Auflage. Berlin: Springer Verlag. 1491 p. <ul class="find-nolinks"></ul></li><li><span class="label">15.
+              </span><a name="pone.0045315-Marsh1" id="pone.0045315-Marsh1"></a>Marsh KN, editor (1987) Recommended Reference Materials for the Realization of Physicochemical Properties, Blackwell, Oxford. <ul class="find-nolinks"></ul></li><li><span class="label">16.
+              </span><a name="pone.0045315-Nickel1" id="pone.0045315-Nickel1"></a>Nickel R, Schummer A, Seiferle E (2004) Lehrbuch der Anatomie der Haustiere: Anatomie der Vögel, Band 5. Stuttgart: Paul Parey Verlag. 462 p. <ul class="find-nolinks"></ul></li><li><span class="label">17.
+              </span><a name="pone.0045315-Perry1" id="pone.0045315-Perry1"></a>Perry SF, Breuer T, Pajor N (2011) Structure and function of the sauropod respiratory system. In: Klein N, Remes K, Gee CT, Sander PM, editors. Sauropod Dinosaurs: Understanding the life of giants. Bloomington and Indianapolis: Indiana University Press. 83–93. <ul class="find-nolinks"></ul></li><li><span class="label">18.
+              </span><a name="pone.0045315-Sander1" id="pone.0045315-Sander1"></a>Sander PM, Klein N, Stein K, Wings O (2011) Sauropod bone histology and its implications for sauropod biology. In: Klein N, Remes K, Gee CT, Sander PM, editors. Sauropod Dinosaurs: Understanding the life of giants. Bloomington and Indianapolis: Indiana University Press. 276–302. <ul class="find-nolinks"></ul></li><li><span class="label">19.
+              </span><a name="pone.0045315-Perry2" id="pone.0045315-Perry2"></a>Perry SF (1992) Gas exchange strategies in reptiles and the origin of the avian lung. In: Wood SC, Weber RE, Hargens AR, Millard, RW, editors. Physiological Adaptations in Vertebrates: respiration, circulation, and metabolism. Volume 56 of: Lenfant C, executive editor. Lung biology in health and disease. New York: Marcel Dekker. 149–167. <ul class="find-nolinks"></ul></li></ol></div>
+
+  </div>
+
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.XML" value="65801"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.PDF" value="666096"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g001.TIF" value="494878"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g001.PNG_I" value="53934"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g001.PNG_S" value="12428"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g001.PNG_M" value="117835"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g001.PNG_L" value="315619"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t001.TIF" value="65692"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t001.PNG_I" value="12285"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t001.PNG_S" value="2727"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t001.PNG_M" value="26297"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t001.PNG_L" value="23324"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t002.TIF" value="69367"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t002.PNG_I" value="12022"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t002.PNG_S" value="2670"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t002.PNG_M" value="26174"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t002.PNG_L" value="23404"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.e001.TIF" value="17126"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.e001.PNG" value="7779"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g002.TIF" value="256582"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g002.PNG_I" value="20132"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g002.PNG_S" value="12056"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g002.PNG_M" value="31553"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g002.PNG_L" value="135218"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.e002.TIF" value="2550"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.e002.PNG" value="1455"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t003.TIF" value="159382"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t003.PNG_I" value="7527"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t003.PNG_S" value="2014"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t003.PNG_M" value="16996"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.t003.PNG_L" value="40263"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g003.TIF" value="201616"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g003.PNG_I" value="14852"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g003.PNG_S" value="9647"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g003.PNG_M" value="21829"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g003.PNG_L" value="115240"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g004.TIF" value="238302"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g004.PNG_I" value="16537"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g004.PNG_S" value="10207"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g004.PNG_M" value="25612"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g004.PNG_L" value="140642"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g005.TIF" value="619296"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g005.PNG_I" value="37213"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g005.PNG_S" value="12101"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g005.PNG_M" value="65844"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g005.PNG_L" value="239316"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g006.TIF" value="221088"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g006.PNG_I" value="12413"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g006.PNG_S" value="8774"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g006.PNG_M" value="17579"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g006.PNG_L" value="93325"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g007.TIF" value="232358"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g007.PNG_I" value="14630"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g007.PNG_S" value="10363"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g007.PNG_M" value="20893"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g007.PNG_L" value="104901"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g008.TIF" value="466748"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g008.PNG_I" value="26225"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g008.PNG_S" value="9279"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g008.PNG_M" value="50510"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g008.PNG_L" value="225960"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g009.TIF" value="4747936"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g009.PNG_I" value="120637"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g009.PNG_S" value="14563"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g009.PNG_M" value="384190"/>
+      <input type="hidden" class="assetSize" name="info:doi/10.1371/journal.pone.0045315.g009.PNG_L" value="3656939"/>
+
+</div>
+<div class="sidebar">
+
+  <div class="article-actions cf">
+      <div class="download">
+        <span class="btn"><a href="/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0045315&amp;representation=PDF" title="Download" target="_blank">Download PDF</a></span>
+      </div>
+      <div class="btn-reveal dropdown">
+        <div class="dropdown-icon">
+          <span class="btn">&nbsp;</span>
+        </div>
+
+        <div class="content">
+          <ul class="bullet">
+            <li><a href="/article/citationList.action?articleURI=info%3Adoi%2F10.1371%2Fjournal.pone.0045315" title="Download citations">Citation</a></li>
+            <li><a href="/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0045315&amp;representation=XML" title="Download article XML">XML</a></li>
+          </ul>
+        </div>
+      </div> <!-- end btn-reveal dropdown-->
+
+
+    <div class="btn-reveal flt-l">
+        <span class="btn">Print</span>
+        <div class="content">
+            <ul class="bullet">
+                <li id="print-article"><a href="#" onclick="if(typeof(_gaq) != 'undefined'){ _gaq.push(['_trackEvent','Article', 'Print', 'Click']); } window.print(); return false;" title="Print Article">Print article</a></li>
+                <li>
+                  <a href="https://www.odysseypress.com/onlinehost/reprint_order.php?type=A&page=0&journal=7&doi=10.1371/journal.pone.0045315&volume=&issue=&title=Boundary Conditions for Heat Transfer and Evaporative Cooling in the Trachea and Air Sac System of the Domestic Fowl: A Two-Dimensional CFD Analysis&author_name=Nina%20S.%20Sverdlova%2C%20Markus%20Lambertz%2C%20Ulrich%20Witzel%2C%20Steven%20F.%20Perry&start_page=1&end_page=9" title="Odyssey Press">EzReprint</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="btn-reveal flt-r">
+        <span class="btn">Share</span>
+        <div class="content">
+            <ul class="social">
+                <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0045315" target="_blank" title="Submit to Reddit"><img src="/images/icon.reddit.16.png" width="16" height="16" alt="Reddit">Reddit</a></li>
+
+                <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0045315" target="_blank" title="Share on Google+"><img src="/images/icon.gplus.16.png" width="16" height="16" alt="Google+">Google+</a></li>
+
+                <li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%253Adoi%252F10.1371%252Fjournal.pone.0045315" target="_blank" title="Add to StumbleUpon"><img src="/images/icon.stumble.16.png" width="16" height="16" alt="StumbleUpon">StumbleUpon</a></li>
+
+                <li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0045315&amp;t=Boundary%20Conditions%20for%20Heat%20Transfer%20and%20Evaporative%20Cooling%20in%20the%20Trachea%20and%20Air%20Sac%20System%20of%20the%20Domestic%20Fowl%3A%20A%20Two-Dimensional%20CFD%20Analysis" target="_blank" title="Share on Facebook"><img src="/images/icon.fb.16.png" width="16" height="16" alt="Facebook">Facebook</a></li>
+
+                <li><a href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0045315&title=Boundary%20Conditions%20for%20Heat%20Transfer%20and%20Evaporative%20Cooling%20in%20the%20Trachea%20and%20Air%20Sac%20System%20of%20the%20Domestic%20Fowl%3A%20A%20Two-Dimensional%20CFD%20Analysis&summary=Checkout%20this%20article%20I%20found%20at%20PLOS" target="_blank" title="Add to LinkedIn"><img src="/images/icon.linkedin.16.png" width="16" height="16" alt="Mendeley">LinkedIn</a></li>
+
+                <li><a href="http://www.citeulike.org/posturl?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0045315&amp;title=Boundary%20Conditions%20for%20Heat%20Transfer%20and%20Evaporative%20Cooling%20in%20the%20Trachea%20and%20Air%20Sac%20System%20of%20the%20Domestic%20Fowl%3A%20A%20Two-Dimensional%20CFD%20Analysis" target="_blank" title="Add to CiteULike"><img src="/images/icon.cul.16.png" width="16" height="16" alt="CiteULike">CiteULike</a></li>
+
+                <li><a href="http://www.mendeley.com/import/?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0045315" target="_blank" title="Add to Mendeley"><img src="/images/icon.mendeley.16.png" width="16" height="16" alt="Mendeley">Mendeley</a></li>
+
+                <li><a href="https://www.pubchase.com/library?add_aid=10.1371%2Fjournal.pone.0045315&amp;source=plos" target="_blank" title="Add to PubChase"><img src="/images/icon.pc.16.png" width="16" height="16" alt="PubChase">PubChase</a></li>
+
+
+                <script type="text/javascript">
+                    // replace tweet with one that's pre-shortened to 140 chars
+                    function truncateTweetText() {
+                        var twtTitle = 'Boundary Conditions for Heat Transfer and Evaporative Cooling in the Trachea and Air Sac System of the Domestic Fowl: A Two-Dimensional CFD Analysis';
+                        var twtUrl = 'http://dx.plos.org/10.1371/journal.pone.0045315';
+                        // all URLs posted to twitter get auto-shortened to 20 chars.
+                        var maxLength = 140 - (20 + 1);
+                        // truncate the title to include space for twtTag and ellipsis (here, 10 = tag length + space + ellipsis)
+                        if (twtTitle.length > maxLength) { twtTitle = twtTitle.substr(0, (maxLength - 10)) + '...'; }
+                        // set the href to use the shortened tweet
+                        $('#twitter-share-link').prop('href', 'http://twitter.com/intent/tweet?text=' + encodeURIComponent('#PLOSONE: ' + twtTitle + ' ' + twtUrl));
+                    }
+                </script>
+                <li><a href="http://twitter.com/intent/tweet?text=#PLOSONE%3A%20Boundary%20Conditions%20for%20Heat%20Transfer%20and%20Evaporative%20Cooling%20in%20the%20Trachea%20and%20Air%20Sac%20System%20of%20the%20Domestic%20Fowl%3A%20A%20Two-Dimensional%20CFD%20Analysis http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0045315" onclick="truncateTweetText();" target="_blank" title="Share on Twitter" id="twitter-share-link"><img src="/images/icon.twtr.16.png" width="16" height="16" alt="Twitter">Twitter</a></li>
+
+                <li><a href="/article/email/info%3Adoi%2F10.1371%2Fjournal.pone.0045315" title="Email this article"><img src="/images/icon.email.16.png" width="16" height="16" alt="Email">Email</a></li>
+            </ul>
+        </div>
+    </div><!--end btn-reveal flt-r-->
+</div><!-- end article-actions-->
+
+<!-- begin Crossmark -->
+
+<a id="open-crossmark" href="#" style="margin-top: -28px; display:block"><img style="border: 0; display: none;
+ padding: 10px 0 18px 0;"  id="crossmark-icon" src="/images/logo-crossmark-bw.png" /></a>
+<div id="crossmark-dialog" style="display: none;" title="">
+    <!-- the external CrossMark data is loaded inside this iframe -->
+    <iframe id="crossmark-dialog-frame" frameborder="0"></iframe>
+</div>
+
+<!-- end crossmark -->
+
+
+<div class="block" id="subject-area-sidebar-block">
+    <div class="header">
+        <h3>Subject Areas</h3><div title="More information" id="subject-area-sidebar-block-help-icon"><img align="right"
+                                                                                                           alt="info" src="/images/button_info.png"/><div id="subject-area-sidebar-block-help"><img align="right"
+                                                                                                                                                                                                    src="/images/button_info.png"/><p>
+        <b>We want your feedback.</b> Do these subject areas make sense for this article? If not, click the flag
+        next to the incorrect subject area and we will review it. Thanks for your help!
+    </p></div></div>
+    </div>
+
+
+    <ul id="subject-area-sidebar-list">
+
+
+
+
+
+
+
+
+
+
+
+
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Birds%22" title="Search for articles in the subject area:'Birds'"><div class="flagText">Birds</div></a>
+              <div data-categoryid="42813" data-articleid="120995"
+                   data-categoryname="Birds"
+                   class="flagImage" title="Flag 'Birds' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Breathing%22" title="Search for articles in the subject area:'Breathing'"><div class="flagText">Breathing</div></a>
+              <div data-categoryid="49325" data-articleid="120995"
+                   data-categoryname="Breathing"
+                   class="flagImage" title="Flag 'Breathing' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Fowl%22" title="Search for articles in the subject area:'Fowl'"><div class="flagText">Fowl</div></a>
+              <div data-categoryid="45127" data-articleid="120995"
+                   data-categoryname="Fowl"
+                   class="flagImage" title="Flag 'Fowl' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Histology%22" title="Search for articles in the subject area:'Histology'"><div class="flagText">Histology</div></a>
+              <div data-categoryid="47559" data-articleid="120995"
+                   data-categoryname="Histology"
+                   class="flagImage" title="Flag 'Histology' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Humidity%22" title="Search for articles in the subject area:'Humidity'"><div class="flagText">Humidity</div></a>
+              <div data-categoryid="21863" data-articleid="120995"
+                   data-categoryname="Humidity"
+                   class="flagImage" title="Flag 'Humidity' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Respiratory+system%22" title="Search for articles in the subject area:'Respiratory system'"><div class="flagText">Respiratory system</div></a>
+              <div data-categoryid="49807" data-articleid="120995"
+                   data-categoryname="Respiratory system"
+                   class="flagImage" title="Flag 'Respiratory system' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Trachea%22" title="Search for articles in the subject area:'Trachea'"><div class="flagText">Trachea</div></a>
+              <div data-categoryid="48813" data-articleid="120995"
+                   data-categoryname="Trachea"
+                   class="flagImage" title="Flag 'Trachea' as inappropriate"></div>
+          </li>
+          <li>
+              <a href="/search/advanced?unformattedQuery=subject%3A%22Vapors%22" title="Search for articles in the subject area:'Vapors'"><div class="flagText">Vapors</div></a>
+              <div data-categoryid="22591" data-articleid="120995"
+                   data-categoryname="Vapors"
+                   class="flagImage" title="Flag 'Vapors' as inappropriate"></div>
+          </li>
+    </ul>
+</div>
+
+<div class="ad">
+    <div class="title">Advertisement</div>
+
+
+
+
+
+
+  <iframe id='a0852f54' name='a0852f54'
+    src='http://ads.plos.org/www/delivery/afr.php?zoneid=381&amp;cb=8688'
+    frameborder='0' scrolling='no' width='160' height='600'>
+    <a href='http://ads.plos.org/www/delivery/ck.php?n=a0852f54&amp;cb=3679'
+      target='_top'><img src='http://ads.plos.org/www/delivery/avw.php?zoneid=381&amp;cb=5186&amp;n=a0852f54'
+      border='0' alt=''/>
+    </a>
+  </iframe>
+
+
+
+</div>
+
+<div id="twitter-alm-timeline" class="twitter-alm-timeline"></div>
+
+
+</div><!-- sidebar -->
+    </div>
+  </div>
+</div>
+<script src="http://wl.figshare.com/static/p_widget.js" type="text/javascript"></script><div id="pageftr">
+  <div class="ftr-cols cf">
+    <div class="col col-1">
+      <img src="/images/logo-plos-footer.png" alt="PLOS Logo" class="logo" />
+      <p><a href="/static/releaseNotes">Ambra 2.9.16</a> Managed Colocation provided <br />by <a href="http://www.isc.org/">Internet Systems Consortium</a>.<p>
+      <div class="nav nav-aux">
+        <a href="/static/privacy">Privacy Policy</a> |
+        <a href="/static/terms">Terms of Use</a> |
+        <a href="http://www.plos.org/advertise/">Advertise</a> |
+        <a href="http://www.plos.org/about/media-inquiries/">Media Inquiries</a>
+      </div>
+    </div>
+    <div class="col col-2">
+      <p><a href="http://www.plos.org/publications/journals/">Publications</a></p>
+      <div class="nav">
+        <ul>
+          <li><a href="http://www.plosbiology.org">PLOS Biology</a></li>
+          <li><a href="http://www.plosmedicine.org">PLOS Medicine</a></li>
+          <li><a href="http://www.ploscompbiol.org">PLOS Computational Biology</a></li>
+          <li><a href="http://currents.plos.org">PLOS Currents</a></li>
+          <li><a href="http://www.plosgenetics.org">PLOS Genetics</a></li>
+          <li><a href="http://www.plospathogens.org">PLOS Pathogens</a></li>
+          <li><a href="http://www.plosone.org">PLOS ONE</a></li>
+          <li><a href="http://www.plosntds.org">PLOS Neglected Tropical Diseases</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="col col-3">
+      <div class="nav">
+        <p><a href="http://www.plos.org">plos.org</a></p>
+        <p><a href="http://blogs.plos.org">Blogs</a></p>
+        <p><a href="http://www.ploscollections.org">Collections</a></p>
+        <p><a href="/feedback/new">Send us feedback</a></p>
+
+        <p>California (US) corporation #C2354500, based in San Francisco</p>
+      </div>
+    </div>
+  </div>
+</div><!-- pageftr -->
+
+</div><!-- end page-wrap, this div is in header.ftl -->
+<script type="text/javascript" src="/javascript/jquery-1.8.1-min.js?v=Tm7VCOzZz3lE03ghpkS6SWkHbyI"></script>
+<script type="text/javascript" src="/javascript/ga-min.js?v=lNQ4gt8QcPDatjsdOFl_FGpPhLY"></script>
+<script type="text/javascript" src="/javascript/jquery.hoverIntent-min.js?v=mRiGNYY9cIXxVb8u0K_MdW7hHnc"></script>
+<script type="text/javascript" src="/javascript/jquery.placeholder-min.js?v=21Pn56Ur9h1N4K4VZDa0nqI3Pxo"></script>
+<script type="text/javascript" src="/javascript/jquery.jsonp-2.4.0-min.js?v=lqTpzoHfSq3I5Ygo01qq5WankEo"></script>
+<script type="text/javascript" src="/javascript/jquery-ui-1.9.2.custom-min.js?v=raSSlfNO0YsV5uUpAKmTB9n5VTc"></script>
+<script type="text/javascript" src="/javascript/jquery.tooltip-min.js?v=cw+6Smh+mdryIA25xvqIvHMrnZM"></script>
+<script type="text/javascript" src="/javascript/jquery.uniform-min.js?v=kYUAnX6W2W_2fK3RIuQ2m_YFG9U"></script>
+<script type="text/javascript" src="/javascript/jquery.pjax-min.js?v=939kLBjL5_YKbx71T1RHjYaD4l8"></script>
+<script type="text/javascript" src="/javascript/imagesloaded-min.js?v=XeuAp8Gc3mvQUo+wZCSF8ttPwvw"></script>
+<script type="text/javascript" src="/javascript/figviewer-min.js?v=yPUa0sUQ_iHkI+IRv2i9bjyZJFo"></script>
+<script type="text/javascript" src="/javascript/global-min.js?v=0Q3PwjeaWtXYDnqIsQvnL_ou0qs"></script>
+<script type="text/javascript" src="/javascript/jquery.touchswipe-min.js?v=huaek_e6HqTduvCNAN91dJolTyw"></script>
+<script type="text/javascript" src="/javascript/jquery.base64-min.js?v=VwV1zeVqKZj5FCAdlK0q5NRxbBg"></script>
+<script type="text/javascript" src="/javascript/alm-min.js?v=Y5gm6B0b4Kx2YHNObNrgEeBgXlY"></script>
+<script type="text/javascript" src="/javascript/taxonomy-browser-min.js?v=vBVMuDMYkGJCXIUxLe35GoyiJNw"></script>
+<script type="text/javascript" src="/javascript/jquery.filterize-min.js?v=j0ZKVnHyk2nhFy8eIuNJkp7xaM0"></script>
+<script type="text/javascript" src="/javascript/plosone-min.js?v=TK4H4arL_XBSwwJq+K1N3kqYfAI"></script>
+<script type="text/javascript" src="/javascript/twitter-min.js?v=xKgcxLsQFXy+at1ao1NVke8nFlM"></script>
+<script type="text/javascript" src="/javascript/crossmark.1.4-min.js?v=3FO4k0SjwTaGNnKGNSqthar1080"></script>
+<script type="text/javascript">
+  var _sf_async_config={uid:16579,domain:"plosone.org"};
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+          (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+              "js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+        loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+<!-- <script type="application/javascript" src="http://crossmark.crossref.org/javascripts/v1.3/crossmark.min.js"></script> -->
+
+</body>
+</html>
