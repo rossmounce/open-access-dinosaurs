@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group>
+<journal-title>PLoS ONE</journal-title></journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">PONE-D-13-53032</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pone.0091691</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Anatomy and physiology</subject><subj-group><subject>Musculoskeletal system</subject><subj-group><subject>Musculoskeletal anatomy</subject></subj-group></subj-group><subj-group><subject>Comparative anatomy</subject></subj-group></subj-group><subj-group><subject>Paleontology</subject><subj-group><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>Scaling of Convex Hull Volume to Body Mass in Modern Primates, Non-Primate Mammals and Birds</article-title>
+<alt-title alt-title-type="running-head">Scaling of Convex Hull Volume to Body Mass</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Brassey</surname><given-names>Charlotte A.</given-names></name><xref ref-type="aff" rid="aff1"/><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Sellers</surname><given-names>William I.</given-names></name><xref ref-type="aff" rid="aff1"/></contrib>
+</contrib-group>
+<aff id="aff1"><addr-line>Faculty of Life Sciences, University of Manchester, Manchester, United Kingdom</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple"><name name-style="western"><surname>Evans</surname><given-names>Alistair Robert</given-names></name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>Monash University, Australia</addr-line></aff>
+<author-notes>
+<corresp id="cor1">* E-mail: <email xlink:type="simple">charlotte.brassey-2@postgrad.manchester.ac.uk</email></corresp>
+<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn>
+<fn fn-type="con"><p>Conceived and designed the experiments: CB WS. Performed the experiments: CB WS. Analyzed the data: CB. Contributed reagents/materials/analysis tools: CB WS. Wrote the paper: CB WS.</p></fn>
+</author-notes>
+<pub-date pub-type="collection"><year>2014</year></pub-date>
+<pub-date pub-type="epub"><day>11</day><month>3</month><year>2014</year></pub-date>
+<volume>9</volume>
+<issue>3</issue>
+<elocation-id>e91691</elocation-id>
+<history>
+<date date-type="received"><day>16</day><month>12</month><year>2013</year></date>
+<date date-type="accepted"><day>14</day><month>2</month><year>2014</year></date>
+</history>
+<permissions>
+<copyright-year>2014</copyright-year>
+<copyright-holder>Brassey, Sellers</copyright-holder><license xlink:type="simple"><license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions>
+<abstract>
+<p>The volumetric method of ‘convex hulling’ has recently been put forward as a mass prediction technique for fossil vertebrates. Convex hulling involves the calculation of minimum convex hull volumes (<italic>vol</italic><sub>CH</sub>) from the complete mounted skeletons of modern museum specimens, which are subsequently regressed against body mass (<italic>M</italic><sub>b</sub>) to derive predictive equations for extinct species. The convex hulling technique has recently been applied to estimate body mass in giant sauropods and fossil ratites, however the biomechanical signal contained within <italic>vol</italic><sub>CH</sub> has remained unclear. Specifically, when <italic>vol</italic><sub>CH</sub> scaling departs from isometry in a group of vertebrates, how might this be interpreted? Here we derive predictive equations for primates, non-primate mammals and birds and compare the scaling behaviour of <italic>M</italic><sub>b</sub> to <italic>vol</italic><sub>CH</sub> between groups. We find predictive equations to be characterised by extremely high correlation coefficients (<italic>r</italic><sup>2</sup> = 0.97–0.99) and low mean percentage prediction error (11–20%). Results suggest non-primate mammals scale body mass to <italic>vol</italic><sub>CH</sub> isometrically (<italic>b</italic> = 0.92, 95%CI = 0.85–1.00, <italic>p</italic> = 0.08). Birds scale body mass to <italic>vol</italic><sub>CH</sub> with negative allometry (<italic>b</italic> = 0.81, 95%CI = 0.70–0.91, <italic>p</italic> = 0.011) and apparent density (<italic>vol</italic><sub>CH</sub>/<italic>M</italic><sub>b</sub>) therefore decreases with mass (<italic>r</italic><sup>2</sup> = 0.36, <italic>p</italic>&lt;0.05). In contrast, primates scale body mass to <italic>vol</italic><sub>CH</sub> with positive allometry (<italic>b</italic> = 1.07, 95%CI = 1.01–1.12, <italic>p</italic> = 0.05) and apparent density therefore increases with size (<italic>r</italic><sup>2</sup> = 0.46, <italic>p</italic> = 0.025). We interpret such departures from isometry in the context of the ‘missing mass’ of soft tissues that are excluded from the convex hulling process. We conclude that the convex hulling technique can be justifiably applied to the fossil record when a large proportion of the skeleton is preserved. However we emphasise the need for future studies to quantify interspecific variation in the distribution of soft tissues such as muscle, integument and body fat.</p>
+</abstract>
+<funding-group><funding-statement>This work was funded by the Natural Environment Research Council’s Doctoral Training Grant (NE/1528134/1). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts><page-count count="12"/></counts></article-meta>
+</front>
+<body><sec id="s1">
+<title>Introduction</title>
+<p>An animal’s form and function is bound by physical laws. They determine the strength of structures, the rate of heat transfer and the dynamics of locomotion <xref ref-type="bibr" rid="pone.0091691-SchmidtNielsen1">[1]</xref>, and their consequences are dependent upon the mass of the body on which they act. As such, an organism’s mass is a critical constraint on its growth, physiology, ecology and biomechanics. Quantitative predictions of the mass properties of extinct taxa are therefore crucial to understanding their palaeobiology, and considerable effort has gone into deriving such mass estimates.</p>
+<p>Common practice when estimating fossil body mass has been to take a skeletal dimension from modern species, such as femur circumference <xref ref-type="bibr" rid="pone.0091691-Campione1">[2]</xref> or glenoid diameter <xref ref-type="bibr" rid="pone.0091691-Field1">[3]</xref>, and use this value as the independent variable in a regression against body mass <xref ref-type="bibr" rid="pone.0091691-Smith1">[4]</xref>. This method has been subject to considerable discussion in the literature and concerns have been raised regarding logarithmic transformation of the dataset <xref ref-type="bibr" rid="pone.0091691-Smith2">[5]</xref>, the choice of regression model <xref ref-type="bibr" rid="pone.0091691-Smith3">[6]</xref> and the extrapolation of the model beyond the range of extant data <xref ref-type="bibr" rid="pone.0091691-Packard1">[7]</xref>. Bivariate regressions also suffer from the ‘single bone problem’, in which reliance upon a single metric derived from a highly specialised skeletal element to predict body mass may result in considerable over- or underestimation <xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref>. When only fragmentary material is preserved, however, this remains the only available method for predicting body mass of extinct species.</p>
+<p>In contrast, volumetric techniques require a reconstruction of the entire skeleton and do not rely upon single skeletal elements for mass estimation. Early attempts at volumetric reconstructions involved the construction of physical scale models and estimates of fluid displacement <xref ref-type="bibr" rid="pone.0091691-Gregory1">[9]</xref>–<xref ref-type="bibr" rid="pone.0091691-Alexander1">[11]</xref>. More recently, digital models have been created with the purpose of estimating mass and inertial properties of individual body segments <xref ref-type="bibr" rid="pone.0091691-Henderson1">[12]</xref>–<xref ref-type="bibr" rid="pone.0091691-Bates2">[17]</xref>. In these instances, 3D mathematical slices may be fitted to given frontal and sagittal profiles <xref ref-type="bibr" rid="pone.0091691-Henderson1">[12]</xref>, <xref ref-type="bibr" rid="pone.0091691-Motani1">[13]</xref>, B-spline objects can be fitted to control points on the skeleton <xref ref-type="bibr" rid="pone.0091691-Hutchinson1">[14]</xref>, <xref ref-type="bibr" rid="pone.0091691-Allen1">[15]</xref> or a single continuous surface may be lofted between several B-spline curves <xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref>, <xref ref-type="bibr" rid="pone.0091691-Bates2">[17]</xref>. The digital models can then be ‘fleshed out’ to reflect body contours <italic>in vivo</italic>. In these studies, the authors reflect upon the issues associated with ‘artistic’ modelling of fossil body shape, and carry out sensitivity analyses in order to quantify the effect of soft tissue reconstructions on mass estimates. Furthermore, in order to estimate mass, a value for body density (ρ<sub>b</sub>) must be assigned to the volumetric model. Values for body density are sparsely reported in the literature (see discussion and <xref ref-type="supplementary-material" rid="pone.0091691.s001">Table S1</xref> for more detail) and in the case of fossil species, a value of 1000–1024 kg/m<sup>−3</sup> (the density of water) is often assigned <xref ref-type="bibr" rid="pone.0091691-Alexander1">[11]</xref>–<xref ref-type="bibr" rid="pone.0091691-Bates2">[17]</xref>. Additional inferences must then be made regarding the size and location of air-filled cavities such as lungs and air sacs.</p>
+<p>Convex hulling is an alternative approach to body mass estimation that has recently been put forward, which combines aspects of both volumetric modelling and linear regression <xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref>, <xref ref-type="bibr" rid="pone.0091691-Sellers1">[18]</xref>. Much the same as other volumetric techniques, convex hulling benefits from including the maximum amount of information from the skeleton into the mass estimate and circumvents the ‘single bone problem’ compared with regressions based on isolated limb bone dimensions. Convex hulling also sidesteps the requirements for soft tissue reconstructions that are necessary in other volumetric mass estimates, and has been applied to estimate fossil body mass in two species of giant bird <xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref> and sauropod dinosaurs <xref ref-type="bibr" rid="pone.0091691-Sellers1">[18]</xref>, <xref ref-type="bibr" rid="pone.0091691-Sellers2">[19]</xref>. The convex hull (<italic>CH</italic>) is one of the oldest and most important structures within the field of computational geometry. The convex hull <italic>CH(S)</italic> of set of points <italic>S</italic> is the smallest convex polytope that contains <italic>S</italic> <xref ref-type="bibr" rid="pone.0091691-DeBerg1">[20]</xref> (<xref ref-type="fig" rid="pone-0091691-g001">Figure 1</xref>), which, intuitively in 2D, can be thought of as stretching a rubber band around a given set of points. The practical application of calculating convex hulls has ranged from determining trait space in biotic community assemblages <xref ref-type="bibr" rid="pone.0091691-Cornwell1">[21]</xref> to collision detection in computer games design <xref ref-type="bibr" rid="pone.0091691-Liu1">[22]</xref> and solving shortest-path problems in transport logistics <xref ref-type="bibr" rid="pone.0091691-Crainic1">[23]</xref>.</p>
+<fig id="pone-0091691-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091691.g001</object-id><label>Figure 1</label><caption>
+<title>Simplified example of the convex hulling process.</title>
+<p>Black ellipse represents the initial extent of a rubber band stretched to encompass all coloured points. Green polygon represents the convex hull defined by the rubber band ‘snapping to’ the green boundary points. The internal (blue) points lie within the convex hull and do not contribute to defining its maximum extent.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091691.g001" position="float" xlink:type="simple"/></fig>
+<p>When applied to the problem of fossil mass estimation, the convex hulling process is used to calculate a minimum body volume from vertebrate skeletons. Digital models of the skeleton can be acquired using imaging techniques such as light radar (LiDAR), computed tomography (CT) or photogrammetry <xref ref-type="bibr" rid="pone.0091691-Falkingham1">[24]</xref>. Whole skeletons are then segmented into functional units (i.e. trunk, thigh, skull etc.) and converted to point clouds (<xref ref-type="fig" rid="pone-0091691-g002">Figure 2A</xref>.). Each point cloud consists of a large dataset of points or vertices (typically ranging from 10<sup>3</sup>–10<sup>6</sup> depending upon the functional unit in question) representing the surface of the skeletal element that are saved as <italic>x, y,</italic> and <italic>z</italic> coordinates. The convex hulling operation then works to fit the smallest convex polytope around that set of points, resulting in a tight-fitting hull around the skeleton and a minimum value for the convex wrapping volume (<italic>vol</italic><sub>CH</sub>) (<xref ref-type="fig" rid="pone-0091691-g002">Figures 2B–C</xref>).</p>
+<fig id="pone-0091691-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091691.g002</object-id><label>Figure 2</label><caption>
+<title>Convex hulling applied to a human skull.</title>
+<p>A, point cloud representing both the inner and outer surface contours of the skull; B, illustrates fit of the convex hull around the maximum extent of the skull; C, convex manifold (water-tight) polytope fitted by the hulling operation.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091691.g002" position="float" xlink:type="simple"/></fig>
+<p>Rather than apply this technique directly to fossil skeletons, previous authors have used the convex hull method to derive calibration curves from modern species for mass prediction. Sellers et al. <xref ref-type="bibr" rid="pone.0091691-Sellers1">[18]</xref> calculated <italic>vol</italic><sub>CH</sub> in a range of quadrupedal mammals and multiply this value by an average density of 893 kg/m<sup>−3</sup> to generate a minimum convex hull mass. This mass was then regressed against literature estimates for live body mass to produce a predictive equation. In contrast, Brassey et al. <xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref> directly regressed <italic>vol</italic><sub>CH</sub> against literature mass estimates when deriving a ratite-specific calibration curve in order to avoid uncertainty associated with assigning a particular density. There is however an implicit assumption that the predictive model is being applied to a fossil species closely related to (and hence likely to possess similar body density to) the modern calibration dataset. In this instance, a ratite-specific curve was applied to fossil moa.</p>
+<p>Mass estimation techniques previously applied to hominid remains have been classified into two groups; ‘mechanical’ methods which rely upon a functional relationship between weight-bearing postcranial elements and mass, and ‘morphometric’ methods which directly reconstruct mass from preserved features such as bi-iliac breadth <xref ref-type="bibr" rid="pone.0091691-Auerbach1">[25]</xref>. To the authors’ knowledge, whole-body volumetric mass estimation techniques have not previously been applied to hominids, or primates more generally, perhaps because of the often-fragmentary nature of the primate fossil record. However the hominin skeletons of AL 288-1 (<italic>Australopithecus afarensis</italic>) <xref ref-type="bibr" rid="pone.0091691-Johanson1">[26]</xref> and KNM-WT 15000 (<italic>Homo erectus</italic>) <xref ref-type="bibr" rid="pone.0091691-Brown1">[27]</xref> are exceptional for early hominids in possessing a considerable proportion of limb bone and ribcage material, and a volumetric reconstruction may be feasible in these cases. Similarly, Miocene apes such as the African genus <italic>Proconsul</italic> <xref ref-type="bibr" rid="pone.0091691-Napier1">[28]</xref> and new Spanish specimens including <italic>Pierolapithecus</italic> <xref ref-type="bibr" rid="pone.0091691-MoySol1">[29]</xref> are also known from reasonably complete skeletons, and there are also strepsirrhine examples such as <italic>Darwinius</italic> <xref ref-type="bibr" rid="pone.0091691-Franzen1">[30]</xref> and the giant lemurs of Madagascar <xref ref-type="bibr" rid="pone.0091691-Hill1">[31]</xref>.</p>
+<p>In the case of linear predictive equations derived from limb bones (i.e. the ‘mechanical’ methods above), there are good biomechanical reasons why weight-bearing postcranial elements should be highly correlated with mass <xref ref-type="bibr" rid="pone.0091691-Scott1">[32]</xref>. We know that convex hull calibration curves derived for modern species of birds and quadrupedal mammals are characterised by extremely high correlation coefficients (<italic>r</italic><sup>2</sup> of 0.97 and 0.98 respectively). However before we apply this technique any further, it is prudent to likewise consider the biomechanical reasons why minimum body volume is informative with regards to body mass. Specifically, when <italic>vol</italic><sub>CH</sub> scaling departs from isometry in a group of vertebrates, how might this be interpreted?</p>
+<p>The aims of this study are therefore:</p>
+<list list-type="alpha-lower"><list-item>
+<p>To derive a primate-specific convex hull calibration curve to complement those already existing for non-primate mammals and birds</p>
+</list-item><list-item>
+<p>To compare <italic>vol</italic><sub>CH</sub> allometry between modern vertebrate groups</p>
+</list-item><list-item>
+<p>To interpret the scaling behaviour of <italic>vol</italic><sub>CH</sub> in the context of interspecific variations in body density, composition and body plan.</p>
+</list-item></list>
+</sec><sec id="s2" sec-type="methods">
+<title>Methods</title>
+<p>All skeletal material included in this study was accessed with the permission of the relevant museum or institution (University Museum of Zoology Cambridge, UMZC; Oxford University Museum of Natural History, OUMNH; Kyoto University Primate Research Institute, KUPRI; The National Library of Medicine, NLM) and reside within their permanent collections. A list of specimens is included in <xref ref-type="table" rid="pone-0091691-t001">Table 1</xref> and the convex hulling method has been described in detail elsewhere <xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref>, <xref ref-type="bibr" rid="pone.0091691-Sellers1">[18]</xref>. Briefly, mounted skeletons of ratites (UMZC) and non-primate mammals (OUMNH) were scanned using a Z+F Imager 5010 and 5006i LiDAR respectively. The museum galleries containing the specimens were scanned several times from various angles to ensure adequate coverage of the skeletons. Registration and aligning of the LiDAR scans was carried out in Z+F LaserControl and individual skeletons were isolated and exported to Geomagic Studio v.12 (Geomagic, USA) as point clouds. CT scans of primate carcasses sourced from KUPRI, the human male sourced from the Visible Human Project (<ext-link ext-link-type="uri" xlink:href="http://www.nlm.nih.gov/research/visible" xlink:type="simple">http://www.nlm.nih.gov/research/visible</ext-link>), plus additional CTs of two primates and two neognath birds from the University of Manchester were imported as DICOM files into OsiriX <xref ref-type="bibr" rid="pone.0091691-Rosset1">[34]</xref>. CT slice thickness ranged between 1–2.7 mm, with pixel spacings of 0.38–0.98 mm/pixel. The surface of each skeleton was rendered in 3D and exported to Geomagic Studio.</p>
+<table-wrap id="pone-0091691-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091691.t001</object-id><label>Table 1</label><caption>
+<title>Convex hull specimen list and sources of body mass.</title>
+</caption><alternatives><graphic id="pone-0091691-t001-1" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091691.t001" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">species</td>
+<td align="left" rowspan="1" colspan="1">accession no.</td>
+<td align="left" rowspan="1" colspan="1">sex</td>
+<td align="left" rowspan="1" colspan="1">volume (m<sup>3</sup>)</td>
+<td align="left" rowspan="1" colspan="1"><italic>M</italic><sub>b</sub> (kg)</td>
+<td align="left" rowspan="1" colspan="1"><italic>M</italic><sub>b</sub> source</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Struthio camelus</italic></td>
+<td align="left" rowspan="1" colspan="1">UMZC374</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">7.17×10<sup>−2</sup></td>
+<td align="left" rowspan="1" colspan="1">60.7</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Casuarius casuarius</italic></td>
+<td align="left" rowspan="1" colspan="1">UMZC371.D</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">1.72×10<sup>−2</sup></td>
+<td align="left" rowspan="1" colspan="1">27.0</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Dromaius novaehollandiae</italic></td>
+<td align="left" rowspan="1" colspan="1">UMZC363</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">2.14×10<sup>−2</sup></td>
+<td align="left" rowspan="1" colspan="1">20.06</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Rhea americana</italic></td>
+<td align="left" rowspan="1" colspan="1">UMZC378.gg</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">1.77×10<sup>−2</sup></td>
+<td align="left" rowspan="1" colspan="1">16.3</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Rhea pennata</italic></td>
+<td align="left" rowspan="1" colspan="1">UMZC378ki</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">1.59×10<sup>−2</sup></td>
+<td align="left" rowspan="1" colspan="1">14.9</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Apteryx australis</italic></td>
+<td align="left" rowspan="1" colspan="1">UMZC378.A</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">1.10×10<sup>−3</sup></td>
+<td align="left" rowspan="1" colspan="1">2.96</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Apteryx australis lawryi</italic></td>
+<td align="left" rowspan="1" colspan="1">UMZC378.SS</td>
+<td align="left" rowspan="1" colspan="1">F</td>
+<td align="left" rowspan="1" colspan="1">1.40×10<sup>−3</sup></td>
+<td align="left" rowspan="1" colspan="1">2.41</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Branta leucopsis</italic></td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">1.10×10<sup>−3</sup></td>
+<td align="left" rowspan="1" colspan="1">1.69</td>
+<td align="left" rowspan="1" colspan="1">[*]</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Numida meleagris</italic></td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">F</td>
+<td align="left" rowspan="1" colspan="1">1.00×10<sup>−−3</sup></td>
+<td align="left" rowspan="1" colspan="1">1.40</td>
+<td align="left" rowspan="1" colspan="1">[*]</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Bison bison</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH17430</td>
+<td align="left" rowspan="1" colspan="1">M</td>
+<td align="left" rowspan="1" colspan="1">4.73×10<sup>−1</sup></td>
+<td align="left" rowspan="1" colspan="1">558.5</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Bos taurus</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH17432</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">2.19×10<sup>−1</sup></td>
+<td align="left" rowspan="1" colspan="1">323.7</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Camelus dromedaries</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH17427</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">3.21×10<sup>−1</sup></td>
+<td align="left" rowspan="1" colspan="1">427.0</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Cervus elaphus</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH17431</td>
+<td align="left" rowspan="1" colspan="1">M</td>
+<td align="left" rowspan="1" colspan="1">8.40×10<sup>−2</sup></td>
+<td align="left" rowspan="1" colspan="1">89.5</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Dicerorhinus sumatrensis</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH4139</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">3.61×10<sup>−1</sup></td>
+<td align="left" rowspan="1" colspan="1">470.3</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Elephas maximus</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH10686</td>
+<td align="left" rowspan="1" colspan="1">M</td>
+<td align="left" rowspan="1" colspan="1">2.09×10<sup>0</sup></td>
+<td align="left" rowspan="1" colspan="1">2352.0</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Equus caballus</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH17428</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">3.70×10<sup>−1</sup></td>
+<td align="left" rowspan="1" colspan="1">517.5</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Giraffa camelopardalis</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH19507</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">4.35×10<sup>−1</sup></td>
+<td align="left" rowspan="1" colspan="1">638.2</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Loxodonta africana</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH4004</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">2.75×10<sup>0</sup></td>
+<td align="left" rowspan="1" colspan="1">2734.9</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Megaloceros giganteus</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH17433</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">3.01×10<sup>−1</sup></td>
+<td align="left" rowspan="1" colspan="1">435.6</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Rangifer tarandus</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH17529</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">7.57×10<sup>−2</sup></td>
+<td align="left" rowspan="1" colspan="1">95.8</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Sus scrofa</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH17426</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">7.79×10<sup>−2</sup></td>
+<td align="left" rowspan="1" colspan="1">107.4</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Tapirus indicus</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH17425</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">1.70×10<sup>−1</sup></td>
+<td align="left" rowspan="1" colspan="1">295.3</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Ursus maritimus</italic></td>
+<td align="left" rowspan="1" colspan="1">OUMNH17459</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">1.11×10<sup>−1</sup></td>
+<td align="left" rowspan="1" colspan="1">206.1</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Chlorocebus aethiops</italic></td>
+<td align="left" rowspan="1" colspan="1">KUPRI28</td>
+<td align="left" rowspan="1" colspan="1">M</td>
+<td align="left" rowspan="1" colspan="1">3.70×10<sup>−3</sup></td>
+<td align="left" rowspan="1" colspan="1">3.78</td>
+<td align="left" rowspan="1" colspan="1">[*]</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Macaca fuscata</italic></td>
+<td align="left" rowspan="1" colspan="1">KUPRI375</td>
+<td align="left" rowspan="1" colspan="1">F</td>
+<td align="left" rowspan="1" colspan="1">5.10×10<sup>−3</sup></td>
+<td align="left" rowspan="1" colspan="1">6.60</td>
+<td align="left" rowspan="1" colspan="1">[*]</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Saimiri sciureus</italic></td>
+<td align="left" rowspan="1" colspan="1">KUPRI290</td>
+<td align="left" rowspan="1" colspan="1">F</td>
+<td align="left" rowspan="1" colspan="1">6.00×10<sup>−4</sup></td>
+<td align="left" rowspan="1" colspan="1">0.759</td>
+<td align="left" rowspan="1" colspan="1">[*]</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Hylobates agilis</italic></td>
+<td align="left" rowspan="1" colspan="1">KUPRI277</td>
+<td align="left" rowspan="1" colspan="1">M</td>
+<td align="left" rowspan="1" colspan="1">5.40×10<sup>−3</sup></td>
+<td align="left" rowspan="1" colspan="1">6.75</td>
+<td align="left" rowspan="1" colspan="1">[*]</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Hylobates lar</italic></td>
+<td align="left" rowspan="1" colspan="1">KUPRI182</td>
+<td align="left" rowspan="1" colspan="1">F</td>
+<td align="left" rowspan="1" colspan="1">6.60×10<sup>−3</sup></td>
+<td align="left" rowspan="1" colspan="1">6.65</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Ruff1">[33]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Gorilla gorilla</italic></td>
+<td align="left" rowspan="1" colspan="1">KUPRI298-317</td>
+<td align="left" rowspan="1" colspan="1">M</td>
+<td align="left" rowspan="1" colspan="1">9.57×10<sup>−2</sup></td>
+<td align="left" rowspan="1" colspan="1">176.0</td>
+<td align="left" rowspan="1" colspan="1">[*]</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Pan troglodytes</italic></td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">M</td>
+<td align="left" rowspan="1" colspan="1">4.18×10<sup>−2</sup></td>
+<td align="left" rowspan="1" colspan="1">50.9</td>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pone.0091691-Ruff1">[33]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Pongo pygmaeus</italic></td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">F</td>
+<td align="left" rowspan="1" colspan="1">3.25×10<sup>−2</sup></td>
+<td align="left" rowspan="1" colspan="1">45.0</td>
+<td align="left" rowspan="1" colspan="1">[*]</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Homo sapiens</italic></td>
+<td align="left" rowspan="1" colspan="1">NLM</td>
+<td align="left" rowspan="1" colspan="1">M</td>
+<td align="left" rowspan="1" colspan="1">4.91×10<sup>−2</sup></td>
+<td align="left" rowspan="1" colspan="1">68.9</td>
+<td align="left" rowspan="1" colspan="1">[*]</td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt101"><label/><p>UMZC, University Museum of Zoology, Cambridge; OUMNH, Oxford Museum of Natural History; KUPRI, Kyoto University Primate Research Institute; NLM, National Library of Medicine. Sources of body mass (<italic>M</italic><sub>b</sub>); [*] carcass weight; <xref ref-type="bibr" rid="pone.0091691-Ruff1">[33]</xref> estimated using predictive equation for Hominoid body mass based upon radial head surface area (mm<sup>2</sup>) derived from CT images.</p></fn></table-wrap-foot></table-wrap>
+<p>Individual skeletons were subdivided into functional units. In the mammals, the body was divided into the trunk (including the pelvis, ribs, sternum and scapula), thigh (femur), shank (tibia), forearm (radius and ulna), upper arm (humerus), neck and skull. In the case of ungulates, the metatarsals and metacarpals were considered as separate segments from the phalanges. For all other mammals, the tarsals and phalanges were combined into one functional unit for hulling. The long necks of the giraffe (<italic>Giraffa camelopardalis</italic>) and camel (<italic>Camelus dromedaries</italic>) were segmented into two parts to ensure a tight-fitting hull around their length (<xref ref-type="fig" rid="pone-0091691-g003">Figure 3</xref>). The long tails of the grivet (<italic>Chlorocebus aethiops</italic>), squirrel monkey (<italic>Saimiri sciureus</italic>) and Japanese macaque (<italic>Macaca fuscata</italic>) were divided into multiple segments for the same reason. The antlers of the cervids were not included. The skeleton of the birds was subdivided into the trunk (pelvis, ribs, scapula and sternum plus keel and clavicle in the neognaths), thigh (femur), shank (tibiotarsus), tarsometatarsus, proximal wing (humerus), distal wing (radius and ulna), hand (metacarpals and phalanges), feet (phalanges), neck and skull. As in the long-necked mammals, bird necks were subdivided to ensure a tight fit.</p>
+<fig id="pone-0091691-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091691.g003</object-id><label>Figure 3</label><caption>
+<title>Effect of subdividing neck of <italic>C</italic>. <italic>dromedaries</italic> on convex hull volume.</title>
+<p>A, illustrates extent of neck convex hull without subdivision due to curvature of cervical series; B, tighter fit of convex hulls when divided into two parts.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091691.g003" position="float" xlink:type="simple"/></fig>
+<p>The gorilla (<italic>Gorilla gorilla</italic>) was CT scanned as disarticulated body parts and some digital rearticulation of the skeleton was necessary prior to convex hulling. The lateral margins of both iliac crests had not been included in the CT and required restoration. The scapulae had been disassociated from the ribcage and were repositioned before convex hulling of the trunk. Furthermore the skull associated with the male gorilla carcass (KUPRI298-317) was not available, and the skull of a different male gorilla was scaled up geometrically based on limb length in its place. Both the lesser and greater apes in the sample were CT scanned lying in the supine position. In contrast the non-hominoid primates were scanned lying on their side. As a result, the latter group displayed considerable curvature of the spine dorsoventrally. This was corrected by straightening the spine in 3DsMax (Autodesk, USA) in order to ensure all primate trunks were of a comparable shape before hulling. CT data are available from <ext-link ext-link-type="uri" xlink:href="http://www.pri.kyoto-u.ac.jp/and" xlink:type="simple">http://www.pri.kyoto-u.ac.jp/and</ext-link> <ext-link ext-link-type="uri" xlink:href="http://www.nlm.nih.gov/research/visible/" xlink:type="simple">http://www.nlm.nih.gov/research/visible/</ext-link>, and convex hulls are available for download from <ext-link ext-link-type="uri" xlink:href="http://www.animalsimulation.org" xlink:type="simple">http://www.animalsimulation.org</ext-link>.</p>
+<p>Once subdivided, body segments were saved as.obj files. The convex hulling process was carried out in MATLAB (MathWorks, USA) using the ‘convhulln’ function. Convhulln implements the Quickhull (‘qhull’) algorithm for computing the convex hull <xref ref-type="bibr" rid="pone.0091691-Barber1">[35]</xref>. Total <italic>vol</italic><sub>CH</sub> of a skeleton was calculated as the sum total of segment volumes. Body mass (<italic>M</italic><sub>b</sub>, kg) was regressed against <italic>vol</italic><sub>CH</sub> (m<sup>3</sup>) for three groups (non-primate mammals, primates and birds) in MATLAB (see <xref ref-type="table" rid="pone-0091691-t001">Table 1</xref> for <italic>M</italic><sub>b</sub> sources). Slopes were fitted by means of ordinary least squares (OLS) regressions, as Type-I models are recommended when regressions will be used in a predictive capacity <xref ref-type="bibr" rid="pone.0091691-Smith3">[6]</xref>. Slopes were compared in a one-way analysis of covariance (ANCOVA) using the ‘multcomp’ function in MATLAB, with subsequent pair-wise post hoc Tukey HSD test. Apparent density of the convex hulled skeleton (ρ<sub>CH</sub>, kg/m<sup>−3</sup>) was also calculated as <italic>vol</italic><sub>CH</sub>/<italic>M</italic><sub>b</sub>.</p>
+<p>In order to account for evolutionary relationships, phylogenetically based regression models were also applied. This methodology is described in detail elsewhere <xref ref-type="bibr" rid="pone.0091691-Brassey2">[36]</xref>. Composite phylogenies were constructed in Mesquite ver. 2.75 (<ext-link ext-link-type="uri" xlink:href="http://mesquiteproject.org" xlink:type="simple">http://mesquiteproject.org</ext-link>) using tree topologies and branch lengths derived from previous publications (<xref ref-type="fig" rid="pone-0091691-g004">Figure 4A–C</xref>). The MATLAB program ‘Regressionv2.m’ <xref ref-type="bibr" rid="pone.0091691-Lavin1">[49]</xref> was used to implement multiple phylogenetic regressions. Phylogenetic generalised least squares (PGLS) assumes residuals are correlated due to shared ancestry and can be described by a Brownian motion model of evolution. Alternatively the Ornstein-Uhlenbeck (OU) evolutionary process models stabilising selection around an optimum <xref ref-type="bibr" rid="pone.0091691-Lavin1">[49]</xref>. The goodness-of-fit of the regression models is compared using uncorrected Akaike Information Criterion (AIC), in which smaller values imply a better fit. Models with an AIC value of &lt;2 units greater than the minimum value are also said to have considerable support <xref ref-type="bibr" rid="pone.0091691-Gartner1">[50]</xref>. The optimal Ornstein-Uhlenbeck transformation parameter (<italic>d</italic>) was also estimated, where <italic>d = </italic>1 suggests the PGLS models fits the data better and <italic>d</italic> = 0 suggests a better fit for the OLS model.</p>
+<fig id="pone-0091691-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091691.g004</object-id><label>Figure 4</label><caption>
+<title>Consensus trees used in phylogenetic analysis.</title>
+<p>Tick marks represent increments of 10 million years. A, non-primate mammal tree topology and branch lengths derived from <xref ref-type="bibr" rid="pone.0091691-Arnason1">[37]</xref>–<xref ref-type="bibr" rid="pone.0091691-Thomas1">[44]</xref>; B, primate tree derived from <xref ref-type="bibr" rid="pone.0091691-Finstermeier1">[45]</xref>; C, bird tree derived from <xref ref-type="bibr" rid="pone.0091691-Burbidge1">[46]</xref>–<xref ref-type="bibr" rid="pone.0091691-Phillips1">[48]</xref>.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091691.g004" position="float" xlink:type="simple"/></fig></sec><sec id="s3">
+<title>Results</title>
+<p>Total <italic>vol</italic><sub>CH</sub> estimated for the skeletons are given in <xref ref-type="table" rid="pone-0091691-t001">Table 1</xref>. The results of the OLS and phylogenetically corrected regressions of <italic>M</italic><sub>b</sub> against <italic>vol</italic><sub>CH</sub> are given in <xref ref-type="table" rid="pone-0091691-t002">Table 2</xref>, and for OLS are plotted in <xref ref-type="fig" rid="pone-0091691-g005">Figure 5</xref>. Prior to log<sub>10</sub> transformation the datasets did not meet the requirements for normality (Shapiro-Wilks test) and homoscedasticity (Breusch-Pagan test). Model results are therefore only reported for log<sub>10</sub> transformed data. For all the groups considered here, the phylogenetically uncorrected OLS regression model provides a better fit to the data as indicated by lower AIC values for OLS models compared to PGLS and OU models (<xref ref-type="table" rid="pone-0091691-t002">Table 2</xref>). This is further supported by <italic>d</italic> values of ≤0.011, again suggesting a better fit to the data in the OLS models than PGLS. The need for phylogenetic correction in this instance therefore remains equivocal, and for the sake of comparisons between our sample groups we only discuss log<sub>10</sub> transformed OLS models further. However the potential for phylogenetic biasing, particularly of the primate slope, is considered further in the discussion.</p>
+<fig id="pone-0091691-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091691.g005</object-id><label>Figure 5</label><caption>
+<title>OLS regression results.</title>
+<p>A, Body mass (kg) against convex hull volume (m<sup>3</sup>). For slope equations, see <xref ref-type="table" rid="pone-0091691-t002">Table 2</xref> (labelled in bold). B, apparent density of convex hull (kg/m<sup>3</sup>) against body mass (kg). Density did not scale with body mass in non-primate mammals. Density increases with body mass in primates (<italic>a</italic> = 1042, <italic>b</italic> = 221, <italic>r</italic><sup>2</sup> = 0.46, p = 0.025) yet decreases with body mass in birds (<italic>a</italic> = 1977, <italic>b</italic> = −619, <italic>r</italic><sup>2</sup> = 0.36, p&lt;0.05). Black circles, non-primate mammals; green squares, primates; blue triangles, birds.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091691.g005" position="float" xlink:type="simple"/></fig><table-wrap id="pone-0091691-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091691.t002</object-id><label>Table 2</label><caption>
+<title>Ordinary least squares (OLS) and phylogenetically based regression (PGLS, phylogenetic generalised least squares; OU, Ornstein-Uhlenbeck process) of body mass (kg) against convex hull volume (m<sup>3</sup>).</title>
+</caption><alternatives><graphic id="pone-0091691-t002-2" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091691.t002" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Fit</td>
+<td align="left" rowspan="1" colspan="1">Type</td>
+<td align="left" rowspan="1" colspan="1"><italic>a</italic></td>
+<td align="left" rowspan="1" colspan="1"><italic>a</italic> ±95%</td>
+<td align="left" rowspan="1" colspan="1"><italic>b</italic></td>
+<td align="left" rowspan="1" colspan="1"><italic>b</italic> ±95%</td>
+<td align="left" rowspan="1" colspan="1"><italic>r</italic><sup>2</sup></td>
+<td align="left" rowspan="1" colspan="1">AIC</td>
+<td align="left" rowspan="1" colspan="1"><italic>d</italic></td>
+<td align="left" rowspan="1" colspan="1">MSE</td>
+<td align="left" rowspan="1" colspan="1">%PE</td>
+<td align="left" rowspan="1" colspan="1">PE ±95%</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13" align="left" rowspan="1">Mammals</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"><bold>Log<sub>10</sub></bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>OLS</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>3.09</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>3.04–3.14</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>0.92</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>0.85–1.00</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>0.98</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>−31.2</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>–</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>0.005</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>11.6</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>6.96–17.1</bold></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">PGLS</td>
+<td align="left" rowspan="1" colspan="1">3.06</td>
+<td align="left" rowspan="1" colspan="1">2.88–3.21</td>
+<td align="left" rowspan="1" colspan="1">0.88</td>
+<td align="left" rowspan="1" colspan="1">0.77–0.97</td>
+<td align="left" rowspan="1" colspan="1">0.96</td>
+<td align="left" rowspan="1" colspan="1">−16.9</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">OU</td>
+<td align="left" rowspan="1" colspan="1">3.09</td>
+<td align="left" rowspan="1" colspan="1">3.03–3.13</td>
+<td align="left" rowspan="1" colspan="1">0.92</td>
+<td align="left" rowspan="1" colspan="1">0.86–1.00</td>
+<td align="left" rowspan="1" colspan="1">0.98</td>
+<td align="left" rowspan="1" colspan="1">−29.2</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td colspan="13" align="left" rowspan="1">Primates</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"><bold>Log<sub>10</sub></bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>OLS</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>3.24</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>3.12–3.35</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>1.07</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>1.01–1.12</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>0.99</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>−19.7</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>–</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>0.004</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>10.8</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>3.97–17.6</bold></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">PGLS</td>
+<td align="left" rowspan="1" colspan="1">3.34</td>
+<td align="left" rowspan="1" colspan="1">3.00–3.74</td>
+<td align="left" rowspan="1" colspan="1">1.10</td>
+<td align="left" rowspan="1" colspan="1">0.96–1.24</td>
+<td align="left" rowspan="1" colspan="1">0.96</td>
+<td align="left" rowspan="1" colspan="1">−11.8</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">OU</td>
+<td align="left" rowspan="1" colspan="1">3.24</td>
+<td align="left" rowspan="1" colspan="1">3.10–3.35</td>
+<td align="left" rowspan="1" colspan="1">1.07</td>
+<td align="left" rowspan="1" colspan="1">1.01–1.12</td>
+<td align="left" rowspan="1" colspan="1">0.99</td>
+<td align="left" rowspan="1" colspan="1">−17.7</td>
+<td align="left" rowspan="1" colspan="1">0.011</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td colspan="13" align="left" rowspan="1">Birds</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"><bold>Log<sub>10</sub></bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>OLS</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>2.70</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>2.50–2.93</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>0.81</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>0.71–0.90</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>0.97</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>−9.98</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>–</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>0.013</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>19.7</bold></td>
+<td align="left" rowspan="1" colspan="1"><bold>5.81–33.5</bold></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">PGLS</td>
+<td align="left" rowspan="1" colspan="1">2.43</td>
+<td align="left" rowspan="1" colspan="1">1.71–3.05</td>
+<td align="left" rowspan="1" colspan="1">0.71</td>
+<td align="left" rowspan="1" colspan="1">0.44–0.97</td>
+<td align="left" rowspan="1" colspan="1">0.77</td>
+<td align="left" rowspan="1" colspan="1">2.09</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">OU</td>
+<td align="left" rowspan="1" colspan="1">2.71</td>
+<td align="left" rowspan="1" colspan="1">2.47–2.89</td>
+<td align="left" rowspan="1" colspan="1">0.82</td>
+<td align="left" rowspan="1" colspan="1">0.71–0.89</td>
+<td align="left" rowspan="1" colspan="1">0.97</td>
+<td align="left" rowspan="1" colspan="1">−7.98</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1">–</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt102"><label/><p>AIC, Uncorrected Akaike Information Criterion; <italic>d</italic>, restricted maximum likelihood estimate of the Ornstein-Uhlenbeck transformation parameter; ±95%, 95% confidence intervals of the intercept and slope; MSE, mean square error of the regression; %PE, mean percentage prediction error of the regression; PE ±95%, 95% confidence interval of mean PE. Log<sub>10</sub> transformed OLS regressions discussed throughout the text and are highlighted in bold.</p></fn></table-wrap-foot></table-wrap>
+<p>Geometric similarity would predict <italic>M</italic><sub>b</sub> to scale to <italic>vol</italic><sub>CH</sub> with a slope of 1. Non-primate mammals do not scale <italic>M</italic><sub>b</sub> to <italic>vol</italic><sub>CH</sub> significantly differently from isometry (<italic>b</italic> = 0.92, 95%CI = 0.85–1.00, <italic>p</italic> = 0.08). In contrast, primates scale <italic>M</italic><sub>b</sub> to <italic>vol</italic><sub>CH</sub> significantly faster than isometry (<italic>b</italic> = 1.07, 95%CI = 1.01–1.12, <italic>p</italic> = 0.05) whilst birds scale <italic>M</italic><sub>b</sub> slower than predicted by geometry similarity (<italic>b</italic> = 0.81, 95%CI = 0.70–0.91, <italic>p</italic> = 0.011). Comparing all three models in a one-way analysis of covariance (ANCOVA) finds a significant difference between slopes (<italic>F</italic><sub>(2,26)</sub> = 7.18, <italic>p</italic>&lt;0.003). A post-hoc Tukey test confirms birds scale <italic>M</italic><sub>b</sub> to <italic>vol</italic><sub>CH</sub> significantly slower than primates (<italic>p</italic>&lt;0.05). No other pairwise comparison is significant however. Mean apparent density (<italic>vol</italic><sub>CH</sub>/<italic>M</italic><sub>b</sub>) was not significantly different between groups (<italic>F</italic> = 0.23, <italic>p</italic> = 0.80). Mean apparent density did not scale with <italic>M</italic><sub>b</sub> in non-primate mammals. However, mean apparent density was found to increase with <italic>M</italic><sub>b</sub> in primates (<italic>r</italic><sup>2</sup> = 0.46, <italic>p</italic> = 0.025), and decrease with <italic>M</italic><sub>b</sub> in birds (<italic>r</italic><sup>2</sup> = 0.36, <italic>p</italic>&lt;0.05) (<xref ref-type="fig" rid="pone-0091691-g005">Figure 5B</xref>).</p>
+<p>Due to the considerable amount of reconstruction work necessary on the gorilla skeleton prior to convex hulling and the resulting uncertainties in the placement of the scapulae and reconstruction of the ilium, the effect of excluding the gorilla individual from the sample was investigated. Removing the gorilla from the primate dataset did not significantly affect the slope of the regression line of <italic>M</italic><sub>b</sub> against <italic>vol</italic><sub>CH</sub> (<italic>b</italic> = 1.07 with gorilla, <italic>b = </italic>1.03 without gorilla, <italic>p</italic> = 0.46). However, primates scale <italic>M</italic><sub>b</sub> to <italic>vol</italic><sub>CH</sub> with isometry (<italic>p&gt;</italic>0.34) and apparent density no longer scales with <italic>M</italic><sub>b</sub> in primates (<italic>r</italic><sup>2</sup> = 0.21, <italic>p</italic>&gt;0.12) when the gorilla is removed from the sample.</p>
+<p>In this study, data were collected using two imaging techniques (CT and LiDAR). We investigated how the choice of imaging technique might impact upon our results by exploring the relationship between body size of the specimen, point cloud density and <italic>vol</italic><sub>CH</sub> of the trunk. This sensitivity analysis was conducted on the trunk segment rather than the whole body set, as the trunk comprises the vast majority of total <italic>vol</italic><sub>CH</sub> and any sampling effect demonstrable on the trunk will almost certainly be present in the whole body model. In the CT-scanned specimens, no relationship exists between <italic>M</italic><sub>b</sub> (used as a proxy for total body size) and the number of points comprising the trunk (<italic>p</italic>&gt;0.05). This is because pixel size is manually adjusted for each individual during scanning in order to achieve the highest resolution possible.</p>
+<p>In LiDAR-scanned skeletons, there is a significant correlation between <italic>M</italic><sub>b</sub> and number of points comprising the trunk (<italic>p&lt;</italic>0.05 for LiDAR birds, <italic>p</italic>&lt;0.01 for LiDAR non-primate mammals). As the LiDAR skeletons were isolated from one larger LiDAR point cloud of the surrounding museum gallery, larger individuals consist of a greater number of points than smaller individuals. The point clouds of trunk segments were randomly subsampled down in Geomagic Studio, such that all individuals comprised an equal number of points. In a paired Student’s t-test, no significant difference existed in <italic>vol</italic><sub>CH</sub> of the trunk between original and down-sampled point clouds in the UMZC ratites (<italic>t = </italic>1.97, <italic>df = </italic>8, <italic>p</italic>&gt;0.05) and OUMNH non-primate mammals (<italic>t</italic> = 2.04, <italic>df</italic> = 13, <italic>p</italic>&gt;0.05). Furthermore, the scaling exponents of <italic>M</italic><sub>b</sub> to trunk <italic>vol</italic><sub>CH</sub> were not significantly different between original and down-sampled point clouds in ratites (<italic>p</italic>&gt;0.99) and non-primate mammals (<italic>p</italic>&gt;0.96).</p>
+</sec><sec id="s4">
+<title>Discussion</title>
+<sec id="s4a">
+<title>Convex Hull Mass Estimation</title>
+<p><italic>M</italic><sub>b</sub> correlates extremely well with <italic>vol</italic><sub>CH</sub> in modern birds and mammals (<italic>r</italic><sup>2</sup> = 0.97–0.99) and mean percentage prediction errors (%PE) of the models are encouragingly low (<xref ref-type="table" rid="pone-0091691-t002">Table 2</xref>). Our values for mean %PE (11–20%, <xref ref-type="table" rid="pone-0091691-t002">Table 2</xref>) compare favourably with bivariate predictive models recently derived from limb bones of mammals (25–71%PE, <xref ref-type="bibr" rid="pone.0091691-Campione1">[2]</xref>) and volant birds (13–128%PE, <xref ref-type="bibr" rid="pone.0091691-Field1">[3]</xref>) comprising much larger datasets. The 95% confidence intervals on our mean %PE are similar to those of Campione &amp; Evans <xref ref-type="bibr" rid="pone.0091691-Campione1">[2]</xref>, but are considerably wider than those of Field et al. <xref ref-type="bibr" rid="pone.0091691-Field1">[3]</xref>. The application of convex hulling to the problem of body mass estimation in fossil species is therefore justifiable when a large proportion of the skeleton is preserved. The authors have previously applied this mass estimation technique to fossil dinosaurs and birds, and here we present a primate-specific calibration curve of interest to those in the field of physical anthropology.</p>
+<p>Primates are found to scale <italic>M</italic><sub>b</sub> to <italic>vol<sub>CH</sub></italic> similarly to non-primate mammals (<italic>p</italic>&gt;0.05). That primates are found to scale their skeletal dimensions similarly to other mammals is not without precedent. The scaling exponents of primate forelimb and hindlimb length to body mass overlap those of Carnivora, Rodentia and Scandentia <xref ref-type="bibr" rid="pone.0091691-Schmidt1">[51]</xref>, <xref ref-type="bibr" rid="pone.0091691-Schmidt2">[52]</xref>, with Marsupials the only order in this study to scale hindlimb length significantly differently from primates <xref ref-type="bibr" rid="pone.0091691-Schmidt1">[51]</xref>. Similarly Polk et al. <xref ref-type="bibr" rid="pone.0091691-Polk1">[53]</xref> found the confidence intervals of primate-specific regressions of hindlimb bone length and cross-sectional properties against mass to overlap considerably with those of Carnivora and Rodentia.</p>
+<p>Therefore combining the non-primate mammal and primate datasets, a general mammal calibration curve is derived (<italic>a</italic> = 3.13, <italic>b</italic> = 1.011, <italic>r</italic><sup>2</sup> = 0.993, <italic>p</italic>&lt;0.001, mean square error (MSE) = 0.0052, mean percentage prediction error (%PE) = 12.0%). Given the log-transformed nature of the data, caution should be exercised if the equations presented here are to be subsequently applied to fossil skeletons in a mass prediction capacity. When back-transforming a linear model of the form:<disp-formula id="pone.0091691.e001"><graphic position="anchor" xlink:href="info:doi/10.1371/journal.pone.0091691.e001" xlink:type="simple"/><label>(1)</label></disp-formula>into a power function of the form:<disp-formula id="pone.0091691.e002"><graphic position="anchor" xlink:href="info:doi/10.1371/journal.pone.0091691.e002" xlink:type="simple"/><label>(2)</label></disp-formula>a correction factor (CF) should be applied, which is calculated as:<disp-formula id="pone.0091691.e003"><graphic position="anchor" xlink:href="info:doi/10.1371/journal.pone.0091691.e003" xlink:type="simple"/><label>(3)</label></disp-formula>where MSE is the mean square error of the regression <xref ref-type="bibr" rid="pone.0091691-Mascaro1">[54]</xref>. Multiplying by the correction factor converts the geometric mean value of <italic>y</italic> calculated by taking the antilog of log(<italic>y</italic>) into an arithmetic mean value of <italic>y</italic>. Values of MSE for our regression models are provided in <xref ref-type="table" rid="pone-0091691-t002">Table 2</xref> for this purpose. However, given the extremely high correlation coefficients and low values for MSE charactering our models, multiplying by the correction factor will have very little effect on convex hull mass predictions.</p>
+<p>Phylogenetic analyses have indicated some degree of biasing of the primate slope due to shared evolutionary history (<xref ref-type="table" rid="pone-0091691-t002">Table 2</xref>). Our limited sample is dominated by hominoids (greater and lesser apes constitute two thirds of the primates included). The predictive equation derived here is still applicable to the field of early human evolution, for example, but should be cautiously applied to other primate groups that are not represented in our sample. Furthermore, the performance of PGLS regressions when predicting the body mass of species not included in the original regression remains unclear, and the application of both OLS and PGLS is recommended <xref ref-type="bibr" rid="pone.0091691-DeEstebanTrivigno1">[55]</xref>.</p>
+<p>The factor limiting the application of this methodology to physical anthropology will be a lack of appropriate specimens. The relative paucity of associated postcranial hominin fossil material at present makes the widespread use of this calibration curve unlikely, and any such attempt would almost certainly require significant reconstruction. This highlights one of the potential concerns regarding the convex hull mass estimation technique. Whilst our methodology removes the need for authors to subjectively recreate soft tissue morphology by working on the skeleton alone, this acts to shift the burden of subjectivity onto those responsible for skeletal mounting of museum specimens. The flaring of the ribcage <xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref>, positioning of the sternum <xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref>, intervertebral spacing <xref ref-type="bibr" rid="pone.0091691-Bates1">[16]</xref>, <xref ref-type="bibr" rid="pone.0091691-Taylor1">[56]</xref> extent of cartilaginous epiphyses <xref ref-type="bibr" rid="pone.0091691-Holliday1">[57]</xref> and placement of the scapulae are known to effect mass estimates and biomechanical functionality of fossil reconstructions.</p>
+<p>Recent efforts to remount fossil specimens, such as the Berlin <italic>Brachiosaurus brancai</italic> <xref ref-type="bibr" rid="pone.0091691-Remes1">[58]</xref>, according to our current understanding of their biology are commendable. However in most instances it is not feasible to physically remount skeletons due to time and financial constraints, alongside the potential for damage to the specimen. In this case, convex hulling provides a solution. The digital nature of our volumetric models allows skeletal components to be easily manipulated and whole skeletons may be digitally remounted. Sensitivity analyses on both the skeletal mount and soft tissue reconstructions are therefore entirely feasible, and should be a prerequisite for functional analyses.</p>
+</sec><sec id="s4b">
+<title>Scaling of Body Mass with vol<sub>CH</sub></title>
+<p>Non-primate mammals scale body mass isometrically with respect to <italic>vol</italic><sub>CH</sub>, and apparent density is mass invariant (<xref ref-type="fig" rid="pone-0091691-g005">Figure 5B</xref>). However in modern primates and birds, <italic>vol</italic><sub>CH</sub> scales allometrically and apparent density therefore changes with body mass (<xref ref-type="fig" rid="pone-0091691-g005">Figure 5B</xref>). This may be interpreted in one of two ways:</p>
+<list list-type="alpha-lower"><list-item>
+<p>The allometric scaling of apparent density reflects a real trend in scaling of carcass density to body mass in birds and primates.</p>
+</list-item><list-item>
+<p>Carcass density is actually mass-independent, yet convex hulling (and apparent density) is capturing a shift in the distribution of body tissue with size in these groups.</p>
+</list-item></list>
+<p>Convex hull volume is certainly an underestimate compared to fleshed-out body volume (<italic>vol</italic><sub>fl</sub>) as it neglects any muscle, fat or integument that would have sat outside the contours defined by the maximum extent of the hard tissues. This is confirmed by the extremely high values for mean apparent density calculated here (primates = 1296 kg/m<sup>3</sup>, non-primate mammals = 1359 kg/m<sup>3</sup>, birds = 1418 kg/m<sup>3</sup>) compared to values for whole body density throughout the literature (see later discussion and <xref ref-type="supplementary-material" rid="pone.0091691.s001">Table S1</xref>)<bold>.</bold></p>
+<p>However, the degree to which <italic>vol</italic><sub>CH</sub> underestimates <italic>vol</italic><sub>fl</sub> depends on the distribution of such soft tissues, and this will vary both within and between skeletons. Within the hind limb for example, a greater mass of muscle is held proximally with the distal joints instead being controlled by long tendons <xref ref-type="bibr" rid="pone.0091691-Currey1">[59]</xref>. Hence, <italic>vol</italic><sub>CH</sub> will be a smaller proportion of <italic>vol</italic><sub>fl</sub> around the thigh compared to the shank and feet. Likewise, interspecific variation in the amount of soft tissue held outside the convex hull envelope will cause variation in <italic>vol</italic><sub>CH</sub>: <italic>vol</italic><sub>fl</sub>, and apparent density values between species.</p>
+<p>In light of this, it is unsurprising that non-primate mammals scale <italic>vol</italic><sub>CH</sub> isometrically and apparent density does not change with body mass. Our sample consists entirely of terrestrial species without specialist adaptations for climbing, swimming or digging. The bauplan (ground plan of the body segments) is therefore relatively well conserved throughout the sample (with the exception of the giraffe’s neck and camel’s hump). Apparent densities do vary considerably (<xref ref-type="fig" rid="pone-0091691-g005">Figure 5B</xref>) but do not scale to body mass.</p>
+<p>When including the gorilla in the dataset, we find primates to scale <italic>M</italic><sub>b</sub> to <italic>vol</italic><sub>CH</sub> with positive allometry (<italic>b</italic> = 1.07, 95%<italic>CI</italic> = 1.01–1.12) and hence apparent density increases with mass. With the exception of humans, there are extremely sparse data in the literature regarding primate body density (<xref ref-type="supplementary-material" rid="pone.0091691.s001">Table S1</xref>) and without additional information on non-humans, a conclusion regarding the possible scaling of carcass density cannot be reached. Alternatively, apparent density may be scaling due to a size-related shift in the distribution of soft-tissue around the skeleton. Unpublished data has found terrestrial primates to be more muscular than arboreal species, regardless of their taxonomic affinity <xref ref-type="bibr" rid="pone.0091691-Grand1">[60]</xref>. The largest members of our primate sample (<italic>G. gorilla, Homo sapiens, Pan troglodytes</italic>) are either entirely or primarily terrestrial. As such, we might expect the increase in apparent density in terrestrial apes to reflect increased muscle mass held outside the convex hull envelope, and therefore an increase in the <italic>vol</italic><sub>fl</sub>: <italic>vol</italic><sub>CH</sub> ratio. However, the scaling exponent for primate <italic>M</italic><sub>b</sub> to <italic>vol</italic><sub>CH</sub> is barely above isometry, and when the gorilla is removed from the dataset due to concerns regarding the reconstruction of the disarticulated skeleton, there is no significant relationship between primate apparent density and body mass (<italic>p</italic>&gt;0.05). This suggests our results are very sensitive to taxon sampling and more data regarding primate segment density and body composition, to compliment the wealth of existing data regarding segment mass and inertial properties, are sorely needed to resolve this uncertainty. Furthermore, two primates included in this study did not possess associated body mass data (<italic>Hylobates lar, Pan troglodytes</italic>). Despite being captive animals, literature values for mass were assigned to these specimens based upon regressions derived from wild-collected specimens (see <xref ref-type="table" rid="pone-0091691-t001">Table 1</xref>). Primate individuals residing in zoos are known to be heavier, possess a higher body mass index (BMI) and percentage body fat composition than wild individuals <xref ref-type="bibr" rid="pone.0091691-Videan1">[61]</xref> and our assigned values for body mass are therefore likely to be underestimates.</p>
+<p>Despite the reputation of birds as being comparatively ‘light-weight’ <xref ref-type="bibr" rid="pone.0091691-Gill1">[62]</xref>, here we find the apparent densities of some avian individuals to be higher than those of modern mammals (<xref ref-type="fig" rid="pone-0091691-g005">Figure 5B</xref>). Due to the variety of methodologies employed to calculate carcass density and inconsistencies in the way in which density is reported in the literature, a statistical meta-analysis of previously published values is not possible. With the exception of diving birds however, a trend is visible in the literature whereby carcass density appears to be lower in birds than mammals (<xref ref-type="supplementary-material" rid="pone.0091691.s001">Table S1</xref>). This divergence between apparent convex hull density and carcass density may therefore be attributed to the convex hulling process itself.</p>
+<p>Hypothesised adaptions or exaptations for weight saving in modern birds include possession of more hollow long bones (<xref ref-type="bibr" rid="pone.0091691-Currey2">[63]</xref>, although see <xref ref-type="bibr" rid="pone.0091691-Prange1">[64]</xref>–<xref ref-type="bibr" rid="pone.0091691-Dumont1">[65]</xref>) and pneumatisation of the postcranial skeleton <xref ref-type="bibr" rid="pone.0091691-Wedel1">[66]</xref>. The convex hulling process does not account for the presence of air-filled cavities of a much lower density than soft tissue, resulting in inflated values for apparent density relative to carcass density. This is not a concern when applying the <italic>M</italic><sub>b</sub> ∝ <italic>vol</italic><sub>CH</sub> model in a predictive capacity, assuming the degree of pneumaticity also changes in a predictable way with mass. No explicit data exists regarding the scaling of air-sac volume in modern Aves, however a positive relationship has been identified between body mass and a ‘pneumaticity index’ (scoring the presence/absence of pneumaticity in 12 anatomical units) in 37 species of bird <xref ref-type="bibr" rid="pone.0091691-OConnor1">[67]</xref>. It is not clear how applicable these results are to the bird calibration curve presented here, given that flightless ratites are not included in their sample. Further work is needed to quantify and incorporate segment-specific variation in body density into avian convex hulls, particularly when the calibration curves are to be subsequently applied to pneumatic saurischian dinosaur and fossil bird skeletons.</p>
+<p>Here we find a significant negative relationship between apparent density and body mass within our bird sample (<xref ref-type="fig" rid="pone-0091691-g005">Figure 5B</xref>). Re-analysing previously published data <xref ref-type="bibr" rid="pone.0091691-Budgey1">[68]</xref>, in which the feathered and plucked body densities of 26 species of neognath birds were estimated using fluid displacement, a negative relationship is also found (<xref ref-type="fig" rid="pone-0091691-g006">Figure 6</xref>). Interestingly plucked carcass density is found to have a much stronger correlation to body mass than feathered density (plucked <italic>r</italic><sup>2</sup> = 0.61, <italic>p</italic>&lt;0.001, feathered <italic>r</italic><sup>2</sup> = 0.16, <italic>p</italic> = 0.04). Given feather mass appears to scale isometrically with high correlation coefficients in neognaths <xref ref-type="bibr" rid="pone.0091691-Turcek1">[69]</xref>–<xref ref-type="bibr" rid="pone.0091691-Kendeigh1">[70]</xref>, this may be attributed to variability in the volume of air trapped beneath feathers and/or methodological difficulties associated with air escaping prior to submergence.</p>
+<fig id="pone-0091691-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091691.g006</object-id><label>Figure 6</label><caption>
+<title>Scaling of density against mass in birds.</title>
+<p>Feathered carcass density (open circles) scales negatively against body mass (<italic>a</italic> = 707, <italic>b</italic> = −50.4, <italic>r</italic><sup>2</sup> = 0.16, <italic>p</italic> = 0.04). Plucked carcass density (closed circles) scales negatively against body mass (<italic>a</italic> = 955. <italic>b</italic> = −72.4, <italic>r</italic><sup>2</sup> = 0.61, <italic>p</italic>&lt;0.001). Note the extremely weak correlation between feathered body density and mass, compared to the much stronger correlation between plucked carcass density and mass (see text for further discussion). Feathered and plucked carcass data from Budgey (2000). Convex hull density in birds also given for reference (closed triangles).</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091691.g006" position="float" xlink:type="simple"/></fig>
+<p>Superimposing our data points for apparent density onto those calculated by Budgey <xref ref-type="bibr" rid="pone.0091691-Budgey1">[68]</xref> (<xref ref-type="fig" rid="pone-0091691-g006">Figure 6</xref>), our values for large ratites (<italic>Struthio camelus, Rhea americana, Rhea pennata, Dromaius novaehollandiae</italic>) fall very close to those predicted by the plucked carcass model. An exception is the cassowary (<italic>Casuarius casuarius</italic>) which has previously been identified as an outlier in a ratite-specific convex hull calibration curve due to uncertainties in a literature-assigned body mass <xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref>. In contrast, the smaller ratites (<italic>Apteryx australis, Apteryx australis lawryi</italic>) and neognaths possess apparent densities greatly in excess of those predicted for plucked carcasses. This suggests that the volume of ‘missing’ soft tissue located outside the convex hull is greater in smaller birds.</p>
+<p>The pectoral muscles constitute the largest organ in flying birds, comprising on average 17% of total body mass <xref ref-type="bibr" rid="pone.0091691-Greenewalt1">[71]</xref>. In contrast, pectoral muscle in flightless ratites is considerably reduced relative to volant species <xref ref-type="bibr" rid="pone.0091691-Jasinoski1">[72]</xref>–<xref ref-type="bibr" rid="pone.0091691-Maxwell1">[73]</xref>, with pectoralis mass accounting for 0.25% of total mass in kiwi <xref ref-type="bibr" rid="pone.0091691-McNab1">[74]</xref>. However variation in pectoralis mass is unlikely to account for the observed trend in apparent densities, as the possession of large pectoralis muscles has an osteological correlate in the occurrence of a keeled sternum. The keel will act to increase <italic>vol</italic><sub>CH</sub> in neognaths by shifting the maximum extent of the convex hull ventrally, and thus account for the presence of an enlarged pectoralis musculature.</p>
+<p>As a counterpoint, the reduction in pectoral musculature in ratites is accompanied by an increase in pelvic musculature relative to flighted birds. Values for hindlimb muscle mass as a percentage of total <italic>M</italic><sub>b</sub> for ostrich (<italic>Struthio camelus</italic>) range from 29% <xref ref-type="bibr" rid="pone.0091691-Alexander2">[75]</xref> to 34% <xref ref-type="bibr" rid="pone.0091691-Smith4">[76]</xref>, and values of 25% are reported for the emu (<italic>Dromaius novaehollandiae</italic>) <xref ref-type="bibr" rid="pone.0091691-Patak1">[77]</xref>. In contrast, the lower extremities of flighted neognaths (including muscle and skeletal parts) account for 1–17% of body mass in a diverse sample of species <xref ref-type="bibr" rid="pone.0091691-Hartman1">[78]</xref>. The exclusion of hindlimb musculature by the convex hulling process cannot account for the observed trend in apparent densities however, as proportionally more muscle mass would be excluded from ratite convex hulls than flighted birds. This would results in an <italic>increase</italic> in apparent density in ratites relative to neognaths, the reverse of the trend observed in this study.</p>
+<p>As previously discussed, feather mass is known to scale isometrically with body mass in neognath birds <xref ref-type="bibr" rid="pone.0091691-Turcek1">[69]</xref>–<xref ref-type="bibr" rid="pone.0091691-Kendeigh1">[70]</xref>, averaging 6% of total <italic>M</italic><sub>b</sub>. A review of literature-reported values for feather mass suggests kiwis also fall within this range (4.7–6.8% of total <italic>M</italic><sub>b</sub>, <xref ref-type="bibr" rid="pone.0091691-Reid1">[79]</xref>). However, large ratites (ostrich, emu and rhea) are found to posses considerably less plumage (1.5–1.9% of total <italic>M</italic><sub>b</sub>, see <xref ref-type="supplementary-material" rid="pone.0091691.s002">Table S2</xref>) than neognaths. Thus feather mass may account for a small proportion of the observed ‘missing mass’ in neognaths and kiwi, but cannot adequately explain such a large disparity between our apparent density values and plucked density values of Budgey <xref ref-type="bibr" rid="pone.0091691-Budgey1">[68]</xref> as observed in small birds. It does however highlight the importance of choosing appropriate modern analogues when reconstructing mass in fossil species. Alexander’s <xref ref-type="bibr" rid="pone.0091691-Alexander3">[80]</xref> estimates of moa body mass, incorporating a value for feather mass of 5.6% of total <italic>M</italic><sub>b</sub> (his method (i)), are likely to be overestimates given the plumage values for large ratites presented here.</p>
+<p>In addition to muscle and integument, fat deposits are also stored outside the convex hull of the skeleton. Reanalysing the data presented by Daan et al. <xref ref-type="bibr" rid="pone.0091691-Daan1">[81]</xref> on 22 neognath species, the average percentage body fat is 7.8% and this does not scale with body mass (<italic>p</italic>&gt;0.36). Caution must be exercised however, as this study includes long-distance migratory species (known to lay down extensive fat deposits prior to departure) without clarifying the season of data collection. Similar values for average percentage body fat are found for ostrich (5%, <xref ref-type="bibr" rid="pone.0091691-Morris1">[82]</xref>) and rhea (7%, <xref ref-type="bibr" rid="pone.0091691-Sales1">[83]</xref>), whilst emu body fat composition is exceptionally high due to selection for oil production (28% body fat, <xref ref-type="bibr" rid="pone.0091691-Sales2">[84]</xref>).</p>
+<p>Regardless of whether total fat mass conforms to isometry, the <italic>distribution</italic> of adipose tissue across the body is highly uneven both within- and between bird species and this is likely to be reflected in the ‘missing mass’ of the convex hulling process. Wirestam et al. <xref ref-type="bibr" rid="pone.0091691-Wirestam1">[85]</xref> found fat accumulation did not follow a geometrical model in flying birds, with deposition occurring preferentially at the front and back of the body. Neognaths preferentially deposit fat subcutaneously across the abdomen area (from sternum to cloaca) and in the furcula depression <xref ref-type="bibr" rid="pone.0091691-Kaiser1">[86]</xref>. In contrast, large ratites (ostrich, emu, and rhea) are said to possess ‘minimal’ abdominal subcutaneous fat deposits, with a thick layer of adipose tissue stored within the retroperitoneum <xref ref-type="bibr" rid="pone.0091691-Fowler1">[87]</xref>. Very little body composition data exists for the kiwi, except for an average fat mass of 300 g given for <italic>Apteryx mantelli</italic> <xref ref-type="bibr" rid="pone.0091691-Reid1">[79]</xref>. Assuming an average body mass of 1930 g for males and 2360 g for females, this represents a percentage body fat of 13–16% which is stored subcutaneously <xref ref-type="bibr" rid="pone.0091691-Reid1">[79]</xref>. High apparent density values calculated here for neognaths and kiwi may therefore reflect a shift in the distribution of body fat to anatomical positions located beyond the convex hull extent defined by the skeleton.</p>
+<p>Initial convex hull studies employed museum-based LiDAR scanning as a means of generating a modern calibration dataset <xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref>, <xref ref-type="bibr" rid="pone.0091691-Sellers1">[18]</xref>. LiDAR allows a large dataset (a gallery full of skeletons, for example) to be acquired within 2–3 hours. However skeletal mounts on display in public museums may be mounted incorrectly, and frequently have no body mass data associated with them. In this case body masses must be subsequently assigned using literature values. Here, for the first time, we have derived a primate convex hull calibration curve using CT scan data of whole carcasses. This approach avoids problems associated with skeletal mounting (intervertebral spacing, scapula placement etc. are all predefined by the soft tissue still present in the scan), and mass can be recorded directly from the carcass. As CT is becoming cheaper and easier to access, this is a promising area for further research. Furthermore, incorporating magnetic resonance imaging (MRI) data has the potential to illuminate interspecific variation in muscle and fat mass distribution around the skeleton that has been discussed in some detail here.</p>
+</sec></sec><sec id="s5">
+<title>Conclusions</title>
+<p>In summary, we have demonstrated that minimal convex hull volume (<italic>vol</italic><sub>CH</sub>) is an extremely good predictor of body mass in modern groups of non-primate mammals, primates and birds. Our models are characterised by low values for mean percentage prediction error (%PE) equivalent to those recently reported for bivariate regressions of limb bone dimensions <xref ref-type="bibr" rid="pone.0091691-Campione1">[2]</xref>, <xref ref-type="bibr" rid="pone.0091691-Field1">[3]</xref> but with the added advantage of not relying upon single skeletal elements. We have highlighted the potential for the convex hulling method to be applied either solely for the purpose of estimating body mass in fossil species, or as a precursor to a functional biomechanical analysis for which body mass is a required input.</p>
+<p>We have found, as expected, that the apparent densities of the convex hull objects calculated here are significant overestimates compared to published values of carcass density. This is due to the exclusion of ‘missing’ soft tissue held outside the contours of the skeleton from our calculations of volume. We have postulated on the possible sources of this missing soft tissue including muscle, integument and body fat, and present data collated from the literature regarding animal body density and composition. We believe this will be of interest to those working in the field of fossil reconstruction, particularly on saurischian dinosaurs and fossil birds.</p>
+<p>The convex hulling method presented here sidesteps the requirement for soft-tissue reconstruction prior to mass estimation, and provides a straightforward means to conduct sensitivity analyses of the skeletal mount. However, user subjectivity is not entirely eliminated as decisions must still be made regarding the division of the skeleton into ‘functional’ units prior to convex hulling. The subdivision of the neck, tail and tarsal/phalanges is necessary to ensure a tight-fitting hull, yet requires some degree of user input. In studies focused upon a specific group with a shared body plan (such as ratites, <xref ref-type="bibr" rid="pone.0091691-Brassey1">[8]</xref>), this process is unlikely to effect the outcome of the calibration curve. However in studies incorporating species of differing bauplans, the way in which the skeleton is segmented up may impact upon the ultimate result. The methodology for subdividing the skeleton must therefore be explicitly stated, and further work is needed to quantify the effect of segmentation upon mass prediction curves.</p>
+</sec><sec id="s6">
+<title>Supporting Information</title>
+<supplementary-material id="pone.0091691.s001" mimetype="application/msword" xlink:href="info:doi/10.1371/journal.pone.0091691.s001" position="float" xlink:type="simple"><label>Table S1</label><caption>
+<p><bold>Literature values for bird and mammal body density.</bold> The value for human body density was chosen from a recent study of healthy non-athletes <xref ref-type="bibr" rid="pone.0091691-SchmidtNielsen1">[1]</xref>. An extensive literature exists on human body density values as a means of assessing body fat composition, but is beyond the scope of the present study. Caution should be exercised when interpreting the body density of domesticated farm animals in particular due to artificial selection for fat deposition. Furthermore, the studies listed below differ in both their methodology for estimating density (fluid displacement, volumetric models, kinematics), and the condition of the carcass (articulated vs. disarticulated, feathered vs. plucked, complete vs. eviscerated).</p>
+<p>(DOC)</p>
+</caption></supplementary-material><supplementary-material id="pone.0091691.s002" mimetype="application/msword" xlink:href="info:doi/10.1371/journal.pone.0091691.s002" position="float" xlink:type="simple"><label>Table S2</label><caption>
+<p><bold>Literature values for percentage contribution of feathers to total body mass in birds.</bold> Refer to the original source for sample sizes and further details of the methodology. Protocols differ in terms of weighing total feather mass (contour feathers <italic>plus</italic> down feathers) vs. contour feathers only; whether feathers are artificially dried prior to weighing; whether male and female plumage is considered separately or grouped.</p>
+<p>(DOC)</p>
+</caption></supplementary-material></sec></body>
+<back>
+<ack>
+<p>The authors would like to thank Z+F Limited, Malgosia Nowak-Kemp (Oxford University Museum of Natural History), Matthew Lowe (University Museum of Zoology, Cambridge), the staff of the Digital Morphology Museum (Kyoto University Primate Research Institute, KUPRI), the Visible Human Project (U.S. National Library of Medicine) and Richard Budgey (Animal Health and Veterinary Laboratories Agency, AHVLA).</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0091691-SchmidtNielsen1"><label>1</label>
+<mixed-citation publication-type="other" xlink:type="simple">Schmidt-Nielsen K (1984) Scaling: Why is animal size so important? Cambridge: Cambridge University Press.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Campione1"><label>2</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Campione</surname><given-names>NE</given-names></name>, <name name-style="western"><surname>Evans</surname><given-names>DC</given-names></name> (<year>2012</year>) <article-title>A universal scaling relationship between body mass and proximal limb bone dimensions in quadrupedal terrestrial tetrapods</article-title>. <source>BMC Biol</source> <volume>10</volume>: <fpage>60</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Field1"><label>3</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Field</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Lynner</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Brown</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Darroch</surname><given-names>S</given-names></name> (<year>2013</year>) <article-title>Skeletal Correlates for Body Mass Estimation in Modern and Fossil Flying Birds</article-title>. <source>PLoS One</source> <volume>8</volume>: <fpage>e82000</fpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0082000" xlink:type="simple">10.1371/journal.pone.0082000</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Smith1"><label>4</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Smith</surname><given-names>RJ</given-names></name> (<year>2002</year>) <article-title>Estimation of body mass in paleontology</article-title>. <source>J Hum Evol</source> <volume>43</volume>: <fpage>271</fpage>–<lpage>287</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Smith2"><label>5</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Smith</surname><given-names>RJ</given-names></name> (<year>1993</year>) <article-title>Logarithmic transformation bias in allometry. Am J Phys Anth</article-title>. <volume>90</volume>: <fpage>215</fpage>–<lpage>228</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Smith3"><label>6</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Smith</surname><given-names>RJ</given-names></name> (<year>2009</year>) <article-title>Use and misuse of the reduced major axis for line-fitting. Am J Phys Anth</article-title>. <volume>140</volume>: <fpage>476</fpage>–<lpage>486</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Packard1"><label>7</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Packard</surname><given-names>GC</given-names></name>, <name name-style="western"><surname>Boardman</surname><given-names>TJ</given-names></name>, <name name-style="western"><surname>Birchard</surname><given-names>GF</given-names></name> (<year>2009</year>) <article-title>Allometric equations for predicting body mass of dinosaurs</article-title>. <source>J Zool</source> <volume>279</volume>: <fpage>102</fpage>–<lpage>110</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Brassey1"><label>8</label>
+<mixed-citation publication-type="other" xlink:type="simple">Brassey CA, Holdaway RN, Packham AG, Anne J, Manning PL, Sellers WI (2013) More Than One Way of Being a Moa: Differences in Leg Bone Robustness Map Divergent Evolutionary Trajectories in Dinornithidae and Emeidae (Dinornithiformes). PLoS One. doi: 10.1371/journal.pone.0082668.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Gregory1"><label>9</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gregory</surname><given-names>WK</given-names></name> (<year>1905</year>) <article-title>The weight of the Brontosaurus</article-title>. <source>Science</source> <volume>22</volume>: <fpage>572</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Colbert1"><label>10</label>
+<mixed-citation publication-type="other" xlink:type="simple">Colbert E (1962) The weights of dinosaurs. Am Museum Novit.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Alexander1"><label>11</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Alexander</surname><given-names>RMN</given-names></name> (<year>1985</year>) <article-title>Mechanics of posture and gait of some large dinosaurs</article-title>. <source>Zool J Linn Soc</source> <volume>83</volume>: <fpage>1</fpage>–<lpage>25</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Henderson1"><label>12</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Henderson</surname><given-names>DM</given-names></name> (<year>1999</year>) <article-title>Estimating the masses and centers of mass of extinct animals by 3-D mathematical slicing</article-title>. <source>Paleobiol</source> <volume>25</volume>: <fpage>88</fpage>–<lpage>106</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Motani1"><label>13</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Motani</surname><given-names>R</given-names></name> (<year>2001</year>) <article-title>Estimating body mass from silhouettes: testing the assumption of elliptical body cross-sections</article-title>. <source>Paleobiol</source> <volume>27(4)</volume>: <fpage>735</fpage>–<lpage>750</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Hutchinson1"><label>14</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hutchinson</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>Ng-Thow-Hing</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Anderson</surname><given-names>FC</given-names></name> (<year>2007</year>) <article-title>A 3D interactive method for estimating body segmental parameters in animals: Application to the turning and running performance of <italic>Tyrannosaurus rex</italic></article-title>. <source>J Theor Biol</source> <volume>246</volume>: <fpage>660</fpage>–<lpage>680</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Allen1"><label>15</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Allen</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Paxton</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Hutchinson</surname><given-names>JR</given-names></name> (<year>2009</year>) <article-title>Variation in center of mass estimates for extant sauropsids and its importance for reconstructing inertial properties of extinct archosaurs</article-title>. <source>Anat Rec</source> <volume>292</volume>: <fpage>1442</fpage>–<lpage>1461</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Bates1"><label>16</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bates</surname><given-names>KT</given-names></name>, <name name-style="western"><surname>Manning</surname><given-names>PL</given-names></name>, <name name-style="western"><surname>Hodgetts</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Sellers</surname><given-names>WI</given-names></name> (<year>2009</year>) <article-title>Estimating mass properties of dinosaurs using laser imaging and 3D computer modelling</article-title>. <source>PLoS One</source> <volume>4(2)</volume>: <fpage>e4532</fpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0004532" xlink:type="simple">10.1371/journal.pone.0004532</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Bates2"><label>17</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bates</surname><given-names>KT</given-names></name>, <name name-style="western"><surname>Falkingham</surname><given-names>PL</given-names></name>, <name name-style="western"><surname>Breithaupt</surname><given-names>BH</given-names></name>, <name name-style="western"><surname>Hodgetts</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Sellers</surname><given-names>WI</given-names></name>, <etal>et al</etal>. (<year>2009</year>) <article-title>How big was “Big Al”? Quantifying the effect of soft tissue and osteological unknowns on mass predictions for <italic>Allosaurus</italic> (Dinosauria: Theropoda)</article-title>. <source>Palaeont Electron</source> <volume>12</volume>: <fpage>14A</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Sellers1"><label>18</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sellers</surname><given-names>WI</given-names></name>, <name name-style="western"><surname>Hepworth-Bell</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Falkingham</surname><given-names>PL</given-names></name>, <name name-style="western"><surname>Bates</surname><given-names>KT</given-names></name>, <name name-style="western"><surname>Brassey</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Egerton</surname><given-names>VM</given-names></name>, <name name-style="western"><surname>Manning</surname><given-names>PL</given-names></name> (<year>2012</year>) <article-title>Minimum convex hull mass estimations of complete mounted skeletons</article-title>. <source>Biol Lett</source> <volume>8</volume>: <fpage>842</fpage>–<lpage>845</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Sellers2"><label>19</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sellers</surname><given-names>WI</given-names></name>, <name name-style="western"><surname>Margetts</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Coria</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Manning</surname><given-names>PL</given-names></name> (<year>2013</year>) <article-title>March of the Titans: The Locomotor Capabilities of Sauropod Dinosaurs</article-title>. <source>PLoS One</source> <volume>8</volume>: <fpage>e78733</fpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0078733" xlink:type="simple">10.1371/journal.pone.0078733</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-DeBerg1"><label>20</label>
+<mixed-citation publication-type="other" xlink:type="simple">De Berg M, Cheong O, van Kreveld M, Overmars M (2008) Computational Geometry: Algorithms and Applications. Heidelberg: Springerverlag Berlin Heidelberg.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Cornwell1"><label>21</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Cornwell</surname><given-names>WK</given-names></name>, <name name-style="western"><surname>Schwilk</surname><given-names>LDW</given-names></name>, <name name-style="western"><surname>Ackerly</surname><given-names>DD</given-names></name> (<year>2006</year>) <article-title>A trait-based test for habitat filtering: convex hull volume</article-title>. <source>Ecology</source> <volume>87</volume>: <fpage>1465</fpage>–<lpage>1471</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Liu1"><label>22</label>
+<mixed-citation publication-type="other" xlink:type="simple">Liu R (2008) Convex Hull Covering of Polygonal Scenes for Accurate Collision Detection in Games. In Proceedings of Graphics Interface 2008. Windsor, Ontario, Canada: Canadian Information Processing Society.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Crainic1"><label>23</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Crainic</surname><given-names>TG</given-names></name> (<year>2000</year>) <article-title>Service network design in freight transportation</article-title>. <source>Eur J Oper Res</source> <volume>122</volume>: <fpage>272</fpage>–<lpage>288</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0377-2217(99)00233-7" xlink:type="simple">10.1016/S0377-2217(99)00233-7</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Falkingham1"><label>24</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Falkingham</surname><given-names>PL</given-names></name> (<year>2012</year>) <article-title>Acquisition of high resolution three-dimensional models using free, open-source, photogrammetric software</article-title>. <source>Palaeontol Electron</source> <volume>15</volume>: <fpage>1T</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Auerbach1"><label>25</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Auerbach</surname><given-names>BM</given-names></name>, <name name-style="western"><surname>Ruff</surname><given-names>CB</given-names></name> (<year>2004</year>) <article-title>Human body mass estimation: a comparison of “morphometric” and “mechanical” methods. Am J Phys Anth</article-title>. <volume>125</volume>: <fpage>331</fpage>–<lpage>342</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/ajpa.20032" xlink:type="simple">10.1002/ajpa.20032</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Johanson1"><label>26</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Johanson</surname><given-names>DC</given-names></name>, <name name-style="western"><surname>White</surname><given-names>TD</given-names></name> (<year>1979</year>) <article-title>A Systematic Assessment of Early African Hominids</article-title>. <source>Science</source> <volume>203</volume>: <fpage>321</fpage>–<lpage>330</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Brown1"><label>27</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brown</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Harris</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Leakey</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Walker</surname><given-names>A</given-names></name> (<year>1985</year>) <article-title>Early <italic>Homo erectus</italic> skeleton from west Lake Turkana, Kenya</article-title>. <source>Nature</source> <volume>316</volume>: <fpage>788</fpage>–<lpage>792</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Napier1"><label>28</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Napier</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Davis</surname><given-names>P</given-names></name> (<year>1959</year>) <article-title>The fore-limb skeleton and associated remains of <italic>Proconsul africanus</italic></article-title>. <source>Foss Mamm Africa</source> <volume>16</volume>: <fpage>1</fpage>–<lpage>69</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-MoySol1"><label>29</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Moyà-Solà</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Kohler</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Alba</surname><given-names>DM</given-names></name>, <name name-style="western"><surname>Casanovas-Vilar</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Galindo</surname><given-names>J</given-names></name> (<year>2004</year>) <article-title><italic>Pierolapithecus catalaunicus</italic>, a New Middle Miocene Great Ape from Spain</article-title>. <source>Science</source> <volume>306</volume>: <fpage>1339</fpage>–<lpage>1344</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Franzen1"><label>30</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Franzen</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Gingerich</surname><given-names>PD</given-names></name>, <name name-style="western"><surname>Habersetzer</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Hurum</surname><given-names>JH</given-names></name>, <name name-style="western"><surname>von Koenigswald</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Smith</surname><given-names>HB</given-names></name> (<year>2009</year>) <article-title>Complete primate skeleton from the Middle Eocene of Messel in Germany: morphology and paleobiology</article-title>. <source>PLoS One</source> <volume>4</volume>: <fpage>e5723</fpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0005723" xlink:type="simple">10.1371/journal.pone.0005723</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Hill1"><label>31</label>
+<mixed-citation publication-type="other" xlink:type="simple">Hill W (1953) Primates: comparative anatomy and taxonomy. Vol. 1: Strepsirhini. Edinburgh: Edinburgh University Press.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Scott1"><label>32</label>
+<mixed-citation publication-type="other" xlink:type="simple">Scott KM (1990) Postcranial dimensions of ungulates as predictors of body mass. In: Damuth J, MacFadden BJ, editors. Body size in mammalian paleobiology. Cambridge: Cambridge University Press. 301–335.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Ruff1"><label>33</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ruff</surname><given-names>CB</given-names></name> (<year>2003</year>) <article-title>Long bone articular and diaphyseal structure in old world monkeys and apes. II: Estimation of body mass. Am J Phys Anth</article-title>. <volume>120</volume>: <fpage>16</fpage>–<lpage>37</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Rosset1"><label>34</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rosset</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Spadola</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Ratib</surname><given-names>O</given-names></name> (<year>2004</year>) <article-title>OsiriX: an open-source software for navigating in multidimensional DICOM images</article-title>. <source>J Digit Imaging</source> <volume>17</volume>: <fpage>205</fpage>–<lpage>216</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Barber1"><label>35</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Barber</surname><given-names>CB</given-names></name>, <name name-style="western"><surname>Dobkin</surname><given-names>DP</given-names></name>, <name name-style="western"><surname>Huhdanpaa</surname><given-names>HT</given-names></name> (<year>1996</year>) <article-title>The Quickhull algorithm for convex hulls</article-title>. <source>ACM Trans Math Softw</source> <volume>22</volume>: <fpage>469</fpage>–<lpage>483</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Brassey2"><label>36</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brassey</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Kitchener</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Withers</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Manning</surname><given-names>PL</given-names></name>, <name name-style="western"><surname>Sellers</surname><given-names>WI</given-names></name> (<year>2013</year>) <article-title>The Role of Cross-Sectional Geometry, Curvature, and Limb Posture in Maintaining Equal Safety Factors: A Computed Tomography Study</article-title>. <source>Anat Rec</source> <volume>296</volume>: <fpage>395</fpage>–<lpage>413</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Arnason1"><label>37</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Arnason</surname><given-names>U</given-names></name>, <name name-style="western"><surname>Gullberg</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Gretarsdottir</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Ursing</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Janke</surname><given-names>A</given-names></name> (<year>2000</year>) <article-title>The mitochondrial genome of the sperm whale and a new molecular reference for estimating eutherian divergence dates</article-title>. <source>J Mol Evol</source> <volume>50</volume>: <fpage>569</fpage>–<lpage>578</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Guha1"><label>38</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Guha</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Goyal</surname><given-names>SP</given-names></name>, <name name-style="western"><surname>Kashyap</surname><given-names>VK</given-names></name> (<year>2007</year>) <article-title>Molecular phylogeny of musk deer: A genomic view with mitochondrial 16S rRNA and cytochrome b gene</article-title>. <source>Mol Phylogenet Evol</source> <volume>42</volume>: <fpage>585</fpage>–<lpage>597</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Hasegawa1"><label>39</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hasegawa</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Thorne</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Kishino</surname><given-names>H</given-names></name> (<year>2003</year>) <article-title>Time scale of eutherian evolution estimated without assuming a constant rate of molecular evolution</article-title>. <source>Genes Genet Syst</source> <volume>78</volume>: <fpage>267</fpage>–<lpage>283</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Hassanin1"><label>40</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hassanin</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Douzery</surname><given-names>EJP</given-names></name> (<year>2003</year>) <article-title>Molecular and Morphological Phylogenies of Ruminantia and the Alternative Position of the Moschidae</article-title>. <source>Syst Biol</source> <volume>52</volume>: <fpage>206</fpage>–<lpage>228</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Hughes1"><label>41</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hughes</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Hayden</surname><given-names>TJ</given-names></name>, <name name-style="western"><surname>Douady</surname><given-names>CJ</given-names></name>, <name name-style="western"><surname>Tougard</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Germonpré</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Stuart</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Lbova</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Carden</surname><given-names>RF</given-names></name>, <name name-style="western"><surname>Hanni</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Sav</surname><given-names>L</given-names></name> (<year>2006</year>) <article-title>Molecular phylogeny of the extinct giant deer, <italic>Megaloceros giganteus</italic></article-title>. <source>Mol Phylogenet Evol</source> <volume>40</volume>: <fpage>285</fpage>–<lpage>291</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Murphy1"><label>42</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Murphy</surname><given-names>WJ</given-names></name>, <name name-style="western"><surname>Pringle</surname><given-names>TH</given-names></name>, <name name-style="western"><surname>Crider</surname><given-names>TA</given-names></name>, <name name-style="western"><surname>Springer</surname><given-names>MS</given-names></name>, <name name-style="western"><surname>Miller</surname><given-names>W</given-names></name> (<year>2007</year>) <article-title>Using genomic data to unravel the root of the placental mammal phylogeny</article-title>. <source>Genome Res</source> <volume>17</volume>: <fpage>413</fpage>–<lpage>421</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Robinson1"><label>43</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Robinson</surname><given-names>TJ</given-names></name>, <name name-style="western"><surname>Ropiquet</surname><given-names>A</given-names></name> (<year>2011</year>) <article-title>Examination of Hemiplasy, Homoplasy and Phylogenetic Discordance in Chromosomal Evolution of the Bovidae</article-title>. <source>Syst Biol</source> <volume>60</volume>: <fpage>439</fpage>–<lpage>450</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Thomas1"><label>44</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Thomas</surname><given-names>MG</given-names></name>, <name name-style="western"><surname>Hagelberg</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Jones</surname><given-names>HB</given-names></name>, <name name-style="western"><surname>Yang</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Lister</surname><given-names>AM</given-names></name> (<year>2000</year>) <article-title>Molecular and morphological evidence on the phylogeny of the Elephantidae</article-title>. <source>Proc R Soc B Biol Sci</source> <volume>267</volume>: <fpage>2493</fpage>–<lpage>2500</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Finstermeier1"><label>45</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Finstermeier</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Zinner</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Brameier</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Meyer</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Kreuz</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Hofreiter</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Roos</surname><given-names>C</given-names></name> (<year>2013</year>) <article-title>A mitogenomic phylogeny of living primates</article-title>. <source>PLoS One</source> <volume>8</volume>: <fpage>e69504</fpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0069504" xlink:type="simple">10.1371/journal.pone.0069504</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Burbidge1"><label>46</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Burbidge</surname><given-names>ML</given-names></name>, <name name-style="western"><surname>Colbourne</surname><given-names>RM</given-names></name>, <name name-style="western"><surname>Robertson</surname><given-names>HA</given-names></name>, <name name-style="western"><surname>Baker</surname><given-names>AJ</given-names></name> (<year>2003</year>) <article-title>Molecular and other biological evidence supports the recognition of at least three species of brown kiwi. Conserv Genet</article-title>. <volume>4</volume>: <fpage>167</fpage>–<lpage>177</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Brown2"><label>47</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brown</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Rest</surname><given-names>J</given-names></name>, <name name-style="western"><surname>García-Moreno</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Sorenson</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Mindell</surname><given-names>D</given-names></name> (<year>2008</year>) <article-title>Strong mitochondrial DNA support for a Cretaceous origin of modern avian lineages</article-title>. <source>BMC Biol</source> <volume>6</volume>: <fpage>6</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Phillips1"><label>48</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Phillips</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Gibb</surname><given-names>GC</given-names></name>, <name name-style="western"><surname>Crimp</surname><given-names>EA</given-names></name>, <name name-style="western"><surname>Penny</surname><given-names>D</given-names></name> (<year>2010</year>) <article-title>Tinamous and moa flock together: mitochondrial genome sequence analysis reveals independent losses of flight among ratites</article-title>. <source>Syst Biol</source> <volume>59</volume>: <fpage>90</fpage>–<lpage>107</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Lavin1"><label>49</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lavin</surname><given-names>SR</given-names></name>, <name name-style="western"><surname>Karasov</surname><given-names>WH</given-names></name>, <name name-style="western"><surname>Ives</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Middleton</surname><given-names>KM</given-names></name>, <name name-style="western"><surname>Garland</surname><given-names>T</given-names><suffix>Jr</suffix></name> (<year>2008</year>) <article-title>Morphometrics of the Avian Small Intestine Compared with That of Nonflying Mammals: A Phylogenetic Approach</article-title>. <source>Physiol Biochem Zool</source> <volume>81</volume>: <fpage>526</fpage>–<lpage>550</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Gartner1"><label>50</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gartner</surname><given-names>GEA</given-names></name>, <name name-style="western"><surname>Hicks</surname><given-names>JW</given-names></name>, <name name-style="western"><surname>Manzani</surname><given-names>PR</given-names></name>, <name name-style="western"><surname>Andrade D</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Abe</surname><given-names>AS</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Secor</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Garland</surname><given-names>T</given-names><suffix>Jr</suffix></name> (<year>2010</year>) <article-title>Phylogeny, Ecology, and Heart Position in Snakes</article-title>. <source>Physiol Biochem Zool</source> <volume>83</volume>: <fpage>43</fpage>–<lpage>54</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Schmidt1"><label>51</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Schmidt</surname><given-names>M</given-names></name> (<year>2005</year>) <article-title>Hind limb proportions and kinematics: are small primates different from other small mammals?</article-title> <source>J Exp Biol</source> <volume>208</volume>: <fpage>3367</fpage>–<lpage>3383</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1242/jeb.01781" xlink:type="simple">10.1242/jeb.01781</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Schmidt2"><label>52</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Schmidt</surname><given-names>M</given-names></name> (<year>2008</year>) <article-title>Forelimb proportions and kinematics: how are small primates different from other small mammals?</article-title> <source>J Exp Biol</source> <volume>211</volume>: <fpage>3775</fpage>–<lpage>3789</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1242/jeb.019802" xlink:type="simple">10.1242/jeb.019802</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Polk1"><label>53</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Polk</surname><given-names>JD</given-names></name>, <name name-style="western"><surname>Demes</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Jungers</surname><given-names>WL</given-names></name>, <name name-style="western"><surname>Biknevicius</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Heinrich</surname><given-names>RE</given-names></name>, <name name-style="western"><surname>Runestad</surname><given-names>JA</given-names></name> (<year>2000</year>) <article-title>A comparison of primate, carnivoran and rodent limb bone cross-sectional properties: are primates really unique?</article-title> <source>J Hum Evol</source> <volume>39</volume>: <fpage>297</fpage>–<lpage>325</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Mascaro1"><label>54</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mascaro</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Litton</surname><given-names>CM</given-names></name>, <name name-style="western"><surname>Hughes</surname><given-names>RF</given-names></name>, <name name-style="western"><surname>Uowolo</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Schnitzer</surname><given-names>SA</given-names></name> (<year>2011</year>) <article-title>Minimizing Bias in Biomass Allometry: Model Selection and Log-transformation of Data</article-title>. <volume>43</volume>: <fpage>649</fpage>–<lpage>653</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-DeEstebanTrivigno1"><label>55</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>De Esteban-Trivigno</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Köhler</surname><given-names>M</given-names></name> (<year>2011</year>) <article-title>New equations for body mass estimation in bovids: Testing some procedures when constructing regression functions</article-title>. <source>Mamm Biol</source> <volume>76</volume>: <fpage>755</fpage>–<lpage>761</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.mambio.2011.07.004" xlink:type="simple">10.1016/j.mambio.2011.07.004</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Taylor1"><label>56</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Taylor</surname><given-names>MP</given-names></name>, <name name-style="western"><surname>Wedel</surname><given-names>MJ</given-names></name> (<year>2013</year>) <article-title>The effect of intervertebral cartilage on neutral posture and range of motion in the necks of sauropod dinosaurs</article-title>. <source>PLoS One</source> <volume>8</volume>: <fpage>e78214</fpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0078214" xlink:type="simple">10.1371/journal.pone.0078214</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Holliday1"><label>57</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Holliday</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Ridgely</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Sedlmayr</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Witmer</surname><given-names>L</given-names></name> (<year>2010</year>) <article-title>Cartilaginous Epiphyses in Extant Archosaurs and Their Implications for Reconstructing Limb Function in Dinosaurs</article-title>. <source>PLoS One</source> <volume>5</volume>: <fpage>e13120</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Remes1"><label>58</label>
+<mixed-citation publication-type="other" xlink:type="simple">Remes K, Unwin DM, Nicole K, Heinrich W-D, Hampe O (2011) Skeletal reconstruction of <italic>Brachiosaurus brancai</italic> in the Museum fur Naturkunde, Berlin: Summarizing 70 years of Sauropod research. In: Klein N (Ed.) Biology of the Sauropod Dinosaurs: Understanding the Life of Giants. Bloomington: Indiana University Press. 305–316.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Currey1"><label>59</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currey</surname><given-names>JD</given-names></name> (<year>2003</year>) <article-title>How well are bones designed to resist fracture?</article-title> <source>J Bone Miner Res</source> <volume>18</volume>: <fpage>591</fpage>–<lpage>598</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Grand1"><label>60</label>
+<mixed-citation publication-type="other" xlink:type="simple">Grand TI (1990) The functional anatomy of body mass. In: Damuth J, MacFadden BJ (Eds.) Body size in mammalian paleobiology: Estimation and biological implications. Cambridge: Cambridge University Press. 39–47.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Videan1"><label>61</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Videan</surname><given-names>EN</given-names></name>, <name name-style="western"><surname>Fritz</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Murphy</surname><given-names>J</given-names></name> (<year>2007</year>) <article-title>Development of guidelines for assessing obesity in captive Chimpanzees (<italic>Pan troglodytes</italic>)</article-title>. <source>Zoo Biol</source> <volume>26</volume>: <fpage>93</fpage>–<lpage>104</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/zoo" xlink:type="simple">10.1002/zoo</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Gill1"><label>62</label>
+<mixed-citation publication-type="other" xlink:type="simple">Gill FB (2007) Ornithology. New York, NY: W. H. Freeman.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Currey2"><label>63</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currey</surname><given-names>JD</given-names></name>, <name name-style="western"><surname>Alexander</surname><given-names>R</given-names></name> (<year>1985</year>) <article-title>The thickness of the walls of tubular bones</article-title>. <source>J Zool</source> <volume>206</volume>: <fpage>453</fpage>–<lpage>468</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Prange1"><label>64</label>
+<mixed-citation publication-type="other" xlink:type="simple">Prange HD, Anderson JF, Rahn H (1979) Scaling of skeletal mass to body mass in birds and mammals. Am Nat: 103–122.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Dumont1"><label>65</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dumont</surname><given-names>ER</given-names></name> (<year>2010</year>) <article-title>Bone density and the lightweight skeletons of birds</article-title>. <source>Proc R Soc B Biol Sci</source> <volume>277</volume>: <fpage>2193</fpage>–<lpage>2198</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Wedel1"><label>66</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wedel</surname><given-names>MJ</given-names></name> (<year>2006</year>) <article-title>Origin of postcranial skeletal pneumaticity in dinosaurs</article-title>. <source>Integr Zool</source> <volume>1</volume>: <fpage>80</fpage>–<lpage>85</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1749-4877.2006.00019.x" xlink:type="simple">10.1111/j.1749-4877.2006.00019.x</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-OConnor1"><label>67</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>O’Connor</surname><given-names>PM</given-names></name> (<year>2009</year>) <article-title>Evolution of archosaurian body plans: skeletal adaptations of an air-sac-based breathing apparatus in birds and other archosaurs</article-title>. <source>J Exp Zool Part A Ecol Genet Physiol</source> <volume>311A</volume>: <fpage>629</fpage>–<lpage>646</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Budgey1"><label>68</label>
+<mixed-citation publication-type="other" xlink:type="simple">Budgey R (2000) The development of a substitute artificial bird by the International Birdstrike Research Group for use in aircraft component testing. International Bird Strike Committee, IBSC25/WP-IE3.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Turcek1"><label>69</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Turcek</surname><given-names>FJ</given-names></name> (<year>1966</year>) <article-title>On plumage quality in birds</article-title>. <source>Ekol Pol</source> <volume>14</volume>: <fpage>617</fpage>–<lpage>634</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Kendeigh1"><label>70</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kendeigh</surname><given-names>SC</given-names></name> (<year>1970</year>) <article-title>Energy Requirements for Existence in Relation to Size of Bird</article-title>. <source>Condor</source> <volume>72</volume>: <fpage>60</fpage>–<lpage>65</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Greenewalt1"><label>71</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Greenewalt</surname><given-names>CH</given-names></name> (<year>1962</year>) <article-title>Dimensional relationships for flying animals</article-title>. <source>Smithson Misc Collect</source> <volume>144</volume>: <fpage>1</fpage>–<lpage>46</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Jasinoski1"><label>72</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jasinoski</surname><given-names>SC</given-names></name>, <name name-style="western"><surname>Russell</surname><given-names>AP</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>2006</year>) <article-title>An integrative phylogenetic and extrapolatory approach to the reconstruction of dromaeosaur (Theropoda: Eumaniraptora) shoulder musculature</article-title>. <source>Zool J Linn Soc</source> <volume>146</volume>: <fpage>301</fpage>–<lpage>344</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1096-3642.2006.00200.x" xlink:type="simple">10.1111/j.1096-3642.2006.00200.x</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Maxwell1"><label>73</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Maxwell</surname><given-names>EE</given-names></name>, <name name-style="western"><surname>Larsson</surname><given-names>HCE</given-names></name> (<year>2007</year>) <article-title>Osteology and Myology of the Wing of the Emu (<italic>Dromaius novaehollandiae</italic>), and Its Bearing on the Evolution of Vestigial Structures</article-title>. <source>J Morphol</source> <volume>268</volume>: <fpage>423</fpage>–<lpage>441</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/jmor" xlink:type="simple">10.1002/jmor</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-McNab1"><label>74</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>McNab</surname><given-names>BK</given-names></name> (<year>1994</year>) <article-title>Energy Conservation and the Evolution of Flightlessness in Birds</article-title>. <source>Am Nat</source> <volume>144</volume>: <fpage>628</fpage>–<lpage>642</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Alexander2"><label>75</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Alexander</surname><given-names>RMN</given-names></name>, <name name-style="western"><surname>Maloiy</surname><given-names>GMO</given-names></name>, <name name-style="western"><surname>Njau</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Jayes</surname><given-names>AS</given-names></name> (<year>1979</year>) <article-title>Mechanics of the running of the ostrich (<italic>Struthio camelus</italic>). J Zool Lond</article-title>. <volume>187</volume>: <fpage>169</fpage>–<lpage>178</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Smith4"><label>76</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Smith</surname><given-names>NC</given-names></name>, <name name-style="western"><surname>Wilson</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Jespers</surname><given-names>KJ</given-names></name>, <name name-style="western"><surname>Payne</surname><given-names>RC</given-names></name> (<year>2006</year>) <article-title>Muscle architecture and functional anatomy of the pelvic limb of the ostrich (<italic>Struthio camelus</italic>). J Anat</article-title>. <volume>209</volume>: <fpage>765</fpage>–<lpage>779</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Patak1"><label>77</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Patak</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Baldwin</surname><given-names>J</given-names></name> (<year>1993</year>) <article-title>Structural and metabolic characterisation of the muscles used to power running in the emu (<italic>Dromaius novaehollandiae</italic>), a giant flightless bird. J Exp Biol</article-title>. <volume>175</volume>: <fpage>233</fpage>–<lpage>249</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Hartman1"><label>78</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hartman</surname><given-names>FA</given-names></name> (<year>1961</year>) <article-title>Locomotor mechanisms of birds. Smiths Misc Coll</article-title>. <volume>143</volume>: <fpage>1</fpage>–<lpage>91</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Reid1"><label>79</label>
+<mixed-citation publication-type="other" xlink:type="simple">Reid B, Williams G (1975) The Kiwi. In: Kuschel G (Ed.). Biogeography and Ecology in New Zealand. The Hague: Dr W. Junk Publishers. 301–330.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Alexander3"><label>80</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Alexander</surname><given-names>R</given-names></name> (<year>1983</year>) <article-title>Allometry of the leg bones of moas (Dinornithes) and other birds</article-title>. <source>J Zool</source> <volume>200</volume>: <fpage>215</fpage>–<lpage>231</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Daan1"><label>81</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Daan</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Masman</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Groenewold</surname><given-names>A</given-names></name> (<year>1990</year>) <article-title>Avian basal metabolic rates: their association with body composition and energy expenditure in nature</article-title>. <source>Am J Physiol</source> <volume>259</volume>: <fpage>333</fpage>–<lpage>340</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Morris1"><label>82</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Morris</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Harris</surname><given-names>SD</given-names></name>, <name name-style="western"><surname>May</surname><given-names>SG</given-names></name>, <name name-style="western"><surname>Jackson</surname><given-names>TC</given-names></name>, <name name-style="western"><surname>Hale</surname><given-names>DS</given-names></name>, <name name-style="western"><surname>Miller</surname><given-names>RK</given-names></name>, <name name-style="western"><surname>Keeton</surname><given-names>JT</given-names></name>, <name name-style="western"><surname>Acuff</surname><given-names>GR</given-names></name>, <name name-style="western"><surname>Lucla</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Savell</surname><given-names>JW</given-names></name> (<year>1995</year>) <article-title>Ostrich slaughter and fabrication: 1. Slaughter yields of carcasses and effects of electrical stimulation on post-mortem pH</article-title>. <source>Poult Sci</source> <volume>74</volume>: <fpage>1683</fpage>–<lpage>1687</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Sales1"><label>83</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sales</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Navarro</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Bellis</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Manero</surname><given-names>a</given-names></name>, <name name-style="western"><surname>Lizurume</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Martella</surname><given-names>MB</given-names></name> (<year>1997</year>) <article-title>Carcase and component yields of rheas</article-title>. <source>Br Poult Sci</source> <volume>38</volume>: <fpage>378</fpage>–<lpage>380</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/00071669708418006" xlink:type="simple">10.1080/00071669708418006</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Sales2"><label>84</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sales</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Horbanczuk</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Dingle</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Coleman</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Sensik</surname><given-names>S</given-names></name> (<year>1999</year>) <article-title>Carcase characteristics of emus (<italic>Dromaius novaehollandiae</italic>)</article-title>. <source>Br Poult Sci</source> <volume>40</volume>: <fpage>145</fpage>–<lpage>147</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Wirestam1"><label>85</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wirestam</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Fagerlund</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Rosén</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Hedenström</surname><given-names>A</given-names></name> (<year>2008</year>) <article-title>Magnetic Resonance Imaging for Noninvasive Analysis of Fat Storage in Migratory Birds</article-title>. <source>Auk</source> <volume>125</volume>: <fpage>965</fpage>–<lpage>971</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1525/auk.2008.07145" xlink:type="simple">10.1525/auk.2008.07145</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091691-Kaiser1"><label>86</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kaiser</surname><given-names>A</given-names></name> (<year>1993</year>) <article-title>A New Multi-Category Classification of Subcutaneous Fat Deposits of Songbirds</article-title>. <source>J F Ornithol</source> <volume>64</volume>: <fpage>246</fpage>–<lpage>255</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091691-Fowler1"><label>87</label>
+<mixed-citation publication-type="other" xlink:type="simple">Fowler ME (1991) Comparative clinical anatomy of ratites. J Zoo Wildl Med: 204–227.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>

@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="EN">
+  <front>
+    <journal-meta><journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><!--===== Grouping journal title elements =====--><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher></journal-meta>
+    <article-meta><article-id pub-id-type="publisher-id">PONE-D-10-00719</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0015592</article-id><article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Neuroscience</subject>
+            <subj-group>
+              <subject>Cognitive neuroscience</subject>
+              <subj-group>
+                <subject>Working memory</subject>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Computational neuroscience</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Theoretical biology</subject>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Computer science</subject>
+          <subj-group>
+            <subject>Algorithms</subject>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Engineering</subject>
+          <subj-group>
+            <subject>Signal processing</subject>
+            <subj-group>
+              <subject>Statistical signal processing</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Mathematics</subject>
+          <subj-group>
+            <subject>Applied mathematics</subject>
+            <subj-group>
+              <subject>Algorithms</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Social and behavioral sciences</subject>
+          <subj-group>
+            <subject>Information science</subject>
+            <subj-group>
+              <subject>Information storage and retrieval</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Psychology</subject>
+            <subj-group>
+              <subject>Cognitive psychology</subject>
+              <subj-group>
+                <subject>Memory</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Neuroscience</subject>
+          <subject>Computer Science</subject>
+          <subject>Mathematics</subject>
+        </subj-group>
+      </article-categories><title-group><article-title>The Emergence of Miller's Magic Number on a Sparse Distributed Memory</article-title><alt-title alt-title-type="running-head">STM Limits on a Sparse Distributed Memory</alt-title></title-group><contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Linhares</surname>
+            <given-names>Alexandre</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Chada</surname>
+            <given-names>Daniel M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Aranha</surname>
+            <given-names>Christian N.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group><aff id="aff1"><label>1</label><addr-line>Getulio Vargas Foundation/EBAPE, Rio de Janeiro, Brazil</addr-line>       </aff><aff id="aff2"><label>2</label><addr-line>Cortex Intelligence/R. Assembleia 10, Rio de Janeiro, Brazil</addr-line>       </aff><contrib-group>
+        <contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Allen</surname>
+            <given-names>Colin</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group><aff id="edit1">Indiana University, United States of America</aff><author-notes>
+        <corresp id="cor1">* E-mail: <email xlink:type="simple">alexandre.linhares@fgv.br</email></corresp>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: AL DMC CNA. Performed the experiments: AL DMC CNA. Analyzed the data: AL DMC. Wrote the paper: AL DMC CNA.</p>
+        </fn>
+      <fn fn-type="conflict">
+        <p>Dr. Aranha is Chief Technology Officer of Cortex Intelligence, yet the organization had no role or intervention in the research and publication of this study, nor does it intend to pursue interests in consultancy, patents, products in development, or marketed products. Furthermore, the presence of Cortex Intelligence among the funders does not alter the authors' adherence to all the PLoS ONE policies on sharing data and materials.</p>
+      </fn></author-notes><pub-date pub-type="collection">
+        <year>2011</year>
+      </pub-date><pub-date pub-type="epub">
+        <day>5</day>
+        <month>1</month>
+        <year>2011</year>
+      </pub-date><volume>6</volume><issue>1</issue><elocation-id>e15592</elocation-id><history>
+        <date date-type="received">
+          <day>16</day>
+          <month>8</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>11</month>
+          <year>2010</year>
+        </date>
+      </history><!--===== Grouping copyright info into permissions =====--><permissions><copyright-year>2011</copyright-year><copyright-holder>Linhares et al</copyright-holder><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><abstract>
+        <p>Human memory is limited in the number of items held in one's mind—a limit known as “Miller's magic number”. We study the emergence of such limits as a result of the statistics of large bitvectors used to represent items in memory, given two postulates: i) the Sparse Distributed Memory; and ii) chunking through averaging. Potential implications for theoretical neuroscience are discussed.</p>
+      </abstract><funding-group><funding-statement>This work has been supported by grant E-26/110.790/2009 from the Federação de Apoio à Pesquisa do Estado do Rio de Janeiro (FAPERJ-<ext-link ext-link-type="uri" xlink:href="http://www.faperj.br" xlink:type="simple">www.faperj.br</ext-link>), grants 470341/2009-2 and 301207/2009-7 from the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq-<ext-link ext-link-type="uri" xlink:href="http://www.cnpq.br" xlink:type="simple">www.cnpq.br</ext-link>) of the Brazilian Ministry of Science &amp; Technology, the Programa de Apoio à Pesquisa (PROPESQUISA) of the Getulio Vargas Foundation (<ext-link ext-link-type="uri" xlink:href="http://www.fgv.br" xlink:type="simple">www.fgv.br</ext-link>), and Cortex Intelligence (<ext-link ext-link-type="uri" xlink:href="http://www.cortex-intelligence.com" xlink:type="simple">www.cortex-intelligence.com</ext-link>), due to the employment of its CTO, Dr. C.N. Aranha. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts>
+        <page-count count="6"/>
+      </counts></article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>Human short-term memory is severely limited. While the existence of such limits is undisputed, there is ample debate concerning their nature. Miller <xref ref-type="bibr" rid="pone.0015592-Miller1">[1]</xref> described the ability to increase storage capacity by grouping items, or “chunking”. He argued that the span of attention could comprehend somewhere around seven information items. Chunk structure is recursive; as chunks may contain other chunks as items: Paragraphs built out of phrases built out of words built out of letters built out of strokes. This mechanism is used to explain the cognitive capacity to store a seemingly endless flux of incoming, pre-registered, information, while remaining unable to absorb and process new (non-registered) information in highly parallel fashion.</p>
+      <p>Miller's ‘magic number seven’ has been subject of much debate over the decades. Some cognitive scientists have modeled such limits by simply using (computer-science) “pointers”, or “slots” (e.g, <xref ref-type="bibr" rid="pone.0015592-Gobet1">[2]</xref>, <xref ref-type="bibr" rid="pone.0015592-Gobet2">[3]</xref>—see <xref ref-type="bibr" rid="pone.0015592-Linhares1">[4]</xref>, <xref ref-type="bibr" rid="pone.0015592-Linhares2">[5]</xref> for debate). However, such approaches do not seem plausible given the massively parallel nature of the brain, and we believe memory limits are an emergent property of the neural architecture of the human brain. As Hofstadter put it a quarter of a century ago <xref ref-type="bibr" rid="pone.0015592-Hofstadter1">[6]</xref> : the “problem with this [slot] approach is that it takes something that clearly is a very complex consequence of underlying mechanisms and simply plugs it in a complex structure, bypassing the question of what those underlying mechanisms might be.”(p. 642)</p>
+      <p>Our objective in this paper is to study these memory limits as emergent effects of underlying mechanisms. We postulate two mechanisms previously discussed in the literature. The first is a mathematical model of human memory brought forth by Kanerva <xref ref-type="bibr" rid="pone.0015592-Kanerva1">[7]</xref>, called Sparse Distributed Memory (SDM). We also presuppose, following <xref ref-type="bibr" rid="pone.0015592-Kanerva2">[8]</xref>, an underlying mechanism of chunking through averaging. It is not within the scope of this study to argue for the validity of SDM as a cognitive model; for incursions on this broader topic, we refer readers to <xref ref-type="bibr" rid="pone.0015592-Kanerva3">[9]</xref>–<xref ref-type="bibr" rid="pone.0015592-Gayler1">[11]</xref>, which discuss the plausibility of this Vector Symbolic Architecture family of models (in which SDM is contained).</p>
+      <p>This work, while similar in its mathematical foundations, is different from previous capacity analyses: In <xref ref-type="bibr" rid="pone.0015592-Kanerva1">[7]</xref>, the memory capacity analysis of SDM relates to its long-term memory mechanisms, while we study its short–term memory limits. Our work also differs from that of Plate, in that, regardless of the number of items presented, the memory will only store (and subsequently retrieve) a psychologically plausible number of items. The difference becomes salient in Plate's own description <xref ref-type="bibr" rid="pone.0015592-Plate1">[12]</xref>: “As more items and bindings are stored in a single HRR the noise on extracted items increases. If too many associations are stored, the quality will be so low that the extracted items will be easily confused with similar items or, in extreme cases, completely unrecognizable”(p. 139). Plate is focused on long–term memory; and we will focus on Miller's STM limits.</p>
+      <p>A number of theoretical observations are drawn from our computations: i) a range of plausible numbers for the dimensions of the memory, ii) a minimization of a current controversy between different ‘magic number’ estimates, and iii) potential empirical tests of the chunking through averaging assumption. We should start with a brief description of our postulates: i) the SDM, and ii) chunking through averaging.</p>
+      <sec id="s1a">
+        <title>Sparse Distributed Memory</title>
+        <p>The Sparse Distributed Memory (SDM), developed in <xref ref-type="bibr" rid="pone.0015592-Kanerva1">[7]</xref>, defines a memory model in which data is stored in distributed fashion in a vast, sparsely populated, binary address space. In this model, (a number of) neurons act as <italic>address decoders</italic>. Consider the space <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e001" xlink:type="simple"/></inline-formula>: SDM's address space is defined allowing <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e002" xlink:type="simple"/></inline-formula> possible locations, where <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e003" xlink:type="simple"/></inline-formula> defines both the word length and the number of dimensions of the space: the memory holds binary vectors of length <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e004" xlink:type="simple"/></inline-formula>. In SDM, the data is the same as the medium in which it is stored (i.e. the stored items are <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e005" xlink:type="simple"/></inline-formula>-bit vectors in <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e006" xlink:type="simple"/></inline-formula>-dimensional binary addresses).</p>
+        <p>SDM uses Hamming distance as a metric between any two <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e007" xlink:type="simple"/></inline-formula>-bit vectors (hereafter memory items, items, elements, or bitstrings—according to context). Neurons, or <italic>hard locations</italic> (see below), in Kanerva's model, hold random bitstrings with equal probability of 0's and 1's—Kanerva <xref ref-type="bibr" rid="pone.0015592-Kanerva4">[13]</xref>, <xref ref-type="bibr" rid="pone.0015592-Kanerva5">[14]</xref> has been exploring a variation of this model with a very large number of dimensions (around 10000). (With the purpose of encoding concepts at many levels, the Binary Spatter Code—or BSC—, shares numerous properties with SDM.) By using the Hamming distance as a metric, one can readily see that the average distance between any two points in the space is given by the binomial distribution, and approximated by a normal curve with mean at <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e008" xlink:type="simple"/></inline-formula> with standard deviation <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e009" xlink:type="simple"/></inline-formula>. Given the Hamming distance, and large <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e010" xlink:type="simple"/></inline-formula>, most of the space lies close to the mean. A low Hamming distance between any two items means that these memory items are associated. A distance that is close to the mean <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e011" xlink:type="simple"/></inline-formula> means that the memory items are orthogonal to each other. This reflects two facts about the organization of human memory: i) <italic>orthogonality of random concepts</italic>, and ii) <italic>close paths between random concepts</italic>.</p>
+        <p><italic>Orthogonality of random concepts</italic>: the vast majority of concepts is orthogonal to all others. Consider a non-scientific survey during a cognitive science seminar, where students asked to mention ideas unrelated to the course brought up terms like <italic>birthdays</italic>, <italic>boots</italic>, <italic>dinosaurs</italic>, <italic>fever</italic>, <italic>executive order</italic>, <italic>x-rays</italic>, and so on. Not only are the items unrelated to cognitive science, the topic of the seminar, but they are also unrelated to each other.</p>
+        <p><italic>Close paths between concepts</italic>: The organization of concepts seems to present a ‘small world’ topology–for an empirical approach on words, for instance, see <xref ref-type="bibr" rid="pone.0015592-Cancho1">[15]</xref>. For any two memory items, one can readily find a stream of thought relating two such items (“Darwin gave <italic>dinosaurs</italic> the <italic>boot</italic>”; “she ran a <italic>fever</italic> on her <italic>birthday</italic>”; “isn't it time for the Supreme Court to <italic>x-ray</italic> that <italic>executive order</italic>?” …and so forth). Robert French presents an intriguing example in which one suddenly creates a representation linking the otherwise unrelated concepts of “coffee cups” and “old elephants” <xref ref-type="bibr" rid="pone.0015592-French1">[16]</xref>. In sparse distributed memory, any two bitstrings with Hamming distance around <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e012" xlink:type="simple"/></inline-formula> would be extremely close, given the aforementioned distribution. And <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e013" xlink:type="simple"/></inline-formula> is the expected distance of an average point between two random bitstrings.</p>
+        <p>Of course, for large <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e014" xlink:type="simple"/></inline-formula> (such as <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e015" xlink:type="simple"/></inline-formula>), it is impossible to store all (or even most) of the space—the universe is estimated to carry a storage capacity of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e016" xlink:type="simple"/></inline-formula> bits (<inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e017" xlink:type="simple"/></inline-formula> bits if one considers quantum gravity) <xref ref-type="bibr" rid="pone.0015592-Lloyd1">[17]</xref>. It is here that Kanerva's insights concerning sparseness and distributed storage and retrieval come into play: <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e018" xlink:type="simple"/></inline-formula>—or a number around one million—physical memory locations, called hard locations, could enable the representation of a large number of different bitstrings. Items of a large space with, say, <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e019" xlink:type="simple"/></inline-formula> locations would be stored in a mere <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e020" xlink:type="simple"/></inline-formula> hard locations—the memory is indeed sparse.</p>
+        <p>In this model, every single item is stored in several hard locations, and can, likewise, be retrieved in distributed fashion. Storage occurs by distributing the item in every hard location within a certain threshold ‘radius’ given by the Hamming distance between the item's address and the associated hard locations. Different threshold values for different numbers of dimensions are used (in his examples, Kanerva used 100, 1000 and 10000 dimensions). For <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e021" xlink:type="simple"/></inline-formula>, the distance from a random point of the space to its nearest (out of the one million) hard locations will be approximately 424 bits <xref ref-type="bibr" rid="pone.0015592-Kanerva1">[7]</xref> (p.56). In this scenario, a threshold radius of 451 bits will define an <italic>access sphere</italic> containing around 1000 hard locations. In other words, from any point of the space, approximately 1000 hard locations lie within a 451-bit distance. All of these accessible hard locations will be used in storing and retrieving items from memory. We therefore define the function <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e022" xlink:type="simple"/></inline-formula> and a hard location <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e023" xlink:type="simple"/></inline-formula> iff <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e024" xlink:type="simple"/></inline-formula>, where <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e025" xlink:type="simple"/></inline-formula> defines an access radius around <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e026" xlink:type="simple"/></inline-formula> of size <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e027" xlink:type="simple"/></inline-formula> (451 if <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e028" xlink:type="simple"/></inline-formula>; <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e029" xlink:type="simple"/></inline-formula> is the Hamming distance).</p>
+        <p>A brief example of a storage and retrieval procedure in SDM is in order: to store an item <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e030" xlink:type="simple"/></inline-formula> at a given (virtual) location <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e031" xlink:type="simple"/></inline-formula> (in sparse memory) one must activate every hard location within the access sphere of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e032" xlink:type="simple"/></inline-formula> (see below) and store the datum in each one. Hard locations carry <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e033" xlink:type="simple"/></inline-formula> adders, one for each dimension. To store a bitstring <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e034" xlink:type="simple"/></inline-formula> at a hard location <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e035" xlink:type="simple"/></inline-formula>, one must iterate through the adders of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e036" xlink:type="simple"/></inline-formula>: If the <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e037" xlink:type="simple"/></inline-formula>-th bit of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e038" xlink:type="simple"/></inline-formula> is 1, increment the <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e039" xlink:type="simple"/></inline-formula>-th adder of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e040" xlink:type="simple"/></inline-formula>, if it is 0, decrement it. Repeating this for all hard locations in <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e041" xlink:type="simple"/></inline-formula>'s access sphere will distribute the information in <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e042" xlink:type="simple"/></inline-formula> throughout these hard locations.</p>
+        <p>Retrieval of data in SDM is also massively collective and distributed: to peek the contents of each hard location, one computes its related bit vector from its adders, assigning the <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e043" xlink:type="simple"/></inline-formula>-th bit of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e044" xlink:type="simple"/></inline-formula> as a 1 or 0 if the <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e045" xlink:type="simple"/></inline-formula>-th adder is positive or negative, respectively (a coin is flipped if it is 0). Notice, however, that this information in itself is meaningless and may not correspond to any one specific datum previously registered. To read from a location <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e046" xlink:type="simple"/></inline-formula> in the <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e047" xlink:type="simple"/></inline-formula> address space, one must activate the hard locations in the access sphere of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e048" xlink:type="simple"/></inline-formula> and gather each related bit vector. The stored datum will be the majority rule decision of all activated hard locations' related bit vectors. If, for the <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e049" xlink:type="simple"/></inline-formula>-th bit, the majority of all bit vectors is 1, the final read datum's <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e050" xlink:type="simple"/></inline-formula>-th bit is set to 1, otherwise to 0. Thus, “SDM is distributed in that many hard locations participate in storing and retrieving each datum, and one hard location can be involved in the storage and retrieval of many data” <xref ref-type="bibr" rid="pone.0015592-Anwar1">[18]</xref> (p. 342).</p>
+        <p>All hard locations within an access radius collectively point to an address. Note also that this process is iterative. The address obtained may not have information stored on it, but it provides a new access radius to (possibly) converge to the desired original address. One particularly impressive characteristic of the model is its ability to simulate the “tip-of-tongue” phenomenon, in which one is certain about some features of the desired memory item, yet has difficulty in retrieving it (sometimes being unable to do so). If the requested address is far enough from the original item (209 bits if <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e051" xlink:type="simple"/></inline-formula>), iterations of the process will not decrease the distance—and time to convergence goes to infinity.</p>
+        <p>The model is robust against errors for at least two reasons: i) the contribution of any one hard location, in isolation, is negligible, and ii) the system can readily deal with incomplete information and still converge to a previously registered memory item. The model's sparse nature dictates that any point of the space may be used as a storage address, whether or not it corresponds to a hard location. By using about one million hard locations, the memory's distributed nature can “virtualize” the large address space. The distributed aspect of the model allows such a virtualization. Kanerva <xref ref-type="bibr" rid="pone.0015592-Kanerva1">[7]</xref> also discusses the biological plausibility of the model, as the linear threshold function given by the access radius can be readily computed by neurons, and he suggests the interpretation of some particular types of neurons as address decoders. Given these preliminaries concerning the Sparse Distributed Memory, we should now proceed to our second premise: <italic>chunking through averaging</italic>.</p>
+      </sec>
+      <sec id="s1b">
+        <title>Chunking through averaging</title>
+        <p>To chunk items, the majority rule is applied to each bit: given <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e052" xlink:type="simple"/></inline-formula> bitstrings to be chunked, for each of the <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e053" xlink:type="simple"/></inline-formula> bits, if the majority is 1, the resulting bitstring's chunk bit is set to 1; otherwise it is 0. In case of perfect ties (no majority), a coin is flipped.</p>
+        <p>We have chosen the term ‘chunking’ to describe an averaging operation, and ‘chunk’ to describe the resulting bitstring, because, through this operation, the original components generate a new one to be written to memory. The reader should note, in SDM's family of high-dimensional vector models, called Vector Symbolic Architectures (VSA), the operation that generates composite structures is commonly known as superposition <xref ref-type="bibr" rid="pone.0015592-Stewart1">[10]</xref>–<xref ref-type="bibr" rid="pone.0015592-Plate1">[12]</xref>.</p>
+        <p>Obviously, this new chunked bitstring may be closer, in terms of Hamming distance, to the original elements, than the mean distance <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e054" xlink:type="simple"/></inline-formula> between random elements (500 bits if <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e055" xlink:type="simple"/></inline-formula> = 1000), given a relatively small <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e056" xlink:type="simple"/></inline-formula>. The chunk may then be stored in the memory, and it may be used in future chunking operations, allowing, thus, for recursive behavior. With these preliminaries, we turn to numerical results in the analysis section.</p>
+      </sec>
+    </sec>
+    <sec id="s2">
+      <title>Analysis</title>
+      <sec id="s2a">
+        <title>Computing the Hamming distance from a chunk <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e057" xlink:type="simple"/></inline-formula> to items</title>
+        <p>Let <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e058" xlink:type="simple"/></inline-formula> be the set of bitstrings to be chunked into a new bitstring, <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e059" xlink:type="simple"/></inline-formula>. The first task is to find out how the Hamming distance is distributed between this averaged <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e060" xlink:type="simple"/></inline-formula> bitstring and the set <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e061" xlink:type="simple"/></inline-formula> of bitstrings being chunked. This is, as discussed, accomplished through majority rule at each bit position. Imagine that, for each separate dimension, a supreme court will cast a decision with each judge choosing yes (1) or no (0). If there is an even number of judges, a fair coin will be flipped in the case of a tie. Given that there are <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e062" xlink:type="simple"/></inline-formula> votes cast, how many of these votes will fall in the minority side? (Each minority-side vote adds to the Hamming distance between an item <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e063" xlink:type="simple"/></inline-formula> and the average <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e064" xlink:type="simple"/></inline-formula>.)</p>
+        <p>Note that the minimum possible number of <italic>minority votes</italic> is one, and that it may occur with either 3 votes cast or two votes and a coin flip. If there are two minority votes, they may stem from either 5 votes or 4 votes and a coin flip, and so forth. We thus have that, for <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e065" xlink:type="simple"/></inline-formula> votes, the maximum minority number is given by <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e066" xlink:type="simple"/></inline-formula> (and the ambiguities between an odd number of votes versus an even number of votes plus a coin flip are resolved by considering <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e067" xlink:type="simple"/></inline-formula> total votes). This leads to independent Bernoulli trials, with success factor <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e068" xlink:type="simple"/></inline-formula>, and the constraint that the minority view differs from the majority bit vote. Let <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e069" xlink:type="simple"/></inline-formula> be a random variable with the number of minority votes. Obviously in this case, <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e070" xlink:type="simple"/></inline-formula>, hence we have, for <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e071" xlink:type="simple"/></inline-formula> items, the following cumulative distribution function of minority votes <xref ref-type="bibr" rid="pone.0015592-Boland1">[19]</xref>:<disp-formula><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0015592.e072" xlink:type="simple"/></disp-formula><disp-formula><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0015592.e073" xlink:type="simple"/></disp-formula></p>
+        <p>While we can now, given <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e074" xlink:type="simple"/></inline-formula> votes, compute the distribution of minority votes, the objective is not to understand the behavior of these minority bits <italic>in isolation</italic>, i.e., per dimension on the chunking process. We want to compute the number of dimensions to (in a psychologically and neurologically plausible way) store and retrieve around <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e075" xlink:type="simple"/></inline-formula> items—Miller's number of retrievable elements—through an averaging operation. Hence we need to compute the following:</p>
+        <list list-type="roman-lower">
+          <list-item>
+            <p>Given a number of dimensions <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e076" xlink:type="simple"/></inline-formula> and a set <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e077" xlink:type="simple"/></inline-formula> of items, the probability density function of the Hamming distance from <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e078" xlink:type="simple"/></inline-formula> to the chunked elements <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e079" xlink:type="simple"/></inline-formula>,</p>
+          </list-item>
+          <list-item>
+            <p>A threshold <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e080" xlink:type="simple"/></inline-formula>: a number of dimensions in which, if an element <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e081" xlink:type="simple"/></inline-formula>'s Hamming distance to <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e082" xlink:type="simple"/></inline-formula> is farther from that point, then <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e083" xlink:type="simple"/></inline-formula> cannot be retrieved,</p>
+          </list-item>
+          <list-item>
+            <p>As <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e084" xlink:type="simple"/></inline-formula> grows, how many elements remain retrievable?</p>
+          </list-item>
+        </list>
+        <p>Given bitstrings with dimension <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e085" xlink:type="simple"/></inline-formula>, suppose <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e086" xlink:type="simple"/></inline-formula> elements have been chunked, generating a new bitstring <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e087" xlink:type="simple"/></inline-formula>. Let <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e088" xlink:type="simple"/></inline-formula> be the Hamming distance from the chunked element <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e089" xlink:type="simple"/></inline-formula> to <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e090" xlink:type="simple"/></inline-formula>, the <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e091" xlink:type="simple"/></inline-formula>-th element of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e092" xlink:type="simple"/></inline-formula>. What is the distance from <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e093" xlink:type="simple"/></inline-formula> to elements in <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e094" xlink:type="simple"/></inline-formula>? Here we are led to <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e095" xlink:type="simple"/></inline-formula> Bernoulli trials with success factor <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e096" xlink:type="simple"/></inline-formula>. Since <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e097" xlink:type="simple"/></inline-formula> is large, <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e098" xlink:type="simple"/></inline-formula> for <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e099" xlink:type="simple"/></inline-formula> can be approximated by a Normal distribution, we may use <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e100" xlink:type="simple"/></inline-formula> and <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e101" xlink:type="simple"/></inline-formula>. To model human short term memory's limitations, we want to compute a cutoff threshold <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e102" xlink:type="simple"/></inline-formula> which will guarantee retrieval of around <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e103" xlink:type="simple"/></inline-formula> items averaged in <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e104" xlink:type="simple"/></inline-formula> and “forget” an item <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e105" xlink:type="simple"/></inline-formula> if <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e106" xlink:type="simple"/></inline-formula>—where <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e107" xlink:type="simple"/></inline-formula> is Miller's limiting number. Hence to guarantee retrieval of around 95% (<inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e108" xlink:type="simple"/></inline-formula>) of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e109" xlink:type="simple"/></inline-formula> items, we have <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e110" xlink:type="simple"/></inline-formula>, where <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e111" xlink:type="simple"/></inline-formula> is the success factor corresponding to <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e112" xlink:type="simple"/></inline-formula>. Note that Cowan <xref ref-type="bibr" rid="pone.0015592-Cowan1">[20]</xref> has argued for a “magic number” estimate of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e113" xlink:type="simple"/></inline-formula> items—and the exact cognitive limit is still a matter of debate. The success factor for 4 (or 5) elements is <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e114" xlink:type="simple"/></inline-formula> = .3125; and for 6 (or 7) elements it is <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e115" xlink:type="simple"/></inline-formula> = .34375. By fixing the success factor at plausible values of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e116" xlink:type="simple"/></inline-formula> (at {4,5}, or at an intermediary value between {4,5} and {6,7}, or at {6,7}), different threshold values <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e117" xlink:type="simple"/></inline-formula> are obtained for varying <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e118" xlink:type="simple"/></inline-formula>, as shown in <xref ref-type="table" rid="pone-0015592-t001">Table 1</xref>. In the remainder of this study, we use the intermediary success factor <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e119" xlink:type="simple"/></inline-formula> for our computations; again without loss of generality between different estimates of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e120" xlink:type="simple"/></inline-formula>.</p>
+        <table-wrap id="pone-0015592-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0015592.t001</object-id><label>Table 1</label><caption>
+            <title>Threshold values.</title>
+          </caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0015592-t001-1" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0015592.t001" xlink:type="simple"/><table>
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">
+                  <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e121" xlink:type="simple"/></inline-formula>
+                </td>
+                <td align="left" colspan="1" rowspan="1"><inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e122" xlink:type="simple"/></inline-formula> (<inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e123" xlink:type="simple"/></inline-formula> or 5)</td>
+                <td align="left" colspan="1" rowspan="1"><inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e124" xlink:type="simple"/></inline-formula> (intermediary value)</td>
+                <td align="left" colspan="1" rowspan="1"><inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e125" xlink:type="simple"/></inline-formula> (<inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e126" xlink:type="simple"/></inline-formula> or 7)</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">64</td>
+                <td align="left" colspan="1" rowspan="1">27.42</td>
+                <td align="left" colspan="1" rowspan="1">28.51</td>
+                <td align="left" colspan="1" rowspan="1">29.6</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">128</td>
+                <td align="left" colspan="1" rowspan="1">50.49</td>
+                <td align="left" colspan="1" rowspan="1">52.62</td>
+                <td align="left" colspan="1" rowspan="1">54.75</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">192</td>
+                <td align="left" colspan="1" rowspan="1">72.85</td>
+                <td align="left" colspan="1" rowspan="1">76.01</td>
+                <td align="left" colspan="1" rowspan="1">79.16</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">256</td>
+                <td align="left" colspan="1" rowspan="1">94.83</td>
+                <td align="left" colspan="1" rowspan="1">99.02</td>
+                <td align="left" colspan="1" rowspan="1">103.2</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">320</td>
+                <td align="left" colspan="1" rowspan="1">116.58</td>
+                <td align="left" colspan="1" rowspan="1">121.8</td>
+                <td align="left" colspan="1" rowspan="1">126.99</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">384</td>
+                <td align="left" colspan="1" rowspan="1">138.17</td>
+                <td align="left" colspan="1" rowspan="1">144.4</td>
+                <td align="left" colspan="1" rowspan="1">150.61</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">448</td>
+                <td align="left" colspan="1" rowspan="1">159.62</td>
+                <td align="left" colspan="1" rowspan="1">166.88</td>
+                <td align="left" colspan="1" rowspan="1">174.11</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">512</td>
+                <td align="left" colspan="1" rowspan="1">180.98</td>
+                <td align="left" colspan="1" rowspan="1">189.25</td>
+                <td align="left" colspan="1" rowspan="1">197.49</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">576</td>
+                <td align="left" colspan="1" rowspan="1">202.25</td>
+                <td align="left" colspan="1" rowspan="1">211.54</td>
+                <td align="left" colspan="1" rowspan="1">220.8</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">640</td>
+                <td align="left" colspan="1" rowspan="1">223.45</td>
+                <td align="left" colspan="1" rowspan="1">233.76</td>
+                <td align="left" colspan="1" rowspan="1">244.03</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">704</td>
+                <td align="left" colspan="1" rowspan="1">244.6</td>
+                <td align="left" colspan="1" rowspan="1">255.92</td>
+                <td align="left" colspan="1" rowspan="1">267.2</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">768</td>
+                <td align="left" colspan="1" rowspan="1">265.69</td>
+                <td align="left" colspan="1" rowspan="1">278.02</td>
+                <td align="left" colspan="1" rowspan="1">290.32</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">832</td>
+                <td align="left" colspan="1" rowspan="1">286.74</td>
+                <td align="left" colspan="1" rowspan="1">300.09</td>
+                <td align="left" colspan="1" rowspan="1">313.4</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">896</td>
+                <td align="left" colspan="1" rowspan="1">307.75</td>
+                <td align="left" colspan="1" rowspan="1">322.11</td>
+                <td align="left" colspan="1" rowspan="1">336.43</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">960</td>
+                <td align="left" colspan="1" rowspan="1">328.72</td>
+                <td align="left" colspan="1" rowspan="1">344.1</td>
+                <td align="left" colspan="1" rowspan="1">359.43</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">1024</td>
+                <td align="left" colspan="1" rowspan="1">349.66</td>
+                <td align="left" colspan="1" rowspan="1">366.05</td>
+                <td align="left" colspan="1" rowspan="1">382.4</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">100</td>
+                <td align="left" colspan="1" rowspan="1">40.52</td>
+                <td align="left" colspan="1" rowspan="1">42.2</td>
+                <td align="left" colspan="1" rowspan="1">43.87</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">1000</td>
+                <td align="left" colspan="1" rowspan="1">341.82</td>
+                <td align="left" colspan="1" rowspan="1">357.82</td>
+                <td align="left" colspan="1" rowspan="1">373.79</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">10000</td>
+                <td align="left" colspan="1" rowspan="1">3217.7</td>
+                <td align="left" colspan="1" rowspan="1">3375.16</td>
+                <td align="left" colspan="1" rowspan="1">3532.49</td>
+              </tr>
+            </tbody>
+          </table></alternatives><table-wrap-foot>
+            <fn id="nt101">
+              <label/>
+              <p>Thresholds <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e127" xlink:type="simple"/></inline-formula> given plausible success factors and dimension combinations.</p>
+            </fn>
+          </table-wrap-foot></table-wrap>
+        <p>We thus have a number of plausible thresholds and dimensions. We can now proceed to compute the plausibility range: Despite the implicit suggestion in <xref ref-type="table" rid="pone-0015592-t001">Table 1</xref> that any number of dimensions might be plausible, how does the behavior of these <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e128" xlink:type="simple"/></inline-formula> combinations vary as a function of the number of presented elements, <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e129" xlink:type="simple"/></inline-formula>?</p>
+      </sec>
+      <sec id="s2b">
+        <title>Varying the number of presented items</title>
+        <p>Consider the case of information overload, when one is presented with a large set of items. Suppose one were faced with dozens, or hundreds, of distinct items. It is not psychologically plausible that a large number of elements should be retrievable. For an item <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e130" xlink:type="simple"/></inline-formula> to be impossible to retrieve, the distance between the averaged item <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e131" xlink:type="simple"/></inline-formula> and <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e132" xlink:type="simple"/></inline-formula> must be higher than the threshold point of the corresponding <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e133" xlink:type="simple"/></inline-formula>. When we have an increasingly large set of presented items, there will be information loss in the chunking mechanism, but it should still be possible to retrieve some elements within plausible psychological bounds.</p>
+        <p><xref ref-type="fig" rid="pone-0015592-g001">Figure 1(a)</xref> shows the behavior of three representative sizes of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e134" xlink:type="simple"/></inline-formula>: 100, 212 and 1000 dimensions. (100 and 1000 were chosen because these are described in Kanerva's original examples of SDM.) <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e135" xlink:type="simple"/></inline-formula> has shown to be the most plausible number of dimensions, preserving a psychologically plausible number of items after presentations of different set sizes. It is clear that <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e136" xlink:type="simple"/></inline-formula> quickly diverges, retaining a high number of items in a chunk (as the number of presented items grows). Conversely, if <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e137" xlink:type="simple"/></inline-formula>, the number of preserved memory items rapidly drops to zero, and the postulated mechanisms are unable to retrieve any items at all—a psychologically implausible development. <xref ref-type="fig" rid="pone-0015592-g001">Figure 1(b)</xref> zooms in to illustrate behavior over a narrower range of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e138" xlink:type="simple"/></inline-formula>-values and a wider range of presented items. Varying the number of presented items and computing the number of preserved items (for a number of representative dimensions) yields informative results. Based on our premises, experiments show that to appropriately reflect the storage capacity limits exhibited by humans, certain ranges of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e139" xlink:type="simple"/></inline-formula> must be discarded. With too small a number of dimensions, the model will retrieve too many items in a chunk. With too large a number of dimensions, the model will retrieve at most one or two—perhaps no items at all. This is because of the higher number of standard deviations involved in the dimension sizes: for <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e140" xlink:type="simple"/></inline-formula>, the whole space has 20 standard deviations, and <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e141" xlink:type="simple"/></inline-formula> is less than 2 standard deviations below the mean—which explains why an ever growing number of items is “retrieved” (i.e., high probability of false positives). For <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e142" xlink:type="simple"/></inline-formula>, the space has over 63 standard deviations, and <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e143" xlink:type="simple"/></inline-formula>, is around 8.99 standard deviations <italic>below</italic> the mean. There is such a minute part of the space below <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e144" xlink:type="simple"/></inline-formula> that item retrieval is virtually impossible.</p>
+        <fig id="pone-0015592-g001" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0015592.g001</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Preserved items as a function of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e145" xlink:type="simple"/></inline-formula>; selected values of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e146" xlink:type="simple"/></inline-formula>.</title>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0015592.g001" xlink:type="simple"/>
+        </fig>
+        <p>With an intermediary success factor <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e147" xlink:type="simple"/></inline-formula> between <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e148" xlink:type="simple"/></inline-formula> and <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e149" xlink:type="simple"/></inline-formula> established by the cognitive limits 4 and 7, we have computed the number of dimensions of a SDM as lying in the vicinity of 212 dimensions. Variance is minimized when <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e150" xlink:type="simple"/></inline-formula>—and retrieval results hold psychologically plausible ranges even when hundreds of items are presented (i.e., the SDM would be able to retrieve from a chunk no more than nine items and at least one or two, regardless of how many items are presented simultaneously). Finally, given that this work rests upon the chunking through averaging postulate, in the next section we will argue that the postulated mechanism is not only plausible, but also empirically testable.</p>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>Results and Discussion</title>
+      <sec id="s3a">
+        <title>The chunking through averaging postulate</title>
+        <p>Consider the assumption of chunking through averaging. We propose that it is plausible and worthy of further investigation, for three reasons.</p>
+        <p>First, it minimizes the current controversy between Miller's estimations and Cowan's. The disparity between Miller's <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e151" xlink:type="simple"/></inline-formula> or Cowan's <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e152" xlink:type="simple"/></inline-formula> observed limits may be a smaller delta than what is argued by Cowan. Our “chunking-through-averaging” premise may provide a simpler, and perhaps unifying, position to this debate. If chunking 4 items has the same probability as 5 items, and chunking 6 items is equivalent to chunking 7 items, one may find that the ‘magic number’ constitutes one cumulative probability degree (say, 4-or-5 items) plus or minus one (6-or-7 items).</p>
+        <p>A mainstream interpretation of the above phenomenon may be that, as with any model, SDM is a simplification; an idealized approximation of a presumed reality. Thus, one may see it as insufficiently complete to accurately replicate the details of true biological function due to, among other phenomena, inherent noise and spiking neural activity. In this case, one would interpret it as a weakness, or an inaccuracy inherent to the model. An alternative view, however improbable, may be that the model is accurate in this particular aspect, in which case, the assumption minimizes the current controversy between Miller's estimations and Cowan's.</p>
+        <p>The success factors computed above show that for either 4 or 5 items, we have <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e153" xlink:type="simple"/></inline-formula>, while for 6 or 7 items we have <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e154" xlink:type="simple"/></inline-formula>. If we assume an intermediary value of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e155" xlink:type="simple"/></inline-formula>—which is reasonable, due to noise or lack of synchronicity in neural processing—the controversy vanishes. We chose to base our experiments on the mean value (<inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e156" xlink:type="simple"/></inline-formula>), and the results herein may be adapted to other estimates as additional experiments settle the debate.</p>
+        <p>Moreover, a chunk <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e157" xlink:type="simple"/></inline-formula> tends to be closer to the <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e158" xlink:type="simple"/></inline-formula> chunked items than these items are between themselves. For example, with <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e159" xlink:type="simple"/></inline-formula> and <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e160" xlink:type="simple"/></inline-formula>, the Hamming distance between a chunk and a random item is drawn from a distribution with <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e161" xlink:type="simple"/></inline-formula> and <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e162" xlink:type="simple"/></inline-formula>; in here, from the point of view of the chunked item <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e163" xlink:type="simple"/></inline-formula>, the closest 1% of the space lies at 53 bits, while 99% of the space lies at 84 bits. Contrast this with the distances between any two random, orthogonal, items, which are drawn from <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e164" xlink:type="simple"/></inline-formula> and <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e165" xlink:type="simple"/></inline-formula>: from the point of view of a random item, the closest 1% of the space lies at 89 bits, while 99% of the space lies at 122. This disparity reflects the principles of <italic>orthogonality between random concepts</italic> and of <italic>close paths between concepts</italic> (or small worlds <xref ref-type="bibr" rid="pone.0015592-Cancho1">[15]</xref>): the distance between 2 items from any 5 is large, but the distance to the average of the set is small. Of course, as <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e166" xlink:type="simple"/></inline-formula> grows, the distance to <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e167" xlink:type="simple"/></inline-formula> also grows (since <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e168" xlink:type="simple"/></inline-formula>), and items become irretrievable. One thing is clear: with 5 chunked items, the chance of retrieving a false positive is minute.</p>
+        <p>Finally, the assumption of chunking through averaging is empirically testable. Psychological experiments concerning the difference in ability to retain items could test this postulate. The assumption predicts that (4, 5) items, or more generally that (<inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e169" xlink:type="simple"/></inline-formula>) for integer <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e170" xlink:type="simple"/></inline-formula> will be registered with equal probability. It also predicts how the probability of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e171" xlink:type="simple"/></inline-formula> retained items should drop in relation to <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e172" xlink:type="simple"/></inline-formula> if <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e173" xlink:type="simple"/></inline-formula>. This is counterintuitive and can be measured experimentally. Note, however, two qualifications: first, as chunks are hierarchically organized, these effects may be hard to perceive in experimental settings. One would have to devise an experimental setting with assurances that only chunks from the same level are retrievable–neither combinations of such chunks, nor combinations of their constituting parts. The final qualification is that, as <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e174" xlink:type="simple"/></inline-formula> grows, the aforementioned probability difference tends to zero. Because of the conjunction of these qualifications, this effect would be hard to perceive on normal human behavior.</p>
+      </sec>
+      <sec id="s3b">
+        <title>Concluding remarks</title>
+        <p>Numerous cognitive scientists model the limits of human short-term memory through explicit “pointers” or “slots”. In this paper we have considered the consequences of a short-term memory limit given the mechanisms of i) Kanerva's Sparse Distributed Memory, and ii) chunking through averaging. Given an appropriate choice for the number of dimensions of the binary space, we are able to model chunks that limit active memory's storage capacity, while allowing the theoretically endless recursive association of pre-registered memory items at different levels of abstraction (i.e., chunks may be chunked with other chunks or items, indiscriminately <xref ref-type="bibr" rid="pone.0015592-Miller1">[1]</xref>, <xref ref-type="bibr" rid="pone.0015592-Linhares3">[21]</xref>). This has been pointed out in <xref ref-type="bibr" rid="pone.0015592-Kanerva6">[22]</xref>, however, in here we use the short-term memory limitations as a bounding factor to compute plausible ranges for <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e175" xlink:type="simple"/></inline-formula>.</p>
+        <p>Some observations are noteworthy. First, our work provides plausible bounds on the number of dimensions of a SDM—we make no claims concerning Kanerva's recent work (e.g., <xref ref-type="bibr" rid="pone.0015592-Kanerva5">[14]</xref>). Given our postulates, it seems that 100 dimensions is too low a number, and 1000 dimensions too high. In our computations, assuming <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e176" xlink:type="simple"/></inline-formula>, variance of the number of items retained (as a function of the number of presented items and at least one retrievable item) was minimized at 212 dimensions. This value was chosen as our optimal point of focus for it provided stable, psychologically plausible behavior for a wide range of set sizes. We have concentrated on the SDM and chunking through averaging postulates, yet future research could also look at alternative neural models; for it is certain that the brain does not use explicit slots or pointers when items are chunked. One can reasonably argue: what good can come from replacing one magic number with another? There are two potential benefits: first, by fixing parameter <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e177" xlink:type="simple"/></inline-formula>, we can restrict the design space of SDM simulations and ensure that a psychologically plausible number of items is chunked. Another advantage is theoretical: the number 212 suggests that we should look for neurons that seem to have, or respond majoritarily to, such a number of active inputs in their linear threshold function.</p>
+        <p>Of course, a single 212 bit vector in SDM does not encode meaningful content at all. The existence of a bitstring can only be meaningful in relation to other bitstrings close to it. Consider, for instance, an A4 sheet of paper, of size 210mm×297mm (8.3in×11.7in). A 1200×1200 dots-per-inch printer holds less than <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e178" xlink:type="simple"/></inline-formula> potential dots in an entire sheet. While the space of possible black and white printed A4 sheets is a very large set of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0015592.e179" xlink:type="simple"/></inline-formula> possible pages, the vast majority of them, rather like the library of Babel, are composed of utter gibberish. Any single dot needs only 28 bits to be described, and because the dots usually cluster into strokes, chunks can be formed. Moreover, because strokes cluster to form fonts, which cluster to form words, which cluster to form phrases and paragraphs; combinations of large sets of 212 dimensional bitstrings can encode the meaningful content of pages and books—provided those items have been previously chunked in the reader's mind. Without chunks there can be no meaning; this paragraph, translated to Yanomami (assuming that's possible), would become unreadable to its intended audience and to its authors.</p>
+        <p>Sparse Distributed Memory holds a number of biologically and psychologically plausible characteristics. It is associative, allowing for accurate retrieval given vague or incomplete information (which is relevant given the potential for asynchronous behavior <xref ref-type="bibr" rid="pone.0015592-Borisyuk1">[23]</xref>); it is readily computable by neurons; it seems suitable for storage and retrieval of low-level sensorimotor information <xref ref-type="bibr" rid="pone.0015592-Assisi1">[24]</xref>, it is a plausible model of the space of human concepts, and it exhibits a phenomenon strikingly similar to the tip-of-the-tongue situation. With the results presented herein, sparse distributed memory also reflects the natural limits of human short-term memory.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The authors would like to thank Eric Nichols for numerous valuable comments.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0015592-Miller1">
+        <label>1</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Miller</surname><given-names>GA</given-names></name></person-group>             <year>1956</year>             <article-title>The magical number seven, plus or minus two: Some limits on our capacity for processing information.</article-title>             <source>Psychol Rev</source>             <volume>63</volume>             <fpage>81</fpage>             <lpage>97</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Gobet1">
+        <label>2</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Gobet</surname><given-names>F</given-names></name><name name-style="western"><surname>Simon</surname><given-names>HA</given-names></name></person-group>             <year>2000</year>             <article-title>Five seconds or sixty? Presentation time in expert memory.</article-title>             <source>Cognitive Sci</source>             <volume>24</volume>             <fpage>651</fpage>             <lpage>682</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Gobet2">
+        <label>3</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Gobet</surname><given-names>F</given-names></name><name name-style="western"><surname>Lane</surname><given-names>PCR</given-names></name><name name-style="western"><surname>Croker</surname><given-names>S</given-names></name><name name-style="western"><surname>Cheng</surname><given-names>PCH</given-names></name><name name-style="western"><surname>Jones</surname><given-names>G</given-names></name><name name-style="western"><surname>Oliver</surname><given-names>I</given-names></name><name name-style="western"><surname>Pine</surname><given-names>JM</given-names></name></person-group>             <year>2001</year>             <article-title>Chunking mechanisms in human learning.</article-title>             <source>Trends Cognitive Sci</source>             <volume>5</volume>             <fpage>236</fpage>             <lpage>243</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Linhares1">
+        <label>4</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Linhares</surname><given-names>A</given-names></name><name name-style="western"><surname>Brum</surname><given-names>P</given-names></name></person-group>             <year>2007</year>             <article-title>Understanding our understanding of strategic scenarios: What role do chunks play?</article-title>             <source>Cognitive Sci</source>             <volume>31</volume>             <fpage>989</fpage>             <lpage>1007</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Linhares2">
+        <label>5</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Linhares</surname><given-names>A</given-names></name><name name-style="western"><surname>Freitas</surname><given-names>AETA</given-names></name></person-group>             <year>2010</year>             <article-title>Questioning Chase and Simon's (1973) “Perception in chess”: The “experience recognition” hypothesis.</article-title>             <source>New Ideas Psychol</source>             <volume>28</volume>             <fpage>64</fpage>             <lpage>78</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Hofstadter1">
+        <label>6</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Hofstadter</surname><given-names>DR</given-names></name></person-group>             <year>1985</year>             <source>Metamagical Themas</source>             <comment>Questing for the Essence of Mind and Pattern, Basic Books, New York, 1985</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Kanerva1">
+        <label>7</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kanerva</surname><given-names>P</given-names></name></person-group>             <year>1988</year>             <source>Sparse Distributed Memory</source>             <comment>MIT Press, Cambridge</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Kanerva2">
+        <label>8</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kanerva</surname><given-names>P</given-names></name></person-group>             <year>1998</year>             <article-title>Large patterns make great symbols: An example of learning from example.</article-title>             <comment>In: Workshop proceedings of NIPS98: Neural Information Processing Systems Conference, 4–5, Denver, Colorado, USA</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Kanerva3">
+        <label>9</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kanerva</surname><given-names>P</given-names></name></person-group>             <year>1993</year>             <article-title>Sparse Distributed Memory and related models.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Hassoun</surname><given-names>MH</given-names></name></person-group>             <source>Associative Neural Memories: Theory and Implementation</source>             <publisher-loc>New York</publisher-loc>             <publisher-name>Oxford University Press</publisher-name>             <fpage>50</fpage>             <lpage>76</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Stewart1">
+        <label>10</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Stewart</surname><given-names>TC</given-names></name><name name-style="western"><surname>Eliasmith</surname><given-names>M</given-names></name></person-group>             <year>2009</year>             <source>Compositionality and biologically plausible models</source>             <publisher-name>Oxford Handbook of Compositionality</publisher-name>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Gayler1">
+        <label>11</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Gayler</surname><given-names>RW</given-names></name></person-group>             <year>2003</year>             <article-title>Vector Symbolic Architectures answer Jackendoff's challenges for cognitive neuroscience.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Slezak</surname><given-names>Peter</given-names></name></person-group>             <source>ICCS/ASCS International Conference on Cognitive Science</source>             <publisher-loc>Sydney, Australia</publisher-loc>             <publisher-name>University of New South Wales</publisher-name>             <fpage>133</fpage>             <lpage>138</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Plate1">
+        <label>12</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Plate</surname><given-names>TA</given-names></name></person-group>             <year>2003</year>             <source>Holographic reduced representations</source>             <comment>Distributed representations for cognitive structures, CSLI Publications, Stanford, CA</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Kanerva4">
+        <label>13</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kanerva</surname><given-names>P</given-names></name></person-group>             <year>1994</year>             <article-title>The Spatter Code for encoding concepts at many levels.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Marinaro</surname><given-names>M</given-names></name><name name-style="western"><surname>Morasso</surname><given-names>PG</given-names></name><name name-style="western"><surname>1</surname><given-names>vol</given-names></name></person-group>             <source>ICANN '94, Proceedings of International Conference on Artificial Neural Networks, vol. 1</source>             <publisher-loc>London</publisher-loc>             <publisher-name>Springer–Verlag</publisher-name>             <fpage>226</fpage>             <lpage>229</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Kanerva5">
+        <label>14</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kanerva</surname><given-names>P</given-names></name></person-group>             <year>2009</year>             <article-title>Hyperdimensional computing: An introduction to computing in distributed representation with high-dimensional random vectors.</article-title>             <source>Cognitive Comput</source>             <volume>1</volume>             <fpage>139</fpage>             <lpage>159</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Cancho1">
+        <label>15</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Cancho</surname><given-names>RF</given-names></name><name name-style="western"><surname>Sole</surname><given-names>R</given-names></name></person-group>             <year>2001</year>             <article-title>The small world of human language.</article-title>             <source>Proc Royal Soc B</source>             <volume>268</volume>             <fpage>2261</fpage>             <lpage>2265</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-French1">
+        <label>16</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>French</surname><given-names>RM</given-names></name></person-group>             <year>2000</year>             <fpage>93</fpage>             <lpage>100</lpage>             <comment>When Coffee Cups Are Like Old Elephants, or Why Representation Modules Don't Make Sense, in Understanding Representation in the Cognitive Sciences 2000, Part 3</comment>             <comment>DOI:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/978-0-585-29605-0_10" xlink:type="simple">10.1007/978-0-585-29605-0_10</ext-link></comment>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Lloyd1">
+        <label>17</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Lloyd</surname><given-names>S</given-names></name></person-group>             <year>2002</year>             <article-title>Computational capacity of the Universe.</article-title>             <source>Phys Rev Lett</source>             <volume>88</volume>             <fpage>237901</fpage>             <lpage>1:4</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Anwar1">
+        <label>18</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Anwar</surname><given-names>A</given-names></name><name name-style="western"><surname>Franklin</surname><given-names>S</given-names></name></person-group>             <year>2003</year>             <article-title>Sparse distributed memory for “conscious” software agents.</article-title>             <source>Cognitive Sys Res</source>             <volume>4</volume>             <fpage>339</fpage>             <lpage>354</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Boland1">
+        <label>19</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Boland</surname><given-names>PJ</given-names></name></person-group>             <year>1989</year>             <article-title>Majority Systems and the Condorcet Jury Theorem.</article-title>             <source>The Statistician</source>             <volume>38</volume>             <fpage>181</fpage>             <lpage>189</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Cowan1">
+        <label>20</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Cowan</surname><given-names>N</given-names></name></person-group>             <year>2001</year>             <article-title>The magical number 4 in short-term memory: A reconsideration of mental storage capacity.</article-title>             <source>Behav Brain Sci</source>             <volume>24</volume>             <fpage>87</fpage>             <lpage>185</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Linhares3">
+        <label>21</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Linhares</surname><given-names>A</given-names></name></person-group>             <year>2000</year>             <article-title>A glimpse at the metaphysics of Bongard problems.</article-title>             <source>Artif Intell</source>             <volume>121</volume>             <fpage>251</fpage>             <lpage>270</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Kanerva6">
+        <label>22</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kanerva</surname><given-names>P</given-names></name></person-group>             <year>1996</year>             <article-title>Binary spatter-coding of ordered k-tuples.</article-title>             <source>ICANN96, Artificial Neural Networks</source>             <publisher-name>Springer</publisher-name>             <fpage>896</fpage>             <lpage>873</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Borisyuk1">
+        <label>23</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Borisyuk</surname><given-names>R</given-names></name><name name-style="western"><surname>Denham</surname><given-names>M</given-names></name><name name-style="western"><surname>Hoppensteadt</surname><given-names>F</given-names></name><name name-style="western"><surname>Kazanovich</surname><given-names>Y</given-names></name><name name-style="western"><surname>Vinogradova</surname><given-names>O</given-names></name></person-group>             <year>2000</year>             <article-title>An oscillatory neural network model of sparse distributed memory and novelty detection.</article-title>             <source>Biosystems</source>             <volume>58</volume>             <fpage>265</fpage>             <lpage>272</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0015592-Assisi1">
+        <label>24</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Assisi</surname><given-names>C</given-names></name><name name-style="western"><surname>Stopfer</surname><given-names>M</given-names></name><name name-style="western"><surname>Laurent</surname><given-names>G</given-names></name><name name-style="western"><surname>Bazhenov</surname><given-names>M</given-names></name></person-group>             <year>2007</year>             <article-title>Adaptive regulation of sparseness by feedforward inhibition.</article-title>             <source>Nature Neurosci</source>             <volume>10</volume>             <fpage>1176</fpage>             <lpage>1184</lpage>          </element-citation>
+      </ref>
+    </ref-list>
+    
+  </back>
+</article>

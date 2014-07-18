@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="EN">
+<front>
+   <journal-meta><journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><!--===== Grouping journal title elements =====--><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher>
+         <publisher-name>Public Library of Science</publisher-name>
+         <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher></journal-meta>
+   <article-meta><article-id pub-id-type="publisher-id">10-PONE-RA-21622R1</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0013835</article-id><article-categories>
+         <subj-group subj-group-type="heading">
+            <subject>Research Article</subject>
+         </subj-group>
+         <subj-group subj-group-type="Discipline">
+<subject>Evolutionary Biology/Animal Behavior</subject>
+<subject>Evolutionary Biology/Evolutionary Ecology</subject>
+<subject>Evolutionary Biology/Paleontology</subject>
+         </subj-group>
+      </article-categories><title-group><article-title>A New Leptoceratopsid (Ornithischia: Ceratopsia) from the Upper Cretaceous of Shandong, China and Its Implications for Neoceratopsian Evolution</article-title><alt-title alt-title-type="running-head">New Leptoceratopsid from China</alt-title></title-group><contrib-group>
+         <contrib contrib-type="author" xlink:type="simple">
+            <name name-style="western"><surname>Xu</surname><given-names>Xing</given-names></name>
+            <xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+            <xref ref-type="corresp" rid="cor1"><sup>*</sup></xref>
+         </contrib>
+         <contrib contrib-type="author" xlink:type="simple">
+            <name name-style="western"><surname>Wang</surname><given-names>Kebai</given-names></name>
+            <xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+         </contrib>
+         <contrib contrib-type="author" xlink:type="simple">
+            <name name-style="western"><surname>Zhao</surname><given-names>Xijin</given-names></name>
+            <xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+         </contrib>
+         <contrib contrib-type="author" xlink:type="simple">
+            <name name-style="western"><surname>Sullivan</surname><given-names>Corwin</given-names></name>
+            <xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+         </contrib>
+         <contrib contrib-type="author" xlink:type="simple">
+            <name name-style="western"><surname>Chen</surname><given-names>Shuqing</given-names></name>
+            <xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+         </contrib>
+      </contrib-group><aff id="aff1"><label>1</label><addr-line>Key Laboratory of Evolutionary Systematics of Vertebrates, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, Beijing, China</addr-line>
+      </aff><aff id="aff2"><label>2</label><addr-line>Zhucheng Dinosaur Museum, Bureau of Tourism, Zhucheng, Shandong, China</addr-line>
+      </aff><contrib-group>
+         <contrib contrib-type="editor" xlink:type="simple">
+            <name name-style="western"><surname>Farke</surname><given-names>Andrew Allen</given-names></name>
+            <role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib>
+      </contrib-group><aff id="edit1">Raymond M. Alf Museum of Paleontology, United States of America</aff><author-notes>
+         <corresp id="cor1">* E-mail: <email xlink:type="simple">xingxu@vip.sina.com</email></corresp>
+         <fn fn-type="con">
+            <p>Analyzed the data: XX XZ CS SC. Contributed reagents/materials/analysis tools: KW SC. Wrote the paper: XX CS. Management: KW.</p>
+         </fn>
+      <fn fn-type="conflict">
+         <p>The authors have declared that no competing interests exist.</p>
+      </fn></author-notes><pub-date pub-type="collection">
+         <year>2010</year>
+      </pub-date><pub-date pub-type="epub">
+         <day>4</day>
+         <month>11</month>
+         <year>2010</year>
+      </pub-date><volume>5</volume><issue>11</issue><elocation-id>e13835</elocation-id><history>
+         <date date-type="received">
+            <day>26</day>
+            <month>7</month>
+            <year>2010</year>
+         </date>
+         <date date-type="accepted">
+            <day>14</day>
+            <month>10</month>
+            <year>2010</year>
+         </date>
+      </history><!--===== Grouping copyright info into permissions =====--><permissions><copyright-year>2010</copyright-year><copyright-holder>Xu et al</copyright-holder><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><abstract>
+         <sec>
+            <title>Background</title>
+            <p>The ceratopsians represent one of the last dinosaurian radiations. Traditionally the only universally accepted speciose clade within the group was the Ceratopsidae. However, recent discoveries and phylogenetic analyses have led to the recognition of a new speciose clade, the Leptoceratopsidae, which is predominantly known from the Upper Cretaceous of North America.</p>
+         </sec>
+         <sec>
+            <title>Methodology/Principal Findings</title>
+            <p>Here we report a new leptoceratopsid taxon, <italic>Zhuchengceratops inexpectus</italic> gen. et sp. nov., based on a partial, articulated skeleton recovered from the Upper Cretaceous Wangshi Group of Zhucheng, Shandong Province, China. Although <italic>Zhuchengceratops</italic> is significantly different from other known leptoceratopsids, it is recovered as a derived member of the group by our phylogenetic analysis. Furthermore, <italic>Zhuchengceratops</italic> exhibits several features previously unknown in leptoceratopsids but seen in ceratopsids and their close relatives, suggesting that the distribution of morphological features within ceratopsians is more complex than previously realized.</p>
+         </sec>
+         <sec>
+            <title>Conclusion/Significance</title>
+            <p>The discovery of <italic>Zhuchengceratops</italic> increases both the taxonomic diversity and the morphological disparity of the Leptoceratopsidae, providing further support for the hypothesis that this clade represents a successful radiation of horned dinosaurs in parallel with the Ceratopsidae in the Late Cretaceous. This documents a surprising case of the coexistence and radiation of two closely-related lineages with contrasting suites of jaw and dental features that probably reflect adaptation to different food resources.</p>
+         </sec>
+      </abstract><funding-group><funding-statement>Grants from the Chinese Academy of Sciences and Zhucheng City Government. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts>
+<page-count count="14"/>
+</counts></article-meta>
+</front>
+<body>
+   <sec id="s1">
+      <title>Introduction</title>
+      <p>The leptoceratopsids are a group of small, quadrupedal horned dinosaurs. They normally have a total body length of about two meters, and are thus much smaller than the contemporary ceratopsids <xref ref-type="bibr" rid="pone.0013835-Dodson1">[1]</xref>. The leptoceratopsids are characterized by robust jaws equipped with highly specialized large teeth and, unlike derived horned dinosaurs, lack horns and bear an extremely short frill <xref ref-type="bibr" rid="pone.0013835-Dodson1">[1]</xref>, <xref ref-type="bibr" rid="pone.0013835-Makovicky1">[2]</xref>. The Leptoceratopsidae was named implicitly by Nopcsa in 1923 <xref ref-type="bibr" rid="pone.0013835-Nopcsa1">[3]</xref>, and explicitly by Makovicky in 2001 <xref ref-type="bibr" rid="pone.0013835-Makovicky2">[4]</xref>. Leptoceratopsids have only recently been recognized as a distinctive group of ceratopsian dinosaurs <xref ref-type="bibr" rid="pone.0013835-Makovicky1">[2]</xref>, <xref ref-type="bibr" rid="pone.0013835-Makovicky2">[4]</xref>. Known fossil occurrences of leptoceratopsids are mainly limited to the Upper Cretaceous of North America <xref ref-type="bibr" rid="pone.0013835-Lindgren1">[5]</xref>, though two taxa have been previously described from the Upper Cretaceous of Asia <xref ref-type="bibr" rid="pone.0013835-Makovicky2">[4]</xref>, <xref ref-type="bibr" rid="pone.0013835-Nessov1">[6]</xref>–<xref ref-type="bibr" rid="pone.0013835-Kurzanov1">[8]</xref>. Other reported leptoceratopsid occurrences include some dental material from the Upper Cretaceous of Europe <xref ref-type="bibr" rid="pone.0013835-Lindgren1">[5]</xref> and one controversial taxon from the Lower Cretaceous of Australia <xref ref-type="bibr" rid="pone.0013835-Rich1">[9]</xref>. Although leptoceratopsids are considered by some studies <xref ref-type="bibr" rid="pone.0013835-Makovicky1">[2]</xref>, <xref ref-type="bibr" rid="pone.0013835-Makovicky2">[4]</xref> to be a relatively basal clade within the Neoceratopsia, some members of the group coexisted with derived ceratopsids in the latest Cretaceous <xref ref-type="bibr" rid="pone.0013835-You1">[10]</xref>.</p>
+      <p>In the summer of 2008, we excavated the bone-beds of the Upper Cretaceous Wangshi Group at the Kugou locality, Zhucheng, Shandong Province. The site is extremely rich in disarticulated bones of <italic>Shantungosaurus</italic>, the largest known hadrosaurid <xref ref-type="bibr" rid="pone.0013835-Hu1">[11]</xref>, <xref ref-type="bibr" rid="pone.0013835-Hu2">[12]</xref>. To our surprise, a partial, articulated medium-sized ceratopsian skeleton (<xref ref-type="table" rid="pone-0013835-t001">Table 1</xref>) was also recovered from the bone-beds. It possesses morphological features that identify it as a member of a new leptoceratopsid taxon. In the present paper, we describe the new specimen from the Kugou locality and discuss its implications for understanding the evolution of the leptoceratopsid dinosaurs.</p>
+      <table-wrap id="pone-0013835-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0013835.t001</object-id><label>Table 1</label><caption>
+            <title>Selected measurements (in cm) of ZCDM V0015.</title>
+         </caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0013835-t001-1" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0013835.t001" xlink:type="simple"/><table>
+            <colgroup span="1">
+               <col align="left" span="1"/>
+               <col align="center" span="1"/>
+            </colgroup>
+            <tbody>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">Mandible length</td>
+                  <td align="left" colspan="1" rowspan="1">47.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">Predentary length</td>
+                  <td align="left" colspan="1" rowspan="1">25.0<xref ref-type="table-fn" rid="nt101">*</xref></td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">Dentary length</td>
+                  <td align="left" colspan="1" rowspan="1">35.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">Dentary anterior end height</td>
+                  <td align="left" colspan="1" rowspan="1">24.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">Dentary minimum height</td>
+                  <td align="left" colspan="1" rowspan="1">13.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">Dentary coronoid region height</td>
+                  <td align="left" colspan="1" rowspan="1">19.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">Axial centrum length</td>
+                  <td align="left" colspan="1" rowspan="1">4.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">Axial centrum height</td>
+                  <td align="left" colspan="1" rowspan="1">4.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">3<sup>rd</sup> cervical centrum length</td>
+                  <td align="left" colspan="1" rowspan="1">3.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">3<sup>rd</sup> cervical centrum height</td>
+                  <td align="left" colspan="1" rowspan="1">4.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">4<sup>th</sup> cervical centrum length</td>
+                  <td align="left" colspan="1" rowspan="1">2.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">4<sup>th</sup> cervical centrum height</td>
+                  <td align="left" colspan="1" rowspan="1">5.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">5<sup>th</sup> cervical centrum length</td>
+                  <td align="left" colspan="1" rowspan="1">3.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">5<sup>th</sup> cervical centrum height</td>
+                  <td align="left" colspan="1" rowspan="1">5.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">6<sup>th</sup> cervical centrum length</td>
+                  <td align="left" colspan="1" rowspan="1">3.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">6<sup>th</sup> cervical centrum height</td>
+                  <td align="left" colspan="1" rowspan="1">5.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">7<sup>th</sup> cervical centrum length</td>
+                  <td align="left" colspan="1" rowspan="1">3.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">7<sup>th</sup> cervical centrum height</td>
+                  <td align="left" colspan="1" rowspan="1">4.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">8<sup>th</sup> cervical centrum length</td>
+                  <td align="left" colspan="1" rowspan="1">4.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">8<sup>th</sup> cervical centrum height</td>
+                  <td align="left" colspan="1" rowspan="1">4.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">9<sup>th</sup> cervical centrum length</td>
+                  <td align="left" colspan="1" rowspan="1">3.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">9<sup>th</sup> cervical centrum height</td>
+                  <td align="left" colspan="1" rowspan="1">4.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">10<sup>th</sup> cervical centrum length</td>
+                  <td align="left" colspan="1" rowspan="1">3.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">10<sup>th</sup> cervical centrum height</td>
+                  <td align="left" colspan="1" rowspan="1">5.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">1<sup>st</sup> dorsal centrum length</td>
+                  <td align="left" colspan="1" rowspan="1">3.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">1<sup>st</sup> dorsal centrum centrum height</td>
+                  <td align="left" colspan="1" rowspan="1">5.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">2<sup>nd</sup> dorsal centrum length</td>
+                  <td align="left" colspan="1" rowspan="1">3.5</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">2<sup>nd</sup> dorsal centrum centrum height</td>
+                  <td align="left" colspan="1" rowspan="1">6.0</td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">Atlantal rib length</td>
+                  <td align="left" colspan="1" rowspan="1">6.0<xref ref-type="table-fn" rid="nt101">*</xref></td>
+               </tr>
+               <tr>
+                  <td align="left" colspan="1" rowspan="1">Axial rib length</td>
+                  <td align="left" colspan="1" rowspan="1">12.0<xref ref-type="table-fn" rid="nt102">#</xref></td>
+               </tr>
+            </tbody>
+         </table></alternatives><table-wrap-foot>
+            <fn id="nt101">
+               <label/>
+               <p>*estimated length.</p>
+            </fn>
+            <fn id="nt102">
+               <label>#</label>
+               <p>incomplete measurement.</p>
+            </fn>
+            <fn id="nt103">
+               <label/>
+               <p>all centrum heights were measured at the posterior end.</p>
+            </fn>
+         </table-wrap-foot></table-wrap>
+   </sec>
+   <sec id="s2" sec-type="methods">
+      <title>Methods</title>
+      <sec id="s2a">
+         <title>Fossil Preparation</title>
+         <p>The holotype specimen was prepared free of matrix, and most of the individual bones were separated (<xref ref-type="fig" rid="pone-0013835-g001">Figures 1</xref>,<xref ref-type="fig" rid="pone-0013835-g002">2</xref>,<xref ref-type="fig" rid="pone-0013835-g003">3</xref>,<xref ref-type="fig" rid="pone-0013835-g004">4</xref>,<xref ref-type="fig" rid="pone-0013835-g005">5</xref>,<xref ref-type="fig" rid="pone-0013835-g006">6</xref>,<xref ref-type="fig" rid="pone-0013835-g007">7</xref>,<xref ref-type="fig" rid="pone-0013835-g008">8</xref>). However, a cast was made before the specimen was dismantled (<xref ref-type="fig" rid="pone-0013835-g001">Figure 1A</xref>), in order to record the relative positions of the elements as they were preserved.</p>
+         <fig id="pone-0013835-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0013835.g001</object-id><label>Figure 1</label>
+            <caption>
+               <title><italic>Zhuchengceratops inexpectus</italic> holotype (ZCDM V0015).</title>
+               <p>Line-drawings of <italic>Zhuchengceratops inexpectus</italic> holotype as preserved (A), and of left side of skull and mandible in lateral (B) and medial (C) views. The gray area in (A) represents the impression on the matrix made by the right maxilla. Abbreviations: a, angular; ar, articular; cn, coronoid; cv, cervical vertebrae; dv, dorsal vertebrae; ep, ectopterygoid; hb, hyoid bone; imf, internal mandibular fossa; jqq, jugal-quadratojugal-quadrate;ld, left dentary; m, maxilla; md, mandible; mg, Meckelian groove; mp, mandibular process; pd, predentary; pra, prearticular; q, quadrate; rd, right dentary; sa, surangular; sk, skull; sp, splenial.</p>
+            </caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0013835.g001" xlink:type="simple"/></fig>
+         <fig id="pone-0013835-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0013835.g002</object-id><label>Figure 2</label>
+            <caption>
+               <title>Right maxilla, jugal, quadratojugal, ectopterygoid, and mandible of <italic>Zhuchengceratops inexpectus</italic> holotype (ZCDM V0015).</title>
+               <p>Right maxilla and mandible in dorsolateral (A), lateral (B), and medial (C) views; right jugal, quadratojugal, and quadrate in lateral (D) and medial (E) views. Abbreviations: ap, articular facet for pterygoid; bc, buccal crest; ch, chamber within coronoid process; cn, coronoid; cp, coronoid process; de, dorsal embayment; f, fossa; fl, flange; g, groove; itf, infratemporal fenestra; ml, medial lamina; ob, orbit; pde, posterodorsal expansion; pp, postorbital process; ppm, posterior process on maxilla; r, ridge; ra, right angular; rd, right dentary; rm, right maxilla; ss, strap-like surface; ve, ventral embayment.</p>
+            </caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0013835.g002" xlink:type="simple"/></fig>
+         <fig id="pone-0013835-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0013835.g003</object-id><label>Figure 3</label>
+            <caption>
+               <title>Left maxilla, pterygoid, ectopterygoid, and mandible of <italic>Zhuchengceratops inexpectus</italic> holotype (ZCDM V0015).</title>
+               <p>Left maxilla, pterygoid, ectopterygoid, and mandible in dorsal (A), lateral (B), and medial (C) views; D, a pair of hyoid bones. Abbreviations: a, angular; bc, buccal crest; cn, coronoid; cp, coronoid process; ec, “Eustachian canal”; ep, ectopterygoid; f, fossa; g, groove; imf, internal mandibular fossa; lc, lateral condyle; mc, medial condyle; mg, Meckelian groove; mlp, mid-line process; mp, mandibular process; mr, maxillary ramus; pd, predentary; q, quadrate; qr, quadrate ramus; r, ridge; sa, surangular; sd, supradentary; sp, splenial; vp, ventral process; vr, ventral ridge.</p>
+            </caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0013835.g003" xlink:type="simple"/></fig>
+         <fig id="pone-0013835-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0013835.g004</object-id><label>Figure 4</label>
+            <caption>
+               <title>Dentition of <italic>Zhuchengceratops inexpectus</italic> holotype (ZCDM V0015).</title>
+               <p>Two anterior-middle (A), two middle (B), and two posterior (C) right maxillary teeth in labial view; D, two middle left maxillary tooth roots in cross-section; E, three anterior right dentary teeth in lingual view; F, two anterior left dentary teeth in labial view; G, two middle right dentary teeth in lingual view; H, three middle-posterior right dentary teeth in lingual view; I, two posterior left dentary teeth in lingual view. Not to scale.</p>
+            </caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0013835.g004" xlink:type="simple"/></fig>
+         <fig id="pone-0013835-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0013835.g005</object-id><label>Figure 5</label>
+            <caption>
+               <title>The 1<sup>st</sup> through 8<sup>th</sup> presacral vertebrae preserved in the <italic>Zhuchengceratops inexpectus</italic> holotype (ZCDM V0015).</title>
+               <p>The 1<sup>st</sup> through 8<sup>th</sup> presacral vertebrae in right lateral (A) and left lateral (B) views.</p>
+            </caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0013835.g005" xlink:type="simple"/></fig>
+         <fig id="pone-0013835-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0013835.g006</object-id><label>Figure 6</label>
+            <caption>
+               <title>The 1<sup>th</sup> through 13<sup>th</sup> presacral vertebrae preserved in the <italic>Zhuchengceratops inexpectus</italic> holotype (ZCDM V0015).</title>
+               <p>The 1<sup>st</sup> through 8<sup>th</sup> presacral vertebrae in dorsal (A) and ventral (B) views; the 9<sup>th</sup> through 13<sup>th</sup> presacral vertebrae in left lateral (C), right lateral (D), ventral (E), and dorsal (F) views.</p>
+            </caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0013835.g006" xlink:type="simple"/></fig>
+         <fig id="pone-0013835-g007" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0013835.g007</object-id><label>Figure 7</label>
+            <caption>
+               <title>Preserved cervical ribs of <italic>Zhuchengceratops inexpectus</italic> holotype (ZCDM V0015).</title>
+               <p>Atlantal rib in lateral (A) and medial (B) views; axial rib in lateral (C) and medial (D) views; 3<sup>rd</sup> cervical rib in lateral (E) and medial (F) views; 4<sup>th</sup> cervical rib in lateral (G) and medial (H) views; 5<sup>th</sup> cervical rib in lateral (I) and medial (J) views; 6<sup>th</sup> cervical rib in medial (K) and lateral (L) views; and a posterior cervical rib in lateral (M) and medial (N) views. Abbreviations: adp, accessory dorsal process; cp, capitulum; lc, lateral crest; tu, tuberculum.</p>
+            </caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0013835.g007" xlink:type="simple"/></fig>
+         <fig id="pone-0013835-g008" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0013835.g008</object-id><label>Figure 8</label>
+            <caption>
+               <title>Preserved dorsal ribs of <italic>Zhuchengceratops inexpectus</italic> holotype (ZCDM V0015).</title>
+               <p>Anterior dorsal ribs at bottom and posterior dorsal ribs at top.</p>
+            </caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0013835.g008" xlink:type="simple"/></fig>
+      </sec>
+      <sec id="s2b">
+         <title>Terminology</title>
+         <p>The terms ‘anterior’ and ‘posterior’ are used with respect to both the placement of osteological elements (e.g. anterior and posterior dorsal vertebrae) and different portions of each individual element (the anterior and posterior ends of the mandible). We use previously established terminology for vertebral laminae <xref ref-type="bibr" rid="pone.0013835-Wilson1">[13]</xref>.</p>
+      </sec>
+      <sec id="s2c">
+         <title>Phylogenetic Analysis</title>
+         <p>In order to assess the systematic position of the taxon described in this paper, we coded it separately (<xref ref-type="table" rid="pone-0013835-t002">Table 2</xref>) into two substantially different data matrices recently published for ceratopsians <xref ref-type="bibr" rid="pone.0013835-Makovicky3">[7]</xref>, <xref ref-type="bibr" rid="pone.0013835-Chinnery1">[14]</xref>. The two matrices were both analyzed using the software package TNT <xref ref-type="bibr" rid="pone.0013835-Goloboff1">[15]</xref>, with the implicit enumeration search strategy. All parameters were left at their default settings, with the following exceptions: maximum trees in memory  = 10000, and collapsing rules = 0 max. length. One analysis resulted in three most parsimonious trees (tree length = 280 steps, CI = 0.63, and RI = 0.77), shown in <xref ref-type="fig" rid="pone-0013835-g009">Figure 9A</xref>. The other analysis resulted in six most parsimonious trees (tree length = 238 steps, CI = 0.61, and RI = 0.71), the strict consensus of which is shown in <xref ref-type="fig" rid="pone-0013835-g009">Figure 9B</xref>. We also used TNT to run Bremer Support and Bootstrap analysis (1000 replicates) on the two sets of datasets. The results are indicated in <xref ref-type="fig" rid="pone-0013835-g009">Figures 9A and B</xref>.</p>
+         <fig id="pone-0013835-g009" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0013835.g009</object-id><label>Figure 9</label>
+            <caption>
+               <title>Suggested systematic position of <italic>Zhuchengceratops inexpectus</italic> among the Ceratopsia.</title>
+               <p>A, the strict consensus of three most parsimonious trees produced by our analysis of Makovicky's (2010) matrix with <italic>Zhuchengceratops inexpectus</italic> added in; B, the strict consensus of six most parsimonious trees produced by our analysis of Chinnery and Horner's (2007) matrix with <italic>Zhuchengceratops inexpectus</italic> added in. Bremer support and bootstrap values are labeled (bootstrap values below 50% are not shown).</p>
+            </caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0013835.g009" xlink:type="simple"/></fig>
+         <table-wrap id="pone-0013835-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0013835.t002</object-id><label>Table 2</label><caption>
+               <title>Scorings for <italic>Zhuchengceratops inexpectus</italic>.</title>
+            </caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0013835-t002-2" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0013835.t002" xlink:type="simple"/><table>
+               <colgroup span="1">
+                  <col align="left" span="1"/>
+                  <col align="center" span="1"/>
+               </colgroup>
+               <tbody>
+                  <tr>
+                     <td align="left" colspan="1" rowspan="1">Makovicky matrix</td>
+                     <td align="left" colspan="1" rowspan="1">1????????????????????1???1?????????????????1111111??????????????????10??1100001011100001?101???02211011011????010?????????????????????0???0?????101</td>
+                  </tr>
+                  <tr>
+                     <td align="left" colspan="1" rowspan="1">Chinnery and Horner matrix</td>
+                     <td align="left" colspan="1" rowspan="1">?????????1?????11???????????????????????????????1???????111?11?111100??0022011101?1??????????????????????10010???0001?????</td>
+                  </tr>
+               </tbody>
+            </table></alternatives></table-wrap>
+      </sec>
+   </sec>
+   <sec id="s3">
+      <title>Results</title>
+      <sec id="s3a">
+         <title>Systematic paleontology</title>
+         <p>Ornithischia Seeley, 1888 <xref ref-type="bibr" rid="pone.0013835-Seeley1">[16]</xref></p>
+         <p>Ceratopsia Marsh, 1890 <xref ref-type="bibr" rid="pone.0013835-Marsh1">[17]</xref></p>
+         <p>Leptoceratopsidae Nopcsa, 1923 <xref ref-type="bibr" rid="pone.0013835-Nopcsa1">[3]</xref></p>
+         <p><italic>Zhuchengceratops inexpectus</italic> gen. et sp. nov.</p>
+         <sec id="s3a1">
+            <title>Etymology</title>
+            <p>Genus name from <italic>Zhucheng</italic> (the county that includes the type locality) and <italic>ceratops</italic> (horn-face, Latinized Greek); species name <italic>inexpectus</italic> refers to the unexpected discovery of an articulated skeleton in the Zhucheng bone-beds.</p>
+         </sec>
+         <sec id="s3a2">
+            <title>Holotype</title>
+            <p>Zhucheng Dinosaur Museum (ZCDM) V0015, a partial, articulated skeleton including partial maxillae, partial right quadratojugal, jugal, and quadrate, partial left ectopterygoid and pterygoid, nearly complete left and right mandibles, anterior 14 presacral vertebrae and associated ribs, and some additional fragments.</p>
+         </sec>
+         <sec id="s3a3">
+            <title>Type locality and horizon</title>
+            <p>Kugou, Zhucheng County, Shandong Province, China. Upper Cretaceous Wangshi Group <xref ref-type="bibr" rid="pone.0013835-Hu1">[11]</xref>.</p>
+         </sec>
+         <sec id="s3a4">
+            <title>Diagnosis</title>
+            <p>A leptoceratopsid with the following autapomorphies: maxilla with a posteroventrally oriented edentulous posterior process, mandible extremely deep (mid-length height about one-third of mandibular length), mandible very thin transversely (ratio of ventral margin width to mandibular length about 0.03), medial surface of mandible with two large fossae separated by thick curved ridge along dentary-splenial contact, predentary sub-vertically oriented (posterior edge forms angle of about 75 degrees with tooth row in lateral view), anterior end of dentary deeper than coronoid region, anterior portion of Meckelian groove floored by both dentary and splenial and much wider than posterior portion, surangular with additional fossa immediately anterior to glenoid fossa, surangular with sharp anteroventral process inserting into dentary in lateral view, articular with semilunate fossa immediately posterior to glenoid fossa, dorsal edge of splenial step-wise in medial view, and middle cervical ribs bifurcated due to presence of prominent accessory dorsal process (condition poorly known in other ceratopsians).</p>
+         </sec>
+      </sec>
+      <sec id="s3b">
+         <title>Description and comparisons</title>
+         <p>The holotype specimen probably represents an adult individual, judging by the complete closure of the neurocentral sutures of all preserved presacral vertebrae. With a mandibular length of about 50 cm, the <italic>Zhuchengceratops inexpectus</italic> holotype is slightly larger than most adults of <italic>Leptoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Sternberg1">[18]</xref>, <xref ref-type="bibr" rid="pone.0013835-Brown1">[19]</xref>. <italic>Zhuchengceratops inexpectus</italic> probably has a very large head as in other neoceratopsians <xref ref-type="bibr" rid="pone.0013835-Sereno1">[20]</xref>, <xref ref-type="bibr" rid="pone.0013835-Sereno2">[21]</xref>, as inferred by comparing the 50-cm-long mandible to the estimated presacral length of about 140 cm.</p>
+         <p>The right and left maxillae are both incomplete, although the more complete right element preserves most of the ventral and posterior portions (<xref ref-type="fig" rid="pone-0013835-g001">Figures 1</xref>,<xref ref-type="fig" rid="pone-0013835-g002">2</xref>,<xref ref-type="fig" rid="pone-0013835-g003">3</xref>). However, the right maxilla is also represented by a smooth impression on the matrix (<xref ref-type="fig" rid="pone-0013835-g001">Figure 1A</xref>), so that the rough shape of the entire element is known. The impression shows that the maxilla was extremely deep dorsoventrally, and even the preserved dorsoventral depth of the right maxilla is more than 150% of the length of the maxillary tooth row (<xref ref-type="fig" rid="pone-0013835-g001">Figures 1A</xref> and <xref ref-type="fig" rid="pone-0013835-g002">2A</xref>). A dorsoventrally deep maxilla also appears to be present in <italic>Udanoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Dodson1">[1]</xref>, <xref ref-type="bibr" rid="pone.0013835-Kurzanov1">[8]</xref>. In <italic>Zhuchengceratops</italic>, the alveolar margin is convex in lateral view as in <italic>Leptoceratops</italic> and <italic>Udanoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Makovicky4">[22]</xref>. Posterior to the alveolar margin is a distinct, posteroventrally directed edentulous process (<xref ref-type="fig" rid="pone-0013835-g002">Figures 2A and B</xref>). The length of this posterior process is more than 50 mm, about one-fourth the length of the tooth row. The process is splint-like, dorsoventrally shallow (about 5 mm deep) and mediolaterally wide (about 35 mm). Its posterior end is asymmetric, tapering to a point that lies near the medial edge. The dorsal surface of the process is rough, and probably articulated with the pterygoid and ectopterygoid as in ceratopsids <xref ref-type="bibr" rid="pone.0013835-Wu1">[23]</xref>. The dorsolateral edge of this process bears a sub-semicircular flange (<xref ref-type="fig" rid="pone-0013835-g002">Figures 2A and C</xref>), and a similar flange appears to be present at the same position on the maxillary posterior process in some ceratopsids <xref ref-type="bibr" rid="pone.0013835-Wu1">[23]</xref>. Dorsal to the posterior process the maxilla is strongly deflected medially, but this could be a preservational artifact. There are two embayments along the posterior margin of the maxilla in lateral view, the dorsal embayment being about three times the depth of the ventral one. The ventral part of the dorsal embayment is partially floored by a medial lamina, which forms the medial wall of a groove along the posterior margin of the maxilla within the embayment (<xref ref-type="fig" rid="pone-0013835-g002">Figure 2A</xref>). Anterodorsal to the posterior process, the lateral surface of the maxilla bears a distinctive, sub-triangular fossa, posterodorsal to which is a large depression that emanates from the small ventral embayment. In medial view, the ventral part of the maxilla is divided in two by a line of inflection as in some ceratopsids <xref ref-type="bibr" rid="pone.0013835-Wu1">[23]</xref>. The dorsal portion faces mediodorsally, whereas the ventral portion is a medially-facing strap-like surface that is deeper anteriorly than posteriorly and covers the maxillary tooth roots. This strap-like surface has a texture different from that of the neighboring bone, and appears to represent a separate skeletal element (<xref ref-type="fig" rid="pone-0013835-g002">Figure 2C</xref>). The maxilla probably has a narrow contact with the jugal along its posterodorsal margin, as in ceratopsids <xref ref-type="bibr" rid="pone.0013835-Dodson2">[24]</xref>.</p>
+         <p>The right jugal and right quadratojugal are incompletely preserved, and we describe the two bones together because the suture between them is not clear. The gently curved orbital margin of the jugal indicates a proportionally large orbit (<xref ref-type="fig" rid="pone-0013835-g001">Figures 1A</xref>, <xref ref-type="fig" rid="pone-0013835-g002">2D and E</xref>). The lateral surface of the sub-orbital ramus is concave. The postorbital process is relatively narrow in lateral view compared to the orbit, but wide compared to the infratemporal fenestra: the base of the postorbital process has an anteroposterior width of about 3 cm, similar to the width of the infratemporal fenestra near its ventral border. The jugal appears to expand dorsally at the posterior end to form the posteroventral border of the infratemporal fenestra (<xref ref-type="fig" rid="pone-0013835-g002">Figure 2D</xref>), a condition similar to that seen in centrosaurines and some chasmosaurines <xref ref-type="bibr" rid="pone.0013835-Dodson2">[24]</xref>, but this part of the fenestral border may actually be formed by the quadratojugal.</p>
+         <p>The quadrate is represented by the ventral end of the left element and the middle portion of the right. The preserved portion of the quadrate shaft is sub-triangular in cross section. The medial and anterolateral surfaces of the quadrate are concave whereas the posterolateral surface is nearly flat, though marked by a longitudinal groove (<xref ref-type="fig" rid="pone-0013835-g002">Figure 2D</xref>). The ventral end of the quadrate is very robust (about 65 mm wide transversely). The medial condyle of the ventral end of the quadrate protrudes prominently from the shaft.</p>
+         <p>The pterygoid is represented only by the ventral portion of the left element (<xref ref-type="fig" rid="pone-0013835-g003">Figures 3A–C</xref>). However, it is clear that the pterygoid contacts the maxilla more anteriorly than is the case in most non-ceratopsid ceratopsians, over an area including the dorsal surface of the posterior process of the maxilla as well as the medial surface of the bone near the posterior end of the tooth row <xref ref-type="bibr" rid="pone.0013835-You1">[10]</xref>, <xref ref-type="bibr" rid="pone.0013835-Brown2">[25]</xref>. The mandibular process of the pterygoid is long, extending ventrally nearly to the ventral border of the internal mandibular fossa (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3C</xref>). The mandibular process is in general similar to those of more basal ceratopsians in having a sub-triangular cross section, but the prominent maxillary ramus has a significant ventral extension in the form of a sharp ridge which extends ventrally to the extremity of the mandibular process to border medially a longitudinal groove along the anterior surface of the mandibular process (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3C</xref>) as in ceratopsids, <italic>Leptoceratops</italic>, and <italic>Protoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Makovicky4">[22]</xref>. The maxillary ramus is somewhat twisted, with the dorsal portion displaced laterally relative to the ventral portion. A prominent ventral ridge is present as in ceratopsids and <italic>Protoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Makovicky4">[22]</xref>. This structure is thin and short, defining a “Eustachian canal”. A large midline process for the opposite pterygoid is present medial to the “Eustachian canal”, but this process is broken (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3C</xref>). Lateral to the quadrate ramus the pterygoid forms a short ridge, which combines with the ectopterygoid to define a shallow groove along the posterior surface of the mandibular process. Anterior to this ridge is a distinct fossa. The quadrate ramus is broken away, apart from its relatively narrow base (<xref ref-type="fig" rid="pone-0013835-g003">Figures 3B and C</xref>). The quadrate ramus forms a large angle with the maxillary ramus (<xref ref-type="fig" rid="pone-0013835-g003">Figures 3B and C</xref>), in contrast to the sharp angle seen in more basal ceratopsians <xref ref-type="bibr" rid="pone.0013835-Sereno2">[21]</xref>, <xref ref-type="bibr" rid="pone.0013835-Sereno3">[26]</xref>.</p>
+         <p>The ectopterygoid is a small element, about half the length of the mandibular process of the pterygoid. The ectopterygoid is attached to the posterolateral edge of the proximal portion of the mandibular process (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3C</xref>). It also contacts the dorsolateral margin of the posterior process of the maxilla, but probably lacks a contact with the jugal. The ectopterygoid is an elongate element, and its orientation is more dorsoventral than anteroposterior. The posterior edge of the ectopterygoid is distinctly curved in lateral view. The medial surface of the ectopterygoid is concave, forming the ventral portion of the groove whose dorsal portion lies on the posterior surface of the mandibular process.</p>
+         <p>The mandible is massive (<xref ref-type="fig" rid="pone-0013835-g002">Figures 2</xref> and <xref ref-type="fig" rid="pone-0013835-g003">3</xref>). The height at the midpoint (180 mm) is about one-third of the total length, a greater ratio than is known in any other ceratopsian <xref ref-type="bibr" rid="pone.0013835-You1">[10]</xref>, <xref ref-type="bibr" rid="pone.0013835-Dodson2">[24]</xref>. A massive mandible appears to characterize all known leptoceratopsids <xref ref-type="bibr" rid="pone.0013835-You1">[10]</xref>. However, the mandible is also very thin transversely, particularly along the ventral margin. The widths of the ventral and dorsal margins are about 15 mm and 50 mm, respectively. The anterior end of the mandible is considerably deeper than the coronoid region, a feature previously unknown in any ceratopsian <xref ref-type="bibr" rid="pone.0013835-Dodson1">[1]</xref>, <xref ref-type="bibr" rid="pone.0013835-You1">[10]</xref>, <xref ref-type="bibr" rid="pone.0013835-Dodson2">[24]</xref>, and the anterior margin is also more vertically oriented in lateral view than in other ceratopsians. However, the lateral profile of the mandible is similar to that of <italic>Leptoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Sternberg1">[18]</xref> in that the anterior end of the ventral margin of the mandible curves dorsally, whereas the posterior end bends sharply in the ventral direction. Most of the lateral surface of the mandible is concave, especially just anterior to the glenoid region. The long axis of the glenoid fossa is set at about 45 degrees to that of the mandibular ramus. Accordingly, the two rami are inferred to have strongly diverged laterally in the intact mandibular arch, forming an angle of about 90 degrees under the assumption that the long axes of the two glenoid fossae were aligned mediolaterally. The Meckelian groove is anteriorly wide but tapers posteriorly. The anterior portion of the Meckelian groove is floored by both the dentary and the splenial, and the posterior portion by the dentary alone (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3C</xref>).</p>
+         <p>The predentary is more vertically oriented than in other ceratopsians (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3B</xref>). The main body of the predentary is sub-rectangular in lateral view, being much shorter anteroposteriorly than high dorsoventrally. The sub-parallel straight anterior and posterior margins each form a large angle with the tooth row (about 75 degrees). In most other ceratopsians, the main body of the predentary tapers to a ventral point in lateral view, with the anterior margin forming a much sharper angle with the tooth row <xref ref-type="bibr" rid="pone.0013835-You1">[10]</xref>. However, <italic>Protoceratops</italic> is similar to <italic>Zhuchengceratops</italic> in that the ventral portion of the predentary is relatively wide in lateral view. The lateral and ventral processes of the predentary are both small. The ventral process diverges more abruptly from the main body of the predentary than in other ceratopsians, and extends only a very short distance posteriorly.</p>
+         <p>The large dentary makes a proportionally greater contribution to the lateral surface of the mandible than in other ceratopsians, accounting for more than 60% of the mandibular length. Unlike in other ceratopsians, except <italic>Leptoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Sternberg1">[18]</xref>, the anterior portion of the dentary is strongly expanded dorsoventrally and is the deepest part of the whole dentary. The dorsal margin of the dentary is strongly concave in lateral view. The anterior portion of the margin is considerably dorsal to the dentary tooth row, as is also true to varying degree in other leptoceratopsids. The anterior part of the margin also bears a distinct groove, posteriorly very deep and wide, for reception of the lateral process of the predentary. A broad dentary shelf (more than 30 mm wide) lies lateral to the dentary tooth row (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3B</xref>). As in <italic>Bagaceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Makovicky1">[2]</xref>, a prominent buccal crest along the lateral edge of the dentary shelf hides nearly half of the tooth row from lateral view. Posteriorly, the lateral surface of the crest is continuous with that of the coronoid process, the distal end of which is slightly expanded anteroposteriorly in a morphology somewhat similar to the derived condition seen in ceratopsids <xref ref-type="bibr" rid="pone.0013835-Dodson2">[24]</xref>. The laterally situated dentary portion of the coronoid process is slightly constricted at the base in lateral view, and dorsal to this constriction is a distinct bump close to the posterior margin of the process. The posterior end of the dentary tooth row is only slightly anterior to the posterior margin of the coronoid process, a feature more reminiscent of ceratopsids than of other non-ceratopsid ceratopsians. Most of the ventral margin of the dentary is nearly straight, although the anterior portion is slightly convex and the posteriormost part of the margin also slants somewhat dorsally. A few mental foramina are scattered on the lateral surface of the dentary. Posteriorly the dentary has a nearly vertical contact with the surangular and angular, though the former bone sends a pointed anteroventral process into a notch at the posterior margin of the dentary (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3B</xref>). A nearly vertical contact with the post-dentary bones is also seen in <italic>Leptoceratops</italic> and ceratopsids, and <italic>Zhuchengceratops</italic> further resembles these taxa in that the contact between the dentary and post-dentary elements lies posterior to the coronoid process. Most of the exposed medial surface of the dentary is occupied by a large, shallow, anteriorly positioned fossa, immediately posterior to which lies a second fossa of much smaller size on the dentary. A sinuous, thick ridge on the dentary marks the line of contact with the splenial and with the posterior edge of the intercoronoid. This ridge defines the dorsal border of the second fossa (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3C</xref>). The dentary bears a shelf, albeit a very narrow one, medial to the tooth row.</p>
+         <p>The post-dentary elements are highly abbreviated, accounting for less than 30% of the total mandibular length. Anteriorly the surangular abuts the ventral portion of the posterior margin of the coronoid process, contacting the dentary laterally and the coronoid medially. The transversely wide dorsal margin of the surangular overhangs the internal mandibular fossa and bears a longitudinal groove (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3B</xref>). More posteriorly, the dorsal margin of the surangular widens even further and bears a fossa situated immediately anterior to the glenoid fossa. The edge of the surangular situated lateral to the glenoid fossa does not form a bounding ridge, and in fact is slightly depressed relative to the rest of the dorsal surface of the surangular. The suture between the surangular and dentary is sinuous, but nearly vertically oriented. In most other ceratopsians, an equivalent projection of the surangular is absent. The medial surface of the surangular underlaps the coronoid anterodorsally and forms the floor of the internal mandibular fossa.</p>
+         <p>The angular is a relatively small element. The anterodorsal portion of the lateral surface is depressed. A long anteroventral process intrudes between the dentary and splenial in lateral view. The posterior end of the angular turns abruptly ventromedially to buttress the articular.</p>
+         <p>The articular forms the bulk of the glenoid region, which is strongly deflected medially relative to the rest of the mandibular ramus. As a result, the medial edge of the glenoid fossa lies considerably medial to the prearticular. Immediately posterior to the glenoid fossa is a deep semilunate fossa on the dorsal surface of the relatively short retroarticular process (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3A</xref>).</p>
+         <p>The prearticular is a relatively slender element. Anteriorly it contacts the dentary, a derived feature also seen in <italic>Protoceratops, Bagaceratops</italic>, and ceratopsids <xref ref-type="bibr" rid="pone.0013835-Makovicky1">[2]</xref>. A tuberosity is present near the mid-length of the dorsal margin.</p>
+         <p>The splenial is a large element on the medial surface of the mandible, though it has a small lateral exposure. It forms an anterior process that extends to the level of the mandibular symphysis. The dorsal margin of the anterior process has a somewhat step-wise contact with that of the main body of the splenial. Posteriorly the splenial is pointed, and inserts between the angular and prearticular. Most of the surface of the splenial is depressed, forming a fossa that is dorsally bordered by the sinuous ridge along the dentary-splenial contact (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3C</xref>).</p>
+         <p>The coronoid bone forms the medial surface of the coronoid process (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3C</xref>). The dorsal end of the coronoid is strongly expanded anteroposteriorly, matching the dentary portion of the coronoid process, but the ventral part of the bone is much narrower. An elongate, sub-triangular intercoronoid bone (supradentary) is present. The anterior end of this bone is pointed and lies at about the level of the midpoint of the tooth row. The posterior end is deep dorsoventrally and probably contacts the coronoid bone posterior to the dentary tooth row.</p>
+         <p>Two slender hyoid bones are preserved in association with the mandible (<xref ref-type="fig" rid="pone-0013835-g003">Figure 3D</xref>). They are curved and rod-like, each having a wide and flattened posterior end. Rod-shaped hyoid bones are also known in <italic>Leptoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Sternberg1">[18]</xref>.</p>
+         <p>There are at least 15 maxillary teeth and 15 dentary teeth (<xref ref-type="fig" rid="pone-0013835-g004">Figure 4</xref>). At least one dentary alveolus contains two functional teeth (<xref ref-type="fig" rid="pone-0013835-g004">Figure 4H</xref>), but most positions have only a single functional tooth. All the teeth are closely packed, and the maxillary and dentary teeth must have sheared past one another almost vertically as in other leptoceratopsids and ceratopsids.</p>
+         <p>The maxillary teeth are mostly visible only in labial view, since the upper and lower jaws are preserved in a position of close occlusion on either side of the skull. Enamel is present on the labial sides of the maxillary teeth, but absent on the lingual sides. The prominent primary ridge on the labial side of each maxillary tooth is strongly offset, lying at the midpoint of the posterior half of the tooth crown. The primary ridge is considerably lower and wider basally than apically, and is inset from the crown base. At the base, a continuous anteroposterior ridge curves apically at both ends to form prominent anterior and posterior marginal ridges. However, in one of the anterior maxillary teeth this anteroposterior ridge is interrupted by a groove extending onto the labial face of the maxillary tooth root. Two or three extremely weak secondary ridges are present anterior to the primary ridge on the labial surface of most, but not all, maxillary tooth crowns. Little can be said about the lingual faces of the maxillary teeth. However, a large, nearly vertical wear facet is present on the lingual surface of each tooth crown, and forms a considerable angle with the corresponding root. The maxillary teeth are much wider labiolingually than anteroposteriorly at the bases of their crowns, one of the middle maxillary tooth roots being about twice as wide labiolingually as anteroposteriorly. Distinctive grooves run along the anterior and posterior surfaces of each maxillary tooth root, and the anterior groove is deeper than the posterior one. Each maxillary tooth crown is considerably wider both anteroposteriorly and labiolingually than the corresponding root.</p>
+         <p>In contrast to the maxillary dentition, the dentary teeth are most extensively exposed in lingual view. Enamel is present on the lingual sides of the dentary tooth crowns, but absent on the labial sides. The prominent primary ridge is anteriorly offset on the lingual side of each dentary tooth crown, but the offset is less than in the maxillary teeth. The primary ridge is prominent throughout its length and extends onto the labial surface of the root. The anterior and posterior marginal ridges are weaker than in the maxillary teeth. Extremely weak secondary ridges are present posterior to the primary ridge on the lingual surface of the crown. Coarse denticles are seen along the edges of some dentary tooth crowns, extending for a short distance onto the lingual crown surface. The dentary tooth crowns each bear a prominence at the base of the labial surface, forming a buccal shelf as in other leptoceratopsids <xref ref-type="bibr" rid="pone.0013835-Makovicky1">[2]</xref>. A large, nearly vertical wear facet is present on the labial side of each dentary tooth crown. The dentary tooth crowns are anteroposteriorly wider, but labiolingually narrower, than the corresponding roots. The crowns are deflected laterally from the roots at an angle of about 40 degrees. As in the maxillary teeth, the anterior and posterior surfaces of the dentary tooth roots bear grooves. In one anterior dentary tooth, the root is at least twice as long apicobasally as the crown.</p>
+         <p>Fourteen articulated presacral vertebrae are preserved, though the first (the atlas) and last (the fourth dorsal vertebra) of the series are represented only by a partial centrum and a partial arch, respectively (<xref ref-type="fig" rid="pone-0013835-g005">Figures 5</xref> and <xref ref-type="fig" rid="pone-0013835-g006">6</xref>). Based on the locations of the parapophyses, ten vertebrae of the preserved series are identified as cervicals and four as anterior dorsals. The centra, although not the arches, of the first three cervical vertebrae are partially fused together.</p>
+         <p>The axial centrum is probably the longest in the preserved series, although the centrum of the third cervical vertebra (Ce3) is only slightly shorter (<xref ref-type="fig" rid="pone-0013835-g005">Figures 5A and B</xref>). The centra of the subsequent cervical vertebrae are considerably shorter anteroposteriorly than those of the axis and Ce3, a feature also seen in ceratopsids but not in typical non-ceratopsid ceratopsians such as <italic>Protoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Brown2">[25]</xref>. The fourth and more posterior cervical centra are very short anteroposteriorly (e.g., Ce4 has a centrum height/length ratio of about 2.0). The three preserved dorsal centra are proportionally even shorter, with centrum height/length ratios of more than 2.0. The preserved presacral centra are amphicoelous, the anterior ones having particularly concave inter-central articular surfaces.</p>
+         <p>All preserved centra are ventrally keeled, but the keels vary in size. The ventral keel of the axial centrum is transversely wide and extremely weak. Sharp and prominent ventral keels are present on the centra of Ce3 and Ce4, but the keels of the more posterior cervicals become lower and wider. The three anteriormost dorsal vertebrae (D1–D3) have much sharper ventral keels than any of the cervical vertebrae. The keel on the centrum of D2 is especially prominent, being both transversely narrower and dorsoventrally higher than those of the other preserved vertebrae. The lateral surfaces of the preserved cervical centra each bear two large fossae divided by a horizontal thick ridge emanating from the parapophysis. This feature is variably developed in many neoceratopsians, including ceratopsids <xref ref-type="bibr" rid="pone.0013835-Dodson2">[24]</xref>, <xref ref-type="bibr" rid="pone.0013835-Brown2">[25]</xref>, <xref ref-type="bibr" rid="pone.0013835-Hatcher1">[27]</xref>. In <italic>Zhuchengceratops</italic> the horizontal ridge is very subdued on the axial centrum, and its prominence increases in more posterior vertebrae until it reaches a maximum in Ce5 and Ce6. In the most posterior cervical vertebrae, by contrast, this ridge is barely present. In Ce5 through Ce7, the dorsal fossa is itself subdivided by another horizontal ridge, and the ventral fossa is similarly subdivided in the seventh through tenth vertebrae. Dorsal and ventral fossae, divided by a horizontal ridge, are also present on the lateral surfaces of the three anteriormost dorsal centra. A distinct, anteroposteriorly elongate nutrient foramen is located in the center of the ventral fossa in Ce2 through Ce8. Similar foramina are also seen in the cervical vertebrae of some ceratopsids, such as <italic>Triceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Hatcher1">[27]</xref>. In lateral view, the anterior and posterior edges of all preserved vertebral centra are prominent, and the inter-central articular surfaces of the anterior and middle cervical vertebrae are considerably everted.</p>
+         <p>The laminar system is well developed in the preserved vertebrae, particularly in the posterior cervicals and anterior dorsals. In the axis and Ce3, the parapophysis extends posterodorsally as a short ridge, though in the latter vertebra the ridge is comparatively weak. As described above, three different horizontal ridges are variably present on the lateral surface of the centrum in the preserved vertebrae. Anterior and posterior centrodiapophyseal laminae are present in the axis through Ce9, and are most prominent in the middle cervicals. They are also prominent in the posterior cervical vertebrae, but approach one another so closely that they are nearly fused. A prezygodiapophyseal lamina is present in all preserved vertebrae, and becomes more prominent posteriorly along the series. A postzygodiapophyseal lamina is present in the 7<sup>th</sup> through 13<sup>th</sup> presacral vertebrae, though in the 7<sup>th</sup> vertebra the lamina is extremely small. In Ce3, the diapophysis sends posterodorsally a short ridge, possibly homologous to the postzygodiapophyseal laminae seen in some of the other vertebrae. A paradiapophyseal lamina is present in the 10<sup>th</sup> through 13<sup>th</sup> presacral vertebrae, while anterior and posterior centroparapophyseal laminae are present in D1 through D3. Centroprezygapophyseal and centropostzygapophyseal laminae are present in all preserved vertebrae. A prezygopostzygapophyseal lamina is present in Ce3 through Ce8. Very weak prespinal and postspinal laminae are present in at least the anterior cervical vertebrae.</p>
+         <p>The axial parapophysis is located at about the mid-height of the lateral surface of the centrum. The parapophysis migrates posterodorsally in the more posterior cervicals, and the parapophysis of the last cervical merges with the ventral surface of the diapophysis on the suture between the centrum and the neural arch. The diapophysis of the axis is located slightly posterior to the mid-length of the vertebra, and dorsal to the suture between the neural arch and centrum. The diapophysis is more anteriorly located in the remainder of the series, and moves dorsally in the more posterior vertebrae. The base of the diapophysis remains considerably ventral to the level of the zygapophyses in the anterior and middle cervical vertebrae, but lies at about the level of the zygapophyses in the posterior cervical and anterior dorsal vertebrae. In the anterior and middle cervical vertebrae, the diapophysis is nearly horizontally oriented and somewhat rod-like. In the seventh and more posterior cervical vertebrae the diapophysis is more dorsally oriented, and this is particularly true in the posteriormost cervicals. However, the diapophyseal facet always faces laterally rather than dorsolaterally. The diapophyses of the posterior cervical vertebrae are much larger, with respect to both robustness and length, than those of the anterior and middle ones. The posterior cervical diapophyses also differ from their anterior counterparts in being somewhat strap-like, due to the significant development of the prezygodiapophyseal lamina in the posterior cervicals. The diapophyses of the posteriormost cervical vertebrae are T-shaped in cross section, since the postzygodiapophyseal and paradiapophyseal laminae are also prominently developed.</p>
+         <p>The pedicles of each vertebral arch are high relative to the corresponding centrum, roughly equaling the height of the centrum at the posterior end. The pedicles are proportionally higher in <italic>Protoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Brown2">[25]</xref> but lower in ceratopsids <xref ref-type="bibr" rid="pone.0013835-Hatcher1">[27]</xref>. Pedicle height decreases posteriorly along the vertebral column of <italic>Zhuchengceratops</italic>. The postaxial cervical neural arches appear only slightly constricted in lateral view, due to the prominence of the centropostzygapophyseal laminae. In the posterior cervical and anterior dorsal vertebrae the centroprezygapophyseal laminae are also prominent, so that the anterior edges of the centra and arches are approximately straight in lateral view. The nearly vertically oriented zygapophyses are enlarged, so that the pre- and postzygapophyses are only separated by a small gap in lateral view.</p>
+         <p>The cervical neural spines are variable in size, location, orientation and shape. Most of the axial neural spine is missing, but the preserved posterior margin suggests that the intact spine was nearly vertical. In general, however, the anterior neural spines are slightly anteriorly inclined, the middle ones are nearly vertical, and the posterior ones are posteriorly inclined. The posterior neural spines are more posteriorly oriented (about 45 degrees to the vertical) than in other non-ceratopsid ceratopsians. Most of the neural spines are plate-like, but that of Ce9 is somewhat rod-like because the spinoprezygapophyseal and spinopostzygapophyseal laminae are only weakly developed. The neural spines are much greater in height than in anteroposterior breadth. At least in Ce3, the posterior margin of the plate-like neural spine is considerably thicker transversely than the anterior margin.</p>
+         <p>The cervical ribs are represented by seven relatively complete examples (<xref ref-type="fig" rid="pone-0013835-g007">Figure 7</xref>) and a few fragments. The atlantal rib is a single-headed, somewhat spoon-shaped element (<xref ref-type="fig" rid="pone-0013835-g007">Figures 7A and B</xref>). It is more than twice as long as the axial centrum. The proximal part of the rib shaft is strongly expanded dorsoventrally to form a plate-like structure that is somewhat rounded in lateral view, with a strongly concave medial surface and a convex lateral surface. The articular surface for the atlas is flat and semilunate in outline. The rib shaft is slender and strongly flattened mediolaterally, though its distalmost portion is thickened along the ventral margin. The axial rib is considerably longer than the atlantal rib, and in fact is probably the longest of all the cervical ribs. The proximal end is double-headed, but relatively unexpanded, with the tuberculum and capitulum close together (<xref ref-type="fig" rid="pone-0013835-g007">Figures 7C and D</xref>). The tuberculum is mediolaterally thin and is oriented dorsomedially, extending nearly perpendicular to the long axis of the rib shaft. The capitulum is much more robust, terminating in a nearly circular articular facet. The rib shaft is long and slender, with a markedly convex lateral surface. The third cervical rib is in general similar to the axial rib, but differs in a few features: in the third rib the shaft is much more robust, the tuberculum and capitulum are widely separated from each other, the tuberculum is less dorsally oriented, the area where the tuberculum and capitulum come together bears a longitudinally oriented crest along the lateral surface and a groove along the medial surface, and a small accessory process occurs at the mid-length of the dorsal margin of the rib shaft (<xref ref-type="fig" rid="pone-0013835-g007">Figures 7E and F</xref>).</p>
+         <p>The fourth and subsequent cervical ribs differ from the third cervical rib in that the tuberculum and capitulum are more rod-like and strap-like, respectively. In these posterior cervical ribs the tuberculum is nearly aligned with the rib shaft (<xref ref-type="fig" rid="pone-0013835-g007">Figures 7G and H</xref>), whereas the capitulum diverges at a large angle from the long axis of the rib shaft (the reverse is true for the axial and third cervical ribs). The fifth cervical rib has a prominent accessory dorsal process (<xref ref-type="fig" rid="pone-0013835-g007">Figures 7I and J</xref>), and in this rib the lateral crest at the confluence of the capitulum and tuberculum is unusually large. Distal to the accessory dorsal process the rib shaft becomes somewhat rod-like, although the distalmost portion of the rib shaft deviates from this shape by widening dorsoventrally. The sixth cervical rib has a shaft much wider than those of the preceding cervical ribs, and the accessory dorsal process is so enlarged that the distal part of the rib shaft is essentially bifurcated (<xref ref-type="fig" rid="pone-0013835-g007">Figures 7K and L</xref>). A shallow, longitudinal groove is present on the lateral surface of the ventral process of the rib shaft. A more posterior cervical rib has an even wider shaft, but in the case of this rib the lateral crest is absent, the tuberculum has little medial curvature, and the shaft is not bifurcated although the accessory dorsal process is relatively large (<xref ref-type="fig" rid="pone-0013835-g007">Figures 7M and N</xref>). A lateral crest and an accessory dorsal process are also seen in the middle and posterior cervical ribs of some ceratopsids, such as <italic>Triceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Hatcher1">[27]</xref>. None of the cervical ribs figured by Brown and Schlaikjer for <italic>Montanoceratops</italic> shows a well-developed dorsal process <xref ref-type="bibr" rid="pone.0013835-Brown3">[28]</xref>.</p>
+         <p>Most of the right dorsal ribs are preserved (<xref ref-type="fig" rid="pone-0013835-g001">Figures 1</xref> and <xref ref-type="fig" rid="pone-0013835-g008">8</xref>). They are considerably curved medially, though the curvature is less pronounced in the first two dorsal ribs and the posteriormost dorsal ribs are nearly straight. The dorsal ribs lengthen posteriorly until the fifth in the series, which appears to be the longest rib of <italic>Zhuchengceratops</italic>. Moving posteriorly from this point, the dorsal ribs become shorter in length. There is a continuous narrowing of the dorsal ribs posteriorly along the series, with shaft width decreasing by about two-thirds from the anteriormost dorsal rib to the posteriormost. The tuberculum is prominent on the most anterior dorsal ribs, becomes smaller posteriorly along the series, and is barely present beyond the sixth dorsal rib. A longitudinal groove runs along the posterior surface of the proximal third of each anterior and middle dorsal rib, but is probably absent in the posterior dorsal ribs. The shafts of the posterior dorsal ribs are more rod-like than strap-like.</p>
+      </sec>
+   </sec>
+   <sec id="s4">
+      <title>Discussion</title>
+      <p>In our numerical phylogenetic analyses, <italic>Zhuchengceratops</italic> is recovered as a derived leptoceratopsid (<xref ref-type="fig" rid="pone-0013835-g009">Figure 9</xref>). It is posited in an unresolved position within a clade composed of <italic>Zhuchengceratops</italic>, <italic>Udanoceratops</italic>, and <italic>Leptoceratops</italic> (<xref ref-type="fig" rid="pone-0013835-g009">Figures 9A and B</xref>) based on the matrices of both Makovicky (2010) and Chinnery and Horner (2007).</p>
+      <p>The leptoceratopsid affinities of <italic>Zhuchengceratops</italic> are indicated by the presence of many derived features seen in other leptoceratopsids <xref ref-type="bibr" rid="pone.0013835-Chinnery1">[14]</xref>, <xref ref-type="bibr" rid="pone.0013835-Chinnery2">[29]</xref>, <xref ref-type="bibr" rid="pone.0013835-Chinnery3">[30]</xref>: dentary teeth with horizontal, labially positioned shelves, dentary teeth bulbously expanded at root-crown transition on labial side, primary ridge inset relative to cingulum on each maxillary tooth, mandible deep, dorsal margin of dentary strongly concave in lateral view, anterior part of dorsal margin of dentary considerably dorsal to tooth row, posterior edge of coronoid process of dentary notched, surangular without distinct lateral ridge overhanging angular, and dorsal vertebrae with flat zygapophyseal facets. Furthermore, <italic>Zhuchengceratops</italic> shares two derived features with both <italic>Leptoceratops</italic> and <italic>Udanoceratops</italic>: ventral margin of maxilla convex in lateral view and jaw articulation above tips of dentary teeth.</p>
+      <p>Our numerical analyses could not fully resolve the systematic position of <italic>Zhuchengceratops</italic> (<xref ref-type="fig" rid="pone-0013835-g009">Figure 9</xref>). The available morphological data are in fact contradictory regarding the relationships of <italic>Zhuchengceratops</italic>, <italic>Udanoceratops</italic>, and <italic>Leptoceratops</italic>. <italic>Zhuchengceratops</italic> has a dorsoventrally very deep maxilla, a derived feature probably also present in <italic>Udanoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Dodson1">[1]</xref>, <xref ref-type="bibr" rid="pone.0013835-Kurzanov1">[8]</xref> but absent in <italic>Leptoceratops</italic>. However, <italic>Zhuchengceratops</italic> also possesses several derived features seen in <italic>Leptoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Sternberg1">[18]</xref> but unknown in other ceratopsians: upward curvature of ventral margin restricted to anteriormost part of mandible, posterior end of mandible with sharp ventral deflection, contact between dentary and post-dentary bones nearly vertical (also seen in ceratopsids), and hyoid bones rod-shaped. Accordingly, the available morphological data support, albeit equivocally, the interpretation that <italic>Zhuchengceratops</italic> was more closely related to <italic>Leptoceratops</italic> than to <italic>Udanoceratops</italic> (it should be noted that not all of these features were included in the numerical phylogenetic analyses).</p>
+      <p>The Ceratopsidae was until recently the only known species-rich clade among the Ceratopsia, and unquestionably represents one of the last radiations of the ornithischian dinosaurs <xref ref-type="bibr" rid="pone.0013835-Makovicky2">[4]</xref>, <xref ref-type="bibr" rid="pone.0013835-Dodson2">[24]</xref>. Another speciose clade, the Bagaceratopsidae, is recognized by some authors <xref ref-type="bibr" rid="pone.0013835-You2">[31]</xref>, <xref ref-type="bibr" rid="pone.0013835-si1">[32]</xref>. Besides <italic>Protoceratops</italic> and <italic>Bagaceratops</italic>, other nominal taxa that have been suggested to belong to this group include <italic>Gobiceratops minutus</italic> <xref ref-type="bibr" rid="pone.0013835-Alifanov1">[33]</xref>, <italic>Breviceratops kozlowskii</italic> <xref ref-type="bibr" rid="pone.0013835-Maryanska1">[34]</xref>, <xref ref-type="bibr" rid="pone.0013835-Kurzanov2">[35]</xref>, <italic>Lamaceratops tereschenkoi</italic> <xref ref-type="bibr" rid="pone.0013835-Alifanov2">[36]</xref>, <italic>Platyceratops tatarinovi</italic> <xref ref-type="bibr" rid="pone.0013835-Alifanov2">[36]</xref>, and <italic>Magnirostris dodsoni</italic> <xref ref-type="bibr" rid="pone.0013835-You2">[31]</xref>. <italic>Ajkaceratops kozmai</italic> may also be closely related to the bagaceratopsids <xref ref-type="bibr" rid="pone.0013835-si1">[32]</xref>. However, most of these taxa have had their validity questioned <xref ref-type="bibr" rid="pone.0013835-Makovicky4">[22]</xref>, <xref ref-type="bibr" rid="pone.0013835-si1">[32]</xref>, so that the number of legitimate species that can be assigned to the Bagaceratopsidae is presently uncertain. By contrast, a recent phylogenetic analysis places eight well-established species in the Leptoceratopsidae, including the Asian taxa <italic>Udanoceratops</italic> and <italic>Asiaceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Makovicky2">[4]</xref>, <xref ref-type="bibr" rid="pone.0013835-Nessov1">[6]</xref>–<xref ref-type="bibr" rid="pone.0013835-Kurzanov1">[8]</xref>. <italic>Zhuchengceratops</italic> is the third leptoceratopsid reported from Asia. Consequently, the Leptoceratopsidae represents the second strongly supported speciose ceratopsian clade, indicating that an unusual, diverse group of apparently less specialized ceratopsian dinosaurs coexisted with the Ceratopsidae during the Late Cretaceous <xref ref-type="bibr" rid="pone.0013835-Makovicky2">[4]</xref>.</p>
+      <p>Within the context of the leptoceratopsid phylogeny presented in <xref ref-type="fig" rid="pone-0013835-g009">Figure 9</xref>, the Leptoceratopsidae are inferred to have originated in Asia. However, one interesting implication of the phylogeny is that dispersals took place in both directions across the Bering Strait in the Late Cretaceous: at least once from Asia to North America and once in the opposite direction. This is significant given that a predominant direction of dispersal from Asia to North America has been suggested for many other vertebrate groups <xref ref-type="bibr" rid="pone.0013835-Russell1">[37]</xref>, <xref ref-type="bibr" rid="pone.0013835-Xu1">[38]</xref>.</p>
+      <p>Interestingly, a basal centrosaurine ceratopsian has been recently reported from Wangshi Group strata exposed at the Zangjiazhuang locality <xref ref-type="bibr" rid="pone.0013835-Xu1">[38]</xref>, 5 km away from the Kugou site that produced the holotype of <italic>Zhuchengceratops inexpectus</italic>. The discovery of a leptoceratopsid from the Wangshi Group of Zhucheng thus indicates that leptoceratopsids and ceratopsids coexisted in the Late Cretaceous of Shandong, China. This is significant because the two groups had previously been known to occur together only in the uppermost Cretaceous deposits of North America <xref ref-type="bibr" rid="pone.0013835-You1">[10]</xref>.</p>
+      <p><italic>Zhuchengceratops</italic> is significantly different from other members of the group. It displays several features previously unreported in leptoceratopsids but seen in more derived ceratopsians. As in ceratopsids, the dorsal surface of the posterior process of the maxilla contacts the pterygoid and ectopterygoid, while the posterodorsal margin of the maxilla has a restricted articulation with the jugal <xref ref-type="bibr" rid="pone.0013835-Dodson2">[24]</xref>. The posterior end of the jugal expands dorsally to form the posteroventral border of the infratemporal fenestra, a morphology similar to that seen in centrosaurines and some chasmosaurines <xref ref-type="bibr" rid="pone.0013835-Dodson2">[24]</xref>. The pterygoid of <italic>Zhuchengceratops</italic> resembles those of ceratopsids and <italic>Protoceratops</italic> <xref ref-type="bibr" rid="pone.0013835-Makovicky4">[22]</xref> in bearing a ventral ridge that defines a ‘Eustachian canal’, and in that the quadrate ramus forms a large angle with the palatine process. The distal end of the coronoid process is slightly expanded anteroposteriorly, resembling to some extent the ceratopsid condition <xref ref-type="bibr" rid="pone.0013835-Dodson2">[24]</xref>. The posterior end of the dentary tooth row is only slightly anterior to the posterior margin of the coronoid process, a feature more reminiscent of ceratopsids than of other non-ceratopsid ceratopsians. As in ceratopsids, the nearly vertically oriented contact between the dentary and post-dentary bones lies posterior to the coronoid process. The prearticular of <italic>Zhuchengceratops</italic> contacts the dentary, a derived feature also seen in <italic>Protoceratops, Bagaceratops</italic>, and ceratopsids <xref ref-type="bibr" rid="pone.0013835-Makovicky1">[2]</xref>. The axial and third cervical centra are longer than those of the more posterior cervicals, a feature also seen in ceratopsids <xref ref-type="bibr" rid="pone.0013835-Brown2">[25]</xref>. As in <italic>Triceratops</italic> and some other ceratopsids <xref ref-type="bibr" rid="pone.0013835-Brown3">[28]</xref>, large nutrient foramina are present on the lateral surfaces of the cervical centra, and the middle cervical ribs are very robust and bear prominent accessory dorsal processes.</p>
+      <p>These features are consistent with the phylogenetic hypothesis that the leptoceratopsids are closer to the Ceratopsidae than are the Protoceratopsidae <xref ref-type="bibr" rid="pone.0013835-You1">[10]</xref>. However, our analysis supports the alternative hypothesis that the Protoceratopsidae are more closely related to the Ceratopsidae <xref ref-type="bibr" rid="pone.0013835-Makovicky1">[2]</xref>. In the framework of the phylogenetic hypothesis presented in this paper, the above-mentioned similarities between <italic>Zhuchengceratops</italic> on the one hand, and ceratopsids and their close relatives on the other, are interpreted as convergences. Consequently, <italic>Zhuchengceratops</italic> seems to have retained a basically leptoceratopsid feeding system while independently evolving some ceratopsid-like osteological features. These features increase the known morphological disparity within the Leptoceratopsidae. It should be noted, however, that the recovered inter-relationships among the Coronosauria are poorly supported by the available data as indicated by the relatively low Bremer Support and Bootstrap values (<xref ref-type="fig" rid="pone-0013835-g009">Figure 9</xref>). A more comprehensive dataset will eventually be required in order to better understand coronosaurian phylogeny, given the current controversy over the systematic position of the Leptoceratopsidae <xref ref-type="bibr" rid="pone.0013835-Makovicky1">[2]</xref>, <xref ref-type="bibr" rid="pone.0013835-Makovicky3">[7]</xref>, <xref ref-type="bibr" rid="pone.0013835-You1">[10]</xref>, <xref ref-type="bibr" rid="pone.0013835-Chinnery1">[14]</xref>.</p>
+      <p>The discovery of <italic>Zhuchengceratops</italic> provides new evidence for the hypothesis that leptoceratopsids represent a successful radiation, paralleling that of ceratopsids, in the Late Cretaceous of Asia and North America <xref ref-type="bibr" rid="pone.0013835-Makovicky2">[4]</xref>, <xref ref-type="bibr" rid="pone.0013835-Nessov1">[6]</xref>, <xref ref-type="bibr" rid="pone.0013835-Kurzanov1">[8]</xref>, <xref ref-type="bibr" rid="pone.0013835-Xu1">[38]</xref>. Interestingly, these two species-rich clades both possess many modifications related to mastication, but they modified their jaws and dentition in different ways. The leptoceratopsids have a short parietosquamosal frill, a massive lower jaw, a dorsally located mandibular glenoid articulation, and relatively massive teeth with a few distinctive features (e.g., prominences on the labial surfaces of the dentary crowns, and a vertical-notch tooth wear pattern). The ceratopsids have a much longer parietosquamosal frill, a shallow lower jaw, a ventrally located mandibular glenoid articulation, and highly specialized slender teeth (e.g., more than two replacement teeth in each alveolus, and teeth with two roots). These two different sets of highly specialized jaw and dental features may reflect adaptation to different food resources, but their occurrence in two closely-related lineages that coexisted and radiated in the same broad geographic areas during the Late Cretaceous is nevertheless surprising.</p>
+   </sec>
+</body>
+<back>
+   <ack>
+      <p>We thank Chen Yanming, Zou Qingzhong, and Chen Ruxia for coordinating the project, Zhang Xiayu for the figures, Yu Tao, He Sicai and Ding Xiaoqing for preparing the specimen, Ding Xiaoqing for editing the figures, and Drs. Andrew Farke and Hailu You for constructive comments.</p>
+   </ack>
+   <ref-list>
+      <title>References</title>
+      <ref id="pone.0013835-Dodson1">
+         <label>1</label>
+         <element-citation publication-type="other" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name>
+            </person-group>
+            <year>1996</year>
+            <article-title>The horned dinoaurs.</article-title>
+            <publisher-loc>Princeton</publisher-loc>
+            <publisher-name>Princeton University Press</publisher-name>
+<!--===== Restructure page-count as size[@units="page"] =====--><size units="page">346</size>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Makovicky1">
+         <label>2</label>
+         <element-citation publication-type="other" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>
+            </person-group>
+            <year>2002</year>
+            <article-title>Taxonomic revision and phylogenetic relationships of basal Neoceratopsia (Dinosauria: Ornithischia).</article-title>
+            <publisher-loc>New York</publisher-loc>
+            <publisher-name>Columbia University</publisher-name>
+<!--===== Restructure page-count as size[@units="page"] =====--><size units="page">297</size>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Nopcsa1">
+         <label>3</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Nopcsa</surname><given-names>F</given-names></name>
+            </person-group>
+            <year>1923</year>
+            <article-title>Die Familien der Reptilien.</article-title>
+            <source>Fortschritte der Geologie und Palaeontologie</source>
+            <volume>2</volume>
+            <fpage>1</fpage>
+            <lpage>210</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Makovicky2">
+         <label>4</label>
+         <element-citation publication-type="other" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>
+            </person-group>
+            <year>2001</year>
+            <article-title>A <italic>Montanoceratops cerorhynchus</italic> (Dinosauria: Ceratopsia) braincase from the Horseshoe Canyon Formation of Alberta.</article-title>
+            <person-group person-group-type="editor">
+               <name name-style="western"><surname>Tanke</surname><given-names>D</given-names></name>
+               <name name-style="western"><surname>Carpenter</surname><given-names>K</given-names></name>
+            </person-group>
+            <source>Mesozoic vertebrate life</source>
+            <publisher-loc>Bloomington</publisher-loc>
+            <publisher-name>University of Indiana Press</publisher-name>
+            <fpage>243</fpage>
+            <lpage>262</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Lindgren1">
+         <label>5</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Lindgren</surname><given-names>J</given-names></name>
+               <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>
+               <name name-style="western"><surname>Siverson</surname><given-names>M</given-names></name>
+               <name name-style="western"><surname>Rees</surname><given-names>J</given-names></name>
+               <name name-style="western"><surname>Cederstrom</surname><given-names>P</given-names></name>
+               <etal/>
+            </person-group>
+            <year>2007</year>
+            <article-title>The first neoceratopsian dinosaur remains from Europe.</article-title>
+            <source>Palaeontology</source>
+            <volume>50</volume>
+            <fpage>929</fpage>
+            <lpage>937</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Nessov1">
+         <label>6</label>
+         <element-citation publication-type="other" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Nessov</surname><given-names>LA</given-names></name>
+               <name name-style="western"><surname>Kaznyshkina</surname><given-names>LF</given-names></name>
+               <name name-style="western"><surname>Cherepanov</surname><given-names>GO</given-names></name>
+            </person-group>
+            <year>1989</year>
+            <article-title>Ceratopsian dinosaurs and crocodiles of the Mesozoic of Middle Asia.</article-title>
+            <person-group person-group-type="editor">
+               <name name-style="western"><surname>Bogdanova</surname><given-names>TN</given-names></name>
+               <name name-style="western"><surname>Khozatsky</surname><given-names>LI</given-names></name>
+            </person-group>
+            <source>Theoretical and applied aspects of modern Paleontology</source>
+            <publisher-loc>Leningrad</publisher-loc>
+            <publisher-name>Nauka</publisher-name>
+            <fpage>144</fpage>
+            <lpage>154</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Makovicky3">
+         <label>7</label>
+         <element-citation publication-type="other" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>
+            </person-group>
+            <year>2010</year>
+            <article-title>A redescription of the <italic>Montanoceratops cerorhynchus</italic> holotype, with a review of referred material.</article-title>
+            <person-group person-group-type="editor">
+               <name name-style="western"><surname>Ryan</surname><given-names>MJ</given-names></name>
+               <name name-style="western"><surname>Chinnery-Allgeier</surname><given-names>BJ</given-names></name>
+               <name name-style="western"><surname>Eberth</surname><given-names>DA</given-names></name>
+            </person-group>
+            <source>New perspectives on horned dinosaurs</source>
+            <publisher-loc>Bloomington and Indianapolis</publisher-loc>
+            <publisher-name>Indiana University Press</publisher-name>
+            <fpage>68</fpage>
+            <lpage>82</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Kurzanov1">
+         <label>8</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Kurzanov</surname><given-names>SM</given-names></name>
+            </person-group>
+            <year>1992</year>
+            <article-title>A giant protoceratopsid from the Upper Cretaceous of Mongolia Paleontological Journal</article-title>
+            <volume>1992</volume>
+            <fpage>81</fpage>
+            <lpage>93</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Rich1">
+         <label>9</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Rich</surname><given-names>R</given-names></name>
+               <name name-style="western"><surname>Vickers-Rich P</surname><given-names>P</given-names></name>
+            </person-group>
+            <year>2003</year>
+            <article-title>Protoceratopsian? ulnae from Australia.</article-title>
+            <source>Records of the Queen Victoria Museum Launceston</source>
+            <volume>113</volume>
+            <fpage>1</fpage>
+            <lpage>12</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-You1">
+         <label>10</label>
+         <element-citation publication-type="other" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>You</surname><given-names>HL</given-names></name>
+               <name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name>
+            </person-group>
+            <year>2004</year>
+            <article-title>Basal Ceratopsia.</article-title>
+            <person-group person-group-type="editor">
+               <name name-style="western"><surname>Weishampel</surname><given-names>DB</given-names></name>
+               <name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name>
+               <name name-style="western"><surname>Osmólska</surname><given-names>H</given-names></name>
+            </person-group>
+            <source>The Dinosauria</source>
+            <publisher-loc>Berkeley</publisher-loc>
+            <publisher-name>University of California Press</publisher-name>
+            <fpage>478</fpage>
+            <lpage>493</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Hu1">
+         <label>11</label>
+         <element-citation publication-type="other" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Hu</surname><given-names>CZ</given-names></name>
+               <name name-style="western"><surname>Cheng</surname><given-names>ZW</given-names></name>
+               <name name-style="western"><surname>Pang</surname><given-names>QQ</given-names></name>
+               <name name-style="western"><surname>Fang</surname><given-names>XS</given-names></name>
+            </person-group>
+            <year>2001</year>
+            <article-title><italic>Shantungosaurus giganteus</italic>.</article-title>
+            <publisher-loc>Beijing</publisher-loc>
+            <publisher-name>Geological Publishing House</publisher-name>
+<!--===== Restructure page-count as size[@units="page"] =====--><size units="page">139</size>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Hu2">
+         <label>12</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Hu</surname><given-names>C-Z</given-names></name>
+            </person-group>
+            <year>1973</year>
+            <article-title>A new hadrosaur from the Cretaceous of Zhucheng, Shantung.</article-title>
+            <source>Acta Geologica Sinica</source>
+            <volume>2</volume>
+            <fpage>179</fpage>
+            <lpage>202</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Wilson1">
+         <label>13</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Wilson</surname><given-names>JA</given-names></name>
+            </person-group>
+            <year>1999</year>
+            <article-title>A nomenclature for vertebral laminae in sauropods and other saurischian dinosaurs.</article-title>
+            <source>Journal of Vertebrate Paleontology</source>
+            <volume>19</volume>
+            <fpage>639</fpage>
+            <lpage>653</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Chinnery1">
+         <label>14</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Chinnery</surname><given-names>BJ</given-names></name>
+               <name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name>
+            </person-group>
+            <year>2007</year>
+            <article-title>A new neoceratopsian dinosaur linking North American and Asian taxa.</article-title>
+            <source>Journal of Vertebrate Paleontology</source>
+            <volume>27</volume>
+            <fpage>625</fpage>
+            <lpage>641</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Goloboff1">
+         <label>15</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Goloboff</surname><given-names>PA</given-names></name>
+               <name name-style="western"><surname>Farris</surname><given-names>J</given-names></name>
+               <name name-style="western"><surname>Nixon</surname><given-names>KC</given-names></name>
+            </person-group>
+            <year>2008</year>
+            <article-title>TNT, a free program for phylogenetic analysis.</article-title>
+            <source>Cladistics</source>
+            <volume>24</volume>
+            <fpage>774</fpage>
+            <lpage>786</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Seeley1">
+         <label>16</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Seeley</surname><given-names>HG</given-names></name>
+            </person-group>
+            <year>1888</year>
+            <article-title>The classification of the Dinosauria.</article-title>
+            <source>Report of the first and second meetings of British Association for the advancement of science</source>
+            <volume>1887</volume>
+            <fpage>698</fpage>
+            <lpage>699</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Marsh1">
+         <label>17</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Marsh</surname><given-names>OC</given-names></name>
+            </person-group>
+            <year>1890</year>
+            <article-title>Additional characters of the Ceratopsidae with notice of new Cretaceous dinosaurs.</article-title>
+            <source>American Journal of Science (series 3)</source>
+            <volume>39</volume>
+            <fpage>418</fpage>
+            <lpage>426</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Sternberg1">
+         <label>18</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Sternberg</surname><given-names>CH</given-names></name>
+            </person-group>
+            <year>1951</year>
+            <article-title>Complete skeleton of <italic>Leptoceratops gracilis</italic> Brown from the Upper Edmonton Member on the Red Deer River, Alberta.</article-title>
+            <source>Bulletin of National Museum of Canada</source>
+            <volume>123</volume>
+            <fpage>225</fpage>
+            <lpage>255</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Brown1">
+         <label>19</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Brown</surname><given-names>B</given-names></name>
+            </person-group>
+            <year>1914</year>
+            <article-title><italic>Leptoceratops</italic>, a new genus of Ceratopsia from the Edmonton Cretaceous of Alberta.</article-title>
+            <source>Bulletin of the American Museum of Natural History</source>
+            <volume>33</volume>
+            <fpage>567</fpage>
+            <lpage>580</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Sereno1">
+         <label>20</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>
+            </person-group>
+            <year>1986</year>
+            <article-title>Phylogeny of the bird-hipped dinosaurs (Order Ornithischia).</article-title>
+            <source>National Geographic Research</source>
+            <volume>2</volume>
+            <fpage>234</fpage>
+            <lpage>256</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Sereno2">
+         <label>21</label>
+         <element-citation publication-type="other" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>
+            </person-group>
+            <year>2002</year>
+            <article-title>The fossil record, systematics and evolution of pachycephalosaurs and ceratopsians from Asia.</article-title>
+            <person-group person-group-type="editor">
+               <name name-style="western"><surname>Benton</surname><given-names>MJ</given-names></name>
+               <name name-style="western"><surname>Shishkin</surname><given-names>MA</given-names></name>
+               <name name-style="western"><surname>Unwin</surname><given-names>DM</given-names></name>
+               <name name-style="western"><surname>Kurochkin</surname><given-names>EN</given-names></name>
+            </person-group>
+            <source>The age of dinosaurs in Russia and Mongolia</source>
+            <publisher-loc>Cambridge</publisher-loc>
+            <publisher-name>Cambridge University Press</publisher-name>
+            <fpage>480</fpage>
+            <lpage>516</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Makovicky4">
+         <label>22</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>
+               <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>
+            </person-group>
+            <year>2006</year>
+            <article-title><italic>Yamaceratops dorngobiensis</italic>, a new primitive ceratopsian (Dinosauria: Ornithischia) from the Cretaceous of Mongolia.</article-title>
+            <source>American Museum Novitates</source>
+            <volume>3530</volume>
+            <fpage>1</fpage>
+            <lpage>42</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Wu1">
+         <label>23</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Wu</surname><given-names>XC</given-names></name>
+               <name name-style="western"><surname>Brinkman</surname><given-names>DB</given-names></name>
+               <name name-style="western"><surname>Eberth</surname><given-names>DA</given-names></name>
+               <name name-style="western"><surname>Braman</surname><given-names>DR</given-names></name>
+            </person-group>
+            <year>2007</year>
+            <article-title>A new ceratopsid dinosaur (Ornithischia) from the uppermost Horseshoe canyon Formation (upper Maastrichtian), Alberta, Canada.</article-title>
+            <source>Canadian Journal of Earth Sciences</source>
+            <volume>44</volume>
+            <fpage>1243</fpage>
+            <lpage>1265</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Dodson2">
+         <label>24</label>
+         <element-citation publication-type="other" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name>
+               <name name-style="western"><surname>Forster</surname><given-names>CA</given-names></name>
+               <name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name>
+            </person-group>
+            <year>2004</year>
+            <article-title>Ceratopsidae.</article-title>
+            <person-group person-group-type="editor">
+               <name name-style="western"><surname>Weishampel</surname><given-names>DB</given-names></name>
+               <name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name>
+               <name name-style="western"><surname>Osmólska</surname><given-names>H</given-names></name>
+            </person-group>
+            <source>The Dinosauria</source>
+            <publisher-loc>Berkeley</publisher-loc>
+            <publisher-name>University of California Press</publisher-name>
+            <fpage>494</fpage>
+            <lpage>516</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Brown2">
+         <label>25</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Brown</surname><given-names>B</given-names></name>
+               <name name-style="western"><surname>Schlaikjer</surname><given-names>M</given-names></name>
+            </person-group>
+            <year>1940</year>
+            <article-title>The structure and relationships of <italic>Protoceratops</italic>.</article-title>
+            <source>Annals of the New York Academy of Sciences</source>
+            <volume>40</volume>
+            <fpage>133</fpage>
+            <lpage>266</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Sereno3">
+         <label>26</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>
+            </person-group>
+            <year>1999</year>
+            <article-title>The evolution of dinosaurs.</article-title>
+            <source>Science</source>
+            <volume>284</volume>
+            <fpage>2137</fpage>
+            <lpage>2147</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Hatcher1">
+         <label>27</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Hatcher</surname><given-names>JB</given-names></name>
+               <name name-style="western"><surname>Marsh</surname><given-names>OC</given-names></name>
+               <name name-style="western"><surname>Lull</surname><given-names>RS</given-names></name>
+            </person-group>
+            <year>1907</year>
+            <article-title>The Ceratopsia.</article-title>
+            <source>Monographs of the United States Geological Survey</source>
+            <volume>XLIX</volume>
+            <fpage>1</fpage>
+            <lpage>300</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Brown3">
+         <label>28</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Brown</surname><given-names>B</given-names></name>
+               <name name-style="western"><surname>Schlaikjer</surname><given-names>EM</given-names></name>
+            </person-group>
+            <year>1942</year>
+            <article-title>The skeleton of <italic>Leptoceratops</italic> with description of a new species.</article-title>
+            <source>American Museum Novitates</source>
+            <volume>1169</volume>
+            <fpage>1</fpage>
+            <lpage>15</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Chinnery2">
+         <label>29</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Chinnery</surname><given-names>BJ</given-names></name>
+               <name name-style="western"><surname>Weishampel</surname><given-names>DB</given-names></name>
+            </person-group>
+            <year>1998</year>
+            <article-title><italic>Montanoceratops cerorhynchus</italic> (Dinosauria: Ceratopsia) and relationships among basal neoceratopsians.</article-title>
+            <source>Journal of Vertebrate Paleontology</source>
+            <volume>18</volume>
+            <fpage>569</fpage>
+            <lpage>585</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Chinnery3">
+         <label>30</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Chinnery</surname><given-names>BJ</given-names></name>
+            </person-group>
+            <year>2004</year>
+            <article-title>Description of <italic>Prenoceratops pieganensis</italic> gen. et sp. nov (Dinosauria: Neoceratopsia) from the Two Medicine Formation of Montana.</article-title>
+            <source>Journal of Vertebrate Paleontology</source>
+            <volume>24</volume>
+            <fpage>572</fpage>
+            <lpage>590</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-You2">
+         <label>31</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>You</surname><given-names>H-L</given-names></name>
+               <name name-style="western"><surname>Dong</surname><given-names>Z</given-names></name>
+            </person-group>
+            <year>2003</year>
+            <article-title>A new protoceratopsid (Dinosauria: Neoceratopsia) from the Late Cretaceous of Inner Mongolia, China.</article-title>
+            <source>Acta Geologica Sinica (English edition)</source>
+            <volume>77</volume>
+            <fpage>299</fpage>
+            <lpage>303</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-si1">
+         <label>32</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Ősi</surname><given-names>A</given-names></name>
+               <name name-style="western"><surname>Butler</surname><given-names>RJ</given-names></name>
+               <name name-style="western"><surname>Weishampel</surname><given-names>DB</given-names></name>
+            </person-group>
+            <year>2010</year>
+            <article-title>A Late Cretaceous ceratopsian dinosaur from Europe with Asian affinities.</article-title>
+            <source>Nature</source>
+            <volume>465</volume>
+            <fpage>466</fpage>
+            <lpage>468</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Alifanov1">
+         <label>33</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Alifanov</surname><given-names>VR</given-names></name>
+            </person-group>
+            <year>2008</year>
+            <article-title>The tiny horned dinosaur <italic>Gobiceratops minutus</italic> gen. et sp. nov. (Bagaceratopidae, Neoceratopsia) from the Upper Cretaceous of Mongolia.</article-title>
+            <source>Paleontological Journal</source>
+            <volume>42</volume>
+            <fpage>621</fpage>
+            <lpage>633</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Maryanska1">
+         <label>34</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Maryanska</surname><given-names>T</given-names></name>
+               <name name-style="western"><surname>Osmolska</surname><given-names>H</given-names></name>
+            </person-group>
+            <year>1975</year>
+            <article-title>Protoceratopsidae (Dinosauria) of Asia.</article-title>
+            <source>Palaeontologia Pononica</source>
+            <volume>33</volume>
+            <fpage>133</fpage>
+            <lpage>181</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Kurzanov2">
+         <label>35</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Kurzanov</surname><given-names>S</given-names></name>
+            </person-group>
+            <year>1990</year>
+            <article-title>A new genus of protoceratopsid from the Late Cretaceous of Mongolia.</article-title>
+            <source>Paleontological Journal</source>
+            <volume>4</volume>
+            <fpage>85</fpage>
+            <lpage>91</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Alifanov2">
+         <label>36</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Alifanov</surname><given-names>VR</given-names></name>
+            </person-group>
+            <year>2003</year>
+            <article-title>Two new dinosaurs of the infraorder Neoceratopsia (Ornithischia) from the Upper Cretaceous of the Nemegt depression, Mongolian People's Republic.</article-title>
+            <source>Paleontological Journal</source>
+            <volume>37</volume>
+            <fpage>524</fpage>
+            <lpage>534</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Russell1">
+         <label>37</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Russell</surname><given-names>DA</given-names></name>
+            </person-group>
+            <year>1993</year>
+            <article-title>The role of Central Asia in dinosaurian biogeography.</article-title>
+            <source>Canadian Journal of Earth Sciences</source>
+            <volume>30</volume>
+            <fpage>2002</fpage>
+            <lpage>2012</lpage>
+         </element-citation>
+      </ref>
+      <ref id="pone.0013835-Xu1">
+         <label>38</label>
+         <element-citation publication-type="journal" xlink:type="simple">
+            <person-group person-group-type="author">
+               <name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>
+               <name name-style="western"><surname>Wang</surname><given-names>K-B</given-names></name>
+               <name name-style="western"><surname>Zhao</surname><given-names>X-J</given-names></name>
+               <name name-style="western"><surname>Li</surname><given-names>D-J</given-names></name>
+            </person-group>
+            <year>2010</year>
+            <article-title>First ceratopsid dinosaur from China and its biogeographical implications Chinese Science Bulletin</article-title>
+            <volume>55</volume>
+            <fpage>1631</fpage>
+            <lpage>1635</lpage>
+         </element-citation>
+      </ref>
+   </ref-list>
+   
+</back></article>

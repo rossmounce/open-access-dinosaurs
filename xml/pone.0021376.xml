@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="EN">
+  <front>
+    <journal-meta><journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><!--===== Grouping journal title elements =====--><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher></journal-meta>
+    <article-meta><article-id pub-id-type="publisher-id">PONE-D-11-06118</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0021376</article-id><article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Anatomy and physiology</subject>
+            <subj-group>
+              <subject>Musculoskeletal system</subject>
+              <subj-group>
+                <subject>Bone</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Developmental biology</subject>
+            <subj-group>
+              <subject>Evolutionary developmental biology</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Ecology</subject>
+            <subj-group>
+              <subject>Evolutionary ecology</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Evolutionary biology</subject>
+            <subj-group>
+              <subject>Evolutionary systematics</subject>
+              <subj-group>
+                <subject>Taxonomy</subject>
+                <subj-group>
+                  <subject>Animal taxonomy</subject>
+                </subj-group>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Organismal evolution</subject>
+              <subj-group>
+                <subject>Animal evolution</subject>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Paleontology</subject>
+              <subj-group>
+                <subject>Biostratigraphy</subject>
+                <subject>Invertebrate paleontology</subject>
+                <subject>Micropaleontology</subject>
+                <subject>Paleobiology</subject>
+                <subject>Taphonomy</subject>
+                <subject>Vertebrate paleontology</subject>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Evolutionary ecology</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Histology</subject>
+          </subj-group>
+          <subj-group>
+            <subject>Paleontology</subject>
+            <subj-group>
+              <subject>Paleobiology</subject>
+              <subject>Vertebrate paleontology</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Zoology</subject>
+            <subj-group>
+              <subject>Animal taxonomy</subject>
+              <subject>Ichthyology</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Earth sciences</subject>
+          <subj-group>
+            <subject>Paleontology</subject>
+            <subj-group>
+              <subject>Biogeography</subject>
+              <subject>Biostratigraphy</subject>
+              <subject>Invertebrate paleontology</subject>
+              <subject>Micropaleontology</subject>
+              <subject>Paleobiology</subject>
+              <subject>Taphonomy</subject>
+              <subject>Vertebrate paleontology</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Physiology</subject>
+          <subject>Ecology</subject>
+          <subject>Developmental Biology</subject>
+          <subject>Evolutionary Biology</subject>
+        </subj-group>
+      </article-categories><title-group><article-title>Reanalysis of “<italic>Raptorex kriegsteini</italic>”: A Juvenile Tyrannosaurid Dinosaur from Mongolia</article-title><alt-title alt-title-type="running-head">“<italic>Raptorex</italic>”: A Juvenile Tyrannosaurid from Mongolia</alt-title></title-group><contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Fowler</surname>
+            <given-names>Denver W.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Woodward</surname>
+            <given-names>Holly N.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Freedman</surname>
+            <given-names>Elizabeth A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Larson</surname>
+            <given-names>Peter L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Horner</surname>
+            <given-names>John R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group><aff id="aff1"><label>1</label><addr-line>Museum of the Rockies and Department of Earth Sciences, Montana State University, Bozeman, Montana, United States of America</addr-line>       </aff><aff id="aff2"><label>2</label><addr-line>Black Hills Institute of Geological Research, Inc., Hill City, South Dakota, United States of America</addr-line>       </aff><aff id="aff3"><label>3</label><addr-line>School of Earth, Atmospheric and Environmental Sciences, University of Manchester, Manchester, United Kingdom</addr-line>       </aff><contrib-group>
+        <contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Goswami</surname>
+            <given-names>Anjali</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group><aff id="edit1">University College London, United Kingdom</aff><author-notes>
+        <corresp id="cor1">* E-mail: <email xlink:type="simple">df9465@yahoo.co.uk</email></corresp>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: DWF HNW EAF PLL. Performed the experiments: DWF HNW EAF PLL. Analyzed the data: DWF HNW EAF PLL JRH. Contributed reagents/materials/analysis tools: JRH. Wrote the paper: DWF HNW EAF PLL.</p>
+        </fn>
+      <fn fn-type="conflict">
+        <p>We have the following competing interest: Peter L. Larson is an employee of Black Hills Institute of Geological Research Inc. There are no patents, products in development or marketed products to declare. This does not alter our adherence to all the PLoS ONE policies on sharing data and materials, as detailed online in the guide for authors.</p>
+      </fn></author-notes><pub-date pub-type="collection">
+        <year>2011</year>
+      </pub-date><pub-date pub-type="epub">
+        <day>29</day>
+        <month>6</month>
+        <year>2011</year>
+      </pub-date><volume>6</volume><issue>6</issue><elocation-id>e21376</elocation-id><history>
+        <date date-type="received">
+          <day>7</day>
+          <month>4</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>26</day>
+          <month>5</month>
+          <year>2011</year>
+        </date>
+      </history><!--===== Grouping copyright info into permissions =====--><permissions><copyright-year>2011</copyright-year><copyright-holder>Fowler et al</copyright-holder><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><abstract>
+        <p>The carnivorous Tyrannosauridae are among the most iconic dinosaurs: typified by large body size, tiny forelimbs, and massive robust skulls with laterally thickened teeth. The recently described small-bodied tyrannosaurid <italic>Raptorex kreigsteini</italic> is exceptional as its discovery proposes that many of the distinctive anatomical traits of derived tyrannosaurids were acquired in the Early Cretaceous, before the evolution of large body size. This inference depends on two core interpretations: that the holotype (LH PV18) derives from the Lower Cretaceous of China, and that despite its small size, it is a subadult or young adult. Here we show that the published data is equivocal regarding stratigraphic position and that ontogenetic reanalysis shows there is no reason to conclude that LH PV18 has reached this level of maturity. The probable juvenile status of LH PV18 makes its use as a holotype unreliable, since diagnostic features of <italic>Raptorex</italic> may be symptomatic of its immature status, rather than its actual phylogenetic position. These findings are consistent with the original sale description of LH PV18 as a juvenile <italic>Tarbosaurus</italic> from the Upper Cretaceous of Mongolia. Consequently, we suggest that there is currently no evidence to support the conclusion that tyrannosaurid skeletal design first evolved in the Early Cretaceous at small body size.</p>
+      </abstract><funding-group><funding-statement>Funding for the Museum of the Rockies graduate student fund was provided by Damaris Waggoner and David Sands. These funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts>
+        <page-count count="7"/>
+      </counts></article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>The Tyrannosauridae are probably the most famous of all dinosaurs. They are characterized by Upper Cretaceous taxa such as the iconic <italic>Tyrannosaurus rex</italic> from North America <xref ref-type="bibr" rid="pone.0021376-Osborn1">[1]</xref> and <italic>Tarbosaurus bataar</italic> from Mongolia <xref ref-type="bibr" rid="pone.0021376-Maleev1">[2]</xref>, <xref ref-type="bibr" rid="pone.0021376-Rozhdestvensky1">[3]</xref>: stocky carnivores of enormous size, with massive heads, huge laterally thickened teeth, and diminutive forelimbs. These and many other distinctive features are instantly recognizable and largely set tyrannosaurids apart from other theropods <xref ref-type="bibr" rid="pone.0021376-Holtz1">[4]</xref>. Finds of relatively small, basal tyrannosauroids in the Upper Jurassic and Lower Cretaceous of North America <xref ref-type="bibr" rid="pone.0021376-Madsen1">[5]</xref>, <xref ref-type="bibr" rid="pone.0021376-Carpenter1">[6]</xref>, Europe <xref ref-type="bibr" rid="pone.0021376-Hutt1">[7]</xref>–<xref ref-type="bibr" rid="pone.0021376-Benson1">[9]</xref>, Asia <xref ref-type="bibr" rid="pone.0021376-Xu1">[10]</xref>, <xref ref-type="bibr" rid="pone.0021376-Xu2">[11]</xref>, and possibly Australia (<xref ref-type="bibr" rid="pone.0021376-Benson2">[12]</xref>; although see <xref ref-type="bibr" rid="pone.0021376-Herne1">[13]</xref>) indicated that these characteristics were gradually acquired through time, along with an increase in body size.</p>
+      <p>An intriguing twist to the evolutionary history of Tyrannosauridae was proposed in 2009 when Sereno et al. <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref> described <italic>Raptorex kreigsteini</italic> as a small-bodied tyrannosaurid from the Lower Cretaceous of China. The beautifully preserved holotype skeleton (LH PV18; Long Hao Institute of Geology and Paleontology, Hohhot, Nei Mongol, China) first surfaced at the Tucson Gem Mineral and Fossil Show several years ago where it was purchased by Dr. Henry Kriegstein, an American ophthalmologist and private fossil collector <xref ref-type="bibr" rid="pone.0021376-Clark1">[15]</xref>. Dr. Kriegstein showed the specimen to Paul Sereno, who recognized its scientific value and arranged to coauthor its description on the condition that it should be repatriated to China, from which it was assumed that it had been illegally removed <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>. LH PV18 was important as it seemed to indicate that tyrannosaurid skeletal design first evolved at small body size in the Early Cretaceous. This inference depends on two core interpretations, that LH PV18 derives from the Lower Cretaceous, and that despite its small size, it is a subadult or young adult.</p>
+      <p>In the original description, LH PV18 is referred to as having been “discovered in the Lujiatun Beds (Hauterivian-Barremian, ca. 130 Ma) of the Lower Cretaceous Jehol Group” (<xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref> p. 419). However, uncertainty is indicated in the Supporting Online Material, and news articles <xref ref-type="bibr" rid="pone.0021376-Achenbach1">[16]</xref>–<xref ref-type="bibr" rid="pone.0021376-Mullen1">[18]</xref> including the Chicago Tribune <xref ref-type="bibr" rid="pone.0021376-Mullen1">[18]</xref> where Sereno is quoted: “From sediments, fossil fish bones, turtles, clam shells and other fauna we recovered from the rock matrix alongside the <italic>Raptorex</italic> fossil, we could generally pinpoint where it had been dug up in an area along the border with Inner Mongolia”. Contrary to this statement <xref ref-type="bibr" rid="pone.0021376-Mullen1">[18]</xref>, published associated fossils (<xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>, Supporting Online Material) consist only of a crushed pelecypod and a fish centrum. As the crushed pelecypod is unidentified, the age of LH PV18 is based primarily on the fish centrum which is identified as “cf. <italic>Lycoptera</italic>” (<xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>, Supporting Online Material). This is used to suggest LH PV18 derives from the Lower Cretaceous, since the known stratigraphic range of Lycopteridae is ∼122–135 Ma <xref ref-type="bibr" rid="pone.0021376-Li1">[19]</xref>. LH PV18 is suggested to have been collected from the Lujiatun Beds of the Yixian Formation, China, as this unit commonly yields articulated dinosaurs along with fossils of pelecypods and <italic>Lycoptera</italic>, as opposed to other potential units in China (e.g. the Iren Dabasu Formation).</p>
+      <p>LH PV18 was diagnosed as a subadult or young adult based on osteological analysis and a histological section of the right femur <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>. Osteological evidence cited as indicative of maturity includes complete obliteration of the internasal suture, partial coossification of several cranial sutures, coossification of some vertebral neural arches to centra, and partial fusion of the pelvis. In their histological analysis, spacing of Line(s) of Arrested Growth (LAGs) led the authors to suggest that LH PV18 had undergone an exponential growth period, and that growth was possibly slowing at death. From reconstructed LAG history it was suggested that LH PV18 died at an age of 5–6 years, as a subadult or young adult.</p>
+      <p>Herein, we show that the stratigraphic evidence provided (<xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>, Supporting Online Material) is uninformative and cannot be used to infer provenance. We demonstrate that the fish centrum is not of Lycopteridae and therefore the proposed stratigraphic position is not supported. Using histological and osteological analysis, we show there is no reason to believe that LH PV18 has reached subadult or young adult ontogenetic status. Further, we reveal that the specimen was originally sold as a juvenile <italic>Tarbosaurus</italic> from Mongolia, a diagnosis consistent with its morphology and the results of our independent analysis.</p>
+    </sec>
+    <sec id="s2" sec-type="materials|methods">
+      <title>Materials and Methods</title>
+      <p>Identification of associated fossil material and histological analysis was conducted by reference to photographs provided in the Sereno et al. <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref> Supporting Online Material and comparison to adult and subadult tyrannosaurid specimens held at the Museum of the Rockies and the Black Hills Institute. Consultation with Hollis Butts (pers. comm. to PL), who sold LH PV18 to Henry Kriegstein, was conducted at Tuscon Mineral Fair, Arizona, January 2011.</p>
+      <p>Here we follow Brochu (<xref ref-type="bibr" rid="pone.0021376-Brochu1">[20]</xref>, p 51–52) in his definition of vertebral neural arch fusion. A “closed” vertebra is defined as “one in which the neurocentral suture is no longer visible” (i.e. the suture is obliterated). An open vertebra is defined as “completely visible from all aspects, and the centrum and neural arch can be separated easily”. A partially closed vertebra is “one in which the suture has started closing, but is still discernible”.</p>
+    </sec>
+    <sec id="s3">
+      <title>Results and Discussion</title>
+      <sec id="s3a">
+        <title>Stratigraphy</title>
+        <p>The stratigraphic evidence (fish vertebra; rarity of articulated skeletons in the Iren Dabasu Formation; <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>, Supporting Online Material) is uninformative and cannot be used to reliably infer provenance. The LH PV18 fish centrum was assigned to <italic>Lycoptera</italic> without comment on how this diagnosis was made (<xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>, Supporting Online Material). Because isolated <italic>Lycoptera</italic> centra have never been described in detail, such positive identification is difficult. The only published account of <italic>Lycoptera</italic> vertebrae is Zhang 2002 (<xref ref-type="bibr" rid="pone.0021376-Zhang1">[21]</xref>; not cited by Sereno et al. <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>), whose morphological description is so different from the LH PV18 fish vertebra that this specimen cannot be a <italic>Lycoptera</italic>. Several features of the LH PV18 fish centrum that strongly differ from those of <italic>Lycoptera</italic> and related Osteoglossiformes, are instead more consistent with centra of Ellimmichthyiformes (double-armored herrings; <xref ref-type="fig" rid="pone-0021376-g001">Figure 1</xref>) or Hiodontiformes. <italic>Lycoptera</italic> centra are highly unusual in being thin-walled and tubular with a large notochordal foramen <xref ref-type="bibr" rid="pone.0021376-Zhang1">[21]</xref>, whereas the LH PV18 fish centrum <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>, Ellimmichthyiformes, and Hiodontiformes <xref ref-type="bibr" rid="pone.0021376-Newbrey1">[22]</xref>, <xref ref-type="bibr" rid="pone.0021376-Brinkman1">[23]</xref> are deeply amphicoelous, with thicker walls relative to the notochordal foramen. The LH PV18 fish centrum and Ellimmichthyiformes possess mid-dorsal and lateral-dorsal fossae posterior to the neural pits <xref ref-type="bibr" rid="pone.0021376-Newbrey1">[22]</xref>, <xref ref-type="bibr" rid="pone.0021376-Brinkman1">[23]</xref>; <italic>Lycoptera</italic> lacks these fossae (M. G. Newbrey pers. comm. 2010). A full description of <italic>Lycoptera</italic> vertebrae and comparison to Ellimmichthyiformes and Hiodontiformes is in preparation (Newbrey et al., in review).</p>
+        <fig id="pone-0021376-g001" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0021376.g001</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Comparison of the LH PV18 fish centrum (D) to an ellimmichthyiform centrum (A–C) (Horseshoeichthyes) from the Dinosaur Park Formation (Campanian) of Alberta.</title>
+            <p>The notochordal foramen (NF) in the LH PV18 fish centrum (<bold>D</bold>) is so small that it cannot be seen from the angle of the photograph. The exact number and positions of mid-dorsal fossae (MDF) and laterodorsal fossae (LDF) are variable within the same taxon <xref ref-type="bibr" rid="pone.0021376-Brinkman1">[23]</xref>. Photos (<bold>A–C</bold>) have been rotated to align with the general orientation of the obliquely figured LH PV18 fish centrum. Picture (<bold>A</bold>) was also flipped horizontally to simulate the right lateral view. Additional abbreviations: NA: neural arch articular pit. (<bold>A–C</bold>) adapted from Newbrey et al. (<xref ref-type="bibr" rid="pone.0021376-Newbrey1">[22]</xref>, Figure 9h). (<bold>D</bold>) adapted from Sereno et al. (<xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>, Figure S8B).</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0021376.g001" xlink:type="simple"/>
+        </fig>
+        <p>In addition, the LH PV18 fish centrum is far larger than any centra found in an articulated <italic>Lycoptera</italic> specimen. <italic>Lycoptera</italic> are small fish, generally ranging in size from 7 to 13 cm, and their centra are typically &lt;1 mm to 2 mm long <xref ref-type="bibr" rid="pone.0021376-Zhang1">[21]</xref>, <xref ref-type="bibr" rid="pone.0021376-Ma1">[24]</xref>. By contrast, the LH PV18 centrum <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref> is 4 mm in diameter and approximately 4 mm in length. This would be anomalously large for a <italic>Lycoptera</italic> centrum, but is fully within the size range expected for ellimmichthyiform centra, which are commonly up to 7 mm in diameter (<xref ref-type="bibr" rid="pone.0021376-Newbrey1">[22]</xref>; <xref ref-type="fig" rid="pone-0021376-g001">Figure 1</xref>).</p>
+        <p>Although the LH PV18 fish centrum cannot be more precisely identified without further comprehensive comparisons, its morphology and size exclude the possibility of it being <italic>Lycoptera</italic>, but are consistent with centra of Ellimmichthyiformes. As Ellimmichthyiformes in China range from the Early Cretaceous to the Eocene <xref ref-type="bibr" rid="pone.0021376-Newbrey1">[22]</xref>, <xref ref-type="bibr" rid="pone.0021376-ZaragetaBagils1">[25]</xref>, the LH PV18 fish centrum cannot be used as definitive evidence of an Early Cretaceous age for the specimen. Therefore there is no biostratigraphic evidence for placement of the specimen in the Lower Cretaceous.</p>
+        <p>The presence of pelecypod and <italic>Lycoptera</italic> fish fossils in the Jehol Biota is used by Sereno et al. <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref> as supporting evidence for assignment of LH PV18 to the Lujiatun beds of the Yixian Fm. We have shown that the fish vertebra does not pertain to Lycopteridae, so this argument is reduced to the presence of pelecypods and fish, which is typical for many if not most Mesozoic terrestrial formations and cannot be used as supporting evidence. Further, taphonomic data cannot exclude the possibility of a Late Cretaceous age, since articulated and partly articulated dinosaur remains are known from the Iren Dabasu Formation <xref ref-type="bibr" rid="pone.0021376-Currie1">[26]</xref>.</p>
+        <p>We suggest that other methods of chronostratigraphic analysis might provide independent age assessment of LH PV18. Analysis of palynomorphs or detrital zircons, extracted from the enclosing “tuffaceous sandstone” matrix (which might be expected to have potential for such analyses) could be used to assess stratigraphic position. While these methods provide only rough ages, often variably accurate within a range of ∼5 million years, this would still be adequate considering the ∼60 my disparity between potential Early and Late Cretaceous ages. Conceivably, analyzing Rare Earth Element content of fossil bone might also help elucidate provenance <xref ref-type="bibr" rid="pone.0021376-Trueman1">[27]</xref>, <xref ref-type="bibr" rid="pone.0021376-Trueman2">[28]</xref>.</p>
+        <p>Independent testimony states that the specimen was collected in Mongolia, not China. Before its final sale in the United States, LH PV18 was purchased from a Mongolian fossil collector by one of the brokers, an American businessman residing in Tokyo, Japan: at no time had the specimen been represented as coming from China (seller Hollis Butts pers. comm. to PL). Dr. Kriegstein confirmed (pers. comm. to PL) that he discussed the origin of LH PV18 with Mr. Butts and that upon purchase it was tentatively identified as a juvenile <italic>Tarbosaurus</italic>, a tyrannosaurid known only from the Late Cretaceous (Campanian and/or Maastrichtian; <xref ref-type="bibr" rid="pone.0021376-Holtz1">[4]</xref>). Variability in personal communications regarding the specimen makes it difficult to ascertain exact details that were known at the time of purchase, highlighting the problems of dealing with commercial specimens that have been illegally collected. It is unclear how the specimen came to be considered as having originated from the Lower Cretaceous of China, but a Mongolian (Upper Cretaceous) origin is consistent with other aspects of our stratigraphic reanalysis. Regardless of independent testimony, published stratigraphic data are uninformative. LH PV18 is of currently unknown provenance.</p>
+      </sec>
+      <sec id="s3b">
+        <title>Ontogeny</title>
+        <p>Ontogeny has an enormous influence on the skeletal morphology of dinosaurs, most obviously affecting both proportions and ornament of the skull <xref ref-type="bibr" rid="pone.0021376-Rozhdestvensky1">[3]</xref>, <xref ref-type="bibr" rid="pone.0021376-Brown1">[29]</xref>–<xref ref-type="bibr" rid="pone.0021376-Tsuihiji1">[53]</xref>, but also postcrania <xref ref-type="bibr" rid="pone.0021376-Russell1">[30]</xref>, <xref ref-type="bibr" rid="pone.0021376-Tsuihiji1">[53]</xref>–<xref ref-type="bibr" rid="pone.0021376-Dilkes1">[56]</xref>. While it has long been recognized that immature individuals can appear morphologically more basal than adults of the same species <xref ref-type="bibr" rid="pone.0021376-Rozhdestvensky1">[3]</xref>, only relatively recently has this begun to be acknowledged in taxonomic studies <xref ref-type="bibr" rid="pone.0021376-Russell1">[30]</xref>, <xref ref-type="bibr" rid="pone.0021376-Dodson1">[31]</xref>, <xref ref-type="bibr" rid="pone.0021376-Sampson2">[38]</xref>, <xref ref-type="bibr" rid="pone.0021376-Carr1">[39]</xref>, <xref ref-type="bibr" rid="pone.0021376-Currie2">[41]</xref>, <xref ref-type="bibr" rid="pone.0021376-Horner5">[49]</xref>–<xref ref-type="bibr" rid="pone.0021376-Scannella1">[51]</xref>, <xref ref-type="bibr" rid="pone.0021376-Tsuihiji1">[53]</xref>. Historically, many specimens of immature dinosaurs have been described as unique taxa, only later being recognized as juveniles and subsequently synonymized with a different taxon <xref ref-type="bibr" rid="pone.0021376-Russell1">[30]</xref>, <xref ref-type="bibr" rid="pone.0021376-Dodson1">[31]</xref>, <xref ref-type="bibr" rid="pone.0021376-Dodson3">[35]</xref>, <xref ref-type="bibr" rid="pone.0021376-Sampson2">[38]</xref>, <xref ref-type="bibr" rid="pone.0021376-Carr1">[39]</xref>, <xref ref-type="bibr" rid="pone.0021376-Currie2">[41]</xref>, <xref ref-type="bibr" rid="pone.0021376-Carr2">[42]</xref>, <xref ref-type="bibr" rid="pone.0021376-Horner5">[49]</xref>–<xref ref-type="bibr" rid="pone.0021376-Scannella1">[51]</xref>, <xref ref-type="bibr" rid="pone.0021376-Currie4">[57]</xref>, <xref ref-type="bibr" rid="pone.0021376-Margottini1">[58]</xref>. The emerging view of dinosaur ontogeny is that fully derived cranial and postcranial characters are typically only gained near to and/or upon reaching maturity (potentially beyond skeletal maturity), hence juvenile dinosaurs exhibit morphological characters that might make them appear more basal than they really are <xref ref-type="bibr" rid="pone.0021376-Rozhdestvensky1">[3]</xref>, <xref ref-type="bibr" rid="pone.0021376-Brown1">[29]</xref>–<xref ref-type="bibr" rid="pone.0021376-Tsuihiji1">[53]</xref>, <xref ref-type="bibr" rid="pone.0021376-Margottini1">[58]</xref>. This is illustrated in Tyrannosauridae by MPC-D 107/7 (Mongolian Paleontological Center, Ulaan Bataar, Mongolia), a recently described <xref ref-type="bibr" rid="pone.0021376-Tsuihiji1">[53]</xref> juvenile <italic>Tarbosaurus bataar</italic> (Nemegt Formation, Mongolia), nearly identical in size to LH PV18 (skull length 290 mm and 300 mm, respectively) and extremely similar in morphology. Cladistic analysis recovers MPC-D 107/7 as the sister taxon to Tyrannosauridae (with LH PV18 as the next more basal node) rather than the sister taxon to <italic>Tarbosaurus</italic>. Consequently, if LH PV18 is shown to be non-mature, then it is possible that purported basal characteristics do not reflect a true phylogenetic position, but rather its immature status. Assessing whether LH PV18 is a juvenile <italic>Tarbosaurus</italic> (as stated at its original sale) requires reanalysis of ontogenetic data, as the specimen was originally described as a subadult or young adult <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>.</p>
+      </sec>
+      <sec id="s3c">
+        <title>Osteological indications of maturity</title>
+        <p>Reanalysis of the published osteological data demonstrates that the specimen should not be considered as close to mature. Partial fusion of the internasal suture of LH PV18 <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref> is not indicative of maturity as the nasal suture begins to fuse very early in the ontogeny of tyrannosaurids <xref ref-type="bibr" rid="pone.0021376-Carr2">[42]</xref>, <xref ref-type="bibr" rid="pone.0021376-Tsuihiji1">[53]</xref>.</p>
+        <p>“Closed and coossified” neurocentral sutures in the cervical, anterior dorsal, and sacral vertebrae were used to infer a near mature condition for LH PV18 <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>, but this diagnosis is at odds with personal examination of the specimen by one of the present authors (PL), where (using the definition of Brochu <xref ref-type="bibr" rid="pone.0021376-Brochu1">[20]</xref>) neurocentral sutures of anterior dorsal and cervical vertebrae were observed to be only partially closed. Moreover, neurocentral sutures remain open in the anterior caudal and posterior dorsal vertebrae, some of which have become slightly disarticulated. The ontogenetic pattern for neurocentral closure has not yet been fully studied for tyrannosaurid dinosaurs <xref ref-type="bibr" rid="pone.0021376-Carr3">[59]</xref>, but the initially observed pattern does not match that described for crocodylians, where the caudal series can be closed before hatching, and fusion proceeds cranially <xref ref-type="bibr" rid="pone.0021376-Brochu1">[20]</xref>. Moreover, neurocentral fusion is an inconsistently observed character in tyrannosaurids suggesting that it is unreliable in determining maturity. The very large <italic>Tyrannosaurus</italic> FMNH PR2081 (“Sue”; <xref ref-type="bibr" rid="pone.0021376-Brochu2">[60]</xref>; Field Museum of Natural History, Chicago) exhibits unobliterated neurocentral sutures through the presacral and sacral series, as well as the first 15 caudal vertebrae. The juvenile <italic>Tarbosaurus</italic> IVPP V4878, ( = <italic>Shanshanosaurus huoyanshanensis</italic>; Subashi Formation, Upper Cretaceous, Xinjiang, China; <xref ref-type="bibr" rid="pone.0021376-Currie4">[57]</xref>, <xref ref-type="bibr" rid="pone.0021376-Dong1">[61]</xref>; Institute of Vertebrate Paleontology and Paleoanthropology, Beijing, China) is of near-identical size to LH PV18 and exhibits variable states of fusion in preserved cervical and dorsal vertebrae with some apparently closed, and others with visible sutures <xref ref-type="bibr" rid="pone.0021376-Currie4">[57]</xref>. Neurocentral sutures also appear closed in the cervical vertebrae of the juvenile tyrannosaurid IGM 100/1844 (Institute of Geology, Ulaan Baatar, Mongolia), described as the holotype of <italic>Alioramus altai</italic> <xref ref-type="bibr" rid="pone.0021376-Brusatte1">[62]</xref>. This demonstrates that neurocentral closure is known in tyrannosaurids that are not close to being mature, making it difficult to use this feature to support an adult status for LH PV18. Finally, in the recently described dromaeosaurid theropod <italic>Balaur</italic> <xref ref-type="bibr" rid="pone.0021376-Csiki1">[63]</xref>, extensive postcranial fusion is noted in both the holotype and paratype specimens, yet the paratype pertains to an individual 45% larger than the holotype. Csiki et al. <xref ref-type="bibr" rid="pone.0021376-Csiki1">[63]</xref> were not able to conduct independent histological analysis of ontogenetic status, but acknowledge that one hypothesis to account for this observation is that “growth continued after fusion of numerous regions of the skeleton”. Partial neurocentral fusion is therefore an unreliable indicator of maturity in theropods, at least without further study.</p>
+        <p>The narrow maxillary tooth crowns of LH PV18 are suggested to be different from “mature tyrannosaurids” <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>. Narrow crowns are typical of both immature Late Cretaceous tyrannosaurids <xref ref-type="bibr" rid="pone.0021376-Carr1">[39]</xref>, <xref ref-type="bibr" rid="pone.0021376-Currie2">[41]</xref> and basal tyrannosauroids <xref ref-type="bibr" rid="pone.0021376-Hutt1">[7]</xref>, <xref ref-type="bibr" rid="pone.0021376-Xu1">[10]</xref>, <xref ref-type="bibr" rid="pone.0021376-Xu2">[11]</xref>. Since narrow crowns would be expected in both immature and basal tyrannosaurids then we suggest this feature is of equivocal use for determining ontogenetic status.</p>
+      </sec>
+      <sec id="s3d">
+        <title>Histology</title>
+        <p>Histological sectioning of limb bones remains the only reliable assessment of ontogenetic status. Sereno et al. <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref> conclude that LH PV18 is a nearly mature subadult based on a histological section of the right femur. However, the section exhibits typically juvenile histological features. If LH PV18 was nearly mature then bone remodeling in the form of secondary osteons should be widespread in the histologic section <xref ref-type="bibr" rid="pone.0021376-FrancillonVieillot1">[64]</xref>–<xref ref-type="bibr" rid="pone.0021376-Klein1">[66]</xref>. However, secondary osteons are only seen in two very small areas, both associated with migration of adductor muscle attachment (<xref ref-type="fig" rid="pone-0021376-g002">Figure 2</xref>). Furthermore, the femur is composed entirely of plexiform fibro-lamellar bone indicating rapid growth and consistent with an immature status.</p>
+        <fig id="pone-0021376-g002" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0021376.g002</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Osteohistological features of LH PV18 and a near adult <italic>Tyrannosaurus rex</italic> for comparison.</title>
+            <p>(<bold>A</bold>) Femur cross section of LH PV18 modified from Sereno et al. (<xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>, Figure S7A). Only two small clusters of secondary osteons (arrows) are visible, associated with adductor muscle attachment sites. The width of cortical bone from the edge of the medullary cavity to LAG 1 (green bar labeled 1) is nearly the same as the width of cortical bone from LAG 2 to the outer surface (green bar labeled 3). (<bold>B</bold>) Mid to outer cortex of a femur cross section from a <italic>Tyrannosaurus rex</italic> (MOR 1198; Museum of the Rockies, Bozeman, Montana) described <xref ref-type="bibr" rid="pone.0021376-Horner7">[71]</xref> as approaching adult length. The bone surface is located to the right of the picture. Several generations of secondary osteons nearly obliterate primary tissue within the deeper cortex and become scattered close to the surface. This pattern is typical of dinosaurs approaching asymptotic size. Scale bar = 5 mm.</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0021376.g002" xlink:type="simple"/>
+        </fig>
+        <p>Sereno et al.'s <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref> suggestion that the distance between LAG 2 and the surface records a transition to exponential growth compared to the distance between LAGs 1 and 2 is questionable as the spacing between LAG 1 and the missing LAGs was just as large if not larger. The amount of growth represented by the distance between LAG 1 and 2 is anomalous as it is bound on either side by bone thicknesses representing larger amounts of growth. In addition, if the distance between LAG 2 and the surface represents the beginning of an exponential growth phase, then this individual should be considered immature because a subadult would be characterized by a reducing, not increasing, growth rate. There is no indication from tissue organization or LAG spacing that suggests growth is slowing down or that adult or subadult size has been approached. Because a fibro-lamellar tissue complex is consistent throughout, even up to the periosteal surface, growth was still proceeding rapidly at time of death.</p>
+        <p>The outer layer described as a possible third LAG is difficult to fully trace around the circumference in the images available, and may be an artifact of diagenetic staining. The close-up image using transmitted light (Sereno et al. <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>; Fig. S7b) supports this, as the image shows that the cortex near the periosteal surface is less clearly preserved and there is no “well-defined” third LAG. Sereno et al. interpret this possible LAG, so close to the periosteal surface, to indicate a decrease in bone deposition associated with approaching skeletal maturity. For this to be true, a corresponding and permanent change from plexiform tissue to slowly deposited parallel-fibered or lamellar bone tissue is necessary. If there is indeed a third LAG near the surface, the few lamellae deposited after it remain plexiform like the rest of the section. In this case, a single LAG so close to the surface means only that this animal died shortly after its deposition, not that growth was slowing down.</p>
+        <p>It has been suggested that the long bone histology of small dinosaurs (i.e. those of small adult size) and basal birds is different from that of large dinosaurs <xref ref-type="bibr" rid="pone.0021376-Case1">[67]</xref>–<xref ref-type="bibr" rid="pone.0021376-Horner7">[71]</xref>. Padian et al. (<xref ref-type="bibr" rid="pone.0021376-Padian1">[68]</xref>, p. 405) state: “In contrast to large dinosaurs and pterosaurs, small ones apparently grew more slowly. Their long bone cortices were less well vascularized, the vessels were primarily longitudinal, and the bones may show more closely spaced growth lines”. If LH PV18 was a near-mature individual of a small tyrannosaur species we would expect to observe the aforementioned histological features in the section. However, LH PV18 exhibits histology more consistent with that of an immature large dinosaur, rather than a mature (or even immature) small dinosaur.</p>
+        <p>Histology also indicates that the original age estimate of 5–6 years <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref> is an overestimate. We suggest that an age of 3–6 years is more accurate, with strong suspicion of a true age closer to 3 years. The annual periodicity of cortical growth marks (LAGs) has been demonstrated in extant archosaurs (e.g. <xref ref-type="bibr" rid="pone.0021376-Hutton1">[72]</xref>, <xref ref-type="bibr" rid="pone.0021376-Tucker1">[73]</xref>), thus allowing their use in estimating age at death for dinosaurs. Sereno et al. determined the age of LH PV18 by counting the LAGs present within the cortex, and adding to that the number of LAGs estimated to be missing due to bone resorption during medullary cavity expansion. Because the distance between two LAGs reveals the amount of cortical growth in one year, Sereno et al. <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref> use the spacing (or growth “zone”) between LAG 1 and 2 to assess the number of missing LAGs by determining how many of those zones would fit within the medullary cavity. However, this method is problematic. The deep cortex shown on the left side of the section is less affected by medullary expansion than the right side, affording a more complete record of cortical growth. Here the distance from the edge of the medullary cavity to LAG 1 is greater than the distance between LAG 1 and 2 (<xref ref-type="fig" rid="pone-0021376-g002">Figure 2</xref>), and equivalent to the spacing between LAG 2 and the surface. Therefore the amount of cortical growth in the year separating LAG 1 and LAG 2 is actually less than the amount of cortical growth from the previous year (edge of medullary cavity to LAG 1), as well as less than the cortical growth from the year after (the zone between LAG 2 and the surface). Therefore, the distance between LAG 1 and LAG 2 should not be used to estimate the number of missing LAGs. Despite being incomplete due to resorption, the innermost growth zone is approximately twice as large as the distance between LAG 1 and LAG 2, and would be a better estimate of the width of the missing growth zones. It is also equally plausible that the bone tissue destroyed by medullary expansion was free of additional LAGs. Ontogenetic histology studies of large dinosaurs demonstrate a rapid increase in body size prior to the deposition of the first LAG (e.g. <xref ref-type="bibr" rid="pone.0021376-Horner8">[74]</xref>–<xref ref-type="bibr" rid="pone.0021376-Bybee1">[76]</xref>). Following this model of growth, missing LAGs destroyed by medullary expansion would not be expected in LH PV18 and the actual age at death was 2–3 years. This is supported by the ontogenetic analysis of the near-identically sized juvenile <italic>Tarbosaurus</italic> MPC-D 107/7. Histological analysis of the fibula and tibia from MPC-D 107/7 revealed an age of 2–3 years with no possibility of missing LAGs <xref ref-type="bibr" rid="pone.0021376-Tsuihiji1">[53]</xref>. Therefore, given the presence of a rapidly deposited bone tissue typical of an immature animal, and because in general LAG spacing decreases throughout ontogeny as growth rate slows, we consider an age estimate of 2–3 years most likely for LH PV18.</p>
+      </sec>
+      <sec id="s3e">
+        <title>Taxonomy</title>
+        <p>It is not the main purpose of this study to reassess the taxonomic status and possible affinities of LH PV18; however, some comment is appropriate. In their description of a juvenile <italic>Tarbosaurus bataar</italic> (MPC-D 107/7), Tsuihiji et al. <xref ref-type="bibr" rid="pone.0021376-Tsuihiji1">[53]</xref> discuss morphology of juvenile tyrannosaurs, including characters considered diagnostic of “<italic>Raptorex</italic>” which are also seen in MPC-D 107/7. They conclude that it can be challenging to discriminate juvenile characters from plesiomorphic characters, with which we concur. Tsuihiji et al. <xref ref-type="bibr" rid="pone.0021376-Tsuihiji1">[53]</xref> tentatively suggest that LH PV18 is not assignable to <italic>T. bataar</italic> for two reasons. Firstly, LH PV18 has “reportedly very different stratigraphic age and provenance”, which we show here to be based on incorrect interpretation by Sereno et al. <xref ref-type="bibr" rid="pone.0021376-Sereno1">[14]</xref>. Secondly, there are some morphological differences between LH PV18 and MPC-D 107/7, including cranial characters (dorsoventral extension of the rostroventral lamina of the ventral ramus of the lacrimal, and size of caudal surangular foramen) and significantly, that LH PV18 is reported as lacking a vertical crest on the ilium (a character seen in all other tyrannosauroids <xref ref-type="bibr" rid="pone.0021376-Holtz1">[4]</xref>, <xref ref-type="bibr" rid="pone.0021376-Holtz2">[77]</xref>). However, personal observation of LH PV18 by one of us (PL) found that a subtle crest is visible on the ilium (as expected). Thus, the only definable differences between a juvenile <italic>Tarbosaurus bataar</italic> and LH PV18 are two minor skull characters, which Tsuihiji et al. <xref ref-type="bibr" rid="pone.0021376-Tsuihiji1">[53]</xref> suggest could be intraspecific variation (although intraspecific variation in tyrannosaurids <xref ref-type="bibr" rid="pone.0021376-Carr1">[39]</xref>, <xref ref-type="bibr" rid="pone.0021376-Currie2">[41]</xref>, <xref ref-type="bibr" rid="pone.0021376-Currie5">[78]</xref>, <xref ref-type="bibr" rid="pone.0021376-Hurum1">[79]</xref>, especially juveniles, requires further study). Morphological and histological consistency between the two specimens supports our conclusion that LH PV18 is a juvenile of a much larger tyrannosaurid species, and may indicate affinity with <italic>Tarbosaurus</italic>, although not necessarily being assignable to <italic>T. bataar</italic>. Comparison to the tyrannosaurid record of North America <xref ref-type="bibr" rid="pone.0021376-Holtz1">[4]</xref> over the equivalent time frame (Late Cretaceous; Campanian - Maastrichtian; ∼83 - 66 Ma; <xref ref-type="bibr" rid="pone.0021376-Weishampel1">[80]</xref>, <xref ref-type="bibr" rid="pone.0021376-Hone1">[81]</xref>) suggests that some diversity might be expected in Asian taxa. North American dinosaur taxa often form lineages of non-overlapping chronospecies, even within the same formation <xref ref-type="bibr" rid="pone.0021376-Holmes1">[82]</xref>–<xref ref-type="bibr" rid="pone.0021376-Scannella2">[86]</xref>. Small changes seen among Asian tyrannosaurids may similarly be the result of slight stratigraphic variation. However, as demonstrated with <italic>Triceratops</italic> <xref ref-type="bibr" rid="pone.0021376-Scannella1">[51]</xref>, <xref ref-type="bibr" rid="pone.0021376-Scannella2">[86]</xref>, making sense of multiple morphologies first requires knowledge of ontogenetic change as well as relative stratigraphic position of specimens, emphasizing the necessity for such data in specimen descriptions.</p>
+        <p>The lack of provenance data and juvenile status of LH PV18 make its use as a holotype problematic. When sample sizes are extremely limited, all specimens may appear to be useful records of morphology, even if they lack essential locality data. However, specimens without stratigraphic data can be extremely difficult to compare properly with newly discovered material for which stratigraphic position is known. Thus, many historically collected specimens (even holotypes) will eventually become morphologies without context and mostly useless for any detailed scientific investigation (something we have personally encountered while studying historical collections of <italic>Triceratops</italic>). This can only be countered by relocation (where possible) of the original collection quarries <xref ref-type="bibr" rid="pone.0021376-Scannella2">[86]</xref>–<xref ref-type="bibr" rid="pone.0021376-Everhart1">[88]</xref>. Similarly, definition of taxa from juvenile specimens may not be useful because they are notoriously difficult to associate with adult morphologies (without intermediate forms for reference), which can result in their eventual designation as nomina dubia (e.g. <italic>Brachyceratops montanensis</italic>; <italic>Monoclonius crassus</italic>; <xref ref-type="bibr" rid="pone.0021376-Sampson2">[38]</xref>). Tsuihiji et al <xref ref-type="bibr" rid="pone.0021376-Tsuihiji1">[53]</xref> had great difficulty assigning the juvenile MPC-D 107/7 to <italic>Tarbosaurus bataar</italic>, finding only three characters shared by both juvenile and adult (including number of tooth positions which varies even between left and right sides of a single individual <xref ref-type="bibr" rid="pone.0021376-Tsuihiji1">[53]</xref>, and is thought to change through ontogeny; <xref ref-type="bibr" rid="pone.0021376-Carr1">[39]</xref>). Given that MPC-D 107/7 is morphologically dissimilar to an adult <italic>T. bataar</italic>, and that it is of almost identical ontogenetic status as LH PV18, we would not expect the adult morphology of “<italic>Raptorex</italic>” to look overly similar to LH PV18. Thus, even if “<italic>Raptorex</italic>” is a genuine taxon, it cannot be reliably compared to other species that are diagnosed based on adult specimens.</p>
+      </sec>
+      <sec id="s3f">
+        <title>Conclusions</title>
+        <p>LH PV18 cannot be demonstrated to be from the Lower Cretaceous, therefore the conclusion that derived features of tyrannosaurids evolved before the Late Cretaceous cannot be supported. As histology demonstrates that LH PV18 is immature then the conclusion that typical tyrannosaurid features evolved at a small size also cannot be supported, since the small size of LH PV18 is more likely the result of its immature status. Furthermore, the probable juvenile status of LH PV18 makes its use as a holotype unreliable, since diagnostic features of <italic>Raptorex</italic> may be symptomatic of its immature status, rather than its actual phylogenetic position. Unless stronger evidence is presented, <italic>Raptorex</italic> should be considered a <italic>nomen dubium</italic>. LH PV18 more likely represents the juvenile of a larger tyrannosaurid from the Late Cretaceous of Mongolia, such as <italic>Tarbosaurus</italic> (as per its original sale description), although testing of this hypothesis awaits description of new specimens of immature tyrannosaurids.</p>
+        <p>Misidentification of immature dinosaur specimens as new taxa is a persistent and increasingly pervasive problem that can be detected and diagnosed only by thorough and proper histological analysis. Combined ontogenetic and stratigraphic analyses have great potential to reveal new information on the mode and tempo of dinosaur evolution, but as this reanalysis exemplifies, such studies must be based upon solid and replicable data.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>Our gratitude is extended to Michael Newbrey (Tyrell Museum of Paleontology, TMP) for detailed consultation on fish vertebrae, and comments on the manuscript. Donald Brinkman (TMP) provided helpful comments on an early draft of the manuscript. Ellen Lamm (MOR) prepared histology slides used for comparison. Hollis Butts and Dr. Henry Kriegstein are thanked for their communications regarding the LH PV18 specimen. Thanks to John Scannella for discussion and help with references. Special thanks to Paul Sereno for unimpeded access to LH PV18.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0021376-Osborn1">
+        <label>1</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Osborn</surname><given-names>HF</given-names></name></person-group>             <year>1905</year>             <article-title><italic>Tyrannosaurus</italic> and other Cretaceous carnivorous dinosaurs.</article-title>             <source>B Am Mus Nat Hist</source>             <volume>21</volume>             <fpage>259</fpage>             <lpage>265</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Maleev1">
+        <label>2</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Maleev</surname><given-names>EA</given-names></name></person-group>             <year>1955</year>             <article-title>Giant carnivorous dinosaurs of Mongolia.</article-title>             <source>Dokl Akad Nauk SSSR+</source>             <volume>104</volume>             <fpage>634</fpage>             <lpage>637</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Rozhdestvensky1">
+        <label>3</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rozhdestvensky</surname><given-names>AK</given-names></name></person-group>             <year>1965</year>             <article-title>Growth changes in Asian dinosaurs and some problems of their taxonomy.</article-title>             <source>Paleontol Zh</source>             <volume>3</volume>             <fpage>95</fpage>             <lpage>109</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Holtz1">
+        <label>4</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Holtz</surname><given-names>TR</given-names><suffix>Jr</suffix></name></person-group>             <year>2004</year>             <article-title>Tyrannosauroidea.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Weishampel</surname><given-names>D</given-names></name><name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name><name name-style="western"><surname>Osmolska</surname><given-names>H</given-names></name></person-group>             <source>The Dinosauria</source>             <publisher-loc>Berkeley California</publisher-loc>             <publisher-name>University of California Press</publisher-name>             <fpage>111</fpage>             <lpage>136</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Madsen1">
+        <label>5</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Madsen</surname><given-names>JH</given-names></name></person-group>             <year>1974</year>             <article-title>A new theropod dinosaur from the Upper Jurassic of Utah.</article-title>             <source>J Paleontol</source>             <volume>48</volume>             <fpage>27</fpage>             <lpage>31</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Carpenter1">
+        <label>6</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Carpenter</surname><given-names>K</given-names></name><name name-style="western"><surname>Miles</surname><given-names>C</given-names></name><name name-style="western"><surname>Cloward</surname><given-names>K</given-names></name></person-group>             <year>2005</year>             <article-title>New small theropod from the Upper Jurassic Morrison Formation of Wyoming.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Carpenter</surname><given-names>K</given-names></name></person-group>             <source>The Carnivorous Dinosaurs</source>             <publisher-loc>Bloomington</publisher-loc>             <publisher-name>Indiana University Press</publisher-name>             <fpage>23</fpage>             <lpage>48</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Hutt1">
+        <label>7</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Hutt</surname><given-names>S</given-names></name><name name-style="western"><surname>Naish</surname><given-names>DW</given-names></name><name name-style="western"><surname>Martill</surname><given-names>DM</given-names></name><name name-style="western"><surname>Barker</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Newberry</surname><given-names>P</given-names></name></person-group>             <year>2001</year>             <article-title>A preliminary account of a new tyrannosauroid theropod from the Wessex Formation (Early Cretaceous) of southern England.</article-title>             <source>Cretaceous Res</source>             <volume>22</volume>             <fpage>227</fpage>             <lpage>242</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Rauhut1">
+        <label>8</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rauhut</surname><given-names>OWM</given-names></name></person-group>             <year>2003</year>             <article-title>A tyrannosauroid dinosaur from the Upper Jurassic of Portugal.</article-title>             <source>Palaeontology</source>             <volume>46</volume>             <fpage>903</fpage>             <lpage>910</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Benson1">
+        <label>9</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Benson</surname><given-names>RBJ</given-names></name></person-group>             <year>2008</year>             <article-title>New information on <italic>Stokesosaurus</italic>, a tyrannosauroid (Dinosauria: Theropoda) from North America and the United Kingdom.</article-title>             <source>J Vertebr Paleontol</source>             <volume>28</volume>             <fpage>732</fpage>             <lpage>750</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Xu1">
+        <label>10</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name><name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name><name name-style="western"><surname>Kuang</surname><given-names>X</given-names></name><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>Q</given-names></name><etal/></person-group>             <year>2004</year>             <article-title>Basal tyrannosauroids from China and evidence for protofeathers in tyrannosauroids.</article-title>             <source>Nature</source>             <volume>431</volume>             <fpage>680</fpage>             <lpage>684</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Xu2">
+        <label>11</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name><name name-style="western"><surname>Clark</surname><given-names>JM</given-names></name><name name-style="western"><surname>Forster</surname><given-names>CA</given-names></name><name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name><name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name><etal/></person-group>             <year>2006</year>             <article-title>A basal tyrannosauroid dinosaur from the Late Jurassic of China.</article-title>             <source>Nature</source>             <volume>439</volume>             <fpage>715</fpage>             <lpage>718</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Benson2">
+        <label>12</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Benson</surname><given-names>RBJ</given-names></name><name name-style="western"><surname>Barrett</surname><given-names>PM</given-names></name><name name-style="western"><surname>Rich</surname><given-names>TH</given-names></name><name name-style="western"><surname>Vickers-Rich</surname><given-names>P</given-names></name></person-group>             <year>2010</year>             <article-title>A Southern Tyrant Reptile.</article-title>             <source>Science</source>             <volume>327</volume>             <fpage>1613</fpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Herne1">
+        <label>13</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Herne</surname><given-names>MC</given-names></name><name name-style="western"><surname>Nair</surname><given-names>JP</given-names></name><name name-style="western"><surname>Salisbury</surname><given-names>SW</given-names></name></person-group>             <year>2010</year>             <article-title>Comment on “A Southern Tyrant Reptile”.</article-title>             <source>Science</source>             <volume>329</volume>             <fpage>1013</fpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Sereno1">
+        <label>14</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name><name name-style="western"><surname>Tan</surname><given-names>L</given-names></name><name name-style="western"><surname>Brusatte</surname><given-names>SL</given-names></name><name name-style="western"><surname>Kriegstein</surname><given-names>HJ</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>X</given-names></name><etal/></person-group>             <year>2009</year>             <article-title>Tyrannosaurid skeletal design first evolved at small body size.</article-title>             <source>Science</source>             <volume>326</volume>             <fpage>418</fpage>             <lpage>422</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Clark1">
+        <label>15</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Clark</surname><given-names>J</given-names></name></person-group>             <year>2009</year>             <article-title>Becoming <italic>T. rex</italic>.</article-title>             <source>Science</source>             <volume>326</volume>             <fpage>373</fpage>             <lpage>374</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Achenbach1">
+        <label>16</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Achenbach</surname><given-names>J</given-names></name></person-group>             <year>2009</year>             <article-title>Unveiled: The Surprisingly Small Precursor of T. Rex.</article-title>             <comment>Washington Post 18<sup>th</sup> Sept 2009. Available: <ext-link ext-link-type="uri" xlink:href="http://www.washingtonpost.com/wp-dyn/content/article/2009/09/17/AR2009091702573.html?hpid=topnews&amp;sid=ST2009091800725" xlink:type="simple">http://www.washingtonpost.com/wp-dyn/content/article/2009/09/17/AR2009091702573.html?hpid=topnews&amp;sid=ST2009091800725</ext-link> Accessed 2011 March 8</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Boyle1">
+        <label>17</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Boyle</surname><given-names>A</given-names></name></person-group>             <year>2009</year>             <article-title>Tiny T. rex? Big surprise! MSNBC News.</article-title>             <comment>Available: <ext-link ext-link-type="uri" xlink:href="http://cosmiclog.msnbc.msn.com/archive/2009/09/17/2072603.aspx" xlink:type="simple">http://cosmiclog.msnbc.msn.com/archive/2009/09/17/2072603.aspx</ext-link>. Accessed 2011 March 8</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Mullen1">
+        <label>18</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Mullen</surname><given-names>W</given-names></name></person-group>             <year>2009</year>             <article-title>Fossil identified as mini-T. rex.</article-title>             <comment>Chicago Tribune, Sept 18<sup>th</sup> 2009. Available: <ext-link ext-link-type="uri" xlink:href="http://articles.chicagotribune.com/2009-09-18/news/0909170802_1_fossil-bones-tyrannosaurus-rex-chicago-paleontologist-paul-sereno" xlink:type="simple">http://articles.chicagotribune.com/2009-09-18/news/0909170802_1_fossil-bones-tyrannosaurus-rex-chicago-paleontologist-paul-sereno</ext-link>. Accessed 2011 March 8</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Li1">
+        <label>19</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>P-X</given-names></name><name name-style="western"><surname>Su</surname><given-names>D-Y</given-names></name><name name-style="western"><surname>Li</surname><given-names>Y-G</given-names></name><name name-style="western"><surname>Yu</surname><given-names>J-X</given-names></name></person-group>             <year>1994</year>             <article-title>Age Assignment of the <italic>Lycoptera</italic> - bearing Bed.</article-title>             <source>Acta Geol Sin-Engl</source>             <volume>7</volume>             <fpage>329</fpage>             <lpage>349</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Brochu1">
+        <label>20</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Brochu</surname><given-names>CA</given-names></name></person-group>             <year>1996</year>             <article-title>Closure of neurocentral sutures during crocodilian ontogeny: implications for maturity assessment in fossil archosaurs.</article-title>             <source>J Vert Paleontol</source>             <volume>16</volume>             <fpage>49</fpage>             <lpage>62</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Zhang1">
+        <label>21</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>J-Y</given-names></name></person-group>             <year>2002</year>             <article-title>A new species of <italic>Lycoptera</italic> from Liaoning, China.</article-title>             <source>Vertebrat PalAsiatic</source>             <volume>40</volume>             <fpage>257</fpage>             <lpage>266</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Newbrey1">
+        <label>22</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Newbrey</surname><given-names>MG</given-names></name><name name-style="western"><surname>Murray</surname><given-names>AM</given-names></name><name name-style="western"><surname>Brinkman</surname><given-names>DB</given-names></name><name name-style="western"><surname>Wilson</surname><given-names>MVH</given-names></name><name name-style="western"><surname>Neuman</surname><given-names>AG</given-names></name></person-group>             <year>2010</year>             <article-title>A new articulated freshwater fish (Clupeomorpha, Ellimmichthyiformes) from the Horseshoe Canyon Formation, Maastrichtian, of Alberta, Canada.</article-title>             <source>Can J Earth Sci</source>             <volume>47</volume>             <fpage>1183</fpage>             <lpage>1196</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Brinkman1">
+        <label>23</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Brinkman</surname><given-names>DB</given-names></name><name name-style="western"><surname>Neuman</surname><given-names>AG</given-names></name></person-group>             <year>2002</year>             <article-title>Teleost centra from uppermost Judith River Group (Dinosaur Park Formation, Campanian) of Alberta.</article-title>             <source>Can J Paleontol</source>             <volume>76</volume>             <fpage>138</fpage>             <lpage>155</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Ma1">
+        <label>24</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ma</surname><given-names>F</given-names></name></person-group>             <year>1987</year>             <article-title>Review of <italic>Lycoptera davidi</italic>.</article-title>             <source>Vertebrat PalAsiatic</source>             <volume>25</volume>             <fpage>8</fpage>             <lpage>19</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-ZaragetaBagils1">
+        <label>25</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Zaragüeta Bagils</surname><given-names>R</given-names></name></person-group>             <year>2004</year>             <article-title>Basal clupeomorphs and ellimmichthyiform phylogeny.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Arratia</surname><given-names>G</given-names></name><name name-style="western"><surname>Tintori</surname><given-names>A</given-names></name></person-group>             <source>Mesozoic Fishes 3 – Systematics, Paleoenvironments and Biodiversity</source>             <publisher-loc>Munich, Germany</publisher-loc>             <publisher-name>Verlag Dr. Friedrich Pfeil</publisher-name>             <fpage>391</fpage>             <lpage>404</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Currie1">
+        <label>26</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Eberth</surname><given-names>DA</given-names></name></person-group>             <year>1993</year>             <article-title>Palaeontology, sedimentology and palaeoecology of the Iren Dabasu Formation (Upper Cretaceous), Inner Mongolia, People's Republic of China.</article-title>             <source>Cretaceous Res</source>             <volume>14</volume>             <fpage>127</fpage>             <lpage>144</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Trueman1">
+        <label>27</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Trueman</surname><given-names>CN</given-names></name><name name-style="western"><surname>Benton</surname><given-names>MJ</given-names></name></person-group>             <year>1997</year>             <article-title>A geochemical method to trace the taphonomic history of reworked bones in sedimentary settings.</article-title>             <source>Geology</source>             <volume>25</volume>             <fpage>263</fpage>             <lpage>266</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Trueman2">
+        <label>28</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Trueman</surname><given-names>CN</given-names></name><name name-style="western"><surname>Behrensmeyer</surname><given-names>AK</given-names></name><name name-style="western"><surname>Potts</surname><given-names>R</given-names></name><name name-style="western"><surname>Tuross</surname><given-names>N</given-names></name></person-group>             <year>2006</year>             <article-title>High-resolution records of location and stratigraphic provenance from the rare earth element composition of fossil bones.</article-title>             <source>Geochim Cosmochim Ac</source>             <volume>70</volume>             <fpage>4343</fpage>             <lpage>4355</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Brown1">
+        <label>29</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Brown</surname><given-names>B</given-names></name><name name-style="western"><surname>Schlaikjer</surname><given-names>E</given-names></name></person-group>             <year>1940</year>             <article-title>The structure and relationships of <italic>Protoceratops</italic>.</article-title>             <source>Ann NY Acad Sci</source>             <volume>40</volume>             <fpage>133</fpage>             <lpage>266</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Russell1">
+        <label>30</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Russell</surname><given-names>DA</given-names></name></person-group>             <year>1970</year>             <article-title>Tyrannosaurs from the Late Cretaceous of western Canada.</article-title>             <source>Natl Mus Can Publ Paleontol</source>             <volume>1</volume>             <fpage>1</fpage>             <lpage>34</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Dodson1">
+        <label>31</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name></person-group>             <year>1975</year>             <article-title>Taxonomic implications of relative growth in lambeosaurine hadrosaurs.</article-title>             <source>Syst Zool</source>             <volume>24</volume>             <fpage>37</fpage>             <lpage>54</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Dodson2">
+        <label>32</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name></person-group>             <year>1976</year>             <article-title>Quantitative aspects of relative growth and sexual dimorphism in <italic>Protoceratops</italic>.</article-title>             <source>J Paleontol</source>             <volume>50</volume>             <fpage>608</fpage>             <lpage>618</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Maryanska1">
+        <label>33</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Maryanska</surname><given-names>T</given-names></name><name name-style="western"><surname>Osmolska</surname><given-names>H</given-names></name></person-group>             <year>1979</year>             <article-title>Aspects of hadrosaurian cranial anatomy.</article-title>             <source>Lethaia</source>             <volume>12</volume>             <fpage>265</fpage>             <lpage>273</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Horner1">
+        <label>34</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name></person-group>             <year>1983</year>             <article-title>Cranial osteology and morphology of the type specimen of <italic>Maiasaura peeblesorum</italic> (Ornithischia: Hadrosauridae), with discussion of its phylogenetic position.</article-title>             <source>J Vert Paleontol</source>             <volume>3</volume>             <fpage>29</fpage>             <lpage>38</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Dodson3">
+        <label>35</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name></person-group>             <year>1988</year>             <article-title>The smallest ceratopsid skull - Judith River Formation of Alberta.</article-title>             <source>Can J Earth Sci</source>             <volume>25</volume>             <fpage>926</fpage>             <lpage>930</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Horner2">
+        <label>36</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name></person-group>             <year>1994</year>             <article-title>Embryonic and neonatal morphology and ontogeny of a new species of <italic>Hypacrosaurus</italic> (Ornithischia, Lambeosauridae) from Montana and Alberta.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Carpenter</surname><given-names>K</given-names></name><name name-style="western"><surname>Hirsch</surname><given-names>KF</given-names></name><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name></person-group>             <source>Dinosaur Eggs and Babies</source>             <publisher-loc>Cambridge</publisher-loc>             <publisher-name>Cambridge University Press</publisher-name>             <fpage>312</fpage>             <lpage>336</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Sampson1">
+        <label>37</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name></person-group>             <year>1995</year>             <article-title>Two new horned dinosaurs from the Upper Cretaceous Two Medicine Formation of Montana; with a phylogenetic analysis of Centrosaurinae (Ornithischia: Ceratopsidae).</article-title>             <source>J Vertebr Paleontol</source>             <volume>15</volume>             <fpage>743</fpage>             <lpage>760</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Sampson2">
+        <label>38</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name><name name-style="western"><surname>Ryan</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Tanke</surname><given-names>DH</given-names></name></person-group>             <year>1997</year>             <article-title>Craniofacial ontogeny in centrosaurine dinosaurs (Ornithischia: Ceratopsidae): taxonomic and behavioral implications.</article-title>             <source>Zool J Linn Soc</source>             <volume>121</volume>             <fpage>293</fpage>             <lpage>337</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Carr1">
+        <label>39</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Carr</surname><given-names>TD</given-names></name></person-group>             <year>1999</year>             <article-title>Craniofacial ontogeny in Tyrannosauridae (Dinosauria, Theropoda).</article-title>             <source>J Vert Paleontol</source>             <volume>19</volume>             <fpage>497</fpage>             <lpage>520</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Ryan1">
+        <label>40</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ryan</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Russell</surname><given-names>AP</given-names></name><name name-style="western"><surname>Eberth</surname><given-names>DE</given-names></name><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name></person-group>             <year>2001</year>             <article-title>The taphonomy of a <italic>Centrosaurus</italic> (Ornithischia: Ceratopsidae) bone bed from the Dinosaur Park Formation (Upper Campanian), Alberta, Canada, with comments on cranial ontogeny.</article-title>             <source>Palaios</source>             <volume>16</volume>             <fpage>482</fpage>             <lpage>506</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Currie2">
+        <label>41</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name></person-group>             <year>2003</year>             <article-title>Allometric growth in tyrannosaurids (Dinosauria: Theropoda) from the Upper Cretaceous of North America and Asia.</article-title>             <source>Can J Earth Sci</source>             <volume>40</volume>             <fpage>651</fpage>             <lpage>665</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Carr2">
+        <label>42</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Carr</surname><given-names>TD</given-names></name><name name-style="western"><surname>Williamson</surname><given-names>TE</given-names></name></person-group>             <year>2004</year>             <article-title>Diversity of Late Maastrichtian Tyrannosauridae (Dinosauria: Theropoda) from western North America.</article-title>             <source>Zool J Linn Soc-Lond</source>             <volume>142</volume>             <fpage>419</fpage>             <lpage>523</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Evans1">
+        <label>43</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Evans</surname><given-names>DC</given-names></name><name name-style="western"><surname>Forster</surname><given-names>CA</given-names></name><name name-style="western"><surname>Reisz</surname><given-names>RR</given-names></name></person-group>             <year>2005</year>             <article-title>The type specimen of <italic>Tetragonosaurus erectofrons</italic> (Ornithischia: Hadrosauridae) and the identification of juvenile Lambeosaurines.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Koppelhaus</surname><given-names>EB</given-names></name></person-group>             <source>Dinosaur Provincial Park</source>             <publisher-loc>Bloomington</publisher-loc>             <publisher-name>Indiana University Press</publisher-name>             <fpage>349</fpage>             <lpage>366</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Horner3">
+        <label>44</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name><name name-style="western"><surname>Goodwin</surname><given-names>MB</given-names></name></person-group>             <year>2006</year>             <article-title>Major cranial changes during <italic>Triceratops</italic> ontogeny.</article-title>             <source>P R Soc B</source>             <volume>273</volume>             <fpage>2757</fpage>             <lpage>2761</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Evans2">
+        <label>45</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Evans</surname><given-names>DC</given-names></name><name name-style="western"><surname>Reisz</surname><given-names>RR</given-names></name><name name-style="western"><surname>Dupuis</surname><given-names>K</given-names></name></person-group>             <year>2007</year>             <article-title>A juvenile <italic>Parasaurolophus</italic> (Ornithischia: Hadrosauridae) braincase from Dinosaur Provincial Park, Alberta, with comments on crest ontogeny in the genus.</article-title>             <source>J Vert Paleontol</source>             <volume>27</volume>             <fpage>642</fpage>             <lpage>650</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Currie3">
+        <label>46</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Langston</surname><given-names>W</given-names></name><name name-style="western"><surname>Tanke</surname><given-names>DH</given-names></name></person-group>             <year>2008</year>             <article-title>A new species of <italic>Pachyrhinosaurus</italic> (Dinosauria, Ceratopsidae) from the Upper Cretaceous of Alberta, Canada.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Langston</surname><given-names>W</given-names></name><name name-style="western"><surname>Tanke</surname><given-names>DH</given-names></name></person-group>             <source>A New Horned Dinosaur from an Upper Cretaceous Bone Bed in Alberta</source>             <publisher-loc>Ottawa, Canada</publisher-loc>             <publisher-name>NRC Research Press</publisher-name>             <fpage>1</fpage>             <lpage>108</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Horner4">
+        <label>47</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name><name name-style="western"><surname>Goodwin</surname><given-names>MB</given-names></name></person-group>             <year>2008</year>             <article-title>Ontogeny of cranial epi-ossifications in <italic>Triceratops</italic>.</article-title>             <source>J Vert Paleontol</source>             <volume>28</volume>             <fpage>134</fpage>             <lpage>144</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Brown2">
+        <label>48</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Brown</surname><given-names>CM</given-names></name><name name-style="western"><surname>Russell</surname><given-names>AP</given-names></name><name name-style="western"><surname>Ryan</surname><given-names>MJ</given-names></name></person-group>             <year>2009</year>             <article-title>Pattern and transition of surficial bone texture of the Centrosaurine frill and their ontogenetic and taxonomic implications.</article-title>             <source>J Vert Paleontol</source>             <volume>29</volume>             <fpage>132</fpage>             <lpage>141</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Horner5">
+        <label>49</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name><name name-style="western"><surname>Goodwin</surname><given-names>MB</given-names></name></person-group>             <year>2009</year>             <article-title>Extreme Cranial Ontogeny in the Upper Cretaceous Dinosaur <italic>Pachycephalosaurus</italic>.</article-title>             <source>PLoS ONE</source>             <volume>4</volume>             <issue>10</issue>             <fpage>e7626</fpage>             <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0007626" xlink:type="simple">10.1371/journal.pone.0007626</ext-link></comment>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Knoll1">
+        <label>50</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Knoll</surname><given-names>F</given-names></name><name name-style="western"><surname>Padian</surname><given-names>K</given-names></name><name name-style="western"><surname>de Ricqles</surname><given-names>A</given-names></name></person-group>             <year>2010</year>             <article-title>Ontogenetic change and adult body size of the early ornithischian dinosaur <italic>Lesothosaurus diagnosticus</italic>: Implications for basal ornithischian taxonomy.</article-title>             <source>Gondwana Res</source>             <volume>17</volume>             <fpage>171</fpage>             <lpage>179</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Scannella1">
+        <label>51</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Scannella</surname><given-names>JB</given-names></name><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name></person-group>             <year>2010</year>             <article-title><italic>Torosaurus</italic> Marsh, 1891 is <italic>Triceratops</italic> Marsh, 1889 (Ceratopsidae: Chasmosaurinae): synonymy through ontogeny.</article-title>             <source>J Vert Paleontol</source>             <volume>30</volume>             <fpage>1157</fpage>             <lpage>1168</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Whitlock1">
+        <label>52</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Whitlock</surname><given-names>JA</given-names></name><name name-style="western"><surname>Wilson</surname><given-names>JA</given-names></name><name name-style="western"><surname>Lamanna</surname><given-names>MC</given-names></name></person-group>             <year>2010</year>             <article-title>Description of a nearly complete juvenile skull of <italic>Diplodocus</italic> (Sauropoda: Diplodocoidea) from the Late Jurassic of North America.</article-title>             <source>J Vert Paleontol</source>             <volume>30</volume>             <fpage>442</fpage>             <lpage>457</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Tsuihiji1">
+        <label>53</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Tsuihiji</surname><given-names>T</given-names></name><name name-style="western"><surname>Watabe</surname><given-names>M</given-names></name><name name-style="western"><surname>Tsogtbaatar</surname><given-names>K</given-names></name><name name-style="western"><surname>Tsubamoto</surname><given-names>T</given-names></name><name name-style="western"><surname>Barsbold</surname><given-names>R</given-names></name><etal/></person-group>             <year>2011</year>             <article-title>Cranial osteology of a juvenile specimen of <italic>Tarbosaurus bataar</italic> from the Nemegt Formation (Upper Cretaceous) of Bugin Tsav, Mongolia.</article-title>             <source>J Vert Paleontol</source>             <volume>31</volume>             <fpage>497</fpage>             <lpage>517</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Wedel1">
+        <label>54</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wedel</surname><given-names>MJ</given-names></name></person-group>             <year>2003</year>             <article-title>The evolution of vertebral pneumaticity in sauropod dinosaurs.</article-title>             <source>J Vert Paleontol</source>             <volume>23</volume>             <fpage>344</fpage>             <lpage>357</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Reisz1">
+        <label>55</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Reisz</surname><given-names>RR</given-names></name><name name-style="western"><surname>Scott</surname><given-names>D</given-names></name><name name-style="western"><surname>Sues</surname><given-names>H-D</given-names></name><name name-style="western"><surname>Evans</surname><given-names>DC</given-names></name><name name-style="western"><surname>Raath</surname><given-names>MA</given-names></name></person-group>             <year>2005</year>             <article-title>Embryos of an early Jurassic prosauropod dinosaur and their evolutionary significance.</article-title>             <source>Science</source>             <volume>309</volume>             <fpage>761</fpage>             <lpage>764</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Dilkes1">
+        <label>56</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Dilkes</surname><given-names>DW</given-names></name></person-group>             <year>2001</year>             <article-title>An ontogenetic perspective on locomotion in the Late Cretaceous dinosaur <italic>Maiasaura peeblesorum</italic> (Ornithischia: Hadrosauridae).</article-title>             <source>Can J Earth Sci</source>             <volume>38</volume>             <fpage>1205</fpage>             <lpage>1227</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Currie4">
+        <label>57</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Dong</surname><given-names>Z</given-names></name></person-group>             <year>2001</year>             <article-title>New information on <italic>Shanshanosaurus huoyanshanensis</italic>, a juvenile tyrannosaurid (Theropoda, Dinosauria) from the Late Cretaceous of China.</article-title>             <source>Can J Earth Sci</source>             <volume>38</volume>             <fpage>1729</fpage>             <lpage>1737</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Margottini1">
+        <label>58</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Margottini</surname><given-names>L</given-names></name></person-group>             <year>2011</year>             <article-title>Is it time to declutter the dinosaur roster?</article-title>             <source>Science</source>             <volume>332</volume>             <fpage>782</fpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Carr3">
+        <label>59</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Carr</surname><given-names>TD</given-names></name><name name-style="western"><surname>Williamson</surname><given-names>TE</given-names></name><name name-style="western"><surname>Schwimmer</surname><given-names>DE</given-names></name></person-group>             <year>2005</year>             <article-title>A new genus and species of tyrannosaurid from the Late Cretaceous (Middle Campanian) Demopolis Formation of Alabama.</article-title>             <source>J Vert Paleontol</source>             <volume>25</volume>             <fpage>119</fpage>             <lpage>143</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Brochu2">
+        <label>60</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Brochu</surname><given-names>CA</given-names></name></person-group>             <year>2003</year>             <article-title>Osteology of <italic>Tyrannosaurus rex</italic>: Insights from a nearly complete skeleton and high-resolution computed tomographic analysis of the skull.</article-title>             <source>J Vert Paleontol Memoir</source>             <volume>7</volume>             <fpage>1</fpage>             <lpage>138</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Dong1">
+        <label>61</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Dong</surname><given-names>Z</given-names></name></person-group>             <year>1977</year>             <article-title>On the dinosaurian remains from Turpan, Xinjiang.</article-title>             <source>Vertebrat PalAsiatic</source>             <volume>15</volume>             <fpage>59</fpage>             <lpage>66</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Brusatte1">
+        <label>62</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Brusatte</surname><given-names>SL</given-names></name><name name-style="western"><surname>Carr</surname><given-names>TD</given-names></name><name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name><name name-style="western"><surname>Bever</surname><given-names>GS</given-names></name><name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name></person-group>             <year>2010</year>             <article-title>A long-snouted, multihorned tyrannosaurid from the Late Cretaceous of Mongolia.</article-title>             <source>Proc Natl Acad Sci</source>             <volume>106</volume>             <fpage>17261</fpage>             <lpage>17266</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Csiki1">
+        <label>63</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Csiki</surname><given-names>Z</given-names></name><name name-style="western"><surname>Vremir</surname><given-names>M</given-names></name><name name-style="western"><surname>Brusatte</surname><given-names>SL</given-names></name><name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name></person-group>             <year>2010</year>             <article-title>An aberrant island-dwelling theropod dinosaur from the Late Cretaceous of Romania.</article-title>             <source>Proc Natl Acad Sci</source>             <volume>107</volume>             <fpage>15357</fpage>             <lpage>15361</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-FrancillonVieillot1">
+        <label>64</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Francillon-Vieillot</surname><given-names>H</given-names></name><name name-style="western"><surname>de Buffrénil</surname><given-names>V</given-names></name><name name-style="western"><surname>Géraudie</surname><given-names>FJ</given-names></name><name name-style="western"><surname>Meunier</surname><given-names>JY</given-names></name><name name-style="western"><surname>Sire</surname><given-names>L</given-names></name><etal/></person-group>             <year>1990</year>             <article-title>Microstructure and mineralization of vertebrate skeletal tissues.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Carter</surname><given-names>JG</given-names></name></person-group>             <source>Skeletal Biomineralization: Patterns, Processes and Evolutionary Trends</source>             <publisher-loc>New York</publisher-loc>             <publisher-name>Van Nostrand Reinhold</publisher-name>             <fpage>471</fpage>             <lpage>548</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Horner6">
+        <label>65</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name><name name-style="western"><surname>Padian</surname><given-names>K</given-names></name><name name-style="western"><surname>de Ricqles</surname><given-names>A</given-names></name></person-group>             <year>2001</year>             <article-title>Comparative osteohistology of some embryonic and perinatal archosaurs: developmental and behavioral implications for dinosaurs.</article-title>             <source>Paleobiology</source>             <volume>27</volume>             <fpage>39</fpage>             <lpage>58</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Klein1">
+        <label>66</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Klein</surname><given-names>N</given-names></name><name name-style="western"><surname>Sander</surname><given-names>PM</given-names></name></person-group>             <year>2008</year>             <article-title>Ontogenetic stages in the long bone histology of sauropod dinosaurs.</article-title>             <source>Paleobiology</source>             <volume>34</volume>             <fpage>247</fpage>             <lpage>263</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Case1">
+        <label>67</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Case</surname><given-names>TJ</given-names></name></person-group>             <year>1978</year>             <article-title>Speculation on the growth rate and reproduction of some dinosaurs.</article-title>             <source>Paleobiology</source>             <volume>4</volume>             <fpage>320</fpage>             <lpage>328</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Padian1">
+        <label>68</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Padian</surname><given-names>K</given-names></name><name name-style="western"><surname>de Ricqles</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name></person-group>             <year>2001</year>             <article-title>Dinosaurian growth rates and bird origins.</article-title>             <source>Nature</source>             <volume>412</volume>             <fpage>405</fpage>             <lpage>408</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Padian2">
+        <label>69</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Padian</surname><given-names>K</given-names></name><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name><name name-style="western"><surname>de Ricqles</surname><given-names>AJ</given-names></name></person-group>             <year>2004</year>             <article-title>Growth in small dinosaurs and pterosaurs: the evolution of archosaurian growth strategies.</article-title>             <source>J Vert Paleontol</source>             <volume>24</volume>             <fpage>555</fpage>             <lpage>571</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-deRicqles1">
+        <label>70</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>de Ricqles</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Padian</surname><given-names>K</given-names></name><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name></person-group>             <year>2003</year>             <article-title>On the bone histology of some Triassic pseudosuchian archosaurs and related taxa.</article-title>             <source>Ann Paléontol</source>             <volume>89</volume>             <fpage>67</fpage>             <lpage>101</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Horner7">
+        <label>71</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name><name name-style="western"><surname>Padian</surname><given-names>K</given-names></name></person-group>             <year>2004</year>             <article-title>Age and growth dynamics of <italic>Tyrannosaurus rex</italic>.</article-title>             <source>P R Soc B</source>             <volume>271</volume>             <fpage>1875</fpage>             <lpage>1880</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Hutton1">
+        <label>72</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Hutton</surname><given-names>JM</given-names></name></person-group>             <year>1986</year>             <article-title>Age determination of living Nile crocodiles from the cortical stratification of bone.</article-title>             <source>Copeia</source>             <volume>2</volume>             <fpage>332</fpage>             <lpage>341</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Tucker1">
+        <label>73</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Tucker</surname><given-names>AD</given-names></name></person-group>             <year>1997</year>             <article-title>Validation of skeletochronology to determine age of freshwater crocodiles (<italic>Crocodylus johnstoni</italic>).</article-title>             <source>Aust J Mar Fresh Res</source>             <volume>48</volume>             <fpage>343</fpage>             <lpage>351</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Horner8">
+        <label>74</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name><name name-style="western"><surname>de Ricqlès</surname><given-names>A</given-names></name><name name-style="western"><surname>Padian</surname><given-names>K</given-names></name></person-group>             <year>2000</year>             <article-title>Long bone histology of the hadrosaurid dinosaur <italic>Maiasaura peeblesorum</italic>: growth dynamics and physiology based on an ontogenetic series of skeletal elements.</article-title>             <source>J Vert Paleontol</source>             <volume>20</volume>             <fpage>115</fpage>             <lpage>129</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Erickson1">
+        <label>75</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name><name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name><name name-style="western"><surname>Yerby</surname><given-names>SA</given-names></name><etal/></person-group>             <year>2004</year>             <article-title>Gigantism and comparative life-history parameters of tyrannosaurid dinosaurs.</article-title>             <source>Nature</source>             <volume>430</volume>             <fpage>772</fpage>             <lpage>775</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Bybee1">
+        <label>76</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Bybee</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Lee</surname><given-names>AH</given-names></name><name name-style="western"><surname>Lamm</surname><given-names>E</given-names></name></person-group>             <year>2006</year>             <article-title>Sizing the Jurassic theropod dinosaur <italic>Allosaurus</italic>: assessing growth strategy and evolution of ontogenetic scaling of limbs.</article-title>             <source>J Morphol</source>             <volume>267</volume>             <fpage>347</fpage>             <lpage>359</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Holtz2">
+        <label>77</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Holtz</surname><given-names>TR</given-names><suffix>Jr</suffix></name></person-group>             <year>2001</year>             <article-title>The phylogeny and taxonomy of the Tyrannosauridae.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Tanke</surname><given-names>DH</given-names></name><name name-style="western"><surname>Carpenter</surname><given-names>K</given-names></name></person-group>             <source>Mesozoic Vertebrate Life</source>             <publisher-loc>Bloomington</publisher-loc>             <publisher-name>Indiana University Press</publisher-name>             <fpage>64</fpage>             <lpage>83</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Currie5">
+        <label>78</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name></person-group>             <year>2003</year>             <article-title>Cranial anatomy of tyrannosaurid dinosaurs from the Late Cretaceous of Alberta.</article-title>             <source>Canada Acta Palaeontol Pol</source>             <volume>48</volume>             <fpage>191</fpage>             <lpage>226</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Hurum1">
+        <label>79</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Hurum</surname><given-names>JH</given-names></name><name name-style="western"><surname>Sabath</surname><given-names>K</given-names></name></person-group>             <year>2003</year>             <article-title>Giant theropod dinosaurs from Asia and North America: skulls of <italic>Tarbosaurus bataar</italic> and <italic>Tyrannosaurus rex</italic> compared.</article-title>             <source>Acta Palaeontol Pol</source>             <volume>48</volume>             <fpage>161</fpage>             <lpage>190</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Weishampel1">
+        <label>80</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Weishampel</surname><given-names>DB</given-names></name><name name-style="western"><surname>Fastovsky</surname><given-names>DE</given-names></name><name name-style="western"><surname>Watabe</surname><given-names>M</given-names></name><name name-style="western"><surname>Varricchio</surname><given-names>D</given-names></name><name name-style="western"><surname>Jackson</surname><given-names>F</given-names></name><etal/></person-group>             <year>2008</year>             <article-title>New oviraptorid embryos from Bugin-Tsav, Nemegt Formation (Upper Cretaceous), Mongolia, with insights into their habitat and growth.</article-title>             <source>J Vert Paleontol</source>             <volume>28</volume>             <fpage>1110</fpage>             <lpage>1119</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Hone1">
+        <label>81</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Hone</surname><given-names>DW</given-names></name><name name-style="western"><surname>Wang</surname><given-names>K</given-names></name><name name-style="western"><surname>Sullivan</surname><given-names>C</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>X</given-names></name><name name-style="western"><surname>Chen</surname><given-names>S</given-names></name><etal/></person-group>             <year>2011</year>             <article-title>A new tyrannosaurine theropod, <italic>Zhuchengtyrannus magnus</italic> is named based on a maxilla and dentary.</article-title>             <source>Cretaceous Res.</source>             <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.cretres.2011.03.005" xlink:type="simple">10.1016/j.cretres.2011.03.005</ext-link></comment>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Holmes1">
+        <label>82</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Holmes</surname><given-names>RB</given-names></name><name name-style="western"><surname>Forster</surname><given-names>CA</given-names></name><name name-style="western"><surname>Ryan</surname><given-names>M</given-names></name><name name-style="western"><surname>Shepherd</surname><given-names>KM</given-names></name></person-group>             <year>2001</year>             <article-title>A new species of <italic>Chasmosaurus</italic> from the Dinosaur Park Formation of Southern Alberta.</article-title>             <source>Can J Earth Sci</source>             <volume>38</volume>             <fpage>1423</fpage>             <lpage>1438</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Currie6">
+        <label>83</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Russell</surname><given-names>DA</given-names></name></person-group>             <year>2005</year>             <article-title>The geographic and stratigraphic distribution of articulated and associated dinosaur remains.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Koppelhaus</surname><given-names>EB</given-names></name></person-group>             <source>Dinosaur Provincial Park</source>             <publisher-loc>Bloomington</publisher-loc>             <publisher-name>Indiana University Press</publisher-name>             <fpage>537</fpage>             <lpage>569</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Ryan2">
+        <label>84</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ryan</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Evans</surname><given-names>DC</given-names></name></person-group>             <year>2005</year>             <article-title>Ornithischian dinosaurs.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Koppelhaus</surname><given-names>EB</given-names></name></person-group>             <source>Dinosaur Provincial Park</source>             <publisher-loc>Bloomington</publisher-loc>             <publisher-name>Indiana University Press</publisher-name>             <fpage>312</fpage>             <lpage>348</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Ryan3">
+        <label>85</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ryan</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Russell</surname><given-names>AP</given-names></name></person-group>             <year>2005</year>             <article-title>A new centrosaurine ceratopsid from the Oldman Formation of Alberta and its implications for centrosaurine taxonomy and systematics.</article-title>             <source>Can J Earth Sci</source>             <volume>42</volume>             <fpage>1369</fpage>             <lpage>1387</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Scannella2">
+        <label>86</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Scannella</surname><given-names>JB</given-names></name><name name-style="western"><surname>Fowler</surname><given-names>DW</given-names></name></person-group>             <year>2009</year>             <article-title>Anagenesis in <italic>Triceratops</italic>: evidence from a newly resolved stratigraphic framework for the Hell Creek Formation.</article-title>             <source>Cincinnati Mus Cent Sci Contrib</source>             <volume>3</volume>             <fpage>148</fpage>             <lpage>149</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Tanke1">
+        <label>87</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Tanke</surname><given-names>DH</given-names></name></person-group>             <year>2005</year>             <article-title>Identifying lost quarries.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Koppelhaus</surname><given-names>EB</given-names></name></person-group>             <source>Dinosaur Provincial Park</source>             <publisher-loc>Bloomington</publisher-loc>             <publisher-name>Indiana University Press</publisher-name>             <fpage>34</fpage>             <lpage>53</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0021376-Everhart1">
+        <label>88</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Everhart</surname><given-names>MJ</given-names></name></person-group>             <year>2011</year>             <article-title>Rediscovery of the <italic>Hesperornis regalis</italic> Marsh 1871 holotype locality indicates an earlier stratigraphic occurrence.</article-title>             <source>Trans Kansas Acad Sci</source>             <volume>114</volume>             <fpage>59</fpage>             <lpage>68</lpage>          </element-citation>
+      </ref>
+    </ref-list>
+    
+  </back>
+</article>

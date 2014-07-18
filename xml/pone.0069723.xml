@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group>
+<journal-title>PLoS ONE</journal-title></journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">PONE-D-13-01572</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pone.0069723</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Anatomy and physiology</subject><subj-group><subject>Musculoskeletal system</subject><subj-group><subject>Bone</subject></subj-group></subj-group></subj-group><subj-group><subject>Evolutionary biology</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Paleobiology</subject><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group><subj-group><subject>Paleontology</subject><subj-group><subject>Paleobiology</subject><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Earth sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Paleobiology</subject><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>Anurans from the Lower Cretaceous Jehol Group of Western Liaoning, China</article-title>
+<alt-title alt-title-type="running-head">Jehol Anurans</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Dong</surname><given-names>Liping</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Roček</surname><given-names>Zbyněk</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Wang</surname><given-names>Yuan</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Jones</surname><given-names>Marc E H.</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><addr-line>Key Laboratory of Vertebrate Evolution and Human Origin of Chinese Academy of Sciences, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, Beijing, China</addr-line></aff>
+<aff id="aff2"><label>2</label><addr-line>Institute of Geology, Department of Palaeobiology, Academy of Sciences of the Czech Republic, Prague, Czech Republic</addr-line></aff>
+<aff id="aff3"><label>3</label><addr-line>Research Department of Cell and Developmental Biology, University College London, London, United Kingdom</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple"><name name-style="western"><surname>Farke</surname><given-names>Andrew A.</given-names></name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>Raymond M. Alf Museum of Paleontology, United States of America</addr-line></aff>
+<author-notes>
+<corresp id="cor1">* E-mail: <email xlink:type="simple">marie.donglp@gmail.com</email></corresp>
+<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn>
+<fn fn-type="con"><p>Analyzed the data: LD YW. Wrote the paper: LD. Examined the specimens: LD ZR YW MEHJ. Constructed figures: LD MEHJ. Contributed significantly to editing/revision of the submitted manuscript: ZR MEHJ YW.</p></fn>
+</author-notes>
+<pub-date pub-type="collection"><year>2013</year></pub-date>
+<pub-date pub-type="epub"><day>26</day><month>7</month><year>2013</year></pub-date>
+<volume>8</volume>
+<issue>7</issue>
+<elocation-id>e69723</elocation-id>
+<history>
+<date date-type="received"><day>7</day><month>1</month><year>2013</year></date>
+<date date-type="accepted"><day>6</day><month>6</month><year>2013</year></date>
+</history>
+<permissions>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Dong et al</copyright-holder><license xlink:type="simple"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions>
+<abstract><sec>
+<title>Background</title>
+<p>To date, the Lower Cretaceous Jehol Group of western Liaoning, China has yielded five monotypic genera of anurans, including <italic>Liaobatrachus grabaui</italic>, <italic>Callobatrachus sanyanensis</italic>, <italic>Mesophryne beipiaoensis</italic>, <italic>Dalianbatrachus mengi</italic>, and <italic>Yizhoubatrachus macilentus</italic>. However, the validity and distinctness of these taxa have been questioned.</p>
+</sec><sec>
+<title>Methodology/Principal Finding</title>
+<p>We provide a comprehensive analysis of the Jehol frogs that includes a re-examination of the published taxa as well as an examination of a number of new specimens that have been collected over the past 10 years. The results show that the five previously named taxa can be referred to three species of one genus–<italic>Liaobatrachus grabaui</italic>, <italic>L</italic>. <italic>beipiaoensis</italic> comb. nov. and <italic>L</italic>. <italic>macilentus</italic> comb. nov.. The diagnosis of <italic>Liaobatrachus</italic> is revised, and a new diagnosis is provided for each species of this genus. We also establish <italic>Liaobatrachus zhaoi</italic> sp. nov., on the basis of a dozen well-preserved specimens from a new locality. This taxon is distinguished by a unique combination of characteristics, including relatively long hind limbs, a rounded rather than triangular acetabulum, and a gradually-tapering cultriform process of the parasphenoid. In addition, an unnamed frog from a higher horizon, which has narrow sacral diapophyses and particularly long legs, is different from <italic>Liaobatrachus</italic> and represents another form of anuran in the Jehol Biota.</p>
+</sec><sec>
+<title>Conclusion/Significance</title>
+<p>Comparisons with other Mesozoic and extant anurans and the primary phylogenetic analysis both suggest that <italic>Liaobatrachus</italic> is a member of the anuran crown-group and forms a polytomy with leiopelmatids (<italic>Ascaphus</italic> and <italic>Leiopelma</italic>) and the remaining crown-group anurans (Lalagobatrachia).</p>
+</sec></abstract>
+<funding-group><funding-statement>This research was supported by grants from the National Natural Science Foundation of China (KA211102, to YW) and the Ministry of Science and Technology of China (KZ129739 and KQ207420, to YW). It was also supported by the Sino-Czech academic exchange program. ZR was a visiting professor at the Institute of Vertebrate Paleontology and Paleoanthropology (IVPP), Chinese Academy of Sciences, Beijing, while completing this research; he was also partly supported by the Institute of Geology, Academy of Sciences of the Czech Republic, Prague (Institutional Project AV0Z30130516). MEHJ thanks the British Council for travel funds associated with Darwin Now that facilitated a visit to the IVPP. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts><page-count count="17"/></counts></article-meta>
+</front>
+<body><sec id="s1">
+<title>Introduction</title>
+<p>The Jehol Biota represents an Early Cretaceous lacustrine terrestrial ecosystem with a high degree of diversity and endemism <xref ref-type="bibr" rid="pone.0069723-Zhou1">[1]</xref>, <xref ref-type="bibr" rid="pone.0069723-Zhou2">[2]</xref>. It contains a variety of Mesozoic taxa including the early bird <italic>Confuciusornis</italic> and its relatives <xref ref-type="bibr" rid="pone.0069723-Zhang1">[3]</xref>, the feathered tyrannosauroid <italic>Yutyrannus huali</italic> <xref ref-type="bibr" rid="pone.0069723-Xu1">[4]</xref>, and the early eutherian <italic>Acristatherium yanensis</italic> <xref ref-type="bibr" rid="pone.0069723-Hu1">[5]</xref>. The Jehol Biota is best known from the Jehol Group, which is exposed in western Liaoning, northern Hebei and southeastern Inner Mongolia. The Jehol Group consists of, in ascending order, the Dabeigou Formation, the Yixian Formation and the Jiufotang Formation. Its age has been estimated as 129.7±0.5–122.1±0.3 Ma <xref ref-type="bibr" rid="pone.0069723-Chang1">[6]</xref> or 131–120 Ma <xref ref-type="bibr" rid="pone.0069723-Zhou2">[2]</xref> by different recent studies, indicating that the biota lasted about 7–9 Ma (early Barremian to early Aptian).</p>
+<p>Amphibians are an important component of the Jehol Biota, with 4 urodele <xref ref-type="bibr" rid="pone.0069723-Zhang2">[7]</xref> and 5 anuran taxa having been formally reported <xref ref-type="bibr" rid="pone.0069723-Ji1">[8]</xref>–<xref ref-type="bibr" rid="pone.0069723-Gao3">[12]</xref>. The anurans include <italic>Liaobatrachus grabaui</italic> Ji and Ji 1998 <xref ref-type="bibr" rid="pone.0069723-Ji1">[8]</xref>, <italic>Callobatrachus sanyanensis</italic> Wang and Gao 1999 <xref ref-type="bibr" rid="pone.0069723-Wang1">[9]</xref>, <italic>Mesophryne beipiaoensis</italic> Gao and Wang 2001 <xref ref-type="bibr" rid="pone.0069723-Gao1">[10]</xref>, <italic>Dalianbatrachus mengi</italic> Gao and Liu 2004 <xref ref-type="bibr" rid="pone.0069723-Gao2">[11]</xref>, and <italic>Yizhoubatrachus macilentus</italic> Gao and Chen 2004 <xref ref-type="bibr" rid="pone.0069723-Gao3">[12]</xref>. Because each taxon was based on a single specimen, some anatomical characters were ambiguous or even incorrectly interpreted. For example, <italic>Liaobatrachus grabaui</italic> was reported to have no ribs <xref ref-type="bibr" rid="pone.0069723-Ji1">[8]</xref>, the centra of <italic>Mesophryne beipiaoensis</italic> were reported to be procoelous <xref ref-type="bibr" rid="pone.0069723-Gao1">[10]</xref>, and <italic>Dalianbatrachus mengi</italic> was considered to have fused frontoparietals <xref ref-type="bibr" rid="pone.0069723-Gao2">[11]</xref>. Some revisions have been made <xref ref-type="bibr" rid="pone.0069723-Wang2">[13]</xref>, but many problems and uncertainties remain unresolved. Based on new fossil discoveries and a re-examination of all reported taxa, this paper provides the first comprehensive study of the Jehol anurans, including revisions of established taxa and erection of a new taxon.</p>
+</sec><sec id="s2" sec-type="materials|methods">
+<title>Materials and Methods</title>
+<sec id="s2a">
+<title>Institutional Abbreviations</title>
+<p>CYH, Chaoyang Bird Fossil National Geopark, Chaoyang, Liaoning; DNM D, Dalian Natural History Museum, Dalian, Liaoning; GMV, Geological Museum of China, Beijing; IVPP V, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, Beijing; LPM, Liaoning Paleontology Museum, Shenyang, Liaoning; MV, Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, Nanjing, Jiangsu; ZMNH M, Zhejiang Museum of Natural History, Hangzhou, Zhejiang.</p>
+</sec><sec id="s2b">
+<title>Localities and Materials</title>
+<p>We examined 25 specimens from eight fossil localities in the area around Yixian, Beipiao and Chaoyang in western Liaoning (<xref ref-type="fig" rid="pone-0069723-g001">Fig. 1</xref>). The anuran-bearing horizons are the Lujiatun, Jianshangou and Dawangzhangzi Beds of the Yixian Formation, and the Jiufotang Formation (<xref ref-type="fig" rid="pone-0069723-g002">Fig. 2</xref>) <xref ref-type="bibr" rid="pone.0069723-Chang2">[14]</xref>. There are not anurans currently known from the Dabeigou Formation. The localities and their anuran fossil content are as follows (also see <xref ref-type="table" rid="pone-0069723-t001">Table 1</xref>):</p>
+<fig id="pone-0069723-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0069723.g001</object-id><label>Figure 1</label><caption>
+<title>Localities for Early Cretaceous fossil anurans from Western Liaoning, China described in this paper.</title>
+<p>The location of the Beipiao-Yixian area is indicated on the small-scale map (modified from Zhou et al., 2003<xref ref-type="bibr" rid="pone.0069723-Zhou1">[1]</xref>) by a black arrow. Each locality is indicated by a star on the large-scale map.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0069723.g001" position="float" xlink:type="simple"/></fig><fig id="pone-0069723-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0069723.g002</object-id><label>Figure 2</label><caption>
+<title>Stratigraphic distribution of Jehol anurans described in this paper.</title>
+<p>Based on stratigraphic scheme in Chang et al. (2003) <xref ref-type="bibr" rid="pone.0069723-Chang2">[14]</xref>. 1, basalt and andesite with volcanic breccia (lava); 2, conglomerate with volcanic breccia; 3, sandstone and conglomerate; 4, tuffaceous sandstone and tuff; 5, shale and tuff.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0069723.g002" position="float" xlink:type="simple"/></fig><table-wrap id="pone-0069723-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0069723.t001</object-id><label>Table 1</label><caption>
+<title>List of anuran specimens examined in this paper (arranged according to geological age).</title>
+</caption><alternatives><graphic id="pone-0069723-t001-1" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0069723.t001" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Specimen</td>
+<td align="left" rowspan="1" colspan="1">Age</td>
+<td align="left" rowspan="1" colspan="1">Horizon</td>
+<td align="left" rowspan="1" colspan="1">Locality</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V13245</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V13236</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V13239</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V13380</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V14203</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V14269</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V14270</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V14979.1</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V14979.2</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="table-fn" rid="nt101">*</xref>IVPP V14979.3</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="table-fn" rid="nt101">*</xref>IVPP V14979.4</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V13238</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V13379</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V14068</td>
+<td align="left" rowspan="1" colspan="1">Barremian</td>
+<td align="left" rowspan="1" colspan="1">Lujiatun Bed</td>
+<td align="left" rowspan="1" colspan="1">Qianyangou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">GMV2126</td>
+<td align="left" rowspan="1" colspan="1">Barremian/Aptian</td>
+<td align="left" rowspan="1" colspan="1">Jianshangou Bed</td>
+<td align="left" rowspan="1" colspan="1">Sihetun</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V11525</td>
+<td align="left" rowspan="1" colspan="1">Barremian/Aptian</td>
+<td align="left" rowspan="1" colspan="1">Jianshangou Bed</td>
+<td align="left" rowspan="1" colspan="1">Sihetun</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V12717</td>
+<td align="left" rowspan="1" colspan="1">Barremian/Aptian</td>
+<td align="left" rowspan="1" colspan="1">Jianshangou Bed</td>
+<td align="left" rowspan="1" colspan="1">Sihetun</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">MV 77</td>
+<td align="left" rowspan="1" colspan="1">Barremian/Aptian</td>
+<td align="left" rowspan="1" colspan="1">Jianshangou Bed</td>
+<td align="left" rowspan="1" colspan="1">Sihetun</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">CYH 004</td>
+<td align="left" rowspan="1" colspan="1">Barremian/Aptian</td>
+<td align="left" rowspan="1" colspan="1">Jianshangou Bed</td>
+<td align="left" rowspan="1" colspan="1">Sihetun</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">LPM 0030</td>
+<td align="left" rowspan="1" colspan="1">Barremian/Aptian</td>
+<td align="left" rowspan="1" colspan="1">Jianshangou Bed</td>
+<td align="left" rowspan="1" colspan="1">Heitizigou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">DNM D2166/7</td>
+<td align="left" rowspan="1" colspan="1">Barremian/Aptian</td>
+<td align="left" rowspan="1" colspan="1">Jianshangou Bed</td>
+<td align="left" rowspan="1" colspan="1">Huangbanjigou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">ZMNH M8621</td>
+<td align="left" rowspan="1" colspan="1">Aptian</td>
+<td align="left" rowspan="1" colspan="1">Dawangzhangzi Bed</td>
+<td align="left" rowspan="1" colspan="1">Hejiaxin</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">IVPP V12510</td>
+<td align="left" rowspan="1" colspan="1">Aptian</td>
+<td align="left" rowspan="1" colspan="1">Dawangzhangzi Bed</td>
+<td align="left" rowspan="1" colspan="1">Hejiaxin</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="table-fn" rid="nt101">*</xref>IVPP V12541</td>
+<td align="left" rowspan="1" colspan="1">Aptian</td>
+<td align="left" rowspan="1" colspan="1">Dawangzhangzi Bed</td>
+<td align="left" rowspan="1" colspan="1">WangJiagou</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><xref ref-type="table-fn" rid="nt101">*</xref>IVPP V13235</td>
+<td align="left" rowspan="1" colspan="1">Aptian</td>
+<td align="left" rowspan="1" colspan="1">Jiufotang Forma tion</td>
+<td align="left" rowspan="1" colspan="1">Xierhuqiao</td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt101"><label>*</label><p>juvenile individual.</p></fn></table-wrap-foot></table-wrap>
+<list list-type="order"><list-item>
+<p>Lujiatun Locality: near Lujiatun Village, 25 km northwest of Beipiao City, Liaoning Province; Lujiatun Bed, Yixian Formation; Barremian. Specimen IVPP V13245 (a three-dimensionally preserved incomplete skeleton) was excavated here.</p>
+</list-item><list-item>
+<p>Qianyangou Locality: about 1.5 km west of Qianyangou Village, Shangyuan Town, Beipiao City, Liaoning Province; Lujiatun Bed, Yixian Formation; Barremian. All of the specimens from this locality are three-dimensionally preserved. They include IVPP V13236 (a partial skeleton with part of the skull and most of the postcranial bones preserved), IVPP V13239 (a partial skeleton lacking the urostyle, ilia, and hind legs), IVPP V13380 (a partial skeleton with the skull and pectoral girdle preserved), IVPP V14203 (a nearly complete skeleton missing only some limb bones), IVPP V14269 (the smaller of two frogs preserved on one slab, with the upper and lower jaws and most of the postcranial bones preserved), IVPP V14270 (the larger on the slab that also bears specimen IVPP V14269, a partial skeleton with part of the skull, part of the appendicular skeleton and nearly all of the vertebral column preserved), IVPP V13238 (a partial skeleton with part of the vertebral column, the pelvis and the hind limbs preserved), IVPP V13379 (a partial skeleton with most of the cranial bones missing), and IVPP V14608 (a partial skeleton consisting of the posterior portion of the vertebral column, the pelvis and the hind limbs). Specimen IVPP V14979, which represents several frogs preserved on two associated slabs, was also recovered from this locality. Some of the skeletons are nearly complete, with only a few bones disarticulated and displaced. The first slab bears two adult skeletons (IVPP V14979.1 and IVPP V14979.2) and two juvenile skeletons (IVPP V14979.3 and IVPP V14979.4), whereas the second slab (not considered in the paper as they are the young individuals of IVPP V14979.1) bears two frogs: IVPP V14979.5 and IVPP V14979.6 <xref ref-type="bibr" rid="pone.0069723-Roek1">[15]</xref>.</p>
+</list-item><list-item>
+<p>Sihetun Locality: 1.5 km southwest of Sihetun Cunminzu (a “Cunminzu” is a subdivision of a village), Chaomidianzi Village, Shangyuan Town, Beipiao City, Liaoning Province; Jianshangou Bed, Yixian Formation; Barremian/Aptian. Specimens found here include GMV2126 (see Ji and Ji, 1998 <xref ref-type="bibr" rid="pone.0069723-Ji1">[8]</xref>), IVPP V11525 (see Wang and Gao, 1999 <xref ref-type="bibr" rid="pone.0069723-Wang1">[9]</xref>), MV 77 (a nearly complete skeleton with a slightly displaced pelvis), IVPP V12717 (a nearly complete skeleton with part of the vertebral column displaced and the limbs not preserved), and CYH 004 (a nearly complete skeleton).</p>
+</list-item><list-item>
+<p>Heitizigou Locality: 0.5 km east of Libalanggou Village, Zhangjiying Township, Beipiao City, Liaoning Province; Jianshangou Bed, Yixian Formation; Barremian/Aptian. Specimen LPM 0030 (see Gao and Wang, 2001 <xref ref-type="bibr" rid="pone.0069723-Gao1">[10]</xref>) was found here.</p>
+</list-item><list-item>
+<p>Huangbanjigou Locality: near Huangbanjigou Village, Shangyuan Town, Beipiao City, Liaoning Province, 3 km northeast of the Sihetun Locality; Jianshangou Bed, Yixian Formation; Barremian/Aptian. Specimen DNM D2166/7 (see Gao and Liu, 2004 <xref ref-type="bibr" rid="pone.0069723-Gao2">[11]</xref>) was found here.</p>
+</list-item><list-item>
+<p>Hejiaxin Locality: near Hejiaxin Village 15 km west of the Yixian County, Jinzhou City, Liaoning Province; Dawangzhangzi Bed, Yixian Formation; Aptian. Specimens ZMNH M8621 (see Gao and Chen, 2004 <xref ref-type="bibr" rid="pone.0069723-Gao3">[12]</xref>) and IVPP V12510 (a nearly complete skeleton) were found here.</p>
+</list-item><list-item>
+<p>Wangjiagou Locality: about 20 km northeast of Yixian, Jinzhou City, Liaoning Province; Dawangzhangzi Bed, Yixian Formation; Aptian. Specimen IVPP V12541 (a nearly complete skeleton with disarticulated and displaced cranial bones) was found here.</p>
+</list-item><list-item>
+<p>Xierhuqiao Locality: 6 km southwest of Yixian, Jinzhou City, Liaoning Province; Jiufotang Formation; Aptian. Specimen IVPP V13235 (see Wang et al., 2007 <xref ref-type="bibr" rid="pone.0069723-Wang3">[16]</xref>) was recovered here.</p>
+</list-item></list>
+<p>All of the specimens mentioned above are owned by and deposited in museums or research institutes, and access to them was granted through proper official channels.</p>
+</sec><sec id="s2c">
+<title>Nomenclatural Acts</title>
+<p>The electronic edition of this article conforms to the requirements of the amended International Code of Zoological Nomenclature, and hence the new names contained herein are available under that Code from the electronic edition of this article. This published work and the nomenclatural acts it contains have been registered in ZooBank, the online registration system for the ICZN. The ZooBank LSIDs (Life Science Identifiers) can be resolved and the associated information viewed through any standard web browser by appending the LSID to the prefix “<ext-link ext-link-type="uri" xlink:href="http://zoobank.org/" xlink:type="simple">http://zoobank.org/</ext-link>”. The LSID for this publication is: urn:lsid:zoobank.org:pub:8C96D835-EB8F-4664-9CA1- 99A0E2CDAA4B. The electronic edition of this work was published in a journal with an ISSN, and has been archived and is available from the following digital repositories: PubMed Central, LOCKSS.</p>
+</sec><sec id="s2d">
+<title>Phylogenetic Analysis</title>
+<p>To determine the systematic positions of the Jehol frogs studied in this paper, we conducted a phylogenetic analysis of 25 taxa and 65 characters in PAUP 4.0b10 using the Branch-and-Bound search option. All characters were unordered and equally weighted, and ACCTRAN optimization was used to minimize the possibility of parallelisms. The resulting trees were rooted by using Caudata as an outgroup. The taxon-character matrix (see <xref ref-type="supplementary-material" rid="pone.0069723.s001">Table S1</xref>) was adapted from Wang, 2006 <xref ref-type="bibr" rid="pone.0069723-Wang2">[13]</xref> with some amendments to the character descriptions and coding. We exclude the invalid taxa “<italic>Callobatrachus</italic>”, “<italic>Mesophryne</italic>”, and “<italic>Yizhoubatrachus</italic>” from the Jehol Biota of China, as well as the disarticulated material from Japan (the Tetori frog). The amended matrix also reflects our revised view, described below of the species-level taxonomy of <italic>Liaobatrachus</italic>. Character definitions mainly follow Gao and Wang, 2001 <xref ref-type="bibr" rid="pone.0069723-Gao1">[10]</xref> and Wang, 2006 <xref ref-type="bibr" rid="pone.0069723-Wang2">[13]</xref> with the following amendments:</p>
+<p><bold>Character 3</bold>: Medial contact between nasals: contact present, or nasals slightly separated medially (0); nasals widely separated medially (1); or nasals fused medially (2).</p>
+<p><bold>Character 31</bold>: Parahyoid: plate-shaped (circular or triangular plate) (0); V-shaped splint (1); absent (2).</p>
+<p><bold>Character 50</bold>: Shape of coracoid: medial end of coracoid very broadly expanded (0); medial end of coracoid moderately expanded, about as wide as distal end (1); medial end of coracoid slightly expanded (2).</p>
+</sec></sec><sec id="s3">
+<title>Systematic Paleontology</title>
+<p>Amphibia Gray, 1825</p>
+<p>Anura Fischer von Waldheim, 1813</p>
+<p>Family incertae sedis</p>
+<p><italic>Liaobatrachus</italic> Ji and Ji, 1998</p>
+<p>1998 <italic>Liaobatrachus</italic> Ji and Ji, p. 39, <xref ref-type="fig" rid="pone-0069723-g001">fig. 1</xref></p>
+<p>1999 <italic>Callobatrachus</italic> Wang and Gao, p. 637, <xref ref-type="fig" rid="pone-0069723-g001">fig. 1</xref></p>
+<p>2001 <italic>Mesophryne</italic> Gao and Wang, p. 461, <xref ref-type="fig" rid="pone-0069723-g002">figs 2</xref>–<xref ref-type="fig" rid="pone-0069723-g004">4</xref></p>
+<fig id="pone-0069723-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0069723.g003</object-id><label>Figure 3</label><caption>
+<title><italic>Liaobatrachus grabaui</italic> Ji and Ji, 1998.</title>
+<p>A1, skeleton of the holotype, GMV2126. A2, enlargement of the left radioulna, carpals and hand. The carpals are arranged in three rows: a proximal one containing the radiale and ulnare, a middle one containing distal carpal V and element Y, and a distal one containing distal carpals II–IV. There is one prepollex element situated medial to element Y (indicated by arrow). B1, skeleton of the referred specimen IVPP V11525. B2, enlargement of part of the skull. The long postchoanal process of the vomer is marked by a white arrow, and the short, free zygomatic ramus of the squamosal by a black arrow. C1, skeleton of the referred specimen MV 77. C2, enlargement of the premaxilla and the anterior end of the maxilla. The arrow marks the bifurcated anterior end of the maxilla. C3, enlargement of the vertebral column. There are 10 presacrals and the last one is partially fused with the sacrum, a condition that probably represents a developmental anomaly. D, ilium of the referred specimen CYH 004. The round acetabulum is marked by an arrow.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0069723.g003" position="float" xlink:type="simple"/></fig><fig id="pone-0069723-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0069723.g004</object-id><label>Figure 4</label><caption>
+<title><italic>Liaobatrachus beipiaoensis</italic> (Gao and Wang, 2001) comb. nov.</title>
+<p>A1, skeleton of the holotype, LPM 0030. A2, skull of the holotype as preserved on the missing counterpart slab. B1, skeleton of the referred specimen DNM D2167. B2, photograph and line drawing of the hand of the specimen DNM D2167. The carpals are arranged in three rows and there are two prepollex elements (the larger, distally positioned one is marked by an arrow). C1, skeleton of the referred specimen IVPP V12717. C2, enlargement of presacral IV. The two arrows indicate the concave anterior and posterior surfaces of the amphicoelous centrum. C3, ilium of IVPP V12717. The acetabulum (marked by an arrow) is more or less rounded. Abbreviations: pp, prepollex; Y, element Y.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0069723.g004" position="float" xlink:type="simple"/></fig>
+<p>2004 <italic>Dalianbatrachus</italic> Gao and Liu, p. 2, <xref ref-type="fig" rid="pone-0069723-g001">fig. 1</xref>; pl. 1, <xref ref-type="fig" rid="pone-0069723-g001">fig. 1</xref></p>
+<p>2004 <italic>Yizhoubatrachus</italic> Gao and Chen, p. 762, <xref ref-type="fig" rid="pone-0069723-g002">figs 2</xref>–<xref ref-type="fig" rid="pone-0069723-g003">3</xref></p>
+<sec id="s3a">
+<title/>
+<sec id="s3a1">
+<title>Type species</title>
+<p><italic>Liaobatrachus grabaui</italic> Ji and Ji, 1998</p>
+</sec><sec id="s3a2">
+<title>Revised diagnosis</title>
+<p>A crown-group anuran having the following unique combination of characteristics: medium body size (snout-vent length [SVL] 62∼94 mm, with location of vent in living animal considered to correspond to that of posterior end of ischium); skull wider than long; dermal roofing bones unsculptured; maxilla deep and bifurcated anteriorly; quadratojugal present; nasals with extensive midline contact; a large fontanelle between paired frontoparietals; squamosal with short zygomatic ramus that does not contact maxilla; vomer with dentigerous portion bearing 6–10 teeth arranged in single row and long postchoanal process (as long as, or longer than prechoanal process), which forms narrow angle with prechoanal process; parahyoid V-shaped; columella present; nine amphicoelous presacrals; atlas with type II cotyles (located ventral to the foramen magnum and adjacent to each other <xref ref-type="bibr" rid="pone.0069723-Lynch1">[17]</xref>); three pairs of recognizable ribs on presacrals II–IV (either unfused with corresponding transverse processes, or coalesced with transverse processes but with boundary recognizable in each case as thickened or unossified seam); sacral diapophyses broadly dilated and fan-like with convex lateral edges; sacro-urostylar articulation monocondylar; urostyle with one pair of transverse processes; scapula short and discoglossid-like whose anterior margin is straight and whose anteromedial margin is overlapped by distal end of clavicle; cleithrum not bifurcated medially; ilium with no dorsal protuberance or dorsal crest.</p>
+<p><bold>Comparisons</bold> (with leiopelmatids, discoglossids, and other Jurassic and Cretaceous anurans). In contrast to extant leiopelmatids <xref ref-type="bibr" rid="pone.0069723-Pusey1">[18]</xref>–<xref ref-type="bibr" rid="pone.0069723-Moore1">[22]</xref>, <italic>Liaobatrachus</italic> has nasals that contact one another medially (instead of lacking midline contact), a quadratojugal and columella (bones that absent in leiopelmatids), neural arches that are imbricated (instead of non-imbricated with the spinal canal partially exposed), sacral diapophyses that are fan-like (instead of rod-like), and a monocondylar sacro-urostylar articulation (instead of a non-condylar one). <italic>Liaobatrachus</italic> is similar to leiopelmatids in lacking dermal sculpture on the cranial roofing bones, having paired frontoparietals that bound a fontanelle, lacking a free palatine, and having nine amphicoelous presacral vertebrae, a cleithrum that is not distally bifurcated, and recognizable ribs present on presacral II–IV.</p>
+<p><italic>Liaobatrachus</italic> differs from discoglossids <xref ref-type="bibr" rid="pone.0069723-Clarke1">[23]</xref>–<xref ref-type="bibr" rid="pone.0069723-Wang4">[26]</xref> in having a maxilla with a bifurcated anterior end (instead of an unbifurcated one), a cleithrum that is not distally bifurcated, nine amphicoelous presacral vertebrae (instead of eight opisthocoelous ones), a monocondylar sacro-urostylar articulation (bicondylar in most discoglossids, although monocondylar in <italic>Barbourula</italic>), and an ilium that lacks a dorsal protuberance and dorsal crest. <italic>Liaobatrachus</italic> and discoglossids share many characteristics, such as: free palatine absent, paired frontoparietals with fontanelle present, quadratojugal present, anteromedial margin of scapula overlapped by distal end of clavicle, second through fourth presacral vertebrae bear recognizable ribs, and rib on third presacral with uncinate process, sacral diapophyses dilated, one pair of transverse processes on urostyle.</p>
+<p><italic>Liaobatrachus</italic> differs from <italic>Prosalirus</italic> Shubin and Jenkins 1995 <xref ref-type="bibr" rid="pone.0069723-Jenkins1">[27]</xref> from the Lower Jurassic of Arizona in having a simplified columella with an expanded footplate and round shaft (rather than bearing one ventral proximal head as in <italic>Prosalirus</italic>), a maxilla with a bifurcated anterior end (rather than unbifurcated), fan-like sacral diapophyses (instead of rod-like), a monocondylar sacro-urostylar articulation (instead of a non-condylar articulation), and a relatively long urostyle.</p>
+<p><italic>Liaobatrachus</italic> is distinguished from <italic>Vieraella</italic> Reig 1961 <xref ref-type="bibr" rid="pone.0069723-Bez1">[28]</xref> from the Lower Jurassic of Argentina by being larger (SVL = 33 mm in <italic>Vieraella</italic>), and by having a fused prootic and exoccipital, a cultriform process of the parasphenoid that is long and reaches the level of the vomers (rather than relatively short as in <italic>Vieraella</italic>), fewer presacral vertebrae (10 in <italic>Vieraella</italic>) and fan-like sacral diapophyses (instead of rod-like). However, <italic>Liaobatrachus</italic> has a greater number of similarities with <italic>Vieraella</italic> than with <italic>Prosalirus</italic>. For example, both <italic>Liaobatrachus</italic> and <italic>Vieraella</italic> are characterized by extensive contact between the nasals, and by having a fontanelle between the frontoparietals.</p>
+<p><italic>Liaobatrachus</italic> is different from <italic>Notobatrachus</italic> Reig 1956 <xref ref-type="bibr" rid="pone.0069723-Bez1">[28]</xref>, <xref ref-type="bibr" rid="pone.0069723-Bez2">[29]</xref> from the Middle to Upper Jurassic of Argentina, in being smaller (SVL: 120∼140 mm in <italic>Notobatrachus</italic>), lacking dermal sculpture on the cranial roofing bones, displaying contact between the nasals and between the frontoparietals, having a single well-ossified sphenethmoid (instead of a pair of ossification centers, sometimes called “orbitosphenoids”), having a fused prootic and exoccipital, having a V-shaped parahyoid (rather than crescent shaped), having fan-like sacral diapophyses (instead of rod-like), lacking discrete postsacral vertebrae (one discrete postsacral vertebra is present in most <italic>Notobatrachus</italic> specimens), and having a monocondylar sacro-urostylar articulation (rather than a non-condylar one). The two taxa are similar in having nasals with an extensive midline contact, paired frontoparietals surrounding a fontanelle, a vomer with a dentigerous portion, nine amphicoelous presacral vertebrae, imbricated neural arches, an atlas with type II cotyles, recognizable ribs, and an ilium without a dorsal protuberance or dorsal crest.</p>
+<p><italic>Liaobatrachus</italic> differs from <italic>Eodiscoglossus</italic> Villalta 1957 <xref ref-type="bibr" rid="pone.0069723-Hecht1">[30]</xref>, <xref ref-type="bibr" rid="pone.0069723-Evans1">[31]</xref> from the Middle and Upper Jurassic of Europe in having nasals with an extensive midline contact (midline contact absent in <italic>Eodiscoglossus</italic>), nine amphicoelous presacrals (instead of eight opisthocoelous ones), and an ilium without a dorsal protuberance or dorsal crest (both present on the ilium of <italic>Eodiscoglossus</italic>). <italic>Liaobatrachus</italic> is similar to <italic>Eodiscoglossus</italic> in lacking dermal sculpture on the cranial roofing bones, bearing a fontanelle between the paired frontoparietals, and having a low and long coronoid process on the angulosplenial, recognizable ribs only on presacrals II–IV, imbricated neural arches, fan-like sacral diapophyses, and one pair of transverse processes on the urostyle.</p>
+<p><italic>Liaobatrachus</italic> differs from <italic>Wealdenbatrachus</italic> Fey 1988 <xref ref-type="bibr" rid="pone.0069723-Fey1">[32]</xref>, a supposedly <italic>Eodiscoglossus</italic>-like taxon from the Lower Cretaceous of Spain, in at least two respects: the ilium lacks a dorsal crest (strong dorsal crest present in <italic>Wealdenbatrachus</italic>) and the sacral diapophyses are fan-like (rather than rod-like).</p>
+<p><italic>Liaobatrachus</italic> differs from <italic>Gobiates</italic> Špinar and Tatarinov 1986 <xref ref-type="bibr" rid="pone.0069723-pinar1">[33]</xref>, <xref ref-type="bibr" rid="pone.0069723-Roek2">[34]</xref> and <italic>Cretasalia</italic> Gubin 1999 <xref ref-type="bibr" rid="pone.0069723-Roek2">[34]</xref>, <xref ref-type="bibr" rid="pone.0069723-Gubin1">[35]</xref> from the Upper Cretaceous of Central Asia in the following respects: (1) cranial dermal sculpture: in <italic>Gobiates</italic> pit-ridge sculpture is present on all dermal roofing cranial bones, dermal sculpture in <italic>Cretasalia</italic> is limited to the maxilla, and <italic>Liaobatrachus</italic> lacks dermal sculpture; (2) morphology of maxilla: in <italic>Gobiates</italic> this bone is not bifurcated anteriorly and has a small facial process, whereas in <italic>Liaobatrachus</italic> the facial process is proportionally larger and the anterior end is bifurcated into dorsal and ventral rami (unknown in <italic>Cretasalia</italic>); (3) contact between nasals: the nasals of <italic>Gobiates</italic> and <italic>Cretasalia</italic> are in contact only anteromedially, whereas <italic>Liaobatrachus</italic> has extensive midline contact; (4) squamoso-maxillary contact: in <italic>Gobiates</italic> and <italic>Cretasalia</italic> the zygomatic ramus of the squamosal is long and in contact with the maxilla, whereas in <italic>Liaobatrachus</italic> the squamosal and maxilla do not contact one another; (5) morphology of vomer: the vomer of <italic>Gobiates</italic> has no postchoanal process, whereas that of <italic>Liaobatrachus</italic> bears a long postchoanal process (unknown in <italic>Cretasalia</italic>); (6) cultriform process of parasphenoid: the cultriform process of <italic>Gobiates</italic> does not reach the level of vomers, whereas that of <italic>Liaobatrachus</italic> does (unknown in <italic>Cretasalia</italic>); (7) fusion of the prootic and exoccipital: in <italic>Gobiates</italic> and <italic>Cretasalia</italic> the two bones are separated by a suture, instead of fully fused as in <italic>Liaobatrachus</italic>. However, these three anurans also share many similarities. For example, the frontoparietals of all three bound a large fontanelle; the presacrals are amphicoelous; the neural arches are strongly imbricated; the urostyle has one pair of transverse processes; and the ilium lacks a dorsal crest.</p>
+<p><italic>Liaobatrachus</italic> also differs from <italic>Cordicephalus</italic> Nevo 1968 and <italic>Thoraciliacus</italic> Nevo 1968 <xref ref-type="bibr" rid="pone.0069723-Nevo1">[36]</xref>–<xref ref-type="bibr" rid="pone.0069723-Trueb2">[38]</xref> from the Lower Cretaceous of the Middle East in a number of respects. These include (1) vertebral number: seven or eight presacral vertebrae present in <italic>Cordicephalus</italic> and <italic>Thoraciliacus</italic>, compared to nine in <italic>Liaobatrachus</italic>; (2) vertebral structure: opisthocoelous with well developed transverse processes in <italic>Cordicephalus</italic>, but amphicoelous with short transverse processes in <italic>Liaobatrachus</italic> (unknown in <italic>Thoraciliacus</italic>); (3) vomerine teeth: absent in <italic>Cordicephalus</italic> (unknown in <italic>Thoraciliacus</italic>), but present and arranged in a single row in <italic>Liaobatrachus</italic>; (4) parasphenoid shape: lateral wings absent in <italic>Cordicephalus</italic> and <italic>Thoraciliacus</italic>, but present in <italic>Liaobatrachus</italic>; (5) frontoparietal morphology: broad and azygous in <italic>Cordicephalus</italic> and <italic>Thoraciliacus</italic>, but paired in <italic>Liaobatrachus</italic>; and (6) size: <italic>Cordicephalus</italic> and <italic>Thoraciliacus</italic> small-bodied (SVL: 30∼40 mm), but <italic>Liaobatrachus</italic> large-bodied (SVL: 62∼94 mm).</p>
+<p><italic>Liaobatrachus</italic> differs from <italic>Aygroua</italic> Jones, Evans and Sigogneau-Russell 2003 <xref ref-type="bibr" rid="pone.0069723-Jones1">[39]</xref> from the Lower Cretaceous of Morocco with respect to iliac structure: the ilium of <italic>Aygroua</italic> has a strong dorsal crest, flared ventral acetabular rim, and prominent medial buttress, whereas the ilium of <italic>Liaobatrachus</italic> has none of these features.</p>
+</sec><sec id="s3a3">
+<title>Remarks</title>
+<p><italic>Callobatrachus</italic>, <italic>Mesophryne</italic>, <italic>Dalianbatrachus</italic> and <italic>Yizhoubatrachus</italic> are re-assigned to <italic>Liaobatrachus</italic> based on thorough examination of their holotypes and newly collected fossils from Sihetun, Qianyangou, and Hejiaxin localities. All of the latter fossils can also be referred to this genus as detailed below.</p>
+</sec></sec><sec id="s3b">
+<title><italic>Liaobatrachus grabaui</italic> Ji and Ji, 1998</title>
+<p><xref ref-type="fig" rid="pone-0069723-g003">Figure 3A</xref>∼D</p>
+<p>1998 <italic>Liaobatrachus grabaui</italic> Ji and Ji, p. 39, <xref ref-type="fig" rid="pone-0069723-g001">fig. 1</xref></p>
+<p>1999 <italic>Callobatrachus sanyanensis</italic> Wang and Gao, p. 637, <xref ref-type="fig" rid="pone-0069723-g001">fig. 1</xref></p>
+<sec id="s3b1">
+<title>Holotype</title>
+<p>GMV2126, incomplete skeleton in dorsal view, with vertebral column and pelvis articulated but skull and limbs disarticulated and displaced.</p>
+</sec><sec id="s3b2">
+<title>Type locality and horizon</title>
+<p>Sihetun Locality; Jianshangou Bed, Yixian Formation, Barremian/Aptian (125±1 Ma) <xref ref-type="bibr" rid="pone.0069723-Swisher1">[40]</xref>–<xref ref-type="bibr" rid="pone.0069723-Yang1">[42]</xref>.</p>
+</sec><sec id="s3b3">
+<title>Referred specimens</title>
+<p>IVPP V11525 (holotype of “<italic>Callobatrachus sanyanensis</italic>”) (<xref ref-type="fig" rid="pone-0069723-g003">Fig. 3B</xref>), MV 77 (<xref ref-type="fig" rid="pone-0069723-g003">Fig. 3C</xref>), CYH 004 (<xref ref-type="fig" rid="pone-0069723-g003">Fig. 3D</xref>).</p>
+</sec><sec id="s3b4">
+<title>Revised diagnosis</title>
+<p>The type species of <italic>Liaobatrachus</italic> differs from other species referred to this genus in having the following unique combination of features: relatively short hind limbs, tibiofibula and femur subequal in length, maxilla with palatine process, and only one prepollex element present.</p>
+</sec><sec id="s3b5">
+<title>Description</title>
+<p>CYH 004 (SVL = 78.6 mm), IVPP V11525 (SVL = 94 mm) and MV 77 (SVL = 83.5 mm) represent adult frogs. However, GMV2126 (SVL≈75 mm) probably represents a young adult, judging by the absence of ossified epiphyses on the long bones.</p>
+<p>The skull is wider than long. No sculpture is present on the dermal roofing bones, maxilla, or squamosal (IVPP V11525, MV 77). The nasals are in extensive contact with each other medially (IVPP V11525, MV 77), and each nasal possesses an obvious rostral process which extends to the distal end of the alary process of the premaxilla (MV 77). The anterolateral margin of the nasal is moderately concave, and a low parachoanal process is present halfway along its length (IVPP V11525, MV 77). The paraorbital process is long and directed laterally, forming the anterior margin of the orbit together with the maxilla (CYH 004, MV 77). The paired frontoparietals are separated by a suture along the posterior portion (GMV2126), and anteriorly they bound a large fontanelle that extends for more than half the total length of the frontoparietals (GMV2126, IVPP V11525, MV 77). The orbital margin is straight, and a frontoparietal shelf is present (IVPP V11525). The structure of the alae of the parasphenoid is unknown due to poor preservation. The prootic and exoccipital are fused in adults (GMV2126, CYH 004, IVPP V11525, MV 77). The columella (IVPP V11525, MV 77) has a swollen footplate and bar-like shaft. The squamosal (IVPP V11525) is T-shaped, with three rami. The zygomatic ramus is short and does not contact the maxilla. The otic ramus articulates with the otic capsule, but does not contact the frontoparietal. The ventral ramus is the longest of the three, and extends ventrally to articulate with the quadratojugal.</p>
+<p>The premaxilla (IVPP V11525, MV 77) bears about 24 tooth positions. The base of the alary process is perpendicular to the main body, but the distal end of the process is directed laterally. The development of the horizontal lamina is unknown due to the fact that the premaxillae are exposed only in dorsal view. The posterior process is absent (CYH 004). The maxilla bifurcates anteriorly into ventral and dorsal rami (GMV2126, IVPP V11525, MV 77), and the ventral ramus articulates with the premaxilla (MV 77). In life, the longer dorsal ramus likely had a ligamentous connection with the alary process of the premaxilla (MV 77). The facial process (GMV2126, MV 77) is prominent, and perpendicular to the main body of the maxilla. The disarticulated right maxilla of GMV2126, exposed in ventral view, reveals the presence of a palatine process and also shows that the zygomatico-maxillary process is less well developed than the facial process (GMV2126). The maxilla extends posteriorly to the level of the otic capsule (IVPP V11525, MV 77). The number of maxillary teeth is unknown, but exceeds 30. The quadrate is ossified and fused with the quadratojugal, completing the maxillary arch (CYH 004, IVPP V11525, MV 77).</p>
+<p>The vomer bears a plate-like anterior portion located just posterior to the articulation between the premaxilla and maxilla (IVPP V11525, MV 77). The prominent prechoanal and postchoanal processes of the vomer are directed laterally and define a narrow angle (IVPP V11525, MV 77). The morphology of the ventral aspect of the vomer is unknown, as this bone is exposed dorsally in all specimens in which it is preserved. A short ossified portion of the nasal septum projects from the sphenethmoid (IVPP V11525, MV77). The parasphenoid is exposed only in IVPP V11525 and MV 77, in both cases through the frontoparietal fontanelle, and the important feature of the lateral portion cannot be observed in either specimen. The pterygoid is triradiate (CYH 004, GMV2126, IVPP V 11525, MV 77): the anterior ramus is the longest of the three and articulates with the posterior portion of the maxilla, the medial ramus partially overlaps the anterior surface of the otic capsule, and the posterior ramus articulates with the quadratojugal.</p>
+<p>The lower jaw is composed of a mentomeckelian bone (MV 77), dentary and angulosplenial (CYH 004, IVPP V11525). The angulosplenial bears a low coronoid process. A notch is not present on the coronoid process. Only the posteromedial process of the hyoid plate can be observed (CYH 004, IVPP V11525).</p>
+<p>The vertebral column generally consists of nine clearly amphicoelous presacral vertebrae (IVPP V11525), the sacral vertebra, and the urostyle. However, there are 10 presacral vertebrae in MV 77, and the last presacral vertebra of this specimen is partially fused to the sacral vertebra. The left transverse process of the tenth presacral and the left sacral diapophysis are distally fused to form an enlarged sacral diapophysis, but remain separated proximally. We regard this occurrence as a developmental anomaly, as is true of a similar morphological pattern that has previously been reported in extant anurans <xref ref-type="bibr" rid="pone.0069723-Sood1">[43]</xref>. The neural arches are imbricated (GMV2126, IVPP V11525, MV 77), and bear low spines which probably do not extend posteriorly beyond the posterior margins of the neural arches (MV 77). Presacrals II–IV possess recognizable ribs that are either free from the transverse processes of the vertebrae (IVPP V11525, MV 77) or fused with them (GMV2126, MV 77). The ribs of presacral II are “hatchet-like”, each bearing an uncinate process at the distal end. The ribs of presacral III are longer than those associated with presacral II, and each bears an uncinate process located at the midlength. The ribs of presacral IV lack uncinate processes. The posterior presacrals of the vertebral column have transverse processes that are either nearly perpendicular to the body axis (GMV2126) or only slightly inclined anteriorly (CYH 004, IVPP V11525, MV 77). The sacral diapophyses are dilated and fan-like, with convex lateral margins (GMV2126, CYH 004, IVPP V11525, MV 77). The urostyle is long, and a pair of short transverse processes is present on the anterior part of this bone (GMV2126, IVPP V11525).</p>
+<p>The clavicle is strongly curved (GMV2126, CYH 004, IVPP V11525), with a finger-like lateral end that partially overlaps the anterior surface of the pars acromialis of the scapula (CYH 004, IVPP V11525). The sulcus for the precoracoidal cartilage can be seen in IVPP V11525 and MV 77. The medial and lateral ends of the coracoid are nearly equal in width (IVPP 11525, MV 77). The short scapula has a straight or slightly concave anterior margin (GMV2126, CYH 004, IVPP V11525, MV 77), and a deep interglenoidal sinus between the pars acromialis and pars glenoidalis (GMV2126, IVPP V11525). The cleithrum has a nearly straight anterior margin (GMV2126, CYH 004, IVPP V11525, MV 77) and is not distally bifurcated (GMV2126, CYH 004, IVPP V11525).</p>
+<p>The humerus bears a well developed ventral crest proximally (GMV2126, MV 77), and a deep cubital fossa (MV 77). The radial epicondyle is poorly developed whereas the ulnar one is moderately well developed. The medial and lateral crests are absent (MV 77), suggesting that the skeleton probably belongs to a female. The radioulna bears a well developed olecranon process (GMV2126, CYH 004, IVPP V11525, MV 77). The carpals are arranged in three rows: a proximal one containing the radiale and ulnare, a middle one containing distal carpal V and element Y, and a distal one containing distal carpals II–IV (GMV2126, CYH 004, MV 77) <xref ref-type="bibr" rid="pone.0069723-Fabrezi1">[44]</xref>. One large prepollex element is located medial to the second finger (GMV2126, CYH 004 MV 77) <xref ref-type="bibr" rid="pone.0069723-Fabrezi2">[45]</xref>. The phalangeal formula of the manus is 2-2-3-3 (IVPP V11525, MV 77).</p>
+<p>The ilium does not have a dorsal crest or dorsal protuberance, and is slightly swollen where the acetabular region meets the shaft (GMV2126, IVPP V11525, MV 77). No further morphological details can be discerned, due to poor preservation. The ischium is kidney-shaped (CYH 004, IVPP V11525, MV 77), and the pubis is unossified.</p>
+<p>The femur is sigmoid in shape, and its proximal portion bears a weak femoral crest (CYH 004, IVPP V11525, MV 77). The tibiofibula is slightly shorter than the femur and shows a nutrient foramen at the midlength (CYH 004, IVPP V11525, MV 77). The tibiale and fibulare are free from one another (GMV2126, IVPP V11525, MV 77). The distal tarsals are unossified and the phalangeal formula of the pes is 2-2-3-4-3 (IVPP V11525, MV 77).</p>
+</sec><sec id="s3b6">
+<title>Remarks</title>
+<p>The holotype of <italic>Liaobatrachus grabaui</italic> (GMV2126) was first described in 1998. At that time <italic>Liaobatrachus</italic> was mistakenly assigned to the family Pelobatidae based on the supposed presence of several characteristics <xref ref-type="bibr" rid="pone.0069723-Ji1">[8]</xref>, including: frontoparietals fused together, procoelous presacrals, presacrals II–IV with long diapophyses (but no ribs), and fan-like sacral diapophyses. However, re-examination of GMV2126 reveals that this specimen has three pairs of recognizable ribs rather than long presacral transverse processes, and that the frontoparietals are paired. The type of the centrum in GMV2126 cannot be determined due to poor preservation of the specimen. Therefore, referral of <italic>Liaobatrachus grabaui</italic> to the Pelobatidae is not supported.</p>
+<p>“<italic>Callobatrachus sanyanensis</italic>” (IVPP V11525) was the second named Jehol anuran, and this specimen is better preserved than the holotype (GMV2126) of <italic>Liaobatrachus grabaui</italic>. In previous studies <xref ref-type="bibr" rid="pone.0069723-Wang1">[9]</xref>, <xref ref-type="bibr" rid="pone.0069723-Gao1">[10]</xref>, <xref ref-type="bibr" rid="pone.0069723-Wang2">[13]</xref>, IVPP V11525 was assigned to the Discoglossidae based on the supposed presence of opisthocoelous presacral centra and a bicondylar sacro-urostylar articulation. However, more thorough preparation of the fossil and re-interpretation of its osteology suggest that the presacral centra are in fact amphicoelous and that the sacro-urostylar articulation cannot be referred to as bicondylar. Furthermore, this specimen differs from GMV2126 only in the degree of ossification of the olecranon process of the radioulna, a difference that is probably ontogenetic. Therefore, “<italic>Callobatrachus sanyanensis</italic>” is here considered to represent a junior synonym of <italic>Liaobatrachus grabaui</italic>.</p>
+</sec></sec><sec id="s3c">
+<title><italic>Liaobatrachus beipiaoensis</italic> (Gao and Wang, 2001) comb. nov</title>
+<p><xref ref-type="fig" rid="pone-0069723-g004">Figure 4A</xref>∼C</p>
+<p>2001 <italic>Mesophryne beipiaoensis</italic> Gao and Wang, p. 461, <xref ref-type="fig" rid="pone-0069723-g002">figs 2</xref>–<xref ref-type="fig" rid="pone-0069723-g004">4</xref></p>
+<p>2004 <italic>Dalianbatrachus mengi</italic> Gao and Liu, p. 2, <xref ref-type="fig" rid="pone-0069723-g001">fig. 1</xref>, pl. 1, <xref ref-type="fig" rid="pone-0069723-g001">fig. 1</xref></p>
+<sec id="s3c1">
+<title>Holotype</title>
+<p>LPM 0030, a nearly complete skeleton exposed on part and counterpart slabs, with the skull slightly distorted.</p>
+</sec><sec id="s3c2">
+<title>Type locality and horizon</title>
+<p>Heitizigou locality; Jianshangou Bed, Yixian Formation, Barremian/Aptian (125±1 Ma).</p>
+</sec><sec id="s3c3">
+<title>Referred specimens</title>
+<p>DNM D2166/7 (holotype of “<italic>Dalianbatrachus mengi</italic>”) (<xref ref-type="fig" rid="pone-0069723-g004">Fig. 4B</xref>), IVPP V12717 (<xref ref-type="fig" rid="pone-0069723-g004">Fig. 4C</xref>).</p>
+</sec><sec id="s3c4">
+<title>Revised diagnosis</title>
+<p>This species differs from other <italic>Liaobatrachus</italic> species in having the following unique combination of characteristics: relatively long hind limbs, femur slightly longer than tibiofibula, ilium with subcircular acetabulum, and two prepollex elements present.</p>
+</sec><sec id="s3c5">
+<title>Description</title>
+<p>LPM 0030 (SVL = 69 mm), DNM D2166/7 (SVL = 73.5 mm), and IVPP V12717 (SVL≈83 mm) are all adults.</p>
+<p>As in the type species of <italic>Liaobatrachus</italic>, the skull is relatively wide and lacks sculpture on the cranial bones (LPM 0030, DNM D2167). Medial contact between the nasals is extensive (LPM 0030, DNM D2167, IVPP V12717), and the parachoanal process is present but relatively weakly developed (LPM 0030, IVPP V12717). The paraorbital process extends laterally, but fails to reach the maxilla and thus leaves the anterior orbital margin incomplete (LPM 0030, DNM D2167). The paired frontoparietals are in contact with each other posteriorly, but bound a large fontanelle anteriorly (IVPP V12717). The lateral edges of these bones are straight, and each bears a shelf (DNM D2167, IVPP V12717). Behind the orbit the frontoparietals expand laterally but do not form prominent alae (IVPP V12717). Specimen IVPP V12717 shows that the prootic and exoccipital are fused, and that the columella is composed of a swollen footplate and bar-like shaft. The T-shaped squamosal (IVPP V12717) has a short zygomatic ramus that does not contact the maxilla; the ventral ramus is the longest of the three, and extends ventrally to articulate with the ossified quadrate.</p>
+<p>There are about 23 tooth positions on the dental lamina of the premaxilla (LPM 0030). The anterior portion of the maxilla is dorsoventrally bifurcated (LPM 0030), and the ventral ramus articulates with the premaxilla. The dorsal ramus is longer than the ventral one, and is directed anterodorsally (LPM 0030). The maxilla extends posteriorly to the level of the otic capsule (IVPP V12717). The number of tooth positions on the maxilla cannot be determined. The quadratojugal, together with the premaxilla and maxilla, completes the maxillary arch (IVPP V12717).</p>
+<p>The vomer has a plate-like anterior portion (DNM D2166), and prominent prechoanal and postchoanal processes which are directed laterally and define a narrow angle between them (LPM 0030, DNM D2166). The dentigerous area is not preserved. The cultriform process of the parasphenoid has a rounded tip (IVPP V12717) and reaches the level of the vomer (DNM D2166). The parasphenoid alae are narrow (their anteroposterior length being less than 1/3 of the distance between their lateral ends); the lateral and posterior margins of the alae are obscured by postcranial bones in available specimens. Thus, whether the parasphenoid bears a posterolateral notch and posterior process is unknown. The pterygoid is triradiate (LPM 0030, DNM D2167, IVPP V12717), and articulates with the maxilla, otic capsule, and quadratojugal.</p>
+<p>The lower jaw is formed by the coalesced mentomeckelian bone and dentary (LPM 0030, DNM D2167), and by the angulosplenial. The angulosplenial (LPM 0030, DNM D2167) has a low coronoid process, but it is not possible to assess whether notches are present on the anterior and posterior margins of the process.</p>
+<p>There are nine presacral vertebrae. The centra of the presacrals are clearly amphicoelous (DNM D2167, IVPP V12717). The neural arches are imbricated and bear low spines (IVPP V12717). The atlantal cotyles (IVPP V12717) are ventrally located and close to each other, and can be recognized as type II of Lynch (1971). Recognizable ribs are associated with presacrals II–IV. These may be free (LPM 0030, IVPP V12717) or fused to the transverse processes (DNM D2167). The ribs of presacral II bear uncinate processes at their tips (LPM 0030, DNM D2167, IVPP V12717), whereas those of presacral III have uncinate processes at the midlength (LPM 0030, IVPP V12717). The transverse processes of the posterior presacrals are generally anteriorly inclined (DNM D2167, IVPP V12717), but in some cases extend straight laterally (LPM 0030). As in the type species, the sacral diapophyses are fan-like (LPM 0030, DNM D2167, IVPP V12717). The sacro-urostylar articulation is clearly monocondylar (IVPP V12717). The urostyle bears a pair of short transverse processes (LPM 0030) and a spinal nerve foramen, but no dorsal crest is present (IVPP V12717).</p>
+<p>The curved clavicle (DNM D2167) has a finger-like lateral end that partially overlaps the anterior surface of the pars acromialis of the scapula (DNM D2167, IVPP V12717). The medial end of the bar-like coracoid is slightly wider than the lateral end (CYH 004, IVPP V12717). The scapula is short, with a slightly concave anterior margin (LPM 0030, DNM D2167, IVPP V12717) and an interglenoidal sinus separating the pars acromialis and pars glenoidalis (DNM D2167). The cleithrum is not distally bifurcated (LPM 0030, IVPP V12717), and the anterior margin of this bone is nearly straight (IVPP V12717).</p>
+<p>The humerus has a well developed ventral crest (LPM 0030, DNM D2167, IVPP V12717). In specimen IVPP V12717 this bone lacks radial and ulnar epicondyles in addition to medial and lateral crests, probably reflecting sexual dimorphism and indicating a female individual. The cubital fossa is deep (IVPP V12717). The radioulna has a well developed olecranon process (LPM 0030, IVPP V12717). The carpus is configured as in the type species (DNM D2166, IVPP V12717). Two prepollex elements, of which the distal one is the larger, are located medial to the second finger (LPM 0030, DNM D2167). The phalangeal formula of the manus is 2-2-3-3 (DNM D2167, IVPP V12717).</p>
+<p>The ilium has neither a dorsal crest nor a dorsal protuberance (IVPP V12717). The pars ascendens is moderately developed (IVPP V12717) but the pars descendens (IVPP V12717) is barely discernible. The ischia are fused (LPM 0030, IVPP V12717) and the pubes are unossified.</p>
+<p>The proximal portion of the sigmoid femur bears a crest (IVPP V12717). The tibiofibula, which is nearly as long as the femur, shows a nutrient foramen (IVPP V12717). The tibiale and fibulare are free from one another (LPM 0030, DNM D2166/7, IVPP V12717). The distal tarsals are not ossified, and the phalangeal formula of the pes is 2-2-3-4-3 (LPM 0030, DNM D2167, IVPP V12717).</p>
+</sec><sec id="s3c6">
+<title>Remarks</title>
+<p>LPM 0030 was catalogued as IVPP V11721 when it was made the holotype of the new putative “<italic>Mesophryne beipiaoensis</italic>” <xref ref-type="bibr" rid="pone.0069723-Gao1">[10]</xref>, but was subsequently returned to the municipal government of Beipiao and catalogued in the Liaoning Paleontology Museum under its present specimen number. Only the part slab (published as IVPP V11721A, now LPM 0030), which preserves less of the skull than the counterpart, is currently available. The counterpart slab was probably lost after being returned to Liaoning. Contrary to the original description of the specimen <xref ref-type="bibr" rid="pone.0069723-Gao1">[10]</xref>, the carpus of LPM 0030 does not contain an intermedium and the presacral centra cannot be determined to be procoelous. The specimen has the general characteristics of the genus <italic>Liaobatrachus</italic>, including a bifurcated maxilla, a nasal and vomer of the appropriate shape, recognizable ribs on presacrals II–IV, fan-like sacral diapophyses, and transverse processes on the urostyle, and is reassigned to <italic>Liaobatrachus</italic> in this paper to form the new combination <italic>L</italic>. <italic>beipiaoensis</italic>.</p>
+<p>Different catalogue numbers (DNM D2166, DNM D2167) have been given to the part and counterpart of the holotype of “<italic>Dalianbatrachus mengi</italic>”, even though both components belong to the same individual <xref ref-type="bibr" rid="pone.0069723-Gao2">[11]</xref>. DNM D2166/7 has paired frontoparietals and an amphicoelous presacral centrum, and displays virtually no differences from LPM 0030. Thus we regard “<italic>Dalianbatrachus mengi</italic>” as a junior synonym of <italic>Liaobatrachus beipiaoensis</italic>.</p>
+</sec></sec><sec id="s3d">
+<title><italic>Liaobatrachus macilentus</italic> (Gao and Chen, 2004) comb. nov</title>
+<p><xref ref-type="fig" rid="pone-0069723-g005">Figure 5A, B</xref></p>
+<fig id="pone-0069723-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0069723.g005</object-id><label>Figure 5</label><caption>
+<title><italic>Liaobatrachus macilentus</italic> (Gao and Chen, 2004) comb.</title>
+<p><bold>nov.</bold><bold/> A, skeleton of the holotype, ZMNH M8621. B1, skeleton of the referred specimen IVPP V12510. B2, line drawing of the skull, with an arrow indicating the vomerine tooth row. B3, enlargement of the pelvis. The acetabulum is pointed anteriorly, and marked by a white arrow. The urostyle possesses one pair of transverse processes, which are indicated by a red arrow. Abbreviations: cl, clavicle; fp, frontoparietal; psh, parasphenoid; pt, pterygoid; sph, sphenethmoid; vo, vomer.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0069723.g005" position="float" xlink:type="simple"/></fig>
+<p>2004 <italic>Yizhoubatrachus macilentus</italic> Gao and Chen, p. 762, <xref ref-type="fig" rid="pone-0069723-g002">figs 2</xref>–<xref ref-type="fig" rid="pone-0069723-g003">3</xref></p>
+<sec id="s3d1">
+<title>Holotype</title>
+<p>ZMNH M8621, nearly complete skeleton with some cranial bones slightly displaced, and metacarpals and phalanges of left forelimb preserved as imprint.</p>
+</sec><sec id="s3d2">
+<title>Type locality and horizon</title>
+<p>Hejiaxin locality; Dawangzhangzi Bed, Yixian Formation, Aptian (122 Ma) <xref ref-type="bibr" rid="pone.0069723-Zhou2">[2]</xref>.</p>
+</sec><sec id="s3d3">
+<title>Referred specimens</title>
+<p>IVPP V12510 (<xref ref-type="fig" rid="pone-0069723-g005">Fig. 5B</xref>), IVPP V12541.</p>
+</sec><sec id="s3d4">
+<title>Revised diagnosis</title>
+<p>This species differs from other species of <italic>Liaobatrachus</italic> in having the following unique combination of features: femur slightly longer than tibiofibula, maxilla bearing a palatine process, cultriform process of parasphenoid ending in slender needle-like tip (tapering abruptly at a point located about 1/3 of the skull length posterior to the rostrum), anterior acetabular margin of ilium pointed anteriorly, and two prepollex elements present.</p>
+</sec><sec id="s3d5">
+<title>Description</title>
+<p>IVPP V12510 (SVL = 62 mm) is an adult, but is not fully grown, and ZMNH M8621 (SVL = 56 mm) is a juvenile.</p>
+<p>As in the type species of <italic>Liaobatrachus</italic>, the skull is relatively wide. The nasal has a long paraorbital process which is directed laterally and forms the orbital margin together with the maxilla (ZMNH M8621). The frontoparietals are paired and border a large anterior fontanelle (IVPP V12510). The orbital margin is straight and a frontoparietal shelf is present (ZMNH M8621, IVPP V12510). In ZMNH M8621, the medial margin of the anterior portion of the frontoparietal is thickened. The posterior portions of the frontoparietals are sutured together, and extend slightly laterally behind the orbits (IVPP V12510). The otic capsules are nearly completely overlapped in ventral view by the alae of the parasphenoid (IVPP V12510), and a faint suture can be recognized between the prootic and exoccipital. The columella (ZMNH M8621, IVPP V12510) has a swollen footplate and bar-like shaft, and the T-shaped squamosal (IVPP V12510) has a short zygomatic ramus that does not contact the maxilla.</p>
+<p>There are 18∼20 tooth positions on the dental lamina of the premaxilla (IVPP V12510, ZMNH M8621). The alary process extends dorsally, but the distal end of the process is laterally inclined. The anterior portion of the maxilla is deep, and probably bifurcated (ZMNH M8621). The facial process is prominent and nearly perpendicular to the main body of the maxilla. The palatine process is well developed, and positioned anterior to the facial process (ZMNH M8621). The horizontal lamina widens posteriorly (ZMNH M8621), and thus probably possesses a pterygoid process. The posterior end of the maxilla reaches the level of the otic capsule, and is obtuse and rounded (IVPP V12510). The maxilla bears 41∼47 tooth positions (ZMNH M8621, IVPP V12510), and the tooth row extends beyond the level of the pterygoid process. The quadratojugal is present, and is fused with the ossified quadrate (IVPP V12510).</p>
+<p>The vomer has prominent prechoanal and postchoanal processes, which diverge laterally at a narrow angle from one another (ZMNH 8621, IVPP V12510). A dentigerous area with about 6 tooth positions arranged in a single row is present close to the midline, medial to the choana. The sphenethmoid has a prominent anterior process, representing the ossified part of the nasal septum. The parasphenoid has a cultriform process that reaches the level of the vomer. The process is slightly constricted at its base, and widens gradually up to its midpoint before tapering to a slender and needle-like tip (ZMNH M8621, IVPP V12510). The nature of the alae and posterior margin is unknown. The pterygoid (ZMNH M8621, IVPP V12510) is triradiate: the anterior ramus is the longest of the three and extends anteriorly to articulate with the maxilla, whereas the medial ramus contacts the otic capsule.</p>
+<p>The lower jaw is formed mainly by the coalesced mentomeckelian bone and dentary (ZMNH M8621, IVPP V12510), and the angulosplenial. The angulosplenial has a low but distinct coronoid process, with a smooth posterior margin and an anterior margin that is probably interrupted by a notch (ZMNH M8621). A V-shaped parahyoid and bar-like posteromedial process of the hyoid plate are preserved (ZMNH M8621, IVPP V12510).</p>
+<p>The axial column is comprised of nine presacral vertebrae, the sacral vertebra, and the urostyle. The atlas and presacral II are fused in IVPP V12510, but this is probably an individual anomaly. The centra of the presacrals are clearly amphicoelous (ZMNH M8621, IVPP V12510) and the atlantal cotyles (IVPP V12510) are of type II of Lynch (1971). Recognizable ribs are present, and free from the corresponding transverse processes, on presacrals II–IV (IVPP V12510). Those of presacral III bear uncinate processes directed posterolaterally from their middle portions. The transverse processes of the posterior presacrals are inclined somewhat anteriorly (ZMNH M8621, IVPP V12510), and the sacral diapophyses are obviously fan-like (ZMNH M8621, IVPP V12510). The urostyle is longer than the presacral vertebral column and bears a pair of short transverse processes (IVPP V12510).</p>
+<p>The clavicle is strongly arched, with a lateral end that partially overlaps the anterior surface of the pars acromialis of the scapula (IVPP V12510). The coracoid is bar-like and swollen at both ends, but the medial end is slightly wider than the lateral one (IVPP V12510). The scapula is short, with a straight anterior margin (ZMNH M8621, IVPP V12510) and a deep interglenoidal sinus between the pars acromialis and pars glenoidalis (ZMNH M8621). The cleithrum is not distally bifurcated, and its anterior margin is straight (ZMNH M8621, IVPP V12510).</p>
+<p>The humerus bears a ventral crest (IVPP V12510). In specimen ZMNH M8621 the humeral condyle is not ossified, suggesting that the individual is a juvenile. The radial epicondyle is barely distinct, and the ulnar one is only moderately well developed (ZMNH M8621). The depth of the cubital fossa is uncertain due to poor preservation. The carpals (radiale, ulnare, element Y, and distal carpals II–V) are arranged in three rows (IVPP V12510) as in <italic>Liaobatrachus grabaui</italic>. Two prepollex elements are present, the distal one being larger than the proximal (IVPP V12510). In the juvenile ZMNH M8621, the carpals are not ossified. The phalangeal formula of the manus is 2-2-3-3 (IVPP V12510).</p>
+<p>The ilium does not have a dorsal crest or dorsal protuberance, and is somewhat rugose at the point of transition between the acetabular portion and the shaft (ZMNH M8621, IVPP V12510). The anterior margin of the acetabulum (ZMNH M8621, IVPP V12510) is pointed anteriorly rather than rounded, and the anterior and ventral margins both rise to form crests. The pars ascendens is moderately well developed, but the pars descendens is nearly lacking (ZMNH M8621, IVPP V12510). The ischia are fused, and kidney-like (IVPP V12510). The pubes were cartilaginous.</p>
+<p>The femur is slightly longer than the tibiofibula (ZMNH M8621, IVPP V12510), and the latter bone bears a nutrient foramen at its midpoint (IVPP V12510). The tibiale and fibulare are not fused together (ZMNH M8621, IVPP V12510). The distal tarsals were cartilaginous. The phalangeal formula of the pes is 2-2-3-4-3 (IVPP V12510).</p>
+</sec><sec id="s3d6">
+<title>Remarks</title>
+<p>Wang (2006) pointed out that the holotype of “<italic>Yizhoubatrachus macilentus</italic>” (ZMNH M8621) actually represents a medium-sized subadult frog (SVL: 56∼62 mm) rather than a large frog as reported in the original paper (SVL = 115 mm according to Gao and Chen, 2004, page 766), so the lack of an ossified mesopodium in both the fore- and hind limbs is likely a non-diagnostic subadult feature. This conclusion is further supported by discovery of a larger specimen (IVPP V12510) from the same locality and closely resembling ZMNH M8621, which does have ossified carpals and probably represents an adult. Moreover, whether the parasphenoid of ZMNH M8621 has a posterior process is uncertain, because the posterior margin is obscured in the available specimens. The presacral centra are amphicoelous, not opisthocoelous as previously reported. This degree of conformity with the diagnosis of <italic>Liaobatrachus</italic> indicates that “<italic>Yizhoubatrachus</italic>” is a junior synonym of <italic>Liaobatrachus</italic>.</p>
+</sec></sec><sec id="s3e">
+<title><italic>Liaobatrachus zhaoi</italic> sp. nov</title>
+<p>urn:lsid:zoobank.org:act:1D921AAE-054E-4768-A953-E312572AB6C0</p>
+<p><xref ref-type="fig" rid="pone-0069723-g006">Figure 6A</xref>∼D, <xref ref-type="fig" rid="pone-0069723-g007">Figure 7A</xref>∼E</p>
+<fig id="pone-0069723-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0069723.g006</object-id><label>Figure 6</label><caption>
+<title><italic>Liaobatrachus zhaoi</italic> sp. nov.</title>
+<p>A, the holotype, IVPP V14979.1. B, the paratype specimen IVPP V14979.2. C, the paratype specimen IVPP V13239. D, the paratype specimen IVPP V14203.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0069723.g006" position="float" xlink:type="simple"/></fig><fig id="pone-0069723-g007" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0069723.g007</object-id><label>Figure 7</label><caption>
+<title><italic>Liaobatrachus zhaoi</italic> sp. nov.</title>
+<p>A, restoration of the skeleton of <italic>L</italic>. <italic>zhaoi</italic> in dorsal view. As shown, the left pectoral girdle includes the clavicle, scapula, and coracoid when the cleithrum and the ribs of presacrals II–IV have been removed. B, restoration of the skull of <italic>L</italic>. <italic>zhaoi</italic> in ventral view. C, pelvic girdle of the referred specimen IVPP V13245. D, skull of the paratype specimen IVPP V13239 in dorsal view. The blue arrow marks the bifurcated anterior end of the maxilla, the red arrow marks the prominent facial process of the maxilla, and the white arrow marks the free zygomatic ramus of the squamosal. E, enlargement of the anterior portion of the paratype specimen IVPP V14203 in ventral view. The red arrow points to the dentigerous portion of the vomer, which bears one row of teeth. The yellow arrow marks the interglenoidal sinus between the pars acromialis and pars glenoidalis. The blue arrows show the concave surfaces of the amphicoelous presacral centra.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0069723.g007" position="float" xlink:type="simple"/></fig>
+<p>2012 <italic>Liaobatrachus</italic> Ji and Ji, Roček et al., p. 1287, <xref ref-type="fig" rid="pone-0069723-g001">figs 1</xref>, <xref ref-type="fig" rid="pone-0069723-g002">2</xref></p>
+<sec id="s3e1">
+<title>Etymology</title>
+<p>The species name honors Professor Ermi Zhao, a prominent Chinese herpetologist.</p>
+</sec><sec id="s3e2">
+<title>Holotype</title>
+<p>IVPP V14979.1, a nearly complete, three-dimensionally preserved skeleton exposed in ventral aspect, the largest and most complete of four specimens preserved on a single block of silty sandstone.</p>
+</sec><sec id="s3e3">
+<title>Paratypes</title>
+<p>IVPP V14979.2, a nearly complete, three-dimensionally preserved skeleton in ventral aspect. IVPP V14203, a nearly complete, three-dimensionally preserved skeleton in ventral aspect, with only the distal parts of the forelimbs missing. IVPP V13239, a partial, three-dimensionally preserved skeleton in dorsal aspect, retaining the skull, the presacral section of the vertebral column and parts of the forelimbs but lacking the pelvis and hind limbs.</p>
+</sec><sec id="s3e4">
+<title>Type locality and horizon</title>
+<p>Qianyangou locality; Lujiatun Bed, Yixian Formation, Barremian (slightly older than 125 Ma) <xref ref-type="bibr" rid="pone.0069723-Zhou2">[2]</xref>, <xref ref-type="bibr" rid="pone.0069723-Yang1">[42]</xref>, <xref ref-type="bibr" rid="pone.0069723-He1">[46]</xref>.</p>
+</sec><sec id="s3e5">
+<title>Referred specimens</title>
+<p>IVPP V13236, IVPP V13245 (<xref ref-type="fig" rid="pone-0069723-g007">Fig 7C</xref>), IVPP V13380, IVPP V14269, IVPP V14270, IVPP V14979.3, IVPP V14979.4, probably IVPP V13238, IVPP V13379, and IVPP V14608. All are from the type locality and surrounding area (Lujiatun Village).</p>
+</sec><sec id="s3e6">
+<title>Diagnosis</title>
+<p>This new species of <italic>Liaobatrachus</italic> differs from other members of the genus in having the following unique combination of characteristics: relatively long hind limbs, tibiofibula nearly as long as femur, parasphenoid with cultriform process that tapers gradually beginning at the midpoint, maxilla without palatine process, ilium with round acetabulum, and pubis ossified in fully grown adults.</p>
+</sec><sec id="s3e7">
+<title>Description</title>
+<p>(based on type specimens) IVPP V14979.1 (SVL = 73.8 mm), IVPP V13239, and IVPP V14203 (SVL = 80.5 mm) are fully grown adults, whereas IVPP V14979.2 (SVL = 73 mm) is an early adult.</p>
+<p>The skull is wider than long. No sculpture is present on the dermal roofing bones, maxilla, or squamosal (IVPP V 13239, IVPP V 14203). The nasals contact one another extensively along their medial margins (IVPP V13239) and each possesses an obvious rostral process, which extends as far as to the level of the alary process of the premaxilla (IVPP V14979.1, IVPP V13239). The anterolateral margin is moderately concave (IVPP V14979.1, IVPP V13239), and a low parachoanal process is present at the midpoint of the margin (IVPP V13239). The paraorbital process (IVPP V13239) is long and laterally directed, forming the anterior margin of the orbit together with the maxilla. The paired frontoparietals are sutured together posteriorly, and their anterior portions border a large fontanelle that is more than half as long as the frontoparietal (IVPP V13239). The orbital margin is straight, and a frontoparietal shelf is present. The posterior portion of the frontoparietal extends laterally but is not developed as wing-like process, and the lateral process, paraoccipital process, posterior process and posterolateral canthus can all be seen (IVPP V13239). The prootic and exoccipital are completely fused with each other on both sides of the skull (IVPP V13239). The supracondyloid crest extends from the posterolateral canthus of the frontoparietal to the torus terminalis. The two occipital condyles, located near each other, are mainly ventral to the foramen magnum. A columella (IVPP V13239) is present. The squamosal (IVPP V13239) is T-shaped. The short zygomatic ramus does not contact the maxilla, and is directed anteriorly and medially. The otic plate articulates with the otic capsule, but is not in contact with the frontoparietal.</p>
+<p>The premaxilla bears about 20 tooth positions (IVPP V14203). The alary process (IVPP V13239) is short. The basal portion of the alary process is perpendicular to the main body of the premaxilla, and the distal portion is directed laterally. The horizontal lamina of the premaxilla (IVPP V14203) has a poorly developed palatine process but no posterior process. The maxilla bifurcates into ventral and dorsal rami anteriorly, and only the ventral ramus articulates with the premaxilla (IVPP V14203). The dorsal ramus is the longer of the two, and probably had a ligamentous connection with the alary process of the premaxilla in the living animal (IVPP V13239). The maxilla bears at least 48 tooth positions (IVPP V14979.2). The facial process (IVPP V13239, IVPP V14203) is prominent, and perpendicular to the main body of the maxilla. The palatine process is absent (IVPP V14979.2), and the zygomatico-maxillar process is small (IVPP V13239). The maxilla extends posteriorly to the level of the otic capsule (IVPP V13239, IVPP V14979.2). The quadrate is ossified and fused with the quadratojugal, which articulates with the posterior end of the maxilla (IVPP V13239, IVPP V14203, IVPP V14979.2).</p>
+<p>The vomer has a plate-like anterior portion (IVPP V14203), and the prominent prechoanal and postchoanal processes of this bone are directed laterally and define a narrow angle (IVPP V13239, IVPP V14203, IVPP V14979.1). The dentigerous portion is located medial to the choana, and bears 10 teeth arranged in a single row. The sphenethmoid is long in fully grown adults (IVPP V14203, IVPP 14979.1) but poorly developed in young adults, in which the nasal septum is cartilaginous (IVPP V14979.2). The cultriform process of the parasphenoid, whose base is slightly constricted, extends anteriorly to the level of the vomer (IVPP V13380). The cultriform process is widest at the midpoint, and tapers gradually as it continues anteriorly. The alae are long and narrow, their anteroposterior width being less than 1/3 of the distance between their lateral ends. There is no notch (IVPP V14979.1) in the posterolateral margin of the ala, but a distinct posterior process (IVPP V14979.2) is present in the middle of the posterior margin. The anterior ramus of the pterygoid articulates with the pterygoid process of the maxilla (IVPP V14203, IVPP V149797.1, IVPP V14979.2). The medial ramus of the pterygoid (IVPP V13239) partially overlaps the anterior surface of the otic capsule, and the posterior ramus (IVPP V14979.1, IVPP V14979.2) contacts the ventral ramus of the squamosal.</p>
+<p>The lower jaw is comprised of a mentomeckelian bone (IVPP V14203, IVPP V 14979.2), a dentary (IVPP V14203, IVPP V14979.1, IVPP V14979.2), and an angulosplenial that bears a low but distinct coronoid process lacking a notch (IVPP V14203). A V-shaped parahyoid bone is present (IVPP V14979.2), and the posteromedial process of the hyoid apparatus is visible (IVPP V14203).</p>
+<p>The nine presacral vertebrae are clearly amphicoelous (IVPP V14203, IVPP V14979.1, IVPP V14979.2). The atlas and presacral II (IVPP V13380), or the last presacral vertebra and the sacral vertebra (IVPP V 13236), are sometimes fused. This condition is here regarded as an individual anomaly, and has been reported previously in extant frogs <xref ref-type="bibr" rid="pone.0069723-Ritland1">[20]</xref>, <xref ref-type="bibr" rid="pone.0069723-Sood1">[43]</xref>, <xref ref-type="bibr" rid="pone.0069723-Stephenson2">[47]</xref>. The neural arches are imbricated and bear low spines (IVPP V13239). The atlantal cotyles (IVPP V14203), which are recognizably of type II (of Lynch, 1971), are close to each other and approximately ventral in position. Presacrals II–IV bear recognizable ribs, which are either free from the transverse processes of the vertebrae (IVPP V14203, IVPP V14979.2) or coalesced with them (IVPP V13239). An uncinate process is present at the tip of the rib of presacral II, making the rib “hatchet-like”, and an uncinate process also occurs at the middle of the rib of presacral III (IVPP V13239). Recognizable ribs are occasionally present on presacral V, in cases where the area of fusion between the rib and the transverse process is swollen (IVPP V13236, IVPP V13239). The transverse processes of presacrals V–VII are perpendicular to the body axis, whereas those of the last two presacrals are inclined anteriorly (IVPP V13239, IVPP V14203, IVPP V14979.1, IVPP V14979.2). The sacral diapophyses are fan-like (IVPP V14203, IVPP V14979.1). The sacro-urostylar articulation is monocondylar (IVPP V14979.1, IVPP V14979.2). The urostyle has a pair of short transverse processes (IVPP V14203, IVPP V14979.1), and bears only a poorly developed dorsal crest (IVPP V13236).</p>
+<p>The clavicles are strongly curved, and meet in the midline (IVPP V14979.1). The lateral, finger-like end of each clavicle overlaps the anterior surface of the pars acromialis of the scapula (IVPP V13239, IVPP V14203). The medial and lateral ends of the bar-like coracoid are nearly equal in width (IVPP V14203, IVPP V14979.2). The short scapula has a straight anterior margin (IVPP V13239, IVPP V14203, IVPP V14979.1) and a deep interglenoidal sinus between the pars acromialis and pars glenoidalis (IVPP V14203). The cleithrum has a straight anterior margin and does not bifurcate distally (IVPP V13239).</p>
+<p>The humerus has a well developed ventral crest on its proximal portion (IVPP V 14979.1, IVPP V14979.2), and the cubital fossa is deep (IVPP V13239, IVPP V14979.1). The humeral condyle may be either ossified (IVPP V13239, IVPP V14979.1) or unossified (IVPP V14203), due to developmental variation. The radial epicondyle is less well developed than the ulnar one. Medial and lateral crests are not present (IVPP V13245, IVPP V14203). The radioulna bears a well developed olecranon process (IVPP V14979.1, IVPP V14979.2). Ossified carpals are present, but the arrangement of the carpals and the phalangeal formula of the manus are both unknown due to incomplete preservation.</p>
+<p>The ilium does not bear a dorsal crest or a dorsal protuberance (IVPP V13236). The pars ascendens is moderately well developed (IVPP V14203). The pars descendens is not laterally expanded, but combines with the ventral rim of the acetabulum to form a small platform (IVPP V14203, IVPP V14979.1, IVPP V14979.2). In a fully grown adult (IVPP V14979.1), the ilium, ischium, and ossified pubis all contribute to a confluent ventral acetabular rim. In young adults (IVPP V14203, IVPP V14979.2) the pubis was still cartilaginous, as indicated by the presence of an empty gap where the pubis would be expected to occur. The fused ischia are T-shaped in dorsal view (IVPP V14979.1, IVPP V14979.2).</p>
+<p>The femur is sigmoid in shape and bears a crest on the proximal section (IVPP V14203, IVPP V14979.1, IVPP V14979.2). The tibiofibula is nearly as long as the femur (IVPP V14979.1). The tibiale and fibulare are fused at their proximal and distal ends in fully grown adults (IVPP V14979.1), but unfused in younger adults (IVPP V14979.2). Similarly, the distal tarsals are ossified in fully grown adults (IVPP V 14979.1), but not in younger ones (IVPP V14979.2). The phalangeal formula of the pes is unknown due to poor preservation.</p>
+</sec></sec><sec id="s3f">
+<title>Anura genus and species indet</title>
+<sec id="s3f1">
+<title>Material</title>
+<p>IVPP V13235, part and counterpart of a partial skeleton.</p>
+</sec><sec id="s3f2">
+<title>Horizon and locality</title>
+<p>Jiufotang Formation (Aptian, 120.3±0.7 Ma) <xref ref-type="bibr" rid="pone.0069723-He2">[48]</xref>; Xierhuqiao Locality.</p>
+</sec><sec id="s3f3">
+<title>Description</title>
+<p>Each vertebra has an unfused neural arch and centrum, and the long bones lack epicondyles. These features indicate that the individual is surely a juvenile (for detailed description see Wang et al., 2007 <xref ref-type="bibr" rid="pone.0069723-Wang3">[16]</xref>).</p>
+<p>The frontoparietals are paired, and their anterior portions border a large fontanelle whose anteroposterior length exceeds 1/2 the length of the frontoparietals. The squamosal is T-shaped, with short zygomatic ramus that does not contact the maxilla. The maxilla is not bifurcated anteriorly and lacks a facial process. The sacral diapophyses are rod-like and only slightly expanded at their ends, rather than being fan-like as in <italic>Liaobatrachus</italic>. The sacro-urostylar articulation is bicondylar, also in contrast to the condition in <italic>Liaobatrachus</italic>. The urostyle bears a pair of short, posteriorly directed transverse processes. The tibiofibula is considerably longer than the femur. The tibiale and fibulare are not fused together, and the distal tarsals are not ossified.</p>
+<p>A ternary diagram was used to analyze the hind limb proportions of anurans and two outgroup taxa <xref ref-type="bibr" rid="pone.0069723-Wang3">[16]</xref>, and this frog from the Jiufotang Formation was well separated on the diagram from a cluster of Jehol anurans from the underlying Yixian Formation. In fact, the Jiufotang frog fell amongst extant hylids, leptodactylids, and discoglossids. The precise phylogenetic position of this small frog remains uncertain, but the specimen differs from <italic>Liaobatrachus</italic> in having a greater ratio of tibiofibula length to femur length and having undilated sacral diapophyses. The Jiufotang frog is probably not referable to <italic>Liaobatrachus,</italic> and the possibility that it represents a neobatrachian cannot be ruled out.</p>
+</sec></sec></sec><sec id="s4">
+<title>Discussion</title>
+<p>All fossil anuran specimens that belong to the Jehol Biota come from the Yixian Formation, with the exception of one specimen IVPP V13235 that comes from the Jiufotang Formation. It is clear that, with respect to osteological characters, the Yixian frogs are homogeneous and should be referred to the single genus <italic>Liaobatrachus</italic>.</p>
+<p>Within <italic>Liaobatrachus</italic> we distinguish four species according to body proportions, the shape of the cultriform process of the parasphenoid, the shape of the acetabulum, and the number of prepollex elements. The relative length of the hind limb (femur, tibiofibula, and fibulare) is greater in <italic>L</italic>. <italic>beipiaoensis</italic> and <italic>L</italic>. <italic>zhaoi</italic> than in <italic>L</italic>. <italic>grabaui</italic> (see <xref ref-type="supplementary-material" rid="pone.0069723.s002">Table S2</xref>). However, in <italic>L</italic>. <italic>beipiaoensis</italic> the femur is slightly longer than the tibiofibula, as opposed to nearly the same length as the tibiofibula in <italic>L</italic>. <italic>zhaoi</italic>. The acetabulum is triangular in <italic>L</italic>. <italic>macilentus</italic> but more circular in other species of <italic>Liaobatrachus</italic>. The cultriform process of the parasphenoid is anteriorly needle-like in <italic>L</italic>. <italic>macilentus</italic>, but tapers gradually anteriorly in <italic>L</italic>. <italic>zhaoi</italic> and comes to a rounded anterior tip in <italic>L</italic>. <italic>beipiaoensis</italic>. <italic>Liaobatrachu</italic>s <italic>grabaui</italic> possesses only one prepollex element whereas <italic>L</italic>. <italic>beipiaoensis</italic> and <italic>L</italic>. <italic>macilentus</italic> have two. Other differences among the specimens exist, but can be explained as intraspecific variations or developmental anomalies. The intraspecific differences are mainly ontogenetic variations in the degree of ossification. For example, the young adult of <italic>L</italic>. <italic>macilentus</italic> has unossified carpals and a poorly developed radioulna that lacks a prominent olecranon; the fully grown adult of <italic>L</italic>. <italic>zhaoi</italic> has distinct epicondyles at the ends of the long bones, an ossified pubis and distal tarsals, and a proximally and distally fused tibiale and fibulare. Further examples of inferred developmental anomalies include the presence, in some specimens, of an additional presacral (presacral X) in <italic>L</italic>. <italic>grabaui</italic>, of the fusion between presacrals I and II in <italic>L</italic>. <italic>macilentus</italic>, and of the fusion between the last presacral and the sacral vertebra in <italic>L</italic>. <italic>grabaui</italic> and <italic>L</italic>. <italic>zhaoi</italic>.</p>
+<p><italic>Liaobatrachus</italic> exhibits several derived character states not seen in <italic>Prosalirus</italic>, <italic>Notobatrachus</italic> and <italic>Vieraella</italic> from the Jurassic deposits of the Americas. These include a reduced number of presacrals, a complete urostyle, and a monocondylar sacro-urostylar articulation as opposed to a non-condylar joint between the sacrum and urostyle. However, <italic>Liaobatrachus</italic> does not appear to be as derived as the European Jurassic-Cretaceous <italic>Eodiscoglossus</italic>, as the presacrals of <italic>Liaobatrachus</italic> are amphicoelous and also more numerous. <italic>Gobiates</italic> and <italic>Cretasalia</italic> from the Upper Cretaceous of Central Asia resemble <italic>Liaobatrachus</italic> more closely than American and European taxa in possessing an ilium that lacks a dorsal crest and having at least some contact between the nasals. However, <italic>Liaobatrachus</italic> differs from these Central Asian taxa in having a greater degree of contact between the nasals and in lacking both a squamosal-maxillary contact and dermal sculpture on the bones of the skull roof. <italic>Liaobatrachus</italic> does not resemble the Early Cretaceous frogs known from the Middle East or North Africa, which are pipoids.</p>
+<p>Among extant anurans, <italic>Liaobatrachus</italic> resembles leiopelmatids in some features and discoglossids in others. As in discoglossids, the anterior margin of the pars acromialis of the scapula is overlapped by the distal end of the clavicle, and the sacral diapophyses are expanded. As in leiopelmatids, nine presacral vertebrae are present and the distal end of the cleithrum is unbifurcated. However, the combination of amphicoelous centra and a monocondylar sacro-urostylar articulation suggests that <italic>Liaobatrachus</italic> is likely more derived than leiopelmatids. In our phylogenetic analysis (<xref ref-type="fig" rid="pone-0069723-g008">Fig. 8</xref>), <italic>Liaobatrachus</italic> is clustered together with leiopelmatids and the Lalagobatrachia (of Frost et al., 2006 <xref ref-type="bibr" rid="pone.0069723-Frost1">[49]</xref>). <italic>Liaobatrachus</italic> is more deeply nested than most previous analyses have indicated <xref ref-type="bibr" rid="pone.0069723-Gao1">[10]</xref>, <xref ref-type="bibr" rid="pone.0069723-Gao3">[12]</xref>, <xref ref-type="bibr" rid="pone.0069723-Wang2">[13]</xref>, <xref ref-type="bibr" rid="pone.0069723-Wang5">[50]</xref>.</p>
+<fig id="pone-0069723-g008" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0069723.g008</object-id><label>Figure 8</label><caption>
+<title>Phylogenetic placement of <italic>Liaobatrachus</italic> among archaeobatrachian frogs.</title>
+<p>The tree is the strict consensus of 661 most parsimonious trees (TL = 186, CI = 0.5753, RI = 0.6985). The data matrix used in the analysis is in <xref ref-type="supplementary-material" rid="pone.0069723.s001">Table S1</xref>. Major phylogenetic groups shown on the tree include (A) Anura and (B) Lalagobatrachia. * indicates fossil taxa.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0069723.g008" position="float" xlink:type="simple"/></fig>
+<p>The frog from the Jiufotang Formation of Aptian age is about 5 million years younger than the known specimens of <italic>Liaobatrachus</italic>, and differs from them in having rod-like sacral diapophyses and larger ratio of tibiofibula to femur. This frog provides evidence of the presence of another anuran genus in the Jehol Biota, but we prefer not to erect a new taxon on the basis of a single juvenile specimen.</p>
+</sec><sec id="s5">
+<title>Conclusion</title>
+<p>Most known Jehol anurans can be referred to the genus <italic>Liaobatrachus</italic> (<xref ref-type="table" rid="pone-0069723-t002">Table 2</xref>) on the basis of osteological characters. The five previously named taxa, <italic>Liaobatrachus grabaui</italic> Ji and Ji 1998, <italic>Callobatrachus sanyanensis</italic> Wang and Gao 1999, <italic>Mesophryne beipiaoensis</italic> Gao and Wang 2001, <italic>Dalianbatrachus mengi</italic> Gao and Liu 2004 and <italic>Yizhoubatrachus macilentus</italic> Gao and Chen 2004, are consolidated into three species of <italic>Liaobatrachus</italic>: <italic>L</italic>. <italic>grabaui</italic>, <italic>L</italic>. <italic>beipiaoensis</italic> comb. nov. and <italic>L</italic>. <italic>macilentus</italic> comb. nov.. A new species, <italic>Liaobatrachus zhaoi</italic> sp. nov., is established based on a dozen three-dimensionally preserved specimens from the Lujiatun Bed of the Yixian Formation. Nevertheless, the known taxonomic diversity of the Jehol anurans is significantly less than previously believed. Comparisons with fossil and extant anurans, and a phylogenetic analysis, suggest that <italic>Liaobatrachus</italic> is a member of the anuran crown-group.</p>
+<table-wrap id="pone-0069723-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0069723.t002</object-id><label>Table 2</label><caption>
+<title>Original names, holotypes, and revised names of anuran taxa from the Jehol Formation.</title>
+</caption><alternatives><graphic id="pone-0069723-t002-2" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0069723.t002" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Previous name</td>
+<td align="left" rowspan="1" colspan="1">Holotype</td>
+<td align="left" rowspan="1" colspan="1">Age</td>
+<td align="left" rowspan="1" colspan="1">Reference</td>
+<td align="left" rowspan="1" colspan="1">Revised designation</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">‘Jiufotang frog’ (IVPP V13235)</td>
+<td align="left" rowspan="1" colspan="1">N/A</td>
+<td align="left" rowspan="1" colspan="1">120 Ma</td>
+<td align="left" rowspan="1" colspan="1">Wang et al., 2007</td>
+<td align="left" rowspan="1" colspan="1">Unnamed advanced frog</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Yizhoubatrachus macilentus</italic></td>
+<td align="left" rowspan="1" colspan="1">ZMNH M8621</td>
+<td align="left" rowspan="1" colspan="1">123 Ma</td>
+<td align="left" rowspan="1" colspan="1">Gao and Chen, 2004</td>
+<td align="left" rowspan="1" colspan="1"><italic>Liaobatrachus macilentus</italic></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Liaobatrachus grabaui</italic></td>
+<td align="left" rowspan="1" colspan="1">GMV 2126</td>
+<td align="left" rowspan="1" colspan="1">125 Ma</td>
+<td align="left" rowspan="1" colspan="1">Ji and Ji, 1998</td>
+<td align="left" rowspan="1" colspan="1"><italic>L</italic>. <italic>grabaui</italic><xref ref-type="table-fn" rid="nt102">*</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Callobatrachus sanyanensis</italic></td>
+<td align="left" rowspan="1" colspan="1">IVPP V11525</td>
+<td align="left" rowspan="1" colspan="1">125 Ma</td>
+<td align="left" rowspan="1" colspan="1">Wang and Gao, 1999</td>
+<td align="left" rowspan="1" colspan="1"><italic>L</italic>. <italic>grabaui</italic></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Mesophryne beipiaoensis</italic></td>
+<td align="left" rowspan="1" colspan="1">LPM 0030</td>
+<td align="left" rowspan="1" colspan="1">125 Ma</td>
+<td align="left" rowspan="1" colspan="1">Gao and Wang, 2001</td>
+<td align="left" rowspan="1" colspan="1"><italic>L</italic>. <italic>beipiaoensis</italic></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Dalianbatrachus mengi</italic></td>
+<td align="left" rowspan="1" colspan="1">DNM D2166/7</td>
+<td align="left" rowspan="1" colspan="1">125 Ma</td>
+<td align="left" rowspan="1" colspan="1">Gao and Liu, 2004</td>
+<td align="left" rowspan="1" colspan="1"><italic>L</italic>. <italic>beipiaoensis</italic></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">[New taxon]</td>
+<td align="left" rowspan="1" colspan="1">IVPP V14979.1</td>
+<td align="left" rowspan="1" colspan="1">128 Ma</td>
+<td align="left" rowspan="1" colspan="1">Roček et al. 2012;present paper</td>
+<td align="left" rowspan="1" colspan="1"><italic>L</italic>. <italic>zhaoi</italic></td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt102"><label>*</label><p>indicates type species; N/A, not applicable.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s6">
+<title>Supporting Information</title>
+<supplementary-material id="pone.0069723.s001" mimetype="application/msword" xlink:href="info:doi/10.1371/journal.pone.0069723.s001" position="float" xlink:type="simple"><label>Table S1</label><caption>
+<p><bold>Taxon-character data matrix used in our phylogenetic analysis.</bold> Character description is as in Gao and Wang (2001) and Wang (2006) with amendments mentioned in the Material and Method section. Letters in bold indicate the character states that are rescored in this paper. The letters in the matrix represent the states shown below: A, (0&amp;1); B, (1&amp;2); C, (0 or 1); D, (0&amp;2); E, (1 or 2).</p>
+<p>(DOC)</p>
+</caption></supplementary-material><supplementary-material id="pone.0069723.s002" mimetype="application/msword" xlink:href="info:doi/10.1371/journal.pone.0069723.s002" position="float" xlink:type="simple"><label>Table S2</label><caption>
+<p><bold>Morphometric data of Jehol anurans.</bold> Abbreviation: SVL, snout-vent length; PsC, presacral column; LS, length of skull; LtS, width of skull; H, humerus; Ru, radioulna; F, femur; Tf, tibiofibula; Fb, fibulare; I, ilium; U, Urostyle; Mt4, metatarsal IV.</p>
+<p>(DOC)</p>
+</caption></supplementary-material></sec></body>
+<back>
+<ack>
+<p>We are very grateful to Liwu Lu (China Geological Museum), Chunling Gao and Fengjiao Zhang (Dalian Natural Museum), Xiaodong Wang, Wanlian Zhang and Jun Ye (Liaoning), and Lijun Zhao (Zhejiang Museum of Nature and History) for greatly facilitating our visits to their institutions to examine specimens. Thanks are also due to Yanfang Guo and Wei Gao (Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences) for specimen preparation and photography, respectively. We also appreciate the kind help of Corwin Sullivan (IVPP) in the language of the manuscript. Amy Henrici and Zoltán Szentesi deserve our gratitude for their kind help in reviewing the manuscript.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0069723-Zhou1"><label>1</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhou</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Barrett</surname><given-names>PM</given-names></name>, <name name-style="western"><surname>Hilton</surname><given-names>J</given-names></name> (<year>2003</year>) <article-title>An exceptionally preserved Lower Cretaceous ecosystem</article-title>. <source>Nature</source> <volume>421</volume>: <fpage>807</fpage>–<lpage>814</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Zhou2"><label>2</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhou</surname><given-names>Z</given-names></name> (<year>2006</year>) <article-title>Evolutionary radiation of the Jehol Biota: chronological and ecological perspectives</article-title>. <source>Geol J</source> <volume>41</volume>: <fpage>377</fpage>–<lpage>397</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Zhang1"><label>3</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhang</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Zhou</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Benton</surname><given-names>M</given-names></name> (<year>2008</year>) <article-title>A primitive confuciusornithid bird from China and its implications for early avian flight</article-title>. <source>Sci China Ser D Earth Sci</source> <volume>51</volume>: <fpage>625</fpage>–<lpage>639</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Xu1"><label>4</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Ma</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Xing</surname><given-names>L</given-names></name>, <etal>et al</etal>. (<year>2012</year>) <article-title>A gigantic feathered dinosaur from the Lower Cretaceous of China</article-title>. <source>Nature</source> <volume>484</volume>: <fpage>92</fpage>–<lpage>95</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Hu1"><label>5</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hu</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Meng</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name> (<year>2010</year>) <article-title>New basal eutherian mammal from the Early Cretaceous Jehol biota, Liaoning, China</article-title>. <source>Proc Royal Soc B</source> <volume>277</volume>: <fpage>229</fpage>–<lpage>236</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Chang1"><label>6</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chang</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Renne</surname><given-names>PR</given-names></name>, <name name-style="western"><surname>Fang</surname><given-names>Y</given-names></name> (<year>2009</year>) <article-title>High-precision <sup>40</sup>Ar/<sup>39</sup>Ar age for the Jehol Biota</article-title>. <source>Palaeogeog Palaeoclim Palaeoecol</source> <volume>280</volume>: <fpage>94</fpage>–<lpage>104</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Zhang2"><label>7</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhang</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Jones</surname><given-names>MEH</given-names></name>, <name name-style="western"><surname>Evans</surname><given-names>SE</given-names></name> (<year>2009</year>) <article-title>A new Early Cretaceous salamander (<italic>Regalerpeton weichangensis</italic> gen. et sp. nov.) from the Huajiying Formation of northeastern China</article-title>. <source>Cretac Res</source> <volume>30</volume>: <fpage>551</fpage>–<lpage>558</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Ji1"><label>8</label>
+<mixed-citation publication-type="other" xlink:type="simple">Ji S, Ji Q (1998) The first Mesozoic frog from China (Amphibia: Anura). Chin Geol 250: 39–42. [in Chinese with English abstract].</mixed-citation>
+</ref>
+<ref id="pone.0069723-Wang1"><label>9</label>
+<mixed-citation publication-type="other" xlink:type="simple">Wang Y, Gao K (1999) Earliest Asian discoglossid frog from western Liaoning. Chin Sci Bull 44: 636–642. [in Chinese with English abstract].</mixed-citation>
+</ref>
+<ref id="pone.0069723-Gao1"><label>10</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gao</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name> (<year>2001</year>) <article-title>Mesozoic anurans from Liaoning Province China, and phylogenetic relationships of archaeobatrachian anuran clades</article-title>. <source>J Vertebr Paleontol</source> <volume>21</volume>: <fpage>460</fpage>–<lpage>476</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Gao2"><label>11</label>
+<mixed-citation publication-type="other" xlink:type="simple">Gao C, Liu J (2004) A new taxon of anuran from Beipiao of Liaoning in China. Glob Geol 23: 1–4. [in Chinese with English abstract].</mixed-citation>
+</ref>
+<ref id="pone.0069723-Gao3"><label>12</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gao</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Chen</surname><given-names>S</given-names></name> (<year>2004</year>) <article-title>A new frog (Amphibia: Anura) from the Lower Cretaceous of western Liaoning, China</article-title>. <source>Cretac Res</source> <volume>25</volume>: <fpage>761</fpage>–<lpage>769</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Wang2"><label>13</label>
+<mixed-citation publication-type="other" xlink:type="simple">Wang Y (2006) Phylogeny and early radiation of Mesozoic lissamphibians from East Asia. In: Rong J, Fang Z, Zhou Z, Zhan R, Wang X, <etal>et al</etal>.., editors. Originations, radiations and biodiversity changes–evidences from the Chinese fossil record. Beijing: Science press. 931–936.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Chang2"><label>14</label>
+<mixed-citation publication-type="other" xlink:type="simple">Chang M, Chen P, Wang Y, Wang Y, Miao D (2003) The Jehol Biota: The emergence of feathered dinosaurs, beaked birds and flowering plants. Shanghai: Shanghai Scientific and Technical Publishers. 208 p.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Roek1"><label>15</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Roček</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Dong</surname><given-names>L</given-names></name> (<year>2012</year>) <article-title>Post-metamorphic development of Early Cretaceous frogs as a tool for taxonomic comparisons</article-title>. <source>J Vertebr Paleontol</source> <volume>32</volume>: <fpage>1285</fpage>–<lpage>1292</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Wang3"><label>16</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Jones</surname><given-names>MEH</given-names></name>, <name name-style="western"><surname>Evans</surname><given-names>SE</given-names></name> (<year>2007</year>) <article-title>A juvenile anuran from the Lower Cretaceous Jiufotang Formation, Liaoning, China</article-title>. <source>Cretac Res</source> <volume>28</volume>: <fpage>235</fpage>–<lpage>244</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Lynch1"><label>17</label>
+<mixed-citation publication-type="other" xlink:type="simple">Lynch JD (1971) Evolutionary relationships, osteology, and zoogeography of leptodactyloid frogs. Lawrence, Kansas: The University of Kansas. 238 p.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Pusey1"><label>18</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pusey</surname><given-names>HK</given-names></name> (<year>1943</year>) <article-title>On the head of the leiopelmid frog, <italic>Ascaphus truei</italic>. I. The chondrocranium, jaws, arches, and muscles of partly grown larva</article-title>. <source>Quart J Micros Sci</source> <volume>84</volume>: <fpage>105</fpage>–<lpage>185</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-VanDijk1"><label>19</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Van Dijk</surname><given-names>DE</given-names></name> (<year>1955</year>) <article-title>The "tail" of <italic>Ascaphus</italic>: a historical resume and new histological-anatomical details</article-title>. <source>Annals of the University of Stellenbosch</source> <volume>31</volume>: <fpage>1</fpage>–<lpage>71</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Ritland1"><label>20</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ritland</surname><given-names>RM</given-names></name> (<year>1955</year>) <article-title>Studies on the post-cranial morphology of <italic>Ascaphus truei</italic>. I. skeleton and spinal nerves</article-title>. <source>J Morphol</source> <volume>97</volume>: <fpage>119</fpage>–<lpage>177</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Stephenson1"><label>21</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Stephenson</surname><given-names>EM</given-names></name> (<year>1960</year>) <article-title>The skeletal characters of <italic>Leiopelma hamiltoni</italic> McCulloch, with particular reference to the effects of heterochrony on the genus</article-title>. <source>Trans Royal Soc NZ</source> <volume>88</volume>: <fpage>473</fpage>–<lpage>488</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Moore1"><label>22</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Moore</surname><given-names>MK</given-names></name>, <name name-style="western"><surname>Townsend</surname><given-names>VRJ</given-names></name> (<year>2003</year>) <article-title>Intraspecific variation in cranial ossification in the tailed frog, <italic>Ascaphus truei</italic></article-title>. <source>J Herpetol</source> <volume>37</volume>: <fpage>714</fpage>–<lpage>717</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Clarke1"><label>23</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Clarke</surname><given-names>BT</given-names></name> (<year>1987</year>) <article-title>A description of the skeletal morphology of <italic>Barbourula</italic> (Anura: Discoglossidae), with comments on its relationships</article-title>. <source>J Nat Hist</source> <volume>21</volume>: <fpage>879</fpage>–<lpage>891</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Maglia1"><label>24</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Maglia</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Púgener</surname><given-names>LA</given-names></name> (<year>1998</year>) <article-title>Skeletal development and adult osteology of <italic>Bombina orientalis</italic> (Anura: Bombinatoridae)</article-title>. <source>Herpetol</source> <volume>54</volume>: <fpage>344</fpage>–<lpage>363</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Pgener1"><label>25</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Púgener</surname><given-names>LA</given-names></name>, <name name-style="western"><surname>Maglia</surname><given-names>AM</given-names></name> (<year>1997</year>) <article-title>Osteology and skeletal development of <italic>Discoglossus sardus</italic> (Anura: Discoglossidae)</article-title>. <source>J Morphol</source> <volume>233</volume>: <fpage>267</fpage>–<lpage>286</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Wang4"><label>26</label>
+<mixed-citation publication-type="other" xlink:type="simple">Wang Y (1997) Postcranial skeleton and development of <italic>Alytes obstetricans</italic> (Anura: Discoglossidae), with a redescription of chondrocranial and cranial morphology. Masters Thesis. Lawrence, Kansas: University of Kansas. 49 p.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Jenkins1"><label>27</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jenkins</surname><given-names>FAJ</given-names></name>, <name name-style="western"><surname>Shubin</surname><given-names>NH</given-names></name> (<year>1998</year>) <article-title><italic>Prosalirus bitis</italic> and the anuran caudopelvic mechanism</article-title>. <source>J Vertebr Paleontol</source> <volume>18</volume>: <fpage>495</fpage>–<lpage>510</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Bez1"><label>28</label>
+<mixed-citation publication-type="other" xlink:type="simple">Báez AM, Basso NG (1996) The earliest known frogs of the Jurassic of South America: review and cladistic appraisal of their relationships. In: Arratia G, editor. Contributions of southern South America to vertebrate paleontology. Müchner Geowissenschaftliche Abhandlungen: Reihe A, Geologie und Paläontologie (30). München: Verlag Dr. Friedrich Pfeil. 131–158.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Bez2"><label>29</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Báez</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Nicoli</surname><given-names>L</given-names></name> (<year>2008</year>) <article-title>A new species of <italic>Notobatrachus</italic> (Amphibia, Salientia) from the Middle Jurassic of Northwestern Patagonia</article-title>. <source>J Paleontol</source> <volume>82</volume>: <fpage>372</fpage>–<lpage>376</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Hecht1"><label>30</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hecht</surname><given-names>MK</given-names></name> (<year>1970</year>) <article-title>The morphology of <italic>Eodiscoglossus</italic>, a complete Jurassic frog</article-title>. <source>Am Mus Nov</source> <volume>2424</volume>: <fpage>1</fpage>–<lpage>17</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Evans1"><label>31</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Evans</surname><given-names>SE</given-names></name>, <name name-style="western"><surname>Milner</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Mussett</surname><given-names>F</given-names></name> (<year>1990</year>) <article-title>A discoglossid frog from the Middle Jurassic of England</article-title>. <source>Palaeontol</source> <volume>33</volume>: <fpage>299</fpage>–<lpage>311</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Fey1"><label>32</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fey</surname><given-names>B</given-names></name> (<year>1988</year>) <article-title>Die anurenfauna aus der Unterkreide von Uña (Ostspanien)</article-title>. <source>Berlin Geowissen Abh A</source> <volume>103</volume>: <fpage>1</fpage>–<lpage>99</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-pinar1"><label>33</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Špinar</surname><given-names>ZV</given-names></name>, <name name-style="western"><surname>Tatarinov</surname><given-names>LP</given-names></name> (<year>1986</year>) <article-title>A new genus and species of discoglossid frog from the Upper Cretaceous of the Gobi Desert</article-title>. <source>J Vertebr Paleontol</source> <volume>6</volume>: <fpage>113</fpage>–<lpage>122</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Roek2"><label>34</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Roček</surname><given-names>Z</given-names></name> (<year>2008</year>) <article-title>The Late Cretaceous frog <italic>Gobiates</italic> from Central Asia: its evolutionary status and possible phylogenetic relationships</article-title>. <source>Cretac Res</source> <volume>29</volume>: <fpage>577</fpage>–<lpage>591</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Gubin1"><label>35</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gubin</surname><given-names>YM</given-names></name> (<year>1999</year>) <article-title>Gobiatids (Anura) from the Upper Cretaceous locality Khermeen-Tsav (Gobi Desert, Mongolia)</article-title>. <source>Paleontol J</source> <volume>31</volume>: <fpage>76</fpage>–<lpage>87</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Nevo1"><label>36</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Nevo</surname><given-names>E</given-names></name> (<year>1968</year>) <article-title>Pipid frogs from the Early Cretaceous of Israel and pipid evolution</article-title>. <source>Bull Mus Comp Zool</source> <volume>136</volume>: <fpage>255</fpage>–<lpage>318</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Trueb1"><label>37</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Trueb</surname><given-names>L</given-names></name> (<year>1999</year>) <article-title>The Early Cretaceous pipoid anuran, <italic>Thoraciliacus</italic>: redescription, revaluation, and taxonomic status</article-title>. <source>Herpetol</source> <volume>55</volume>: <fpage>139</fpage>–<lpage>157</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Trueb2"><label>38</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Trueb</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Báez</surname><given-names>AM</given-names></name> (<year>2006</year>) <article-title>Revision of the Early Cretaceous <italic>Cordicephalus</italic> from Israel and an assessment of its relationships among pipoid frogs</article-title>. <source>J Vertebr Paleontol</source> <volume>26</volume>: <fpage>44</fpage>–<lpage>59</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Jones1"><label>39</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jones</surname><given-names>MEH</given-names></name>, <name name-style="western"><surname>Evans</surname><given-names>SE</given-names></name>, <name name-style="western"><surname>Sigogneau-Russell</surname><given-names>D</given-names></name> (<year>2003</year>) <article-title>Early Cretaceous frogs from Morocco</article-title>. <source>Ann Carneg Mus</source> <volume>72</volume>: <fpage>65</fpage>–<lpage>97</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Swisher1"><label>40</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Swisher</surname><given-names>CC</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name> (<year>1999</year>) <article-title>Cretaceous age for the feathered dinosaurs of Liaoning, China</article-title>. <source>Nature</source> <volume>400</volume>: <fpage>58</fpage>–<lpage>61</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Chen1"><label>41</label>
+<mixed-citation publication-type="other" xlink:type="simple">Chen P, Wang Q, Zhang H, Cao M, Li W, <etal>et al</etal>.. (2004) On the Jianshangou Bed of Yixian Formation. Sci China Ser D Earth Sci 34: 883–895. [in Chinese].</mixed-citation>
+</ref>
+<ref id="pone.0069723-Yang1"><label>42</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Yang</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Jiang</surname><given-names>B</given-names></name> (<year>2007</year>) <article-title>New evidence for Cretaceous age of the feathered dinosaurs of Liaoning: zircon U-Pb SHRIMP dating of the Yixian Formation in Sihetun, northeast China</article-title>. <source>Cretac Res</source> <volume>28</volume>: <fpage>177</fpage>–<lpage>182</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Sood1"><label>43</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sood</surname><given-names>MS</given-names></name> (<year>1938</year>) <article-title>Osteological abnormalities in <italic>Rana tigrina</italic> Daud</article-title>. <source>Curr Sci</source> <volume>2</volume>: <fpage>63</fpage>–<lpage>66</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Fabrezi1"><label>44</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fabrezi</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Alberch</surname><given-names>P</given-names></name> (<year>1996</year>) <article-title>The carpal elements of anurans</article-title>. <source>Herpetologica</source> <volume>52</volume>: <fpage>188</fpage>–<lpage>204</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Fabrezi2"><label>45</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fabrezi</surname><given-names>M</given-names></name> (<year>2001</year>) <article-title>A survey of prepollex and prehallux variation in anuran limbs</article-title>. <source>Zool J of Linn Soc</source> <volume>131</volume>: <fpage>227</fpage>–<lpage>248</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-He1"><label>46</label>
+<mixed-citation publication-type="other" xlink:type="simple">He H, Wang X, Zhou Z, Jin F, Wang F, <etal>et al</etal>.. (2006) <sup>40</sup>Ar/<sup>39</sup>Ar dating of Lujiatun Bed (Jehol Group) in Liaoning, northeastern China. Geophys Res Lett 33.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Stephenson2"><label>47</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Stephenson</surname><given-names>E</given-names></name> (<year>1952</year>) <article-title>The vertebral column and appendicular skeleton of <italic>Leiopelma hochstetteri</italic> Fitzinger</article-title>. <source>Trans Roy Soc N Zeal</source> <volume>79</volume>: <fpage>601</fpage>–<lpage>613</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-He2"><label>48</label>
+<mixed-citation publication-type="other" xlink:type="simple">He H, Wang X, Zhou Z, Wang F, Boven A, <etal>et al</etal>.. (2004) Timing of the Jiufotang Formation (Jehol Group) in Liaoning, northeastern China, and its implication. Geophys Res Lett 31: doi:10.1029/2004GL019790.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Frost1"><label>49</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Frost</surname><given-names>DR</given-names></name>, <name name-style="western"><surname>Grant</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Faivovich</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Brain</surname><given-names>RH</given-names></name>, <name name-style="western"><surname>Haas</surname><given-names>A</given-names></name>, <etal>et al</etal>. (<year>2006</year>) <article-title>The amphibian tree of life</article-title>. <source>Bull Am Mus Nat Hist</source> <volume>297</volume>: <fpage>1</fpage>–<lpage>370</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0069723-Wang5"><label>50</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Evans</surname><given-names>SE</given-names></name> (<year>2006</year>) <article-title>Advances in the study of fossil amphibians and squamates from China: the past fifteen years</article-title>. <source>Vertebr PalAsia</source> <volume>44</volume>: <fpage>60</fpage>–<lpage>73</lpage>.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>

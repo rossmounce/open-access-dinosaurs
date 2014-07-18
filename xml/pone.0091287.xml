@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group>
+<journal-title>PLoS ONE</journal-title></journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">PONE-D-13-44128</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pone.0091287</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology and life sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Musculoskeletal system</subject></subj-group></subj-group><subj-group><subject>Ecology</subject><subj-group><subject>Ecosystems</subject><subject>Paleoecology</subject></subj-group></subj-group><subj-group><subject>Biogeography</subject></subj-group><subj-group><subject>Evolutionary biology</subject></subj-group><subj-group><subject>Paleontology</subject><subj-group><subject>Paleobiology</subject><subj-group><subject>Paleozoology</subject><subj-group><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Earth sciences</subject><subj-group><subject>Geography</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Ecology and environmental sciences</subject></subj-group></article-categories>
+<title-group>
+<article-title>A Diminutive New Tyrannosaur from the Top of the World</article-title>
+<alt-title alt-title-type="running-head">Arctic Alaskan Tyrannosaur</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Fiorillo</surname><given-names>Anthony R.</given-names></name><xref ref-type="aff" rid="aff1"/><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Tykoski</surname><given-names>Ronald S.</given-names></name><xref ref-type="aff" rid="aff1"/></contrib>
+</contrib-group>
+<aff id="aff1"><addr-line>Department of Paleontology, Perot Museum of Nature and Science, Dallas, Texas, United States of America</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple"><name name-style="western"><surname>Dodson</surname><given-names>Peter</given-names></name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>University of Pennsylvania, United States</addr-line></aff>
+<author-notes>
+<corresp id="cor1">* E-mail: <email xlink:type="simple">anthony.fiorillo@perotmuseum.org</email></corresp>
+<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn>
+<fn fn-type="con"><p>Conceived and designed the experiments: ARF RST. Performed the experiments: ARF RST. Analyzed the data: ARF RST. Contributed reagents/materials/analysis tools: ARF RST. Wrote the paper: ARF RST.</p></fn>
+</author-notes>
+<pub-date pub-type="collection"><year>2014</year></pub-date>
+<pub-date pub-type="epub"><day>12</day><month>3</month><year>2014</year></pub-date>
+<volume>9</volume>
+<issue>3</issue>
+<elocation-id>e91287</elocation-id>
+<history>
+<date date-type="received"><day>4</day><month>10</month><year>2013</year></date>
+<date date-type="accepted"><day>6</day><month>2</month><year>2014</year></date>
+</history>
+<permissions>
+<copyright-year>2014</copyright-year>
+<copyright-holder>Fiorillo, Tykoski</copyright-holder><license xlink:type="simple"><license-p>This is an open-access article distributed under the terms of <ext-link ext-link-type="uri" xlink:href="http://thecreativecommons.org/licenses/by/4.0/" xlink:type="simple">the Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions>
+<abstract>
+<p>Tyrannosaurid theropods were dominant terrestrial predators in Asia and western North America during the last of the Cretaceous. The known diversity of the group has dramatically increased in recent years with new finds, but overall understanding of tyrannosaurid ecology and evolution is based almost entirely on fossils from latitudes at or below southern Canada and central Asia. Remains of a new, relatively small tyrannosaurine were recovered from the earliest Late Maastrichtian (70-69Ma) of the Prince Creek Formation on Alaska's North Slope. Cladistic analyses show the material represents a new tyrannosaurine species closely related to the highly derived <italic>Tarbosaurus</italic>+<italic>Tyrannosaurus</italic> clade. The new taxon inhabited a seasonally extreme high-latitude continental environment on the northernmost edge of Cretaceous North America. The discovery of the new form provides new insights into tyrannosaurid adaptability, and evolution in an ancient greenhouse Arctic.</p>
+</abstract>
+<funding-group><funding-statement>The National Science Foundation Office of Polar Programs provided funding for this work (OPP 0424594). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts><page-count count="13"/></counts></article-meta>
+</front>
+<body><sec id="s1">
+<title>Introduction</title>
+<p>The study of tyrannosaurs, the lineage of carnivorous theropod dinosaurs that include <italic>Tyrannosaurus rex</italic> and its close kin has captivated the attention of the public and the scientific community since the first descriptions of these forms over a century ago <xref ref-type="bibr" rid="pone.0091287-Osborn1">[1]</xref>. The past decade has witnessed a flurry of new finds, revelations, and research on the group, swelling the ranks of recognized tyrannosaur species and fundamentally challenging long-held assumptions about the adaptability and evolution of these iconic predators <xref ref-type="bibr" rid="pone.0091287-Brusatte1">[2]</xref>. For all the attention given these extinct animals, almost everything we know about them has been gathered from fossils collected at sites in the low to mid-latitudes of North America and Asia. Isolated tyrannosaurid teeth have been reported from the high latitudes of northern Alaska, but the lack of non-dental remains from the region resulted in the teeth being assigned to taxa known from much lower latitudes <xref ref-type="bibr" rid="pone.0091287-Fiorillo1">[3]</xref>.</p>
+<p>We report here on a new tyrannosaurid dinosaur from the North Slope of Alaska, USA. It is represented by cranial bones initially referred to the albertosaurine <xref ref-type="bibr" rid="pone.0091287-Fiorillo1">[3]</xref> <italic>Gorgosaurus libratus</italic> (Late Campanian) known from southern Alberta, Canada <xref ref-type="bibr" rid="pone.0091287-Lambe1">[4]</xref>–<xref ref-type="bibr" rid="pone.0091287-Fiorillo2">[7]</xref>. However, subsequent work showed the age of the material, between 70 and 69 Ma <xref ref-type="bibr" rid="pone.0091287-Fiorillo3">[8]</xref>, <xref ref-type="bibr" rid="pone.0091287-Flaig1">[9]</xref>, was more congruent with the range of the albertosaurine <italic>Albertosaurus sarcophagus</italic> (Early to early Late Maastrichtian), also from southern Alberta <xref ref-type="bibr" rid="pone.0091287-Osborn1">[1]</xref>, <xref ref-type="bibr" rid="pone.0091287-Gradstein1">[10]</xref>–<xref ref-type="bibr" rid="pone.0091287-Carr2">[12]</xref>. Additional material, combined with closer examination and comparison with other tyrannosaurids show more similarity to tyrannosaurine forms. When added to recent cladistic analyses of tyrannosauroid relationships <xref ref-type="bibr" rid="pone.0091287-Brusatte1">[2]</xref>, <xref ref-type="bibr" rid="pone.0091287-Brusatte2">[13]</xref>, the tyrannosaurine affinities of the Alaskan material was supported. The age of the taxon places it outside the temporal ranges of the North American tyrannosaurines <italic>Daspletosaurus torosus</italic> and <italic>Tyrannosaurus rex</italic>, and it also exhibits morphological features that preclude assignment to these and the potentially contemporaneous central-Asian species <italic>Tarbosaurus bataar</italic>. The new tyrannosaurid fills both evolutionary and paleogeographic gaps in our knowledge of the highly derived tyrannosaurine theropods. The new form inhabited the northern-most margin of Laramidia in the early Late Cretaceous, and serves to expand our understanding of tyrannosaurid adaptability and diversification.</p>
+</sec><sec id="s2" sec-type="methods">
+<title>Methods</title>
+<sec id="s2a">
+<title>Permits</title>
+<p>All necessary permits were obtained for the described study, which complied with all relevant regulations. The specimen was collected under BLM permit number AA-86367.</p>
+</sec><sec id="s2b">
+<title>Nomenclatural Acts</title>
+<p>The electronic edition of this article conforms to the requirements of the amended International Code of Zoological Nomenclature, and hence the new names contained herein are available under that Code from the electronic edition of this article. This published work and the nomenclatural acts it contains have been registered in ZooBank, the online registration system for the ICZN. The ZooBank LSIDs (Life Science Identifiers) can be resolved and the associated information viewed through any standard web browser by appending the LSID to the prefix “<ext-link ext-link-type="uri" xlink:href="http://zoobank.org/" xlink:type="simple">http://zoobank.org/</ext-link>”. The LSID for this publication is: urn:lsid:zoobank.org:pub: 3E537CBC-B7DA-42E3-9ED6-9297A3EE4569. The electronic edition of this work was published in a journal with an ISSN, and has been archived and is available from the following digital repositories: PubMed Central, LOCKSS.</p>
+</sec><sec id="s2c">
+<title>Taxonomic Definitions</title>
+<p>We use the informal term “tyrannosaur” in reference to members of the stem-lineage Tyrannosauroidea, encompassing all theropods more closely related to <italic>Tyrannosaurus rex</italic> than to <italic>Ornithomimus edmonticus</italic>, <italic>Troodon formosus</italic>, and <italic>Velociraptor mongoliensis</italic>. The informal term “tyrannosaurid” is used in reference to members of the node-clade Tyrannosauridae, defined as <italic>Tyrannosaurus rex</italic>, <italic>Albertosaurus sarcophagus</italic>, and <italic>Gorgosaurus libratus</italic>, and all descendants of their most recent common ancestor <xref ref-type="bibr" rid="pone.0091287-Brusatte1">[2]</xref>. Tyrannosauridae is comprised of two formal stem lineages. The informal term “tyrannosaurine” refers to members of the stem-lineage Tyrannosaurinae which includes <italic>Tyrannosaurus rex</italic> and all tyrannosaurids closer to it than to <italic>Albertosaurus sarcophagus</italic> and <italic>Gorgosaurus libratus</italic>. The informal term “albertosaurine” refers to a member of the stem-lineage Albertosaurinae, which consists of <italic>Albertosaurus sarcophagus</italic> and <italic>Gorgosaurus libratus</italic>, and all tyrannosaurids closer to them than to <italic>Tyrannosaurus rex</italic>.Institutional Abbreviations</p>
+<p>See <xref ref-type="supplementary-material" rid="pone.0091287.s002">Table S1</xref> for a list of institutional abbreviations used throughout this work.</p>
+</sec><sec id="s2d">
+<title>Fieldwork and Preparation</title>
+<p>The specimens were collected in 2006 in the Kikak-Tegoseak Quarry, in an exposure of the Prince Creek Formation, North Slope Borough, Alaska, USA. (<xref ref-type="fig" rid="pone-0091287-g001">Figure 1</xref>). The specimens were originally collected in parts of three associated, but not articulated loose blocks within a square meter of one another at the edge of the quarry. The blocks were individually removed; some were wrapped in aluminum foil, then placed in sealed plastic buckets for transport out of the field area, and shipped to Dallas, Texas. Preparation was conducted in the Paleontology Lab of the Perot Museum of Nature and Science (DMNH; Dallas, Texas, USA). The specimens were extracted from the blocks using manual pneumatic tools (‘airscribes’) to remove the hard, fine-grained rock from the bones, with finer cleaning and detail work performed with sharpened tungsten-carbide points mounted in pin-vices. Broken parts were glued together using Butvar B-76 dissolved in acetone to a thick consistency. More fragile areas were treated with very dilute Butvar B-76 dissolved in acetone to allow deeper penetration of the solution into small cracks and porous areas. Molds of the specimens were made using room-temperature vulcanizing platinum-cure silicone rubber. The specimens are now housed in the collection of the Perot Museum of Nature and Science.</p>
+<fig id="pone-0091287-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091287.g001</object-id><label>Figure 1</label><caption>
+<title>Map showing approximate location of the Kikak-Tegoseak Quarry, North Slope, Alaska, U.S.A.</title>
+<p>Gray rectangle indicates area seen in close-up view below. White circles indicate cities, towns, or settlements. Red star shows location of the Kikak-Tegoseak Quarry.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091287.g001" position="float" xlink:type="simple"/></fig>
+<p>The partial left dentary of the specimen was also scanned using computed tomography (CT) at the University of Texas High-Resolution X-ray CT Facility at The University of Texas at Austin (Austin, Texas, USA). Scan settings and parameters were: 1024×1024 16-bit TIFF images, 450 kV, 3 mA, large spot, 1 brass filter, air wedge, 190% offset, 64 ms integration time. Slice thickness = 0.35 mm, S.O.D. 598 mm, 1200 views, 1 ray averaged per view, 2 samples per view, inter-slice spacing = 0.3 mm, field of reconstruction 240 mm (maximum field of view 240.1632 mm; field of view reported on scan form corresponds to a corrected value after applying a correction of 1.01319%; field of view equals 236.8756; reported maximum field of view reflects uncorrected value), reconstruction offset 4000, reconstruction scale 4300. Streak- and ring-removal processing based on correction of raw sinogram data using IDL routines “RK_SinoDeStreak” with default parameters, and “RK_SinoRingProcSimul” with parameters “sectors = 100, nuke_inds = [455,456,457,481,482,483,484,485,491,492,493,494,495,518,519,520,521].” Post-reconstruction ring correction applied using parameters oversampling = 2, binwidth = 11, sectors = 60. Total slices = 121.</p>
+</sec><sec id="s2e">
+<title>Geological Setting and Locality Information</title>
+<p>The Kikak-Tegoseak Quarry is located in the extensive exposures of the Prince Creek Formation along bluffs bordering the Colville River, North Slope Borough, Alaska, USA. (<xref ref-type="fig" rid="pone-0091287-g001">Figure 1</xref>). The Prince Creek Formation is an alluvial unit comprised of sediments shed northward from the rising Brooks Range during late Campanian to Paleocene time (<xref ref-type="fig" rid="pone-0091287-g002">Figure 2</xref>) <xref ref-type="bibr" rid="pone.0091287-Fiorillo3">[8]</xref>, <xref ref-type="bibr" rid="pone.0091287-Flaig1">[9]</xref>. Radioisotopic dates derived from multiple tuff beds throughout this section of the Prince Creek Formation range from 68Ma to 71Ma, with an average estimate of 69.1+/−0.3Ma, placing it in the early Late Maastrichtian <xref ref-type="bibr" rid="pone.0091287-Fiorillo3">[8]</xref>, <xref ref-type="bibr" rid="pone.0091287-Flaig1">[9]</xref>, <xref ref-type="bibr" rid="pone.0091287-Conrad1">[14]</xref>. Palynological samples from the Kikak-Tegoseak Quarry itself correlate reasonably well with the radioisotopic data, showing an Early Maastrichtian assemblage <xref ref-type="bibr" rid="pone.0091287-Fiorillo3">[8]</xref>, <xref ref-type="bibr" rid="pone.0091287-Flaig1">[9]</xref>. More specific geographic locality information is on file at the Perot Museum of Nature and Science, in Dallas, Texas, USA.</p>
+<fig id="pone-0091287-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091287.g002</object-id><label>Figure 2</label><caption>
+<title>Stratigraphy as exposed along Colville River, North Slope, Alaska, USA.</title>
+<p>Approximate level of the Kikak-Tegoseak Quarry within the Prince Creek Formation is indicated by a red star.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091287.g002" position="float" xlink:type="simple"/></fig></sec><sec id="s2f">
+<title>Systematic Paleontology</title>
+<p>Dinosauria Owen 1852 <xref ref-type="bibr" rid="pone.0091287-Owen1">[15]</xref> <italic>sensu</italic> Padian and May 1993 <xref ref-type="bibr" rid="pone.0091287-Padian1">[16]</xref>.</p>
+<p>Theropoda Marsh 1881 <xref ref-type="bibr" rid="pone.0091287-Marsh1">[17]</xref> <italic>sensu</italic> Gauthier, 1986 <xref ref-type="bibr" rid="pone.0091287-Gauthier1">[18]</xref>.</p>
+<p>Tyrannosauridae Osborn 1905 <xref ref-type="bibr" rid="pone.0091287-Osborn1">[1]</xref> <italic>sensu</italic> Holtz 2004 <xref ref-type="bibr" rid="pone.0091287-Holtz1">[19]</xref>.</p>
+<p><italic>Nanuqsaurus</italic> Fiorillo and Tykoski 2014 gen. nov. urn:lsid:zoobank.org:act: 15DCBA8D-B440-49C3-9828-F89038826D76</p>
+<p><italic>Nanuqsaurus hoglundi</italic> Fiorillo and Tykoski 2014 sp. nov. urn:lsid:zoobank.org:act: 7B5B4074-9A58-4AFC-BFD0-CDCA8D799432</p>
+<sec id="s2f1">
+<title>Holotype</title>
+<p>DMNH 21461, disarticulated parts of a skull including a piece of the ascending ramus ( = nasal process, dorsal process) of the right maxilla, partial skull roof including parts of both frontals, parietals, and right laterosphenoid, and a section of the left dentary from the rostral tip to a plane through the unerupted tenth dentary tooth.</p>
+</sec><sec id="s2f2">
+<title>Etymology</title>
+<p><italic>Nanuqsaurus</italic>, combination of ‘<italic>nanuq</italic>’ the Iñupiaq word for polar bear (source: <ext-link ext-link-type="uri" xlink:href="http://www.alaskool.org/language/dictionaries/inupiaq/dictionary.htm" xlink:type="simple">http://www.alaskool.org/language/dictionaries/inupiaq/dictionary.htm</ext-link>) and the Greek ‘sauros’ for lizard; <italic>hoglundi</italic>, named in recognition of Forrest Hoglund for his career in earth sciences and his philanthropic efforts in furthering cultural institutions.</p>
+</sec><sec id="s2f3">
+<title>Locality and Horizon</title>
+<p>Kikak-Tegoseak Quarry, North Slope Borough, Alaska, USA. The site is in the Prince Creek Formation (Campanian-Paleocene) on the North Slope of Alaska <xref ref-type="bibr" rid="pone.0091287-Fiorillo2">[7]</xref>–<xref ref-type="bibr" rid="pone.0091287-Flaig1">[9]</xref> (<xref ref-type="fig" rid="pone-0091287-g001">Figures 1</xref>, <xref ref-type="fig" rid="pone-0091287-g002">2</xref>). The Prince Creek Formation in this area has been dated to between around 70 and 68 million years ago, with a mean of 69.1+/−0.3 million years ago <xref ref-type="bibr" rid="pone.0091287-Fiorillo3">[8]</xref>, <xref ref-type="bibr" rid="pone.0091287-Conrad1">[14]</xref>, in early Late Maastrichtian time <xref ref-type="bibr" rid="pone.0091287-Gradstein1">[10]</xref>.</p>
+</sec><sec id="s2f4">
+<title>Diagnosis</title>
+<p>A small (estimated skull length 600 mm–700 mm in mature individuals) tyrannosaurine theropod diagnosed by the following characters: thin, rostrally-forked, median spur of the fused parietals on the dorsal skull roof that overlaps and separates the frontals within the sagittal crest; frontal with a long, rostrally-pointed process separating the prefrontal and lacrimal facets; first two dentary teeth/alveoli much smaller (measured as maximum mesiodistal length) than dentary teeth/alveoli 3 through 9 in mature individuals, such that the mesiodistal length of alveolus 1 is less than 35 percent that of alveolus 3 and 25 percent or less that of alveolus 4, and such that the mesiodistal length of alveolus 2 is less than 50 percent that of alveolus 3 and 33 percent or less that of alveolus 4.</p>
+</sec></sec><sec id="s2g">
+<title>Description</title>
+<p>The specimen, DMNH 21461, consists of three separate pieces of a skull found in very close proximity to one another, including part of the right maxilla, a section of skull roof and braincase, and the rostral part of the left dentary. Measurements and the landmarks used in their calculations are shown in <xref ref-type="supplementary-material" rid="pone.0091287.s001">Figure S1</xref>. The maxilla fragment comes from the dorsal margin of the ascending ramus ( = dorsal process, or nasal process) of the maxilla (<xref ref-type="fig" rid="pone-0091287-g003">Figure 3B–D</xref>) (<xref ref-type="table" rid="pone-0091287-t001">Table 1</xref>). The dorsomedial edge of the maxilla is marked by deep pockets separated by pronounced transverse ridges. These together formed a strong peg-in-socket articulation between the dorsal margin of the maxilla and the ventrolateral edge of the nasal. The same kind of deeply interlocking naso-maxillary contact is a well-documented character that is also present only in developmentally mature individuals of the derived tyrannosaurines <italic>Daspletosaurus torosus</italic>, <italic>Tarbosaurus bataar</italic>, and <italic>Tyrannosaurus rex</italic> <xref ref-type="bibr" rid="pone.0091287-Brusatte1">[2]</xref>, <xref ref-type="bibr" rid="pone.0091287-Carr1">[6]</xref>, <xref ref-type="bibr" rid="pone.0091287-Hurum1">[20]</xref>, <xref ref-type="bibr" rid="pone.0091287-Carr3">[21]</xref>, <xref ref-type="bibr" rid="pone.0091287-Carr4">[22]</xref>. The nasal-maxilla contact is either smoothly grooved or bears only weak scalloping in immature individuals and more basal tyrannosauroids <xref ref-type="bibr" rid="pone.0091287-Brusatte1">[2]</xref>, <xref ref-type="bibr" rid="pone.0091287-Carr1">[6]</xref>. The presence of this feature in DMNH 21461 is evidence that the material also represents a developmentally mature individual.</p>
+<fig id="pone-0091287-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091287.g003</object-id><label>Figure 3</label><caption>
+<title><italic>Nanuqsaurus hoglundi</italic>, holotype, DMNH 21461. A</title>
+<p>. Reconstruction of a generalized tyrannosaurine skull, with preserved elements of holotype shown in white. Arrow points to autapomorphic, reduced, first two dentary teeth. <bold>B–E</bold>. Photographs and interpretive line drawings of right maxilla piece in medial (<bold>B</bold>, <bold>C</bold>); and dorsal (<bold>D</bold>, <bold>E</bold>) views. <bold>F–I</bold>. Photographs and interpretive line drawings of partial skull roof in dorsal (<bold>F</bold>, <bold>G</bold>); and rostrolateral (<bold>H</bold>, <bold>I</bold>) views. <bold>J–M</bold>, partial left dentary in lateral (<bold>J</bold>); medial (<bold>K</bold>); dorsal (<bold>L</bold>) views; and close-up of mesial alveoli in dorsal (<bold>M</bold>) views. Abbreviations: a, alveolus, with number indicating position in tooth row; d, dentary tooth, with number indicating position in tooth row; f, frontal; gr, orbital groove; lac.f, lacrimal facet of frontal; l.f, left frontal; na, nasal contact surface; oif, oral intramandibular foramen; p, parietal; po.f, postorbital facet of frontal; prf.f, prefrontal facet of frontal;. r.f, right frontal; ri, ridge separating sockets in nasal articulation of maxilla; rpf, rostral process of frontal between prefrontal and lacrimal facets; rsp, rostral spur of parietal; sac, sagittal crest; so, socket for nasal articulation of maxilla; stf; supratemporal fossa. Gray fill indicates missing bone or broken bone surfaces and cracks. Scale bar in A equals 10 cm. Scale bars in B–L equal 5 cm. Scale bar in M equals 1 cm.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091287.g003" position="float" xlink:type="simple"/></fig><table-wrap id="pone-0091287-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091287.t001</object-id><label>Table 1</label><caption>
+<title>Selected dimensions of DMNH 21461, partial maxilla.</title>
+</caption><alternatives><graphic id="pone-0091287-t001-1" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091287.t001" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/></colgroup>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Maximum rostrocaudal length of specimen</td>
+<td align="left" rowspan="1" colspan="1">86.4 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Maximum height of specimen</td>
+<td align="left" rowspan="1" colspan="1">67.1 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Maximum width of specimen</td>
+<td align="left" rowspan="1" colspan="1">23.2 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Socket for nasal articulation, most rostral socket (socket 1), maximum preserved rostrocaudal length</td>
+<td align="left" rowspan="1" colspan="1">13.9 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Socket for nasal articulation, middle socket (socket 2), maximum rostrocaudal length</td>
+<td align="left" rowspan="1" colspan="1">16.1 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Socket for nasal articulation, caudal socket (socket 3), maximum rostrocaudal length</td>
+<td align="left" rowspan="1" colspan="1">8.6 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Nasal articulation socket 2, maximum mediolateral width</td>
+<td align="left" rowspan="1" colspan="1">15.3 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Nasal articulation socket 3, maximum mediolateral width</td>
+<td align="left" rowspan="1" colspan="1">12.8 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Ridge between nasal articulation sockets 1 and 2, minimum rostrocaudal width</td>
+<td align="left" rowspan="1" colspan="1">4.3 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Ridge between nasal articulation sockets 2 and 3, minimum rostrocaudal width</td>
+<td align="left" rowspan="1" colspan="1">3.7 mm</td>
+</tr>
+</tbody>
+</table>
+</alternatives></table-wrap>
+<p>The skull roof fragment includes parts of incomplete frontals, the fused parietals, and laterosphenoid (<xref ref-type="fig" rid="pone-0091287-g003">Figures 3F–I</xref>; <xref ref-type="fig" rid="pone-0091287-g004">4</xref>) (<xref ref-type="table" rid="pone-0091287-t002">Table 2</xref>). The frontal has deep facets for articulation with the lacrimal rostrally and the postorbital laterally. A small notch rostromedial to the lacrimal contact is for receipt of the prefrontal. A long, rostrally-pointed process separates the notch-like facet for the prefrontal from the lacrimal facet (<xref ref-type="fig" rid="pone-0091287-g003">Fig. 3G, I</xref>). A similar process between the prefrontal and lacrimal is present in the frontal of <italic>Teratophoneus curriei</italic> from the upper Campanian Kaiparowits Formation of southern Utah <xref ref-type="bibr" rid="pone.0091287-Carr5">[23]</xref>, <xref ref-type="bibr" rid="pone.0091287-Loewen1">[24]</xref>. The socket-like, rostral-facing facet for the lacrimal (<xref ref-type="fig" rid="pone-0091287-g003">Figures 3H, I</xref>; <xref ref-type="fig" rid="pone-0091287-g004">4E, F</xref>), and the process separating the prefrontal and lacrimal differ from the condition reported in the contemporaneous albertosaurine <italic>Albertosaurus sarcophagus</italic> from the Horseshoe Canyon Formation of southern Alberta <xref ref-type="bibr" rid="pone.0091287-Currie1">[25]</xref>.</p>
+<fig id="pone-0091287-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091287.g004</object-id><label>Figure 4</label><caption>
+<title><italic>Nanuqsaurus hoglundi</italic>, holotype, DMNH 21461, partial skull roof piece.</title>
+<p>Stereophotographs of partial skull roof in dorsal (<bold>A</bold>); right lateral (<bold>B</bold>); left lateral (<bold>C</bold>); ventral (<bold>D</bold>); rostral (<bold>E</bold>); and rostrolateral (<bold>F</bold>) views. Rostral to top in images A through E. Scale bars equal 5 cm.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091287.g004" position="float" xlink:type="simple"/></fig><table-wrap id="pone-0091287-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091287.t002</object-id><label>Table 2</label><caption>
+<title>Selected dimensions of DMNH 21461, partial skull roof and braincase.</title>
+</caption><alternatives><graphic id="pone-0091287-t002-2" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091287.t002" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/></colgroup>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Maximum preserved length of specimen</td>
+<td align="left" rowspan="1" colspan="1">146.2 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Maximum preserved height of specimen</td>
+<td align="left" rowspan="1" colspan="1">88 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Right frontal, maximum mediolateral width from midline suture to most lateral point of postorbital facet</td>
+<td align="left" rowspan="1" colspan="1">65 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Right frontal, rostrocaudal length from most rostral broken surface to most caudal point on frontal-parietal suture</td>
+<td align="left" rowspan="1" colspan="1">100.9 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Orbital groove, maximum width in dorsal view</td>
+<td align="left" rowspan="1" colspan="1">3.6 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Lacrimal facet of frontal, maximum rostromedial-caudolateral width</td>
+<td align="left" rowspan="1" colspan="1">44.8 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Lacrimal facet of frontal, maximum dorsoventral height</td>
+<td align="left" rowspan="1" colspan="1">27.1 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Postorbital facet of frontal, maximum dorsoventral height</td>
+<td align="left" rowspan="1" colspan="1">31.8 mm</td>
+</tr>
+</tbody>
+</table>
+</alternatives></table-wrap>
+<p>The dorsal skull roof of tyrannosaurids has a pronounced midline sagittal crest on the parietal and the caudal part of the frontals. The sagittal crest in <italic>Nanuqsaurus hoglundi</italic> is narrowly pinched on the parietal, but broadens on the frontals to form a wide, double-ridged crest (<xref ref-type="fig" rid="pone-0091287-g003">Figures 3F, G</xref>; <xref ref-type="fig" rid="pone-0091287-g004">4A, E</xref>). A narrow spur from the parietal intrudes far rostrally between the frontals to divide the sagittal crest on the midline (<xref ref-type="fig" rid="pone-0091287-g003">Figures 3F, G</xref>; <xref ref-type="fig" rid="pone-0091287-g004">4A</xref>). Unlike in other tyrannosaurids, this spur is forked rostrally, forming a “Y”-shaped process in dorsal view. The sagittal crest on the frontals is also divided in <italic>Tarbosaurus bataar</italic> and <italic>Tyrannosaurus rex</italic>, but is a relatively low, narrow, single crest in albertosaurines and <italic>Daspletosaurus</italic> <xref ref-type="bibr" rid="pone.0091287-Carr3">[21]</xref>. The supratemporal fossae ( = dorsotemporal fossae) are deeply excavated onto the caudal parts of the frontals, and the rostral margins of the fossae are marked by sharp ridges (<xref ref-type="fig" rid="pone-0091287-g003">Figure 3F, G</xref>; <xref ref-type="fig" rid="pone-0091287-g004">4A</xref>). Both of these features are additional ontogenetically informative characters that provide further evidence for the relatively mature status of DMNH 21461 <xref ref-type="bibr" rid="pone.0091287-Carr1">[6]</xref>, <xref ref-type="bibr" rid="pone.0091287-Carr3">[21]</xref>.</p>
+<p>The form of the rostral part of the dentary is typical of tyrannosaurids, with a slightly convex dorsal border rostrally and weakly concave margin in the mid-section (<xref ref-type="fig" rid="pone-0091287-g003">Figure 3J–M</xref>) (<xref ref-type="table" rid="pone-0091287-t003">Table 3</xref>). The lateral surface is penetrated by distinct rows of neurovascular foramina, one in the dorsal half of the surface, another along the ventral margin of the bone, and an incomplete third row between them. All three rows converge toward the tip of the dentary, where three large and deep foramina are aligned just below the alveolar border. The medial surface is marked by a narrow Meckelian groove that curves rostrodorsally above the oral intramandibular foramen (<xref ref-type="fig" rid="pone-0091287-g003">Figure 3K</xref>).</p>
+<table-wrap id="pone-0091287-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091287.t003</object-id><label>Table 3</label><caption>
+<title>Selected dimensions of DMNH 21461, partial left dentary.</title>
+</caption><alternatives><graphic id="pone-0091287-t003-3" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091287.t003" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/></colgroup>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Dentary, maximum preserved length</td>
+<td align="left" rowspan="1" colspan="1">211 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Dentary dorsoventral height through septum between alveoli 4 and 5</td>
+<td align="left" rowspan="1" colspan="1">80.5 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Dentary dorsoventral height through septum between alveoli 8 and 9</td>
+<td align="left" rowspan="1" colspan="1">90.5 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 1, mesiodistal length</td>
+<td align="left" rowspan="1" colspan="1">5.6 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 1, labiolingual width</td>
+<td align="left" rowspan="1" colspan="1">6.9 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 2, mesiodistal length</td>
+<td align="left" rowspan="1" colspan="1">7.5 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 2, labiolingual width</td>
+<td align="left" rowspan="1" colspan="1">7.9 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 3, mesiodistal length</td>
+<td align="left" rowspan="1" colspan="1">16.5 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 3, labiolingual width</td>
+<td align="left" rowspan="1" colspan="1">14.7 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 4, mesiodistal length</td>
+<td align="left" rowspan="1" colspan="1">23.2 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 4, labiolingual width</td>
+<td align="left" rowspan="1" colspan="1">16.9 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 5, mesiodistal length</td>
+<td align="left" rowspan="1" colspan="1">26.7 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 5, labiolingual width</td>
+<td align="left" rowspan="1" colspan="1">13.2 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 6, mesiodistal length</td>
+<td align="left" rowspan="1" colspan="1">27.5 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 6, labiolingual width</td>
+<td align="left" rowspan="1" colspan="1">11.3 mm est.</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 7, mesiodistal length</td>
+<td align="left" rowspan="1" colspan="1">25.4 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 7, labiolingual width</td>
+<td align="left" rowspan="1" colspan="1">12 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 8, mesiodistal length</td>
+<td align="left" rowspan="1" colspan="1">23.4 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alveolus 8, labiolingual width</td>
+<td align="left" rowspan="1" colspan="1">11.3 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Dentary tooth 9, maximum mesiodistal length</td>
+<td align="left" rowspan="1" colspan="1">22.0 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Dentary tooth 9, maximum labiolingual width</td>
+<td align="left" rowspan="1" colspan="1">11 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Rostral-most neurovascular foramen at tip of dentary, maximum mediolateral width</td>
+<td align="left" rowspan="1" colspan="1">6.3 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Second most rostral neurovascular foramen at tip of dentary, maximum rostrocaudal width</td>
+<td align="left" rowspan="1" colspan="1">6.8 mm</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Oral intramandibular foramen, maximum rostrocaudal width</td>
+<td align="left" rowspan="1" colspan="1">6.1 mm</td>
+</tr>
+</tbody>
+</table>
+</alternatives></table-wrap>
+<p>The preserved section of dentary has nine complete alveoli and is broken through the tenth, exposing the cross-sections of a tooth root and a small replacement tooth (<xref ref-type="fig" rid="pone-0091287-g003">Figure 3L</xref>). The exposed apices of tooth crowns are visible in the third, fifth, and seventh alveoli, and the base of a broken tooth crown is present in the ninth alveolus. The first three alveoli are nearly circular in form, the fourth is sub-rectangular, and the fifth through ninth alveoli are mesiodistally elongate and rectangular in dorsal view. The first two alveoli are very small (maximum mesiodistal lengths of 5.6 mm and 7.5 mm respectively), less than half the size of the third alveolus (16.5 mm), and less than a third that of the fourth alveolus (23.2 mm) (<xref ref-type="fig" rid="pone-0091287-g003">Figure 3M</xref>) (<xref ref-type="table" rid="pone-0091287-t003">Table 3</xref>). The two alveoli are similar in size to the largest neurovascular foramina on the lateral surface of the dentary. CT (Computed Tomography) scans of the specimen show un-erupted teeth in both alveoli, confirming their identification (<xref ref-type="fig" rid="pone-0091287-g005">Figure 5</xref>).</p>
+<fig id="pone-0091287-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091287.g005</object-id><label>Figure 5</label><caption>
+<title><italic>Nanuqsaurus hoglundi,</italic> holotype DMNH 21461, CT slice through partial left dentary.</title>
+<p>Parasagittal CT scan slice through the partial left dentary shows several replacement teeth remaining in alveoli. This slice shows parts of cross-sections through replacement teeth in the first and second alveoli, verifying their identity. Abbreviations: a, alveolus, with number indicating position in tooth row; d3, base of partially erupted third dentary tooth, r, replacement tooth (unerupted), with number indicating position in tooth row.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091287.g005" position="float" xlink:type="simple"/></fig>
+<p>The tip of the third tooth crown has a sub-circular cross-section (length to width ratio of 1.08), in contrast to the crown of the seventh dentary tooth which is labiolingually narrower (length to width ratio of 1.54). In addition, the serrated carinae on the distal teeth are on directly opposite mesial and distal margins of the tooth crown, but the mesial carina is slightly more lingually positioned on the third dentary tooth crown. In most other tyrannosaurids, only the first dentary tooth is notably reduced in size relative to the other dentary teeth, and it may also have a sub-circular cross-section with a lingually displaced lingual carina <xref ref-type="bibr" rid="pone.0091287-Carr2">[12]</xref>.</p>
+<p>No other tyrannosaurid taxon has two reduced mesial dentary teeth, or such a size disparity between them and the more distal teeth in mature individuals as is seen in the holotype of <italic>Nanuqsaurus hoglundi</italic> (<xref ref-type="fig" rid="pone-0091287-g003">Figure 3A, L, M</xref>). The first two dentary teeth are reduced in the controversial tyrannosaurid specimens CMNH (Cleveland Museum of Natural History, Cleveland, Ohio, USA) 7541 and BMR (Burpee Museum of Natural History, Rockford, Illinois, USA) P2002.4.1, both of which have been identified as either a separate tyrannosaurid taxon (<italic>Nannotyrannus lancensis</italic>), or as ontogenetically immature <italic>Tyrannosaurus rex</italic> <xref ref-type="bibr" rid="pone.0091287-Carr1">[6]</xref>, <xref ref-type="bibr" rid="pone.0091287-Carr3">[21]</xref>, <xref ref-type="bibr" rid="pone.0091287-Currie1">[25]</xref>–<xref ref-type="bibr" rid="pone.0091287-Larson1">[28]</xref>. However, the mesiodistal length of the second dentary tooth or alveolus is still more than half the size of the third tooth/alveolus in these disputed specimens, versus approximately 45 percent in the holotype of <italic>Nanuqsaurus hoglundi</italic>. A very small individual attributed to <italic>Gorgosaurus libratus</italic> (TMP [Royall Tyrrell Museum of Palaeontology, Drumheller, Alberta, Canada] 1986.144.1) also has two small mesial dentary alveoli, but even in this immature individual the second alveolus is more than half (52 percent) the size of the third alveolus. The occurrence of two small mesial dentary teeth is not seen in all immature tyrannosaurids. A very immature specimen of <italic>Tarbosaurus bataar</italic> (MPC [Mongolian Paleontological Center, Ulaanbaatar, Mongolia]-D 107/7) has a well-preserved skull only 290 mm long <xref ref-type="bibr" rid="pone.0091287-Tsuihiji1">[29]</xref>. CT scans of the specimen <xref ref-type="bibr" rid="pone.0091287-Tsuihiji1">[29]</xref> show a relatively small first dentary alveolus and tooth, but the second alveolus/tooth is comparable in mesiodistal length (approximately 75 percent) to the third alveolus.</p>
+<p>The condition of having two relatively small mesial dentary teeth occurs in immature specimens of some, but not all tyrannosaurid taxa as shown by MPC-D 107/7, the small specimen of <italic>Tarbosaurus bataar</italic> <xref ref-type="bibr" rid="pone.0091287-Tsuihiji1">[29]</xref>. The size disparity between the mesial two versus the more distal dentary alveoli is even greater in <italic>Nanuqsaurus hoglundi</italic> than what is seen in immature specimens of other tyrannosaurid taxa, yet the holotype of <italic>N. hoglundi</italic> exhibits features of the maxilla and dorsal skull roof bones that are associated with more osteologically mature tyrannosaurid individuals <xref ref-type="bibr" rid="pone.0091287-Carr1">[6]</xref>, <xref ref-type="bibr" rid="pone.0091287-Carr3">[21]</xref>. We therefore consider the presence of unusually small first and second dentary alveoli (and the teeth that would occupy them) in <italic>Nanuqsaurus hoglundi</italic> to be an autapomorphic dental character present in mature individuals of this taxon.</p>
+</sec><sec id="s2h">
+<title>Phylogenetic Analysis</title>
+<p>There is currently only a limited amount of <italic>Nanuqsaurus hoglundi</italic> fossil material, but enough information is preserved to test the relationships of the taxon within the framework of two recent cladistic analyses of tyrannosauroid phylogeny <xref ref-type="bibr" rid="pone.0091287-Brusatte1">[2]</xref>, <xref ref-type="bibr" rid="pone.0091287-Loewen1">[24]</xref>.. We first tested relationships of <italic>N. hoglundi</italic> in the context of a very tyrannosauroid-focused taxon-character matrix <xref ref-type="bibr" rid="pone.0091287-Brusatte1">[2]</xref>. In addition to adding <italic>N. hoglundi</italic> to the analysis, we altered the original dataset in three ways. First, we changed the coding of two characters for <italic>Dryptosaurus</italic> to match revisions made in a more recent analysis of tyrannosauroid phylogeny (character 178 changed from “?” to “0”; character 201 re-scored from “?” to “0”) <xref ref-type="bibr" rid="pone.0091287-Brusatte3">[30]</xref>. Second, we removed <italic>Raptorex kreigsteini</italic> from the analysis because of uncertainty over whether it represents a distinct tyrannosauroid taxon from the Lower Cretaceous, or is instead an immature individual of the Upper Cretaceous tyrannosaurine <italic>Tarbosaurus bataar</italic> <xref ref-type="bibr" rid="pone.0091287-Fowler1">[31]</xref>. The presence or absence of <italic>Raptorex</italic> in the analysis had no impact on the resulting tree topology. Third, we added one new character to the dataset (character 308) to take into account the shared presence of a long rostral process of the frontal inserted between the articulations for the prefrontal and lacrimal in <italic>Nanuqsaurus</italic> and <italic>Teratophoneus</italic>. These changes, plus the coding of character 308 for the other taxa in the analysis are provided in <xref ref-type="supplementary-material" rid="pone.0091287.s005">Text S1</xref>.</p>
+<p>The original dataset <xref ref-type="bibr" rid="pone.0091287-Brusatte1">[2]</xref> was acquired as a Microsoft Word document, and was reentered in MacClade 4.08a for Macintosh OSX <xref ref-type="bibr" rid="pone.0091287-Maddison1">[32]</xref>. All other characters remained numbered the same as in the original dataset, and we refer interested readers to the original study for the full character list and original dataset <xref ref-type="bibr" rid="pone.0091287-Brusatte1">[2]</xref>. <italic>Nanuqsaurus</italic> and the aforementioned new character were added to the taxon-character matrix, resulting in 23 taxa (4 outgroup taxa, 19 ingroup taxa) and 308 characters. Character coding for <italic>Nanuqsaurus</italic> is given in <xref ref-type="supplementary-material" rid="pone.0091287.s003">Table S2</xref>. The dataset was subjected to a parsimony analysis in PAUP* 4.0b10 <xref ref-type="bibr" rid="pone.0091287-Swofford1">[33]</xref>, using TBR branch swapping. The analysis produced three equally most parsimonious trees with a length of 550, a consistency index of 0.6527, and a retention index of 0.8403 (<xref ref-type="fig" rid="pone-0091287-g006">Figure 6</xref>). The three recovered trees differed only in the positions of <italic>Guanlong</italic>, <italic>Proceratosaurus</italic>, and <italic>Sinotyrannus</italic> relative to one another. Bremer support values were calculated using MacClade to create a PAUP Decay Commands file, which was then opened and applied in PAUP*.</p>
+<fig id="pone-0091287-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091287.g006</object-id><label>Figure 6</label><caption>
+<title>Phylogenetic position of <italic>Nanuqsaurus hoglundi</italic> among tyrannosauroids recovered from first phylogenetic test.</title>
+<p>One of three equally most parsimonious hypotheses of tyrannosauroid phylogeny (length = 550; consistency index = 0.6527; retention index = 0.8403) recovered in our analysis based on dataset of Brusatte et al. <xref ref-type="bibr" rid="pone.0091287-Brusatte1">[2]</xref>, and set to the geologic timescale. Thick bars indicate uncertainty of geological range for a given taxon. Numbers at nodes are Bremer support values for that clade. Open circle indicates node-defined clade name. Half-circle arc indicates a stem-defined lineage name. Dates for geologic stage boundaries from <xref ref-type="bibr" rid="pone.0091287-Gradstein1">[10]</xref>.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091287.g006" position="float" xlink:type="simple"/></fig>
+<p>In all three hypotheses of phylogeny, <italic>Nanuqsaurus hoglundi</italic> was found to be a derived tyrannosaurine, the sister taxon to the <italic>Tarbosaurus</italic>+<italic>Tyrannosaurus</italic> clade (<xref ref-type="fig" rid="pone-0091287-g006">Figure 6</xref>). This node was supported by a single unambiguous character, the presence of a dorsoventrally tall, paired sagittal crest on the frontal. The age of <italic>Nanuqsaurus hoglundi</italic> (70-69Ma) is consistent with its place in the recovered hypothesis of tyrannosauroid phylogeny, positioned in time between the more basal <italic>Daspletosaurus torosus</italic> (Middle to Late Campanian) and the more derived <italic>Tyrannosaurus rex</italic> (latest Maastrichtian) among other North American tyrannosaurines. <italic>Nanuqsaurus hoglundi</italic> may be contemporaneous with <italic>Tarbosaurus bataar</italic> (Late Campanian to Maastrichtian) of Asia, but the two taxa are easily distinguished from one another by the rostral process of the frontal separating the prefrontal and lacrimal in <italic>N. hoglundi</italic>, and by the two reduced mesial dentary teeth in <italic>N. hoglundi</italic> versus a single reduced first dentary tooth in juveniles and mature <italic>T. bataar</italic> <xref ref-type="bibr" rid="pone.0091287-Hurum1">[20]</xref>, <xref ref-type="bibr" rid="pone.0091287-Fowler1">[31]</xref>. The presence of a robust peg-in-socket articulation between the maxillae and nasals of mature individuals was a character shared by <italic>Daspletosaurus</italic>, <italic>Nanuqsaurus</italic>, and the <italic>Tarbosaurus</italic>+<italic>Tyrannosaurus</italic> clade, but the uncertain status of this character in the more basal tyrannosaurines <italic>Teratophoneus</italic> and <italic>Alioramus</italic> made the position of this character ambiguous in our results. It took no less than six additional steps to move <italic>Nanuqsaurus</italic> to a position on the albertosaurine lineage, highlighting the low likelihood that the Alaskan material might actually be referable to the contemporaneous taxon <italic>Albertosaurus sarcophagus</italic>.</p>
+<p>Although the Bremer support for the <italic>Nanuqsaurus</italic>+(<italic>Tarbosaurus</italic>+<italic>Tyrannosaurus</italic>) node is less (Bremer support value = 2) than that for some other nodes on the tyrannosaurine lineage (Bremer support values range from 2 to 5), given the high percentage of missing data for <italic>Nanuqsaurus</italic> (95.1 percent missing data) its location on the tree is an indication of the importance of the derived characters present in the material. Indeed, there is less support for the positions of the more basal tyrannosauroids <italic>Appalachiosaurus</italic> and <italic>Dryptosaurus</italic>, both of which are known from more material than <italic>Nanuqsaurus</italic>. Bremer support for other tyrannosaurine nodes was less in our analysis than was recovered in the study upon which it was based <xref ref-type="bibr" rid="pone.0091287-Brusatte1">[2]</xref>. In the original study, the <italic>Tarbosaurus</italic>+<italic>Tyrannosaurus</italic> clade had a very high Bremer support value of 9, and the <italic>Daspletosaurus</italic>+(<italic>Tarbosaurus</italic>+<italic>Tyrannosaurus</italic>) clade a very high Bremer value of 7. The dramatic reduction in Bremer values in our analysis likely reflects the intermediate position of <italic>Nanuqsaurus</italic> in the hypotheses of phylogeny, which serves to break up or redistribute potential diagnostic characters among the derived tyrannosaurines.</p>
+<p>The second cladistic test was based on that used in a more recent study that included a greater number of taxa from across a much wider range of theropod clades <xref ref-type="bibr" rid="pone.0091287-Loewen1">[24]</xref>. The dataset from the original study also used a large number of new and altered characters compared to other recent studies <xref ref-type="bibr" rid="pone.0091287-Brusatte1">[2]</xref>, <xref ref-type="bibr" rid="pone.0091287-Brusatte2">[13]</xref>, <xref ref-type="bibr" rid="pone.0091287-Loewen1">[24]</xref>. Not surprisingly then, the hypotheses of tyrannosauroid relationships generated by the newer work differed from previous studies. Most notably, the basal tyrannosaurine <italic>Alioramus</italic> was placed outside Tyrannosauridae, and <italic>Bistahieversor</italic>, <italic>Teratophoneus</italic>, and the newly described <italic>Lythronax argestes</italic> from the Middle Campanian of Utah were found to be members of the tyrannosaurine lineage more derived than <italic>Daspletosaurus torosus</italic> <xref ref-type="bibr" rid="pone.0091287-Loewen1">[24]</xref>.</p>
+<p>We added <italic>Nanuqsaurus hoglundi</italic> to the second dataset, but made no other changes to the original taxon-character matrix. The matrix was copied directly from an electronic version of the paper into Microsoft Word, and then imported into Mesquite v.2.75 <xref ref-type="bibr" rid="pone.0091287-Maddison2">[34]</xref>. Character coding for <italic>Nanuqsaurus</italic> in the second analysis is given in <xref ref-type="supplementary-material" rid="pone.0091287.s004">Table S3</xref>. The file was then opened in MacClade 4.08a for Macintosh OSX <xref ref-type="bibr" rid="pone.0091287-Maddison1">[32]</xref>, and finally was subjected to a parsimony analysis in PAUP* 4.0b10 <xref ref-type="bibr" rid="pone.0091287-Swofford1">[33]</xref>, using TBR branch swapping. The analysis recovered eight equally most parsimonious trees, each with a length of 2008 evolutionary steps, a consistency index of 0.3541, and a retention index of 0.7226. Bremer support values were calculated using MacClade to create a PAUP Decay Commands file that was opened and applied in PAUP*.</p>
+<p>In addition to greater tree length, the hypotheses of relationship in our second analysis differed from the original work <xref ref-type="bibr" rid="pone.0091287-Loewen1">[24]</xref> in several other ways. These included the removal of <italic>Dryptosaurus</italic> from Tyrannosauroidea, additional altered relationships among basal tyrannosauroids, and non-tyrannosaurid taxa, and a sister-taxon relationship between <italic>Daspletosaurus torosus</italic> and the Two Medicine Formation taxon. Importantly, <italic>Nanuqsaurus hoglundi</italic> was again found to be a derived tyrannosaurine, and the sister-taxon to the (<italic>Tyrannosaurus</italic>+(<italic>Tarbosaurus</italic>+<italic>Zhuchengtyrannus</italic>)) clade in all eight recovered trees. The relationships within Tyrannosauridae generated by the second analysis are shown in <xref ref-type="fig" rid="pone-0091287-g007">Figure 7</xref>.</p>
+<fig id="pone-0091287-g007" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091287.g007</object-id><label>Figure 7</label><caption>
+<title>Phylogenetic position of <italic>Nanuqsaurus hoglundi</italic> within Tyrannosauridae recovered from second phylogenetic test.</title>
+<p>Part of one of eight equally most parsimonious hypotheses of tyrannosauroid phylogeny (length = 2008; consistency index = 0.3541; retention index = 0.7226) found in our analysis based on dataset of Loewen et al. <xref ref-type="bibr" rid="pone.0091287-Loewen1">[24]</xref>, and set to the geologic timescale. Figure shows only the relationships within Tyrannosauridae. Thick bars indicate uncertainty of geological range for a given taxon. Numbers at nodes are Bremer support values for that clade. Open circle indicates node-defined clade name. Half-circle arc indicates a stem-defined lineage name. Dates for geologic stage boundaries from <xref ref-type="bibr" rid="pone.0091287-Gradstein1">[10]</xref>.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091287.g007" position="float" xlink:type="simple"/></fig></sec></sec><sec id="s3">
+<title>Results and Discussion</title>
+<sec id="s3a">
+<title>Laramidian Geographic Provincialism</title>
+<p>The North American continent was divided by the Western Interior Seaway during the Late Cretaceous, resulting in the eastern landmass Appalachia, and the western landmass Laramidia <xref ref-type="bibr" rid="pone.0091287-Archibald1">[35]</xref>. Paleogeographic and tectonic reconstructions indicate Laramidia was a latitudinally elongate, but narrow landmass that extended from modern-day central Mexico to the Arctic Ocean on the Alaskan north coast. Recent works and discoveries of new ceratopsid dinosaur taxa have provided support for hypotheses that Laramidian dinosaur communities were divided into northern and southern provinces in the Late Campanian by topographic complexity, resulting in increased dinosaur diversity along the narrow band of fluvial plains and coastal regions bordering the Western Interior Seaway <xref ref-type="bibr" rid="pone.0091287-Lehman1">[36]</xref>–<xref ref-type="bibr" rid="pone.0091287-Sampson2">[39]</xref>. Regression of the seaway began in Maastrichtian time, eventually re-linking the North American landmasses and apparently reducing provincialism in the dinosaurian fauna <xref ref-type="bibr" rid="pone.0091287-Sampson1">[38]</xref>.</p>
+<p>The discovery of a new tyrannosaurine theropod on the extreme northern margin of Laramidia may be further evidence of the importance of topographic complexity driving dinosaur diversity during the Late Cretaceous. Is it reasonable to expect significant dinosaur diversification in the Cretaceous Alaskan Arctic, and why? Vertebrates can show striking diversification patterns resulting from a variety of geographic barriers, as opposed to ecological factors such as local net primary productivity, a biogeographic model that has successfully explained biodiversity in modern and fossil vertebrates in continental and aquatic environments <xref ref-type="bibr" rid="pone.0091287-Cracraft1">[40]</xref>–<xref ref-type="bibr" rid="pone.0091287-Badgley1">[43]</xref>.</p>
+<p>There is geological evidence that the coastal plain of Laramidia was a relatively heterogeneous landscape driven by orogenic episodes during the Cretaceous <xref ref-type="bibr" rid="pone.0091287-Gates1">[42]</xref>. The sediments of the Prince Creek Formation were deposited in the east-west trending Colville Basin, which formed by the collision of the Arctic Alaska plate with the plates comprising central Alaska <xref ref-type="bibr" rid="pone.0091287-Lawver1">[44]</xref>. The collision of these plate boundaries also resulted in formation of the Brooks Range to the south of the Colville Basin, which may have been up to 5000 meters in height during the Cretaceous <xref ref-type="bibr" rid="pone.0091287-Spicer1">[45]</xref>. Mountain building has been suggested as the trigger for diversification of Late Cretaceous herbivorous dinosaurs in lower latitudes <xref ref-type="bibr" rid="pone.0091287-Gates1">[42]</xref>. Given the existence of a unique ceratopsid species also from the same locality as <italic>Nanuqsaurus hoglundi</italic>, it is possible that an effective geographic barrier may have been provided by the ancestral Brooks Range <xref ref-type="bibr" rid="pone.0091287-Fiorillo2">[7]</xref> creating, effectively, an island within the larger landmass of Laramidia. The presence of a new tyrannosaurine theropod from the same region is consistent with this biogeographic model of vertebrate diversification.</p>
+</sec><sec id="s3b">
+<title>Body Size of <italic>Nanuqsaurus</italic></title>
+<p>Although northern Alaska was warmer than present during the Cretaceous <xref ref-type="bibr" rid="pone.0091287-Fiorillo3">[8]</xref>, <xref ref-type="bibr" rid="pone.0091287-Flaig1">[9]</xref>, <xref ref-type="bibr" rid="pone.0091287-Spicer1">[45]</xref>, <xref ref-type="bibr" rid="pone.0091287-Spicer2">[46]</xref> the region still experienced profound seasonal changes in light regime through the course of a solar year <xref ref-type="bibr" rid="pone.0091287-Spicer1">[45]</xref>, <xref ref-type="bibr" rid="pone.0091287-Spicer2">[46]</xref>. Many extant vertebrates live in regions of the world with a seasonal climate resulting in a non-growing season, and those organisms depend on the amount of resources acquired during the growing season. Modern vertebrates deal with these conditions through behavioral, physiological, or phenotypical changes in contrast to related forms in less seasonal regimes. Evidence shows that dinosaurian taxa may have responded similarly to these conditions. For example, Alaskan individuals of the otherwise small theropod <italic>Troodon</italic> were shown to have achieved body sizes approximately 50% larger than specimens from southern Alberta and Montana <xref ref-type="bibr" rid="pone.0091287-Fiorillo4">[47]</xref> (<xref ref-type="fig" rid="pone-0091287-g008">Figure 8</xref>). The increased size was attributed to the larger eyes in proportion to body size of <italic>Troodon</italic> with respect to sympatric theropods, which provided a competitive advantage in accessing more prey items in the low-light conditions of the ancient Arctic.</p>
+<fig id="pone-0091287-g008" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0091287.g008</object-id><label>Figure 8</label><caption>
+<title>Relative size of <italic>Nanuqsaurus hoglundi</italic>.</title>
+<p>Silhouettes showing approximate sizes of representative theropods. <bold>A</bold>, <italic>Nanuqsaurus hoglundi</italic>, based on holotype, DMNH 21461. <bold>B</bold>, <italic>Tyrannosaurus rex</italic>, based on FMNH PR2081. <bold>C</bold>, <italic>Tyrannosaurus rex</italic>, based on AMNH 5027. <bold>D</bold>, <italic>Daspletosaurus torosus</italic>, based on FMNH PR308; <bold>E</bold>, <italic>Albertosaurus sarcophagus</italic>, based on TMP 81.10.1; <bold>F</bold>, <italic>Troodon formosus</italic>, lower latitude individual based on multiple sources and size estimates; <bold>G</bold>, <italic>Troodon</italic> sp., North Slope individual based on extrapolation from measurements of multiple dental specimens <xref ref-type="bibr" rid="pone.0091287-Fiorillo4">[47]</xref>. Scale bar equals 1 m.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0091287.g008" position="float" xlink:type="simple"/></fig>
+<p>Conversely, the estimated skull length of <italic>Nanuqsaurus hoglundi</italic> suggests that this animal was of smaller size than coeval and related tyrannosaurids from the lower latitudes (<xref ref-type="fig" rid="pone-0091287-g008">Figure 8</xref>). Tyrannosaurs are notable by, among other things, large body size near the upper limits of theropods as a whole. Derived tyrannosaurs are also recognized as having enhanced olfaction <xref ref-type="bibr" rid="pone.0091287-Zelenitsky1">[48]</xref>. Their large body size suggests the animals were active hunters, rather than scavengers <xref ref-type="bibr" rid="pone.0091287-Carbone1">[49]</xref>. With respect to extant carnivores, the representatives at the upper limits of each group are constrained by food intake <xref ref-type="bibr" rid="pone.0091287-Carbone2">[50]</xref>. The smaller body size of <italic>Nanuqsaurus hoglundi</italic> may reflect that in the profoundly seasonal ancient Arctic environment where the widely varying light regime affected biological productivity; resource availability was limited. The phenotypic response by the apex predator within this ecosystem was smaller body mass, a pattern similar to that observed with modern carnivores in an insular setting where resources are also limited compared to resource availability for mainland populations <xref ref-type="bibr" rid="pone.0091287-Lomolino1">[51]</xref>.</p>
+<p>The increase in body size by one theropod taxon and the reduction in body size by a second theropod taxon suggest that there may have been external ecological pressure for an optimal body size for predatory dinosaurs in the seasonal Cretaceous Arctic ecosystem of northern Alaska. This convergence in body size was dictated by the effective net biological productivity during the growing season. For <italic>Nanuqsaurus hoglundi</italic> the resource limits selected for smaller body size, while for the sympatric <italic>Troodon</italic> the adaptive advantage of larger eyes in the highly seasonal physical environment selected for larger body size. Niche separation however was maintained by reliance on different senses to acquire food items. Further, this body size response likely reflects that the role of body size in these predatory dinosaurs was key in the structuring of the ecosystem. Therefore understanding polar theropods is crucial to understanding potential feedback loops between dinosaurs and climate in the ancient Arctic.</p>
+</sec></sec><sec id="s4">
+<title>Conclusions</title>
+<p>Tyrannosaurid theropods were dominant, apex terrestrial predators in Asia and western North America during Campanian and Maastrichtian time. Knowledge of the group's diversity has increased in recent years as a result of new discoveries. Overall understanding of tyrannosaurid ecology and evolution is based almost entirely on fossils from latitudes at or below southern Canada and central Asia. The discovery of the new, relatively small tyrannosaurid <italic>Nanuqsaurus hoglundi</italic> from the earliest Late Maastrichtian (70-69Ma) section of the Prince Creek Formation on Alaska's North Slope provides new information regarding the diversity, distribution, and adaptability of derived tyrannosaurs.</p>
+<p>Two phylogenetic analyses found <italic>Nanuqsaurus hoglundi</italic> was a tyrannosaurine and the sister-taxon to the highly derived <italic>Tarbosaurus</italic>+<italic>Tyrannosaurus</italic> clade. Although the preserved elements of <italic>N. hoglundi</italic> are admittedly fragmentary (a partial skull roof, maxilla and dentary), there are enough morphological data preserved to provide good support for its place among derived tyrannosaurines. <italic>Nanuqsaurus hoglundi</italic> is further distinguished from all contemporaneous tyrannosaurids by: 1) a narrow, median, forked spur of the parietal that overlaps the frontal dorsally between the divided sagittal crest on the frontal; 2) a long, rostrally-pointed process of the frontal separating the prefrontal and lacrimal facets; and 3) the first two dentary teeth/alveoli less than one-half the mesiodistal length of the third dentary tooth/alveolus in relatively mature individuals.</p>
+<p><italic>Nanuqsaurus hoglundi</italic> inhabited a high-latitude continental environment on the northernmost edge of Cretaceous North America. Conditions in this setting were relatively warm, but there were profound to extreme seasonal changes in light regime throughout the year that would have limited resource availability and produced substantial variance in temperatures. This northern fringe of western North America (Laramidia) also may have been partially isolated from southern regions by the topographic barrier created by the east-west trending Brooks Range, providing conditions for increased dinosaur diversification. The resource limitations of this environment seem to have selected for an optimal body size among predatory dinosaurs that was expressed by the diminutive, mature body size of <italic>N. hoglundi</italic> when compared to most tyrannosaurid taxa known from lower latitudes. The discovery of <italic>Nanuqsaurus hoglundi</italic> provides new insights into tyrannosaurid adaptability and evolution in an ancient greenhouse Arctic.</p>
+</sec><sec id="s5">
+<title>Supporting Information</title>
+<supplementary-material id="pone.0091287.s001" mimetype="image/tiff" xlink:href="info:doi/10.1371/journal.pone.0091287.s001" position="float" xlink:type="simple"><label>Figure S1</label><caption>
+<p>Reference points for measurements. Line drawings of <italic>Nanuqsaurus hoglundi</italic> DMNH 21461 cranial elements, illustrating the reference points used to obtain several of the measurements provided in <xref ref-type="table" rid="pone-0091287-t001">Tables 1</xref>, <xref ref-type="table" rid="pone-0091287-t002">2</xref>, and <xref ref-type="table" rid="pone-0091287-t003">3</xref>. <bold>A</bold>, partial ascending ramus ( = nasal process, dorsal process) of right maxilla in medial view; <bold>B</bold>, partial ascending ramus ( = nasal process, dorsal process) of right maxilla in dorsal view; <bold>C</bold>, partial skull roof and braincase elements in dorsal view; <bold>D</bold>, partial skull roof and braincase elements in right rostrolateral view; <bold>E</bold>, partial left dentary in lateral view; <bold>F</bold>, close up of rostral end of dentary in dorsal view, showing reference points for measurements of first through fourth alveoli. For dimensions in F, see <xref ref-type="table" rid="pone-0091287-t003">Table 3</xref>. All values given are in millimeters.</p>
+<p>(TIF)</p>
+</caption></supplementary-material><supplementary-material id="pone.0091287.s002" mimetype="application/msword" xlink:href="info:doi/10.1371/journal.pone.0091287.s002" position="float" xlink:type="simple"><label>Table S1</label><caption>
+<p>List of Institutional Abbreviations.</p>
+<p>(DOC)</p>
+</caption></supplementary-material><supplementary-material id="pone.0091287.s003" mimetype="application/msword" xlink:href="info:doi/10.1371/journal.pone.0091287.s003" position="float" xlink:type="simple"><label>Table S2</label><caption>
+<p>Character coding for <italic>Nanuqsaurus hoglundi</italic> in the first of two cladistic analyses. The first cladistic analysis was based on the taxon-character matrix of Brusatte et al.</p>
+<p>(DOC)</p>
+</caption></supplementary-material><supplementary-material id="pone.0091287.s004" mimetype="application/msword" xlink:href="info:doi/10.1371/journal.pone.0091287.s004" position="float" xlink:type="simple"><label>Table S3</label><caption>
+<p>Character coding for <italic>Nanuqsaurus hoglundi</italic> in the second of two cladistic analyses. The second analysis was based on the taxon-character matrix of Loewen et al. No new characters were added to the original character list, and the original analysis was followed by treating 48 of 501 characters as ‘ordered’. Readers are referred to the original work.</p>
+<p>(DOC)</p>
+</caption></supplementary-material><supplementary-material id="pone.0091287.s005" mimetype="application/msword" xlink:href="info:doi/10.1371/journal.pone.0091287.s005" position="float" xlink:type="simple"><label>Text S1</label><caption>
+<p>Changes to the taxon-character matrix in the first cladistic analysis.</p>
+<p>(DOC)</p>
+</caption></supplementary-material></sec></body>
+<back>
+<ack>
+<p>We thank the numerous members of the various field crews that contributed to the data collecting for this project, particularly D. Norton, P. McCarthy, P. Flaig, T. Adams, K. Newman, C. Strganac, and J. Petula. Preparation of the specimens was performed by RST. CT scanning was performed by M. Colbert, and post-scanning processing of the raw data was performed by J. Holland. We thank T. Carr, P. Dodson, and anonymous reviewer who provided comments that improved this manuscript. We also thank T. Carr for providing alveolar measurements from other tyrannosaurid specimens. The Arctic Management Unit of the Bureau of Land Management provided administrative support.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0091287-Osborn1"><label>1</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Osborn</surname><given-names>HF</given-names></name> (<year>1905</year>) <article-title><italic>Tyrannosaurus</italic> and other Cretaceous carnivorous dinosaurs</article-title>. <source>Bull Am Mus Nat Hist</source> <volume>21</volume>: <fpage>259</fpage>–<lpage>265</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Brusatte1"><label>2</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brusatte</surname><given-names>SL</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Carr</surname><given-names>TD</given-names></name>, <name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name>, <name name-style="western"><surname>Hutchinson</surname><given-names>JR</given-names></name>, <etal>et al</etal>. (<year>2010</year>) <article-title>Tyrannosaur paleobiology: new research on ancient exemplar organisms</article-title>. <source>Science</source> <volume>239</volume>: <fpage>1481</fpage>–<lpage>1485</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Fiorillo1"><label>3</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fiorillo</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Gangloff</surname><given-names>RA</given-names></name> (<year>2000</year>) <article-title>Theropod teeth from the Prince Creek Formation (Cretaceous) of northern Alaska, with speculation on Arctic dinosaur paleoecology</article-title>. <source>J Vertebr Paleontol</source> <volume>20</volume>: <fpage>675</fpage>–<lpage>682</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Lambe1"><label>4</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lambe</surname><given-names>LM</given-names></name> (<year>1917</year>) <article-title>The Cretaceous theropodous dinosaur <italic>Gorgosaurus</italic></article-title>. <source>Mem Geol Surv Canada</source> <volume>100</volume>: <fpage>1</fpage>–<lpage>84</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Russell1"><label>5</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Russell</surname><given-names>DA</given-names></name> (<year>1970</year>) <article-title>Tyrannosaurs from the Late Cretaceous of western Canada</article-title>. <source>Nat Mus Nat Sci Pub Palaeontol</source> <volume>1</volume>: <fpage>1</fpage>–<lpage>34</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Carr1"><label>6</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carr</surname><given-names>TD</given-names></name> (<year>1999</year>) <article-title>Craniofacial ontogeny in Tyrannosauridae (Dinosauria, Coelurosauria)</article-title>. <source>J Vertebr Paleontol</source> <volume>19</volume>: <fpage>497</fpage>–<lpage>520</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Fiorillo2"><label>7</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fiorillo</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Tykoski</surname><given-names>RS</given-names></name> (<year>2012</year>) <article-title>A new Maastrichtian species of the centrosaurine ceratopsid <italic>Pachyrhinosaurus</italic> from the North Slope of Alaska</article-title>. <source>Acta Palaeontol Pol</source> <volume>57</volume>: <fpage>561</fpage>–<lpage>573</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Fiorillo3"><label>8</label>
+<mixed-citation publication-type="book" xlink:type="simple">Fiorillo AR, McCarthy PJ, Flaig PP, Brandlen E, Norton DW, <etal>et al</etal>.. (2011) Paleontology and paleoenvironmental interpretation of the Kikak-Tegoseak Quarry (Prince Creek Formation: Late Cretaceous), northern Alaska: a multi-disciplinary study of a high-latitude ceratopsian dinosaur bonebed. In: Ryan MJ, Chinnery-Allgier BJ, Eberth DA, editors. New Perspectives on Horned Dinosaurs. Bloomington: University of Indiana Press. pp. 456–477.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Flaig1"><label>9</label>
+<mixed-citation publication-type="book" xlink:type="simple">Flaig PP, McCarthy PJ, Fiorillo AR (2011) A tidally influenced, high-latitude alluvial/coastal plain: the Late Cretaceous (Maastrichtian) Prince Creek Formation, North Slope, Alaska. In: North C, Davidson S, Leleu S, editors. From River to Rock Record: The Preservation of Fluvial Sediments and Their Subsequent Interpretation. SEPM Special Publication 97. pp. 233–264.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Gradstein1"><label>10</label>
+<mixed-citation publication-type="book" xlink:type="simple">Gradstein FM, Ogg JG, Schmitz M, Ogg GM (2012) The Geologic Time Scale. Boston: Elsevier. 1176 p.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Eberth1"><label>11</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Eberth</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>2010</year>) <article-title>Stratigraphy, sedimentology, and taphonomy of the <italic>Albertosaurus</italic> bonebed (upper Horseshoe Canyon Formation; Maastrichtian), southern Alberta, Canada</article-title>. <source>Can J Earth Sci</source> <volume>47</volume>: <fpage>1119</fpage>–<lpage>1143</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Carr2"><label>12</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carr</surname><given-names>TD</given-names></name> (<year>2010</year>) <article-title>A taxonomic assessment of the type species of <italic>Albertosaurus sarcophagus</italic> and the identity of Tyrannosauridae (Dinosauria, Coelurosauria) in the <italic>Albertosaurus</italic> bonebed from the Horseshoe Canyon Formation (Campanian-Maastrichtian, Late Cretaceous)</article-title>. <source>Can J Earth Sci</source> <volume>47</volume>: <fpage>1213</fpage>–<lpage>1226</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Brusatte2"><label>13</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brusatte</surname><given-names>SL</given-names></name>, <name name-style="western"><surname>Benson</surname><given-names>RBJ</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name> (<year>2011</year>) <article-title>The anatomy of <italic>Dryptosaurus aquilunguis</italic> (Dinosauria: Theropoda) and a review of its tyrannosauroid affinities</article-title>. <source>Am Mus Nov</source> <volume>3717</volume>: <fpage>1</fpage>–<lpage>53</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Conrad1"><label>14</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Conrad</surname><given-names>JE</given-names></name>, <name name-style="western"><surname>McKee</surname><given-names>EH</given-names></name>, <name name-style="western"><surname>Turrin</surname><given-names>DB</given-names></name> (<year>1990</year>) <article-title>Age of tephra beds at the Ocean Point Dinosaur Locality, North Slope, Alaska, based on K-Ar and <sup>40</sup>Ar/<sup>39</sup>Ar analyses</article-title>. <source>US Geol Surv Bull</source> <volume>1990-C</volume>: <fpage>1</fpage>–<lpage>12</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Owen1"><label>15</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Owen</surname><given-names>R</given-names></name> (<year>1842</year>) <article-title>Report on British Fossil Reptiles. Pt. II. Rep</article-title>. <source>Br Assoc Adv Sci</source> <volume>11</volume>: <fpage>60</fpage>–<lpage>204</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Padian1"><label>16</label>
+<mixed-citation publication-type="book" xlink:type="simple">Padian K, May CL (1993) The earliest dinosaurs. In: Lucas SG, Morales M, editors. The Nonmarine Triassic. Albuquerque: New Mexico Museum of Natural History and Science Bulletin, Number 3. pp. 379–381.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Marsh1"><label>17</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Marsh</surname><given-names>OC</given-names></name> (<year>1881</year>) <article-title>Principal characters of American Jurassic dinosaurs</article-title>. <source>Part V Am J Sci</source> <volume>series 3 21</volume>: <fpage>417</fpage>–<lpage>423</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Gauthier1"><label>18</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gauthier</surname><given-names>J</given-names></name> (<year>1986</year>) <article-title>Saurischian monophyly and the origin of birds</article-title>. <source>Mem Calif Acad Sci</source> <volume>8</volume>: <fpage>1</fpage>–<lpage>55</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Holtz1"><label>19</label>
+<mixed-citation publication-type="book" xlink:type="simple">Holtz TR Jr (2004) Tyrannosauroidea. In: Weishampel DB, Dodson P, Osmólska H, editors. The Dinosauria, Second Edition. Berkeley: University of California Press. pp. 111–136.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Hurum1"><label>20</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hurum</surname><given-names>JH</given-names></name>, <name name-style="western"><surname>Sabath</surname><given-names>K</given-names></name> (<year>2003</year>) <article-title>Giant theropod dinosaurs from Asia and North America: skulls of <italic>Tarbosaurus bataar</italic> and <italic>Tyrannosaurus rex</italic> compared</article-title>. <source>Acta Palaeontol Pol</source> <volume>48</volume>: <fpage>161</fpage>–<lpage>190</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Carr3"><label>21</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carr</surname><given-names>TD</given-names></name>, <name name-style="western"><surname>Williamson</surname><given-names>TE</given-names></name> (<year>2004</year>) <article-title>Diversity of late Maastrichtian Tyrannosauridae (Dinosauria: Theropoda) from western North America</article-title>. <source>Zool Journ Linn Soc</source> <volume>148</volume>: <fpage>479</fpage>–<lpage>523</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Carr4"><label>22</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carr</surname><given-names>TD</given-names></name>, <name name-style="western"><surname>Williamson</surname><given-names>TE</given-names></name>, <name name-style="western"><surname>Schwimmer</surname><given-names>DR</given-names></name> (<year>2005</year>) <article-title>A new genus and species of tyrannosauroid from the Late Cretaceous (Middle Campanian) Demopolis Formation of Alabama</article-title>. <source>J Vertebr Paleontol</source> <volume>25</volume>: <fpage>119</fpage>–<lpage>143</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Carr5"><label>23</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carr</surname><given-names>TD</given-names></name>, <name name-style="western"><surname>Williamson</surname><given-names>TE</given-names></name>, <name name-style="western"><surname>Britt</surname><given-names>BB</given-names></name>, <name name-style="western"><surname>Stadtman</surname><given-names>K</given-names></name> (<year>2011</year>) <article-title>Evidence for high taxonomic and morphologic tyrannosauroid diversity in the Late Cretaceous (Late Campanian) of the American Southwest and a new short-skulled tyrannosaurid from the Kaiparowits formation of Utah</article-title>. <source>Naturwissenschaften</source> <volume>98</volume>: <fpage>241</fpage>–<lpage>247</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Loewen1"><label>24</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Loewen</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Irmis</surname><given-names>RB</given-names></name>, <name name-style="western"><surname>Sertich</surname><given-names>JJW</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name> (<year>2013</year>) <article-title>Tyrant dinosaur evolution tracks the rise and fall of Late Cretaceous oceans</article-title>. <source>PLoS ONE</source> <volume>8</volume>: <fpage>1</fpage>–<lpage>14 (Issue 11), e79420</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0079420" xlink:type="simple">10.1371/journal.pone.0079420</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091287-Currie1"><label>25</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>2003</year>) <article-title>Cranial anatomy of tyrannosaurid dinosaurs from the Late Cretaceous of Alberta, Canada</article-title>. <source>Acta Palaeontol Pol</source> <volume>48</volume>: <fpage>191</fpage>–<lpage>226</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Bakker1"><label>26</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bakker</surname><given-names>RT</given-names></name>, <name name-style="western"><surname>Williams</surname><given-names>ML</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>P</given-names></name> (<year>1988</year>) <article-title><italic>Nanotyrannus</italic>, a new genus of pygmy tyrannosaur, from the latest Cretaceous of Montana</article-title>. <source>Hunteria</source> <volume>1</volume>: <fpage>1</fpage>–<lpage>30</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Witmer1"><label>27</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Ridgely</surname><given-names>RC</given-names></name> (<year>2010</year>) <article-title>The Cleveland tyrannosaur skull (<italic>Nanotyrannus</italic> or <italic>Tyrannosaurus</italic>): new findings based on CT scanning, with special reference to the braincase</article-title>. <source>Hunteria</source> <volume>57</volume>: <fpage>61</fpage>–<lpage>81</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Larson1"><label>28</label>
+<mixed-citation publication-type="book" xlink:type="simple">Larson P (2013) The case for <italic>Nanotyrannus</italic>. In Parrish JM, Molnar RE, Currie PJ, editors. Tyrannosaurid Paleobiology. Bloomington, Indiana University Press. pp.15–53.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Tsuihiji1"><label>29</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tsuihiji</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Watabe</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Tsogtbaatar</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Tsubamoto</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Barsbold</surname><given-names>R</given-names></name>, <etal>et al</etal>. (<year>2011</year>) <article-title>Cranial osteology of a juvenile specimen of <italic>Tarbosaurus bataar</italic> (Theropoda, Tyrannosauridae) from the Nemegt Formation (Upper Cretaceous) of Bugin Tsav, Mongolia</article-title>. <source>J Vertebr Paleontol</source> <volume>31</volume>: <fpage>497</fpage>–<lpage>517</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Brusatte3"><label>30</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brusatte</surname><given-names>SL</given-names></name>, <name name-style="western"><surname>Benson</surname><given-names>RBJ</given-names></name> (<year>2013</year>) <article-title>The systematics of Late Jurassic tyrannosauroid theropods from Europe and North America</article-title>. <source>Acta Palaeontol Pol</source> <volume>58</volume>: <fpage>47</fpage>–<lpage>54 (2013)</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Fowler1"><label>31</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fowler</surname><given-names>DW</given-names></name>, <name name-style="western"><surname>Woodward</surname><given-names>HN</given-names></name>, <name name-style="western"><surname>Freedman</surname><given-names>EA</given-names></name>, <name name-style="western"><surname>Larson</surname><given-names>PL</given-names></name>, <name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name> (<year>2011</year>) <article-title>Reanalysis of “<italic>Raptorex kriegsteini</italic>”: a juvenile tyrannosaurid dinosaur from Mongolia</article-title>. <source>PLoS ONE</source> <volume>6</volume>: <fpage>1</fpage>–<lpage>6 (Issue 6), e21376</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0021376" xlink:type="simple">10.1371/journal.pone.0021376</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091287-Maddison1"><label>32</label>
+<mixed-citation publication-type="other" xlink:type="simple">Maddison DR, Maddison WP (2005) MacClade 4. <ext-link ext-link-type="uri" xlink:href="http://macclade.org/macclade.html" xlink:type="simple">http://macclade.org/macclade.html</ext-link>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Swofford1"><label>33</label>
+<mixed-citation publication-type="book" xlink:type="simple">Swofford DL (2002) PAUP*: Phylogenetic Analysis Using Parsimony (and other methods) 4.0 Beta. Sunderland: Sinaur Associates.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Maddison2"><label>34</label>
+<mixed-citation publication-type="other" xlink:type="simple">Maddison WP, Maddison DR (2011) Mesquite: a modular system for evolutionary analysis. Version 2.75 <ext-link ext-link-type="uri" xlink:href="http://mesquiteproject.org" xlink:type="simple">http://mesquiteproject.org</ext-link></mixed-citation>
+</ref>
+<ref id="pone.0091287-Archibald1"><label>35</label>
+<mixed-citation publication-type="book" xlink:type="simple">Archibald JD (1996) Dinosaur Extinction and the End of an Era: What the Fossils Say. New York: Columbia University Press. 238 pp.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Lehman1"><label>36</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lehman</surname><given-names>TM</given-names></name> (<year>1987</year>) <article-title>Late Maastrichtian paleoenvironments and dinosaur biogeography in the Western Interior of North America</article-title>. <source>Palaeogeogr Palaeoclimatol Palaeoecol</source> <volume>60</volume>: <fpage>189</fpage>–<lpage>217</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Lehman2"><label>37</label>
+<mixed-citation publication-type="book" xlink:type="simple">Lehman TM (2001) Late Cretaceous dinosaur provinciality. In: Tanke DH, Carpenter K, editors. Mesozoic Vertebrate Life. Bloomington: Indiana University Press. pp.310–328.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Sampson1"><label>38</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name>, <name name-style="western"><surname>Loewen</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Farke</surname><given-names>AA</given-names></name>, <name name-style="western"><surname>Roberts</surname><given-names>EM</given-names></name>, <name name-style="western"><surname>Forster</surname><given-names>CA</given-names></name>, <etal>et al</etal>. (<year>2010</year>) <article-title>New horned dinosaurs from Utah provide evidence for intracontinental dinosaur endemism</article-title>. <source>PLoS ONE</source> <volume>5</volume>: <fpage>1</fpage>–<lpage>12 (Issue 9), e12292</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0012292" xlink:type="simple">10.1371/journal.pone.0012292</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091287-Sampson2"><label>39</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name>, <name name-style="western"><surname>Lund</surname><given-names>EK</given-names></name>, <name name-style="western"><surname>Loewen</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Farke</surname><given-names>AA</given-names></name>, <name name-style="western"><surname>Clayton</surname><given-names>KE</given-names></name> (<year>2013</year>) <article-title>A remarkable short-snouted horned dinosaur from the Late Cretaceous (late Campanian) of southern Laramidia</article-title>. <source>Proc R Soc Long B Biol Sci</source> <volume>280</volume>: <fpage>1</fpage>–<lpage>7</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rspb.2013.1186" xlink:type="simple">10.1098/rspb.2013.1186</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091287-Cracraft1"><label>40</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Cracraft</surname><given-names>J</given-names></name> (<year>1985</year>) <article-title>Biological diversification and its causes</article-title>. <source>Ann Missouri Bot Gar</source> <volume>72</volume>: <fpage>794</fpage>–<lpage>822</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Badgely1"><label>41</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Badgely</surname><given-names>C</given-names></name> (<year>2010</year>) <article-title>Tectonics, topography, and mammalian diversity</article-title>. <source>Ecograph</source> <volume>33</volume>: <fpage>220</fpage>–<lpage>231</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Gates1"><label>42</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gates</surname><given-names>TA</given-names></name>, <name name-style="western"><surname>Prieto-Marquez</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Zanno</surname><given-names>LE</given-names></name> (<year>2012</year>) <article-title>Mountain building triggered Late Cretaceous North American megaherbivore dinosaur radiation</article-title>. <source>PLoS ONE</source> <volume>7</volume>: <fpage>1</fpage>–<lpage>10 (Issue 8), e42135</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0042135" xlink:type="simple">10.1371/journal.pone.0042135</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091287-Badgley1"><label>43</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Badgley</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Finarelli</surname><given-names>AJ</given-names></name> (<year>2013</year>) <article-title>Diversity dynamics of mammals in relation to tectonic and climatic history: comparison of three Neogene records from North America</article-title>. <source>Paleobiol</source> <volume>39</volume>: <fpage>373</fpage>–<lpage>399</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Lawver1"><label>44</label>
+<mixed-citation publication-type="book" xlink:type="simple">Lawver LA, Grantz A, Gahagan LM (2002) Plate kinematic evolution of the present Arctic region since the Ordovician. In: Miller EL, Grantz AW, Kemperer SL, editors. Geology and Tectonic Development of the Bering and Chukchi Shelves and Adjacent Arctic Margins. Geol Soc America Spec Paper 360. pp. 333–358.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Spicer1"><label>45</label>
+<mixed-citation publication-type="book" xlink:type="simple">Spicer RA (2003) The changing climate and biota. In: Skelton PW, editor. The Cretaceous World. Cambridge: Cambridge University Press. pp. 86–162.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Spicer2"><label>46</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Spicer</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Herman</surname><given-names>AB</given-names></name> (<year>2010</year>) <article-title>The Late Cretaceous environment of the Arctic: a quantitative reassessment based on plant fossils</article-title>. <source>Palaeogeogr Palaeoclimatol Palaeoecol</source> <volume>295</volume>: <fpage>423</fpage>–<lpage>442</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Fiorillo4"><label>47</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fiorillo</surname><given-names>AR</given-names></name> (<year>2008</year>) <article-title>On the occurrence of exceptionally large teeth of <italic>Troodon</italic> (Dinosauria: Saurischia) from the Late Cretaceous of northern Alaska</article-title>. <source>PALAIOS</source> <volume>23</volume>: <fpage>322</fpage>–<lpage>328</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0091287-Zelenitsky1"><label>48</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zelenitsky</surname><given-names>DK</given-names></name>, <name name-style="western"><surname>Therrien</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Kobayashi</surname><given-names>Y</given-names></name> (<year>2009</year>) <article-title>Olfactory acuity in theropods: palaeobiological and evolutionary implications</article-title>. <source>Proc R Soc B</source> <volume>276</volume>: <fpage>267</fpage>–<lpage>273</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rspb.2008.1075" xlink:type="simple">10.1098/rspb.2008.1075</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091287-Carbone1"><label>49</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carbone</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Pettorelli</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Stephens</surname><given-names>PA</given-names></name> (<year>2011</year>) <article-title>Intra-guild competition and its implications for one of the biggest terrestrial predators, <italic>Tyrannosaurus rex</italic></article-title>. <source>Proc R Soc B</source> <volume>278</volume>: <fpage>2682</fpage>–<lpage>2690</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rspb.2010.2497" xlink:type="simple">10.1098/rspb.2010.2497</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091287-Carbone2"><label>50</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carbone</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Teacher</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Rowcliffe</surname><given-names>JM</given-names></name> (<year>2007</year>) <article-title>The costs of carnivory</article-title>. <source>PLoS Biol</source> <volume>5</volume>: <fpage>0363</fpage>–<lpage>0368 (Issue 2) e22</lpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pbio.0050022" xlink:type="simple">10.1371/journal.pbio.0050022</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0091287-Lomolino1"><label>51</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lomolino</surname><given-names>MV</given-names></name> (<year>2005</year>) <article-title>Body size evolution in insular vertebrates</article-title>. <source>J Biogeogr</source> <volume>32</volume>: <fpage>1683</fpage>–<lpage>1699</lpage>.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>

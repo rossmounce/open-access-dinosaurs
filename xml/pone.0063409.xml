@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group>
+<journal-title>PLoS ONE</journal-title></journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">PONE-D-13-08574</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pone.0063409</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Anatomy and physiology</subject><subj-group><subject>Musculoskeletal system</subject><subj-group><subject>Bone</subject></subj-group></subj-group></subj-group><subj-group><subject>Paleontology</subject><subj-group><subject>Vertebrate paleontology</subject></subj-group></subj-group><subj-group><subject>Population biology</subject><subj-group><subject>Epidemiology</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Earth sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Social and behavioral sciences</subject><subj-group><subject>Anthropology</subject><subj-group><subject>Paleoanthropology</subject></subj-group></subj-group><subj-group><subject>Archaeology</subject><subj-group><subject>Archaeological excavation</subject></subj-group></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>Palaeopathological Survey of a Population of <italic>Mapusaurus</italic> (Theropoda: Carcharodontosauridae) from the Late Cretaceous Huincul Formation, Argentina</article-title>
+<alt-title alt-title-type="running-head"><italic>Mapusaurus</italic> Pathology</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Bell</surname><given-names>Phil R.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Coria</surname><given-names>Rodolfo A.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><addr-line>Pipestone Creek Dinosaur Initiative, County of Grande Prairie No. 1, Clairmont, Alberta, Canada</addr-line></aff>
+<aff id="aff2"><label>2</label><addr-line>Universidad Nacional de Río Negro, Sede Alto Valle, Gral Roca, Río Negro, Argentina</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple"><name name-style="western"><surname>Butler</surname><given-names>Richard J.</given-names></name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>Ludwig-Maximilians-Universität München, Germany</addr-line></aff>
+<author-notes>
+<corresp id="cor1">* E-mail: <email xlink:type="simple">pbell@countygp.ab.ca</email></corresp>
+<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn>
+<fn fn-type="con"><p>Conceived and designed the experiments: PRB. Performed the experiments: PRB. Analyzed the data: PRB. Contributed reagents/materials/analysis tools: PRB RC. Wrote the paper: PRB RC.</p></fn>
+</author-notes>
+<pub-date pub-type="collection"><year>2013</year></pub-date>
+<pub-date pub-type="epub"><day>15</day><month>5</month><year>2013</year></pub-date>
+<volume>8</volume>
+<issue>5</issue>
+<elocation-id>e63409</elocation-id>
+<history>
+<date date-type="received"><day>25</day><month>2</month><year>2013</year></date>
+<date date-type="accepted"><day>1</day><month>4</month><year>2013</year></date>
+</history>
+<permissions>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Bell, Coria</copyright-holder><license xlink:type="simple"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions>
+<abstract>
+<p>Paleoepidemiology (the study of disease and trauma in prehistoric populations) provides insight into the distribution of disease and can have implications for interpreting behavior in extinct organisms. A monospecific bonebed of the giant carcharodontosaurid <italic>Mapusaurus</italic> (minimum number of individuals = 9) from the Cañadón del Gato site, Neuquén Province, Argentina (Cenomanian) provides a rare opportunity to investigate disease within a single population of this important apex predator. Visual inspection of 176 skeletal elements belonging to a minimum of nine individuals yielded a small number of abnormalities on a cervical vertebra, two ribs, pedal phalanx, and an ilium. These are attributed to traumatic (two cases), infectious (two cases) and anomalous (one case) conditions in a minimum of one individual. The emerging picture for large theropod (abelisaurids, allosaurids, carcharodontosaurids, tyrannosaurids) populations suggests that 1) osseous abnormalities were relatively rare (7–19% of individuals) but consistently present, and 2) trauma was a leading factor in the frequency of pathological occurrences, evidence of an active, often perilous lifestyle.</p>
+</abstract>
+<funding-group><funding-statement>The authors have no support or funding to report.</funding-statement></funding-group><counts><page-count count="6"/></counts></article-meta>
+</front>
+<body><sec id="s1">
+<title>Introduction</title>
+<p><italic>Mapusaurus</italic> is a large (up to 11 m long) carcharodontosaurid, comparable in size to the largest known theropods including <italic>Giganotosaurus</italic> and <italic>Tyrannosaurus</italic>. Hundreds of disarticulated elements of <italic>Mapusaurus</italic> were collected from the type locality in a single bonebed at the Cañadón del Gato site 20 km southwest of the town of Plaza Huincul, Neuquén Province, Argentina during successive fieldtrips from 1996 to 2000. The material, collected from the Late Cretaceous (Cenomanian) Huincul Formation, is relatively poorly preserved; bone surfaces are frequently weathered and individual elements exhibit differential compaction. Nevertheless, this monospecific assemblage has important implications regarding the ecology and social behavior of these animals <xref ref-type="bibr" rid="pone.0063409-Coria1">[1]</xref>, <xref ref-type="bibr" rid="pone.0063409-Currie1">[2]</xref>.</p>
+<p>Remains from the Cañadón del Gato bonebed suggest the presence of a minimum of seven-to-nine individuals ranging in length from 5.5 m to 11 m. All elements were found disarticulated and were subject to a complex taphonomic history of decomposition, trampling, reworking, and final burial <xref ref-type="bibr" rid="pone.0063409-Coria1">[1]</xref>. The depositional environment has been interpreted as an ephemeral and/or seasonal channel deposit within a semiarid or arid palaeoenvironment <xref ref-type="bibr" rid="pone.0063409-Eberth1">[3]</xref>.</p>
+<p>Close visual inspection of prepared elements from the Cañadón del Gato bonebed identify multiple pathological elements not mentioned in the original osteological description of <italic>Mapusaurus</italic> <xref ref-type="bibr" rid="pone.0063409-Coria1">[1]</xref>. The presence of osteological abnormalities from this site provides a rare opportunity to examine the types and frequency of pathological changes in a single theropod population. Palaeoepidemiological reports have been limited to three such studies on theropods: the abelisaurid <italic>Majungasaurus crenatissimus</italic> from Madagascar <xref ref-type="bibr" rid="pone.0063409-Farke1">[4]</xref>; the tyrannosaurid <italic>Albertosaurus sarcophagus</italic> from Dry Island in Alberta, Canada <xref ref-type="bibr" rid="pone.0063409-Bell1">[5]</xref>; and perhaps most spectacularly in <italic>Allosaurus fragilis</italic> from the Cleveland-Lloyd quarry, Utah <xref ref-type="bibr" rid="pone.0063409-Hanna1">[6]</xref>. Such sites offer insights into the susceptibility of certain taxa to disease and relative frequencies of injury that have implications for behavior and survival of these animals <xref ref-type="bibr" rid="pone.0063409-Farke1">[4]</xref>.</p>
+<p>With the exception of bite marks <xref ref-type="bibr" rid="pone.0063409-Rothschild1">[7]</xref>, pathological conditions have not been noted previously in carcharodontosaurids. The purpose of this paper is to document the types and frequencies of pathological changes in <italic>Mapusaurus</italic> from the Cañadón del Gato bonebed, which are compared to the slowly-growing list of palaeoepidemiological studies for large theropods from across the globe.</p>
+</sec><sec id="s2" sec-type="materials|methods">
+<title>Materials and Methods</title>
+<p>A total of 176 catalogued cranial and postcranial elements from the <italic>Mapusaurus</italic> bonebed at Cañadón del Gato (Museo Carmen Funes, Paleontología de Vertebrados [Plaza Huincul, Neuquén, Argentina], MCF-PVPH-108 series) were visually inspected for osteological abnormalities. All material is accessioned in the vertebrate palaeontology collection at Museo Carmen Funes, Plaza Huincul (Neuquén, Argentina). Elements were compared with a subset of ‘normal’ <italic>Mapusaurus</italic> bones from the same locality to assess for potential pathological changes. A minimum of seven individuals was determined from metatarsals (total body lengths ranging from 6 to 7.3 m) <xref ref-type="bibr" rid="pone.0063409-Coria1">[1]</xref> although other skeletal material reveals the presence of at least two additional individuals (5.5 and 9.8 m in length, respectively) bringing the total minimum number of individuals from the bonebed up to nine <xref ref-type="bibr" rid="pone.0063409-Coria1">[1]</xref>. It should be noted that most of the bones from the <italic>Mapusaurus</italic> bonebed are poorly preserved. Bone surfaces are generally highly fractured and elements are often incomplete, potentially obscuring other bone abnormalities during our observations.</p>
+<p>Following each description, an etiological hypothesis and differential diagnoses are offered for each pathological element based on comparisons available from human and modern vertebrate pathology literature. Although this approach does not follow the desired extant phylogenetic bracket <xref ref-type="bibr" rid="pone.0063409-Witmer1">[8]</xref> it is applicable because: 1. Directly comparable osteological material (e.g. avian or crocodilian examples) is either poorly known or unavailable, and 2. It provides a testable hypothesis for future examinations. Because of these limitations, however, we use a modified version of Hanna’s <xref ref-type="bibr" rid="pone.0063409-Hanna1">[6]</xref> classification of bone abnormalities based on broader etiology: traumatic (resulting from injury), infectious (resulting from infection = osteomyelitis), traumatic-infectious (injury followed by secondary infection), developmental (resulting from growth disturbance during development), and anomalous (of uncertain origin). These categories are useful because they avoid the temptation to over interpret the evidence. While bone disorders in non-avian theropods may closely resemble conditions in living vertebrates, such as human patients (uniformitarianism remains a key assumption in palaeopathology), it is still unclear precisely how dinosaur bone reacted to disease <xref ref-type="bibr" rid="pone.0063409-Hanna1">[6]</xref> and caution is recommended when attempting to interpret evidence in dinosaur palaeopathology. No permits were required for the described study, which complied with all relevant regulations.</p>
+</sec><sec id="s3">
+<title>Results</title>
+<sec id="s3a">
+<title>Cervical Vertebra</title>
+<p>An unfused cervical neural arch (MCF-PVPH 108–90) preserves a single pathological cavity on the posterolateral margin of the right prezygapophyseal facet (<xref ref-type="fig" rid="pone-0063409-g001">Fig. 1H,I</xref>). The lesion is tear-drop shaped (20×9 mm), tapering posteriorly, and up to 6 mm deep. Perilesional growth is absent and the edges are rounded. The erosion is localized and does not encroach onto the articular surface of the prezygapophysis. Rheumatoid arthritis presents as periarticular erosions with smooth inner walls and rounded edges similar to that in MCF-PVPH 108–90. New bone growth is notably absent. However, rheumatoid arthritis does not affect the zygapophyses in human subjects <xref ref-type="bibr" rid="pone.0063409-Resnick1">[9]</xref>. Infection can cause osseous erosions; however, this is usually accompanied by exuberant bone growth, which is absent in MCF-PVPH 108–90. Some forms of bacterial infection, such as tuberculosis, produce erosions with minimal new bone formation <xref ref-type="bibr" rid="pone.0063409-Resnick1">[9]</xref>, <xref ref-type="bibr" rid="pone.0063409-Hershkovitz1">[10]</xref> and, unlike rheumatoid arthritis, can affect the zygapophyses. Because tuberculosis and other infections are named for a specific bacterium (e.g. <italic>Mycobacterium tuberculosis</italic>), we refrain from giving MCF-PVPH 108–90 a more specific diagnosis and simplify classify the lesion as infectious.</p>
+<fig id="pone-0063409-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0063409.g001</object-id><label>Figure 1</label><caption>
+<title>Pathological postcranial elements in <italic>Mapusaurus roseae</italic>.</title>
+<p>A. Right dorsal rib (MCF-PVPH 108–175); B. Dorsal rib (MCF-PVPH 108–220); C. Close up of boxed region in A showing erosions (arrows) on overtubulated area; D. Close up of boxed region in B; E. ?Left pedal phalanx III-1 (MCF-PVPH 108–23) showing marginal erosion (arrow) on distal articular surface; F. Oblique view of lesion identified in E; G. Proximal articular view of MCF-PVPH 108–23 showing elongate articular surface irregularities (arrows); H. Mid-caudal neural arch (MCF-PVPH 108–90) in dorsal view showing location of erosion (arrow) on right prezygapophysis; I. Posterolateral view of lesion identified in H. Scales in A, B, E, G, H  = 5 cm; scale in I  = 1 cm. Scale increments in C, D, F  = 1 cm.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0063409.g001" position="float" xlink:type="simple"/></fig></sec><sec id="s3b">
+<title>Dorsal Ribs</title>
+<p>MCF-PVPH 108–175 is an incomplete right dorsal rib that lacks both the head and the distal half of the element. The rib shaft is weakly expanded (overtubulated) along its medial edge approximately 10 cm from the proximal end of the bone (<xref ref-type="fig" rid="pone-0063409-g001">Fig. 1A</xref>). The expanded region is approximately 3 cm long and grades imperceptibly into the surrounding unaffected bone. The surface of the affected area also preserves an irregular-walled (i.e. not smooth), oblong lesion that does not appear to have exposed the deeper trabecular bone. The lesion measures approximately 27 mm long and 9 mm wide (<xref ref-type="fig" rid="pone-0063409-g001">Fig. 1C</xref>). Slight overtubulation of the rib is indicative of a well-healed fracture (trauma) and the presence of an erosive lesion may be indicative of secondary suppurative (pus forming) osteomyelitis.</p>
+<p>A second incomplete dorsal rib of uncertain position (MCF-PVPH 108–220) exhibits substantial overtubulation of the shaft (<xref ref-type="fig" rid="pone-0063409-g001">Fig. 1B,D</xref>). The rib is lacking both proximal and distal ends and appears to have broken (postmortem) part way through the pathologic region. The affected area is an elongate bulge and, as preserved, measures more than 7 cm in maximal length (<xref ref-type="fig" rid="pone-0063409-g001">Fig. 1D</xref>). This bulge is restricted to one edge (?medial) of the element and grades smoothly into the surrounding unaffected bone. The bone surface along the expanded area does not differ significantly from the surrounding unaffected parts of the element; however, there is a faint interfingering of bony spicules that meander across the surface of the lesion roughly perpendicular to the long axis of the element. The smooth texture, overtubulation, and interfingering of bone is characteristic of an incomplete but well-healed fracture.</p>
+</sec><sec id="s3c">
+<title>Ilium</title>
+<p>MCF-PVPH 108–181 is a partial right ilium comprising the ventral part of the body including the anterior part of the acetabulum, ischiadic peduncle, and the proximal segment of the postacetabular process (<xref ref-type="fig" rid="pone-0063409-g002">Fig. 2</xref>). Five erosional lesions are preserved on the ventrolateral surface of the ilium in the vicinity of the acetabulum and brevis shelf. All are deep (up to and exceeding 10 mm in depth), elliptical in outline, and penetrate obliquely into the bone. Because lesions penetrate at an angle to the bone surface, the margin is often marked by a sharp ‘lip’. Lesions are of variable size ranging from 8 mm to 50 mm in maximum dimension. Perilesional bone growth is absent. The internal surfaces of the cavities are smooth and do not reveal trabecular bone (<xref ref-type="fig" rid="pone-0063409-g002">Fig. 2B–D</xref>).</p>
+<fig id="pone-0063409-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0063409.g002</object-id><label>Figure 2</label><caption>
+<title>Abnormalities in a partial <italic>Mapusaurus roseae</italic> right ilium (MCF-PVPH 108–181).</title>
+<p>A. Lateral view of acetabular region; B–D, close ups of elliptical lesions; E, <italic>Mapusaurus</italic> right ilium showing position (dark grey) of MCF-PVPH 108–181. Scale in A  = 10 cm. Scale increments in close-up photographs  = 1 cm.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0063409.g002" position="float" xlink:type="simple"/></fig>
+<p>The ilium of <italic>Mapusaurus</italic> is highly pneumatic<sup>1</sup> and it is possible that one or two of these fenestrae are in fact continuous with the pneumatic diverticulae. Coria and Currie <xref ref-type="bibr" rid="pone.0063409-Coria1">[1]</xref> also noted the presence of the pits within the margins of the brevis fossa in MCF-PVPH 108–181 and a second specimen from the bonebed (MCF-PVPH 108–245) suggesting they may be connected to the lateral caudofemoralis musculature. However, the location of the other lesions in MCF-PVPH 108–181 suggest they are pathological in origin.</p>
+<p>Smooth-walled erosions similar to those in MCF-PVPH 108–181 may form as a result of osteomyelitis, fungal disease, bone tumors, or cancer. Pus-draining sinuses that form as a result of infection (osteomyelitis) are typically accompanied by periosteal reaction and rapidly-formed new bone. The latter is characterized by disorganized bone texture. Fungal diseases (such as coccidioidomycosis and blastomycosis) can also produce erosions; however, these are accompanied by short, blunt spicules of new bone (osteophytes) and periosteal reaction <xref ref-type="bibr" rid="pone.0063409-Hershkovitz1">[10]</xref>. The absence of reactive bone and periosteal reaction in MCF-PVPH 108–181 argues against either fungal disease or osteomyelitis as a possible diagnosis. Several types of malignant tumors (cancer) produce lesions similar to those seen in MCF-PVPH 108–181. Lesions associated with eosinophilic granuloma are predominantly localized in human subjects to the vertebrae and pelvis where they occur as ‘space occupying masses’ with little reactive bone growth <xref ref-type="bibr" rid="pone.0063409-Rothschild2">[11]</xref>. The lesions have effaced (indistinct) trabeculae and periosteal reaction is variably absent. Myeloma produces sharply-defined, spheroid erosions with smooth borders and effaced trabeculae <xref ref-type="bibr" rid="pone.0063409-Rothschild3">[12]</xref>. Lesions are variable in size and secondary bone formation and periosteal reaction does not occur. When cancer spreads to a secondary location (metastatic cancer), it often produces multiple holes of variable size <xref ref-type="bibr" rid="pone.0063409-Rothschild2">[11]</xref>. These lesions are elliptical with loss of trabecular bone and periosteal reaction is usually absent <xref ref-type="bibr" rid="pone.0063409-Rothschild3">[12]</xref>. Metastatic cancer and myeloma both produce lesions that coalesce. Total absence of remodeling in myeloma distinguishes it from metastatic cancer <xref ref-type="bibr" rid="pone.0063409-Rothschild3">[12]</xref>. Hematologic cancer (leukemia) produces large numbers of small (up to several millimetres in diameter), smooth-walled lesions <xref ref-type="bibr" rid="pone.0063409-Resnick2">[13]</xref>. The similarity of perforative lesions in MCF-PVPH 108–181 to tumor-related neoplasia suggests a possible etiology for such abnormalities in <italic>Mapusaurus</italic>; however, bone cysts, parasitic infection, or some other unidentified disease process cannot be ruled out. Therefore the exact etiology is unknown and the lesions are diagnosed as anomalous.</p>
+</sec><sec id="s3d">
+<title>Pedal Phalanx</title>
+<p>A single pedal phalanx III-1 (MCF-PVPH 108–23) bears a number of erosive lesions on the proximal articular surface and the dorsal margin of the distal articular surface (<xref ref-type="fig" rid="pone-0063409-g001">Fig. 1E–G</xref>). Because of the symmetry of this element, it was not possible to identify whether MCF-PVPH 108–23 is from the left or the right pes. The entire surface of the proximal articular surface is uneven and pockmarked with erosive lesions giving it an overall disorganized appearance. Disruption of the bone surface is limited to the articular surface and reactive bone growth is altogether absent. The largest erosive features are several centimeters long with irregular walls up to 5 mm deep. The interior of the deepest cavities reveals trabecular bone with a unique ‘stringy’ texture owing to the parallel orientation of the trabeculae (<xref ref-type="fig" rid="pone-0063409-g001">Fig. 1G</xref>). A circular erosion also occurs on the dorsal margin of the distal articular surface (<xref ref-type="fig" rid="pone-0063409-g001">Fig. 1F</xref>). Some marginal thickening (sclerosis) of the periosteum is present.</p>
+<p>Articular surface irregularities may be cause by a variety of disorders including osteochondrosis, osteoarthritis, rheumatoid arthritis, avascular necrosis ( = osteochondritis desiccans, osteochondrosis desiccans, osteonecrosis), and also infection. In osteochondrosis, the resulting lesions are smooth-walled with sharply-delimited margins <xref ref-type="bibr" rid="pone.0063409-Rothschild4">[14]</xref> contrasting with the overall disorganized texture of the articular surface in MCF-PVPH 108–23. Osteoarthritis is linked to disruption of the cartilaginous lining of the joint and is non-erosive. Osteophyte formation around the periphery of the joint, characteristic of osteoarthritis, is absent in MCF-PVPH 108–23. Rheumatoid arthritis (an erosive form of arthritis) also produces similar erosions to those in MCF-PVPH 108–23. Erosions are polyarticular in distribution and occur at the margin of the joint capsule. Compromised blood supply to the bone leads to the death and subsequent loss of bony tissue in avascular necrosis <xref ref-type="bibr" rid="pone.0063409-Rothschild5">[15]</xref>, <xref ref-type="bibr" rid="pone.0063409-Moore1">[16]</xref>. Structural weakening leads to the collapse of the articular surface (focal subsidence) resulting in broad depressions and an overall uneven bone surface areas that lacks restorative bone growth similar to the erosions in MCF-PVPH 108–23. Joint infection can cause the loss of bone as a result of inflammation and decreased blood flow, which is accompanied by rapid formation of new bone that has a fibrous, disorganized texture. Pyogenic (pus-generating) infection also results in the formation of pus-draining sinus tracts (cloacae). Exuberant reactive bone growth and cloacae are absent in MCF-PVPH 108–23. Conversely, non-pyogenic forms of bacterial infection (e.g. tuberculosis), can result in marginal erosions with minimal or no reactive bone formation. Lesions form at the margin of the join capsule and invade the underlying subchondral bone. Minor reactive bone is present around the periphery of lesions <xref ref-type="bibr" rid="pone.0063409-Hershkovitz1">[10]</xref>, similar to MCF-PVPH 108–23. Lesions in MCF-PVPH 108–23 are therefore diagnosed as infectious.</p>
+</sec></sec><sec id="s4">
+<title>Discussion</title>
+<p>Pathological elements from the <italic>Mapusaurus</italic> bonebed are classified as traumatic (dorsal ribs MCF-PVPH 108–220, MCF-PVPH 108–175), infectious (cervical neural arch MCF-PVPH 108–90; pedal phalanx MCF-PVPH 108–23) and anomalous (ilium MCF-PVPH 108–181). Healed fractures are among the most commonly reported abnormalities in theropods typically localized on ribs and long bones <xref ref-type="bibr" rid="pone.0063409-Molnar1">[17]</xref>. The identification of two broken and rehealed ribs in the <italic>Mapusaurus</italic> sample from Cañadón del Gato is not surprising and in both cases represent ‘old’ injuries from which the animal(s) clearly recovered. In another palaeoepidemiologic study, rehealed fractures (affecting ribs and gastralia) were among the most common pathologies in a population of <italic>Albertosaurus</italic> from Alberta <xref ref-type="bibr" rid="pone.0063409-Bell1">[5]</xref>. Rehealed fractures were also common in <italic>Allosaurus</italic> from the Cleveland-Lloyd quarry <xref ref-type="bibr" rid="pone.0063409-Hanna1">[6]</xref> but were not confirmed from the <italic>Majungasaurus</italic> bonebed reported by Farke and O’Connor <xref ref-type="bibr" rid="pone.0063409-Farke1">[4]</xref>. Such activity-related injuries are directly related to behavior and have been cited as evidence of predaceous or at least active lifestyles in theropods <xref ref-type="bibr" rid="pone.0063409-Molnar1">[17]</xref> and there seems little doubt that <italic>Mapusaurus</italic> led an active life. The absence of healed fractures in <italic>Majungasaurus</italic> is likely a collection bias rather than of actual biological significance. The infectious lesions on the cervical neural arch and pedal phalanx were unlikely to have been debilitating at least at the time of death; however, had the animal(s) lived, prolongation to bacterial infection may have spread to other joints and severely hampered mobility (especially with respect to the pedal phalanx), with potentially fatal results. Conversely, the extensive erosions on the ilium were probably more painful but not responsible for the death of the animal (as indicated by the taphonomic setting <xref ref-type="bibr" rid="pone.0063409-Coria1">[1]</xref>, <xref ref-type="bibr" rid="pone.0063409-Eberth1">[3]</xref>).</p>
+<p>Visual inspection of 176 skeletal elements (MNI = 9) of the carcharodontosaurid <italic>Mapusaurus rosea</italic> from the Cañadón del Gato bonebed yielded a small number (n = 5; 2.8% of elements) of pathological bones belonging to at least one individual (11.1% of individuals). These constitute the first reported pathological conditions in any carcharodontosaurid. The frequency of pathological elements in <italic>Mapusaurus</italic> are in agreement with previous studies on theropod populations (<xref ref-type="table" rid="pone-0063409-t001">Table 1</xref>), which indicate relatively low numbers of skeletal abnormalities in a given population. Although the number of palaeoepidemiological studies is limited, these studies form an important database for assessing the frequency and types of skeletal abnormalities in theropod populations. These preliminary results provide an estimate for ‘normal’ incidents of disease and injury of between 7 and 19 per cent in a given population. These numbers will no doubt be refined with additional population surveys. Indeed, numerous theropod bonebeds are found worldwide and require palaeopathological investigation that will contribute significantly to the understanding of palaeoepidemiology within this clade (<xref ref-type="table" rid="pone-0063409-t002">Table 2</xref>).</p>
+<table-wrap id="pone-0063409-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0063409.t001</object-id><label>Table 1</label><caption>
+<title>Palaeoepidemiology of Large Theropods.</title>
+</caption><alternatives><graphic id="pone-0063409-t001-1" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0063409.t001" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Taxon</td>
+<td align="left" rowspan="1" colspan="1">No. of elementsexamined</td>
+<td align="left" rowspan="1" colspan="1">TotalMNI</td>
+<td align="left" rowspan="1" colspan="1">No. of pathologicalelements (%)</td>
+<td align="left" rowspan="1" colspan="1">PathologicalMNI</td>
+<td align="left" rowspan="1" colspan="1">Pathological %of population</td>
+<td align="left" rowspan="1" colspan="1">Reference</td>
+<td align="left" rowspan="1" colspan="1">Trauma</td>
+<td align="left" rowspan="1" colspan="1">infectious</td>
+<td align="left" rowspan="1" colspan="1">Traumatic-infectious</td>
+<td align="left" rowspan="1" colspan="1">Developmental</td>
+<td align="left" rowspan="1" colspan="1">Anomalous</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Allosaurus fragilis</italic></td>
+<td align="left" rowspan="1" colspan="1">?</td>
+<td align="left" rowspan="1" colspan="1">40+</td>
+<td align="left" rowspan="1" colspan="1">30 (?)</td>
+<td align="left" rowspan="1" colspan="1">?</td>
+<td align="left" rowspan="1" colspan="1">?</td>
+<td align="left" rowspan="1" colspan="1">Hanna <xref ref-type="bibr" rid="pone.0063409-Hanna1">[6]</xref></td>
+<td align="left" rowspan="1" colspan="1">7</td>
+<td align="left" rowspan="1" colspan="1">7</td>
+<td align="left" rowspan="1" colspan="1">2</td>
+<td align="left" rowspan="1" colspan="1">1</td>
+<td align="left" rowspan="1" colspan="1">1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Majungasaurus crenatissimus</italic></td>
+<td align="left" rowspan="1" colspan="1">181</td>
+<td align="left" rowspan="1" colspan="1">21</td>
+<td align="left" rowspan="1" colspan="1">8 (4.4)</td>
+<td align="left" rowspan="1" colspan="1">4</td>
+<td align="left" rowspan="1" colspan="1">19</td>
+<td align="left" rowspan="1" colspan="1">Farke andO’Connor <xref ref-type="bibr" rid="pone.0063409-Farke1">[4]</xref></td>
+<td align="left" rowspan="1" colspan="1">1<xref ref-type="table-fn" rid="nt101">*</xref></td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">1<xref ref-type="table-fn" rid="nt101">*</xref></td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Albertosaurus sarcophagus</italic></td>
+<td align="left" rowspan="1" colspan="1">190</td>
+<td align="left" rowspan="1" colspan="1">26</td>
+<td align="left" rowspan="1" colspan="1">6 (4.7)</td>
+<td align="left" rowspan="1" colspan="1">2</td>
+<td align="left" rowspan="1" colspan="1">7.7</td>
+<td align="left" rowspan="1" colspan="1">Bell <xref ref-type="bibr" rid="pone.0063409-Bell1">[5]</xref></td>
+<td align="left" rowspan="1" colspan="1">4</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Mapusaurus rosea</italic></td>
+<td align="left" rowspan="1" colspan="1">176</td>
+<td align="left" rowspan="1" colspan="1">9</td>
+<td align="left" rowspan="1" colspan="1">5 (2.8)</td>
+<td align="left" rowspan="1" colspan="1">1</td>
+<td align="left" rowspan="1" colspan="1">11.1</td>
+<td align="left" rowspan="1" colspan="1">Bell and Coria(this study)</td>
+<td align="left" rowspan="1" colspan="1">2</td>
+<td align="left" rowspan="1" colspan="1">1</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">2</td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt101"><label>*</label><p>Traumatic and traumatic-infectious conditions were tentatively identified by Farke and O’Connor <xref ref-type="bibr" rid="pone.0063409-Farke1">[4]</xref> although other causes could not be positively ruled out.</p></fn></table-wrap-foot></table-wrap><table-wrap id="pone-0063409-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0063409.t002</object-id><label>Table 2</label><caption>
+<title>Theropod Bonebeds as Potential Candidates for Palaeoepidemiological Studies.</title>
+</caption><alternatives><graphic id="pone-0063409-t002-2" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0063409.t002" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Taxon</td>
+<td align="left" rowspan="1" colspan="1">Site</td>
+<td align="left" rowspan="1" colspan="1">Age</td>
+<td align="left" rowspan="1" colspan="1">MNI</td>
+<td align="left" rowspan="1" colspan="1">References</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Archaeornithomimus asiaticus</italic></td>
+<td align="left" rowspan="1" colspan="1">Iren Dabasu, China</td>
+<td align="left" rowspan="1" colspan="1">Late Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">10+</td>
+<td align="left" rowspan="1" colspan="1">Currie and Eberth <xref ref-type="bibr" rid="pone.0063409-Currie1">[2]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Avimimus</italic> sp.</td>
+<td align="left" rowspan="1" colspan="1">Nemegt, Mongolia</td>
+<td align="left" rowspan="1" colspan="1">Late Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">10</td>
+<td align="left" rowspan="1" colspan="1">Currie et al. <xref ref-type="bibr" rid="pone.0063409-Currie2">[18]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Coelophysis bauri</italic></td>
+<td align="left" rowspan="1" colspan="1">Ghost Ranch, USA</td>
+<td align="left" rowspan="1" colspan="1">Triassic</td>
+<td align="left" rowspan="1" colspan="1">1000+</td>
+<td align="left" rowspan="1" colspan="1">Colbert <xref ref-type="bibr" rid="pone.0063409-Colbert1">[19]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Coelophysoid new taxon</td>
+<td align="left" rowspan="1" colspan="1">Arizona, USA</td>
+<td align="left" rowspan="1" colspan="1">Early Jurassic</td>
+<td align="left" rowspan="1" colspan="1">16</td>
+<td align="left" rowspan="1" colspan="1">Tykoski <xref ref-type="bibr" rid="pone.0063409-Tykoski1">[20]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Daspletosaurus</italic> sp.</td>
+<td align="left" rowspan="1" colspan="1">Montana, USA</td>
+<td align="left" rowspan="1" colspan="1">Late Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">3</td>
+<td align="left" rowspan="1" colspan="1">Currie et al. <xref ref-type="bibr" rid="pone.0063409-Currie3">[21]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Deinonychus antirrhopus</italic></td>
+<td align="left" rowspan="1" colspan="1">YPM 64–75, Montana, USA</td>
+<td align="left" rowspan="1" colspan="1">Early Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">4</td>
+<td align="left" rowspan="1" colspan="1">Ostrom <xref ref-type="bibr" rid="pone.0063409-Ostrom1">[22]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Deinonychus antirrhopus</italic></td>
+<td align="left" rowspan="1" colspan="1">MOR CL-103, Montana, USA</td>
+<td align="left" rowspan="1" colspan="1">Early Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">6 to 8</td>
+<td align="left" rowspan="1" colspan="1">Listed in Currie and Eberth <xref ref-type="bibr" rid="pone.0063409-Currie1">[2]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Falcarius utahensis</italic></td>
+<td align="left" rowspan="1" colspan="1">Crystal Geyser Quarry, USA</td>
+<td align="left" rowspan="1" colspan="1">Early Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">10+</td>
+<td align="left" rowspan="1" colspan="1">Kirkland et al. <xref ref-type="bibr" rid="pone.0063409-Kirkland1">[23]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Fukuiraptor kitadaniensis</italic></td>
+<td align="left" rowspan="1" colspan="1">Fukui Prefecture, Japan</td>
+<td align="left" rowspan="1" colspan="1">Early Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">14</td>
+<td align="left" rowspan="1" colspan="1">Currie and Azuma <xref ref-type="bibr" rid="pone.0063409-Currie4">[24]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Masiakasaurus knopfleri</italic></td>
+<td align="left" rowspan="1" colspan="1">Majunga, Madagascar</td>
+<td align="left" rowspan="1" colspan="1">Late Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">6</td>
+<td align="left" rowspan="1" colspan="1">Sampson et al. <xref ref-type="bibr" rid="pone.0063409-Sampson1">[25]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Ornithomimus edmontonicus</italic></td>
+<td align="left" rowspan="1" colspan="1">Dry Island, Alberta, Canada</td>
+<td align="left" rowspan="1" colspan="1">Late Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">3</td>
+<td align="left" rowspan="1" colspan="1">Sternberg fieldnotes 1926</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Saurophaganax maximus</italic></td>
+<td align="left" rowspan="1" colspan="1">Kenton, Oklahoma, USA</td>
+<td align="left" rowspan="1" colspan="1">Late Jurassic</td>
+<td align="left" rowspan="1" colspan="1">4</td>
+<td align="left" rowspan="1" colspan="1">Chure <xref ref-type="bibr" rid="pone.0063409-Chure1">[26]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Sinornithomimus dongi</italic></td>
+<td align="left" rowspan="1" colspan="1">Near Ulan Suhai, China</td>
+<td align="left" rowspan="1" colspan="1">Late Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">27</td>
+<td align="left" rowspan="1" colspan="1">Kobayashi and Lu <xref ref-type="bibr" rid="pone.0063409-Kobayashi1">[27]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Syntarsus kayentakatae</italic></td>
+<td align="left" rowspan="1" colspan="1">Arizona, USA</td>
+<td align="left" rowspan="1" colspan="1">Early Jurassic</td>
+<td align="left" rowspan="1" colspan="1">4</td>
+<td align="left" rowspan="1" colspan="1">Rowe <xref ref-type="bibr" rid="pone.0063409-Rowe1">[28]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Syntarsus rhodesiensis</italic></td>
+<td align="left" rowspan="1" colspan="1">Chitake River, Zimbabwe</td>
+<td align="left" rowspan="1" colspan="1">Triassic</td>
+<td align="left" rowspan="1" colspan="1">26</td>
+<td align="left" rowspan="1" colspan="1">Raath <xref ref-type="bibr" rid="pone.0063409-Raath1">[29]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Tarbosaurus baatar</italic></td>
+<td align="left" rowspan="1" colspan="1">Hermiin Tsav, Mongolia</td>
+<td align="left" rowspan="1" colspan="1">Late Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">3</td>
+<td align="left" rowspan="1" colspan="1">P.J. Currie fieldnotes</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Troodon formosus</italic></td>
+<td align="left" rowspan="1" colspan="1">Jack’s Birthday Site, Montana, USA</td>
+<td align="left" rowspan="1" colspan="1">Late Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">4</td>
+<td align="left" rowspan="1" colspan="1">Varricchio <xref ref-type="bibr" rid="pone.0063409-Varricchio1">[30]</xref></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Tyrannosaurus rex</italic></td>
+<td align="left" rowspan="1" colspan="1">Buffalo, South Dakota, USA</td>
+<td align="left" rowspan="1" colspan="1">Late Cretaceous</td>
+<td align="left" rowspan="1" colspan="1">4</td>
+<td align="left" rowspan="1" colspan="1">Larson <xref ref-type="bibr" rid="pone.0063409-Larson1">[31]</xref></td>
+</tr>
+</tbody>
+</table>
+</alternatives></table-wrap></sec></body>
+<back>
+<ack>
+<p>F. Escaso is thanked for the use of photographic equipment. PRB warmly thanks A. Paulina Carabajal for accommodation and G. Giordano, C. Succar for hospitality while in Plaza Huincul. Helpful comments from B. Rothschild, an anonymous reviewer, and editor R. Butler significantly improved the final version of this paper.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0063409-Coria1"><label>1</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Coria</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>2006</year>) <article-title>A new carcharodontosaurid (Dinosauria, Theropoda) from the upper Cretaceous of Argentina</article-title>. <source>Geodiversitas</source> <volume>28</volume>: <fpage>71</fpage>–<lpage>118</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Currie1"><label>2</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Eberth</surname><given-names>DA</given-names></name> (<year>2010</year>) <article-title>On gregarious behavior in <italic>Albertosaurus</italic></article-title>. <source>Can J Earth Sci</source> <volume>47</volume>: <fpage>1277</fpage>–<lpage>1289</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Eberth1"><label>3</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Eberth</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Coria</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Garrido</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Zonneveld</surname><given-names>J-P</given-names></name> (<year>2000</year>) <article-title>Large-theropod bonebed, Neuquén, Argentina: Paleoecological importance</article-title>. <source>J Vert Paleont</source> <volume>20</volume>: <fpage>39A</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Farke1"><label>4</label>
+<mixed-citation publication-type="other" xlink:type="simple">Farke AA, O’Connor PM (2007) Pathology in <italic>Majungasaurus crenatissimus</italic> (Theropoda: Abelisauridae) from the Late Cretaceous of Madagascar. J Vert Paleont (suppl 2): 180–184.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Bell1"><label>5</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bell</surname><given-names>PR</given-names></name> (<year>2010</year>) <article-title>Palaeopathological changes in a population of <italic>Albertosaurus sarcophagus</italic> from the Upper Cretaceous Horseshoe Canyon Formation of Alberta, Canada</article-title>. <source>Can J Earth Sci</source> <volume>47</volume>: <fpage>1263</fpage>–<lpage>1268</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Hanna1"><label>6</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hanna</surname><given-names>R</given-names></name> (<year>2002</year>) <article-title>Multiple injury and infection in a sub-adult theropod dinosaur Allosaurus fragilis with comparisons to allosaur pathology in the Cleveland-Lloyd dinosaur quarry collection</article-title>. <source>J Vert Paleont</source> <volume>22</volume>: <fpage>76</fpage>–<lpage>90</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Rothschild1"><label>7</label>
+<mixed-citation publication-type="other" xlink:type="simple">Rothschild BM, Tanke DH (2005) Theropod paleopathology: state-of-the-art review. In: Carpenter K, editor. The Carnivorous Dinosaurs. Bloomington: Indiana University Press. 351–365.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Witmer1"><label>8</label>
+<mixed-citation publication-type="other" xlink:type="simple">Witmer LM (1995) The Extant Phylogenetic Bracket and the importance of reconstructing soft tissues in fossils. In: Thomason J, editor. Functional Morphology in Vertebrate Paleontology. Cambridge: Cambridge University Press. 19–33.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Resnick1"><label>9</label>
+<mixed-citation publication-type="other" xlink:type="simple">Resnick D (2002) Diagnosis of Bone and Joint Disorders. Philadelphia: W.B. Saunders. 4944 p.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Hershkovitz1"><label>10</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hershkovitz</surname><given-names>IH</given-names></name>, <name name-style="western"><surname>Rothschild</surname><given-names>BM</given-names></name>, <name name-style="western"><surname>Dutour</surname><given-names>O</given-names></name>, <name name-style="western"><surname>Greenwald</surname><given-names>C</given-names></name> (<year>1998</year>) <article-title>Clues to recognition of fungal origin of lytic skeletal lesions</article-title>. <source>Am J Phys Anthropol</source> <volume>106</volume>: <fpage>47</fpage>–<lpage>60</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Rothschild2"><label>11</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rothschild</surname><given-names>BM</given-names></name>, <name name-style="western"><surname>Martin</surname><given-names>LD</given-names></name> (<year>2006</year>) <article-title>Skeletal impact of disease</article-title>. <source>New Mex Mus Nat Hist Sci Bull</source> <volume>33</volume>: <fpage>1</fpage>–<lpage>187</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Rothschild3"><label>12</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rothschild</surname><given-names>BM</given-names></name>, <name name-style="western"><surname>Hershkovitz</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Dutour</surname><given-names>O</given-names></name> (<year>1998</year>) <article-title>Clues potentially distinguishing lytic lesions of multiple myeloma from those of metastatic carcinoma</article-title>. <source>Am J Phys Anthrop</source> <volume>105</volume>: <fpage>241</fpage>–<lpage>250</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Resnick2"><label>13</label>
+<mixed-citation publication-type="other" xlink:type="simple">Resnick D, Niwayama G (1988) Diagnosis of Bone and Joint Disorders. Philadelphia: W.B. Saunders. 4199 p.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Rothschild4"><label>14</label>
+<mixed-citation publication-type="other" xlink:type="simple">Rothschild BM, Tanke DH (2007) Osteochondrosis in Late Cretaceous Hadrosauria: a manifestation of ontologic failure. In: Carpenter K, editor. Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Bloomington: Indiana University Press. 171–193.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Rothschild5"><label>15</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rothschild</surname><given-names>BM</given-names></name>, <name name-style="western"><surname>Storrs</surname><given-names>GW</given-names></name> (<year>2003</year>) <article-title>Decompression syndrome in plesiosaurs (Sauropterygia: reptilia)</article-title>. <source>J Vert Paleont</source> <volume>23</volume>: <fpage>324</fpage>–<lpage>328</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Moore1"><label>16</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Moore</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Early</surname><given-names>GA</given-names></name> (<year>2004</year>) <article-title>Cumulative sperm whale bone damage and the bends</article-title>. <source>Science</source> <volume>306</volume>: <fpage>2215</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Molnar1"><label>17</label>
+<mixed-citation publication-type="other" xlink:type="simple">Molnar RE (2001) Theropod paleopathology: A literature survey. In: Tanke DH, Carpenter K, editors. Mesozoic Vertebrate Life. Bloomington: Indiana University Press. 337–363.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Currie2"><label>18</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Longrich</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Ryan</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Eberth</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Badamgarav</surname><given-names>D</given-names></name> (<year>2008</year>) <article-title>A bonebed of <italic>Avimimus</italic> sp. (Dinosauria: Theropoda) from the Late Cretaceous Nemegt Formation, Gobi Desert: insights into social behavior and development in a maniraptoran theropod</article-title>. <source>J Vert Paleont</source> <volume>28</volume>: <fpage>67A</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Colbert1"><label>19</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Colbert</surname><given-names>EH</given-names></name> (<year>1989</year>) <article-title>The Triassic dinosaur <italic>Coelophysis</italic></article-title>. <source>Mus Northern Arizona Bull</source> <volume>57</volume>: <fpage>1</fpage>–<lpage>160</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Tykoski1"><label>20</label>
+<mixed-citation publication-type="other" xlink:type="simple">Tykoski RS (1998) The osteology of <italic>Syntarsus kayentakatae</italic> and its implications for ceratosaurid phylogeny. Master’s thesis, University of Texas, Austin, Tex., 217 p.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Currie3"><label>21</label>
+<mixed-citation publication-type="other" xlink:type="simple">Currie PJ, Trexler D, Koppelhus EB, Wicks K, Murphy N (2005) An unusual multi-individual tyrannosaurid bonebed in the Two Medicine Formation (Late Cretaceous, Campanian) of Montana (USA). In: Carpenter K, editor. The Carnivorous Dinosaurs. Bloomington: Indiana University Press. 313–324.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Ostrom1"><label>22</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ostrom</surname><given-names>JH</given-names></name> (<year>1969</year>) <article-title>Osteology of <italic>Deinonychus antirrhopus</italic>, an unusual theropod dinosaur from the Lower Cretaceous of Montana</article-title>. <source>Peabody Mus Nat Hist Bull</source> <volume>30</volume>: <fpage>1</fpage>–<lpage>165</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Kirkland1"><label>23</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kirkland</surname><given-names>JI</given-names></name>, <name name-style="western"><surname>Zanno</surname><given-names>LE</given-names></name>, <name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name>, <name name-style="western"><surname>Clark</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>DeBileux</surname><given-names>DD</given-names></name> (<year>2005</year>) <article-title>A primitive therizinosauroid dinosaur from the Early Cretaceous of Utah</article-title>. <source>Nature</source> <volume>435</volume>: <fpage>84</fpage>–<lpage>87</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Currie4"><label>24</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Azuma</surname><given-names>Y</given-names></name> (<year>2006</year>) <article-title>New specimens, including growth series, of <italic>Fukuiraptor</italic> (Dinosauria, Theropoda) from the Lower Cretaceous Kitadani Quarry of Japan</article-title>. <source>J Palaeont Soc Korea</source> <volume>22</volume>: <fpage>173</fpage>–<lpage>193</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Sampson1"><label>25</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name>, <name name-style="western"><surname>Carrano</surname><given-names>MT</given-names></name>, <name name-style="western"><surname>Forster</surname><given-names>CA</given-names></name> (<year>2001</year>) <article-title>A bizarre predatory dinosaur from the Late Cretaceous of Madagascar</article-title>. <source>Nature</source> <volume>409</volume>: <fpage>513</fpage>–<lpage>517</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Chure1"><label>26</label>
+<mixed-citation publication-type="other" xlink:type="simple">Chure DJ (1995) A reassessment of the gigantic theropod <italic>Saurophagus maximus</italic> from the Morrison Formation (Upper Jurassic) of Oklahoma, USA. In: Sun A-L, Wang Y-Q, editors. 6<sup>th</sup> Symposium of Mesozoic terrestrial ecosystems and biotas, short papers. Beijing: China Ocean Press. 103–106.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Kobayashi1"><label>27</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kobayashi</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Lu</surname><given-names>J-C</given-names></name> (<year>2003</year>) <article-title>A new ornithomimid dinosaur with gregarious habits from the Late Cretaceous of China</article-title>. <source>Acta Pal Pol</source> <volume>48</volume>: <fpage>235</fpage>–<lpage>259</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Rowe1"><label>28</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rowe</surname><given-names>T</given-names></name> (<year>1989</year>) <article-title>A new species of the theropod dinosaur <italic>Syntarsus</italic> from the Early Jurassic Kayenta Formation of Arizona</article-title>. <source>J Vert Paleont</source> <volume>9</volume>: <fpage>125</fpage>–<lpage>136</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Raath1"><label>29</label>
+<mixed-citation publication-type="other" xlink:type="simple">Raath MA (1977) The anatomy of the Triassic theropod <italic>Syntarsus rhodesiensis</italic> (Saurischia: Pedekosauridae) and a consideration of its biology. Unpublished Ph.D. thesis, Department of Zoology and Entomology, Rhodes University, Grahamstown, South Africa.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Varricchio1"><label>30</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Varricchio</surname><given-names>DJ</given-names></name> (<year>1995</year>) <article-title>Taphonomy of Jack’s Birthday Site, a diverse dinosaur bonebed from the Upper Cretaceous Two Medicine Formation of Montana</article-title>. <source>Palaeogeog Palaeoclim Palaeoecol</source> <volume>114</volume>: <fpage>297</fpage>–<lpage>323</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0063409-Larson1"><label>31</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Larson</surname><given-names>PL</given-names></name> (<year>1995</year>) <article-title>To sex a rex</article-title>. <source>Austr Nature</source> <volume>25</volume>: <fpage>46</fpage>–<lpage>53</lpage>.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>

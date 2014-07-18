@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group>
+<journal-title>PLoS ONE</journal-title></journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">PONE-D-13-09702</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pone.0067176</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Anatomy and physiology</subject><subj-group><subject>Neurological system</subject><subj-group><subject>Central nervous system</subject><subject>Motor systems</subject><subject>Neural pathways</subject><subject>Neuroanatomy</subject></subj-group></subj-group><subj-group><subject>Comparative anatomy</subject></subj-group></subj-group><subj-group><subject>Evolutionary biology</subject><subj-group><subject>Evolutionary processes</subject><subj-group><subject>Adaptation</subject><subject>Evolutionary selection</subject></subj-group></subj-group><subj-group><subject>Forms of evolution</subject><subj-group><subject>Coevolution</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Earth sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Paleobiology</subject><subject>Paleoecology</subject><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>Avian Cerebellar Floccular Fossa Size Is Not a Proxy for Flying Ability in Birds</article-title>
+<alt-title alt-title-type="running-head">Avian Floccular Fossa</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Walsh</surname><given-names>Stig A.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Iwaniuk</surname><given-names>Andrew N.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Knoll</surname><given-names>Monja A.</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Bourdon</surname><given-names>Estelle</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Barrett</surname><given-names>Paul M.</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Milner</surname><given-names>Angela C.</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Nudds</surname><given-names>Robert L.</given-names></name><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Abel</surname><given-names>Richard L.</given-names></name><xref ref-type="aff" rid="aff6"><sup>6</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Sterpaio</surname><given-names>Patricia Dello</given-names></name><xref ref-type="aff" rid="aff7"><sup>7</sup></xref></contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><addr-line>Department of Natural Sciences, National Museums Scotland, Edinburgh, United Kingdom</addr-line></aff>
+<aff id="aff2"><label>2</label><addr-line>Canadian Centre for Behavioural Neuroscience, University of Lethbridge, Lethbridge, Alberta, Canada</addr-line></aff>
+<aff id="aff3"><label>3</label><addr-line>School of Social Sciences, University of the West of Scotland, Paisley, United Kingdom</addr-line></aff>
+<aff id="aff4"><label>4</label><addr-line>Department of Earth Sciences, The Natural History Museum, London, United Kingdom</addr-line></aff>
+<aff id="aff5"><label>5</label><addr-line>Faculty of Life Sciences, University of Manchester, Manchester, United Kingdom</addr-line></aff>
+<aff id="aff6"><label>6</label><addr-line>Faculty of Medicine, Imperial College London, London, United Kingdom</addr-line></aff>
+<aff id="aff7"><label>7</label><addr-line>School of Engineering, Computing and Applied Mathematics, University of Abertay, Dundee, United Kingdom</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple"><name name-style="western"><surname>Wylie</surname><given-names>Doug</given-names></name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>University of Alberta, Canada</addr-line></aff>
+<author-notes>
+<corresp id="cor1">* E-mail: <email xlink:type="simple">s.walsh@nms.ac.uk</email></corresp>
+<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn>
+<fn fn-type="con"><p>Conceived and designed the experiments: SAW ANI. Performed the experiments: SAW ANI MAK. Analyzed the data: ANI. Contributed reagents/materials/analysis tools: EB PMB ACM RLN RLA PDS. Wrote the paper: SAW ANI MAK EB PMB ACM RLN RLA PDS.</p></fn>
+</author-notes>
+<pub-date pub-type="collection"><year>2013</year></pub-date>
+<pub-date pub-type="epub"><day>25</day><month>6</month><year>2013</year></pub-date>
+<volume>8</volume>
+<issue>6</issue>
+<elocation-id>e67176</elocation-id>
+<history>
+<date date-type="received"><day>7</day><month>3</month><year>2013</year></date>
+<date date-type="accepted"><day>15</day><month>5</month><year>2013</year></date>
+</history>
+<permissions>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Walsh et al</copyright-holder><license xlink:type="simple"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions>
+<abstract>
+<p>Extinct animal behavior has often been inferred from qualitative assessments of relative brain region size in fossil endocranial casts. For instance, flight capability in pterosaurs and early birds has been inferred from the relative size of the cerebellar flocculus, which in life protrudes from the lateral surface of the cerebellum. A primary role of the flocculus is to integrate sensory information about head rotation and translation to stabilize visual gaze via the vestibulo-occular reflex (VOR). Because gaze stabilization is a critical aspect of flight, some authors have suggested that the flocculus is enlarged in flying species. Whether this can be further extended to a floccular expansion in highly maneuverable flying species or floccular reduction in flightless species is unknown. Here, we used micro computed-tomography to reconstruct “virtual” endocranial casts of 60 extant bird species, to extract the same level of anatomical information offered by fossils. Volumes of the floccular fossa and entire brain cavity were measured and these values correlated with four indices of flying behavior. Although a weak positive relationship was found between floccular fossa size and brachial index, no significant relationship was found between floccular fossa size and any other flight mode classification. These findings could be the result of the bony endocranium inaccurately reflecting the size of the neural flocculus, but might also reflect the importance of the flocculus for all modes of locomotion in birds. We therefore conclude that the relative size of the flocculus of endocranial casts is an unreliable predictor of locomotor behavior in extinct birds, and probably also pterosaurs and non-avian dinosaurs.</p>
+</abstract>
+<funding-group><funding-statement>This study was funded by Natural Environment Research Council (<ext-link ext-link-type="uri" xlink:href="http://www.nerc.ac.uk/" xlink:type="simple">http://www.nerc.ac.uk/</ext-link>) Small Grant NE/H012176/1 to SAW. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts><page-count count="10"/></counts></article-meta>
+</front>
+<body><sec id="s1">
+<title>Introduction</title>
+<p>Paleoneurology investigates the evolution of the vertebrate brain through time and makes inferences about the behavior of extinct vertebrates using two main sources of information. The first uses the morphology of the internal surface of the brain cavity in fossil skulls, whether revealed through damage (pre- or post-preservational), sectioning or as natural, synthetic or digital casts of the cavity. The second comes from advances in our understanding of behavior-related neural function in extant animals. However, this information is only useful if differences in neural function are causally related to changes in brain region volume that are expressed in the external morphology of the brain, and if the impression of the brain on the internal surface of the brain cavity is reasonably accurate <xref ref-type="bibr" rid="pone.0067176-Jerison1">[1]</xref>. While comparative neurology has advanced greatly over the last century <xref ref-type="bibr" rid="pone.0067176-Northcutt1">[2]</xref>, arguably the most important improvement in paleoneurological investigation has been the advent of non-invasive X-ray tube and synchrotron source micro computed-tomography (µCT) imaging <xref ref-type="bibr" rid="pone.0067176-Walsh1">[3]</xref>. Although these techniques are affected by similar problems to those inherent in older serial sectioning methods <xref ref-type="bibr" rid="pone.0067176-Walsh2">[4]</xref>, they have greatly increased the total number of fossil taxa for which endocranial anatomy is known <xref ref-type="bibr" rid="pone.0067176-Walsh1">[3]</xref>.</p>
+<p>The degree to which the brain actually fills the brain cavity is known to vary greatly across vertebrate clades <xref ref-type="bibr" rid="pone.0067176-Jerison1">[1]</xref>. However, unlike their nearest living relatives, the crocodiles, brain cavity volume in birds is broadly comparable to that of the brain it houses <xref ref-type="bibr" rid="pone.0067176-Iwaniuk1">[5]</xref>. Hence, casts of the avian brain cavity represent reasonable approximations of external brain morphology, and thus the endocranium of bird fossils can provide insights into the correlated evolution of the brain and flight. Based on current evidence, it appears that the avian brain, at least in some taxa, was already fully modern in form and relative size by 55 Mya <xref ref-type="bibr" rid="pone.0067176-Walsh3">[6]</xref>. However, full or partial brain morphology is known only for a few Mesozoic bird species, and elucidating the timing of these changes has been frustrated by an absence of suitable fossils. Those that are known, particularly that of the ‘London’ specimen of the Late Jurassic <italic>Archaeopteryx lithographica</italic> <xref ref-type="bibr" rid="pone.0067176-Domnguez1">[7]</xref>, do indicate enlargement (relative to a putative ancestral crocodile-like condition) of the telencephalon, mesencephalon and cerebellum, including a pronounced outgrowth of the cerebellar flocculus <xref ref-type="bibr" rid="pone.0067176-Walsh4">[8]</xref>.</p>
+<p>The suite of neuroanatomical changes observed in <italic>Archaeopteryx</italic> is generally assumed to relate to enhancement of somatosensory control during the evolution of flight <xref ref-type="bibr" rid="pone.0067176-Domnguez1">[7]</xref>. This assumption is supported by the observation that the other archosaurs to have evolved powered flight, pterosaurs, also had regional expansions similar to those of birds, even though their overall brain size was not necessarily as great <xref ref-type="bibr" rid="pone.0067176-Witmer1">[9]</xref>. Several bird-like theropod dinosaurs also possessed brains with an avian-like morphology closer to that of living birds than to the brain morphology of <italic>Archaeopteryx</italic> <xref ref-type="bibr" rid="pone.0067176-Burnham1">[10]</xref>–<xref ref-type="bibr" rid="pone.0067176-Norell1">[14]</xref>. One possible reason is that these bird-like theropods are secondarily flightless birds <xref ref-type="bibr" rid="pone.0067176-Kavanau1">[15]</xref>, <xref ref-type="bibr" rid="pone.0067176-Feduccia1">[16]</xref>, although this explanation has generally been rejected on the basis of strong phylogenetic evidence to the contrary <xref ref-type="bibr" rid="pone.0067176-Dyke1">[17]</xref>, <xref ref-type="bibr" rid="pone.0067176-Hu1">[18]</xref>. Another is that the occurrence of an avian-like brain in birds and some non-avian dinosaurs indicates that a ‘flight-ready’ brain was already present in the common ancestor of both groups <xref ref-type="bibr" rid="pone.0067176-Witmer2">[19]</xref>, and possibly also pterosaurs. However, recognition of such a ‘flight-ready’ brain on the basis of external brain morphology, the only data available from fossils, is likely to prove problematic.</p>
+<p>One feature that is easily visible on endocranial casts and that offers some potential for use as an indicator of neural flight control is the cerebellar flocculus. The flocculus is involved in adaptive processing of two important reflexes: the vestibulo-collic reflex (VCR), which acts to stabilize the head through cervical musculature, and the vestibulo-ocular reflex (VOR), which acts to maintain a stable image on the retina during rotational head movements. The VOR works by integrating information from the vestibular and visual systems to generate compensatory motor impulses to the extraocular muscles such that the eyes are automatically moved opposite to the direction of head rotation <xref ref-type="bibr" rid="pone.0067176-Voogd1">[20]</xref>. VOR gain will differ depending on changes in optic flow between environments, so VOR processing must be plastic and adaptive to reduce error and respond rapidly to changing circumstances, such as alterations in flight speed, landing and terrestrial locomotion <xref ref-type="bibr" rid="pone.0067176-Ito1">[21]</xref>.</p>
+<p>Avoiding retinal image slip is obviously crucial for flight, particularly in tight complex environments with fast optic flow fields such as forests where collisions are likely, or where flight becomes unstable due to low ground speeds. Consequently, species engaging in fast and complex aerial maneuvers (e.g., aerial predators) or unstable low speed or hovering flight (e.g., hummingbirds) are likely to have a greater requirement for accurate visual field and head stabilization. Since a greater proportion of neural mass must be dedicated to VOR/VCR processing in these species, the flocculus would be assumed to be larger in those than in species that usually fly in open environments with relatively simple, slow moving visual flow fields (e.g., far-field horizon), or are fully flightless. Indeed, hummingbirds have undergone an expansion of the pretectal nucleus lentiformis mesencephali <xref ref-type="bibr" rid="pone.0067176-Iwaniuk2">[22]</xref>, which is involved in the optokinetic response and projects to the flocculus <xref ref-type="bibr" rid="pone.0067176-Wylie1">[23]</xref>. Whether a similar expansion has occurred in the flocculus of hummingbirds and other highly maneuverable fliers has not been tested, but a prediction based on previous paleoneurological studies is that the flocculus would be proportionately larger in acrobatic fliers than in poor fliers or flightless birds.</p>
+<p>In extinct taxa, this prediction has led to the size of the flocculus relative to the rest of the endocranial cast being used to infer flight capability in fossil birds <xref ref-type="bibr" rid="pone.0067176-Walsh3">[6]</xref>, <xref ref-type="bibr" rid="pone.0067176-Domnguez1">[7]</xref>, <xref ref-type="bibr" rid="pone.0067176-Milner1">[24]</xref> and pterosaurs <xref ref-type="bibr" rid="pone.0067176-Witmer1">[9]</xref>. However, in a paleoneurological context this prediction actually relates to floccular fossa size, and in life this structure may also house significant amounts of vasculature. For example, a floccular sinus and rostral and caudal floccular arteries are normally present and contiguous with the neural flocculus <xref ref-type="bibr" rid="pone.0067176-Baumel1">[25]</xref>, but their boundaries in the fossa can be difficult to determine. The relative contribution of vasculature to the volume of the floccular fossa is presently unclear in extant birds and unknown in extinct avian taxa, because variation in the size and development of these structures has not been surveyed across extant avian clades. The presence of these vascular structures may lead to an overestimation of neural flocculus size in endocranial casts. Conversely, portions of the floccular lobes situated within the body of the cerebellum cannot be determined from endocranial casts, so floccular fossa casts may underestimate true neural flocculus volume. These uncertainties undermine the reliability of using relative ‘flocculus’ size on avian endocranial casts to infer locomotor capability in extinct birds, non-avian dinosaurs and pterosaurs. However, the existence of a reliable relationship between floccular fossa size and flying ability has never been tested.</p>
+<p>Here, we address this issue by using µCT to reconstruct digital casts of the brain cavity in extant bird species with known locomotor behavior, in order to test correlations between relative ‘flocculus’ size (as indexed by the relative volume of the floccular fossa) and flying ability.</p>
+</sec><sec id="s2" sec-type="materials|methods">
+<title>Materials and Methods</title>
+<p>Sixty avian species (<xref ref-type="table" rid="pone-0067176-t001">Table 1</xref>) were selected for scanning from the collections of National Museums Scotland, Edinburgh (NMS) and The Natural History Museum, London (NHMUK) based on known flying ability. All selected species are extant except for the Rodrigues Solitaire (<italic>Pezophaps solitarius</italic>). X-ray µCT Scanning was performed between 12 µm and 149 µm voxel size (mean = 56 µm, s.d. = 24.7 µm) using HMXST CT systems <xref ref-type="bibr" rid="pone.0067176-Abel1">[26]</xref> at NHMUK, University of Abertay, Dundee and Nikon Metrology, Tring. Detailed information about dataset species composition, flight style categorization and scanning parameters can be found in <xref ref-type="supplementary-material" rid="pone.0067176.s002">Scanning S1</xref>. The study used only museum specimens of skulls, so no permits were required for the described study, which complied with all relevant regulations.</p>
+<table-wrap id="pone-0067176-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0067176.t001</object-id><label>Table 1</label><caption>
+<title>Taxa used in this study, including volume measurements and floccular fossa morphology.</title>
+</caption><alternatives><graphic id="pone-0067176-t001-1" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0067176.t001" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Order</td>
+<td colspan="2" align="left" rowspan="1">Genus and Species</td>
+<td colspan="2" align="left" rowspan="1">BCEV (mm<sup>3</sup>)</td>
+<td align="left" rowspan="1" colspan="1">FFV (mm<sup>3</sup>)</td>
+<td align="left" rowspan="1" colspan="1">% of BCEV</td>
+<td align="left" rowspan="1" colspan="1">Fossa Type</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Tinaniformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Rhynchotus rufescens</italic></td>
+<td colspan="2" align="left" rowspan="1">3690.58</td>
+<td align="left" rowspan="1" colspan="1">14.86</td>
+<td align="left" rowspan="1" colspan="1">0.40</td>
+<td align="left" rowspan="1" colspan="1">Type 3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Apterygiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Apteryx haastii</italic></td>
+<td colspan="2" align="left" rowspan="1">12496.13</td>
+<td align="left" rowspan="1" colspan="1">32.24</td>
+<td align="left" rowspan="1" colspan="1">0.26</td>
+<td align="left" rowspan="1" colspan="1">Type 3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Struthioniformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Casuarius casuarius</italic></td>
+<td colspan="2" align="left" rowspan="1">32724.27</td>
+<td align="left" rowspan="1" colspan="1">258.47</td>
+<td align="left" rowspan="1" colspan="1">0.79</td>
+<td align="left" rowspan="1" colspan="1">Type 3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Struthioniformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Struthio camelus</italic></td>
+<td colspan="2" align="left" rowspan="1">36517.99</td>
+<td align="left" rowspan="1" colspan="1">195.92</td>
+<td align="left" rowspan="1" colspan="1">0.54</td>
+<td align="left" rowspan="1" colspan="1">Type 3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Struthioniformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Dromaius novaehollandiae</italic></td>
+<td colspan="2" align="left" rowspan="1">27054.50</td>
+<td align="left" rowspan="1" colspan="1">236.13</td>
+<td align="left" rowspan="1" colspan="1">0.87</td>
+<td align="left" rowspan="1" colspan="1">Type 3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Rheiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Rhea americana</italic></td>
+<td colspan="2" align="left" rowspan="1">13713.05</td>
+<td align="left" rowspan="1" colspan="1">153.76</td>
+<td align="left" rowspan="1" colspan="1">1.12</td>
+<td align="left" rowspan="1" colspan="1">Type 3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Anseriformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Aythya fuligula</italic></td>
+<td colspan="2" align="left" rowspan="1">5351.00</td>
+<td align="left" rowspan="1" colspan="1">38.97</td>
+<td align="left" rowspan="1" colspan="1">0.73</td>
+<td align="left" rowspan="1" colspan="1">Type 2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Anseriformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Cygnus olor</italic></td>
+<td colspan="2" align="left" rowspan="1">17360.36</td>
+<td align="left" rowspan="1" colspan="1">149.53</td>
+<td align="left" rowspan="1" colspan="1">0.86</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Anseriformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Tachyeres brachypterus</italic></td>
+<td colspan="2" align="left" rowspan="1">6667.40</td>
+<td align="left" rowspan="1" colspan="1">92.15</td>
+<td align="left" rowspan="1" colspan="1">1.38</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Galliformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Gallus gallus</italic></td>
+<td colspan="2" align="left" rowspan="1">3976.07</td>
+<td align="left" rowspan="1" colspan="1">35.87</td>
+<td align="left" rowspan="1" colspan="1">0.90</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Galliformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Phasianus colchicus</italic></td>
+<td colspan="2" align="left" rowspan="1">4021.23</td>
+<td align="left" rowspan="1" colspan="1">29.78</td>
+<td align="left" rowspan="1" colspan="1">0.74</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Gruiformes</td>
+<td align="left" rowspan="1" colspan="1"><italic>Grus grus</italic></td>
+<td colspan="2" align="left" rowspan="1">19959.78</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">166.06</td>
+<td align="left" rowspan="1" colspan="1">0.83</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Gaviiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Gavia immer</italic></td>
+<td colspan="2" align="left" rowspan="1">12284.93</td>
+<td align="left" rowspan="1" colspan="1">179.58</td>
+<td align="left" rowspan="1" colspan="1">1.46</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Podicipediformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Podiceps cristatus</italic></td>
+<td colspan="2" align="left" rowspan="1">3303.11</td>
+<td align="left" rowspan="1" colspan="1">44.61</td>
+<td align="left" rowspan="1" colspan="1">1.35</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Sphenisciformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Eudyptula</italic> sp.</td>
+<td colspan="2" align="left" rowspan="1">8522.17</td>
+<td align="left" rowspan="1" colspan="1">64.30</td>
+<td align="left" rowspan="1" colspan="1">0.75</td>
+<td align="left" rowspan="1" colspan="1">Type 2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Procellariiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Diomedea exulans</italic></td>
+<td colspan="2" align="left" rowspan="1">29151.60</td>
+<td align="left" rowspan="1" colspan="1">192.40</td>
+<td align="left" rowspan="1" colspan="1">0.66</td>
+<td align="left" rowspan="1" colspan="1">Type 3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Procellariiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Pelagodroma marina</italic></td>
+<td colspan="2" align="left" rowspan="1">496.91</td>
+<td align="left" rowspan="1" colspan="1">3.92</td>
+<td align="left" rowspan="1" colspan="1">0.79</td>
+<td align="left" rowspan="1" colspan="1">Type 2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Procellariiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Fulmarus glacialis</italic></td>
+<td colspan="2" align="left" rowspan="1">7440.16</td>
+<td align="left" rowspan="1" colspan="1">48.96</td>
+<td align="left" rowspan="1" colspan="1">0.66</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Procellariiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Pelecanoides urinatrix</italic></td>
+<td colspan="2" align="left" rowspan="1">1351.72</td>
+<td align="left" rowspan="1" colspan="1">21.11</td>
+<td align="left" rowspan="1" colspan="1">1.56</td>
+<td align="left" rowspan="1" colspan="1">Type 2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Pelecaniformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Pelecanus erythrorhynchos</italic></td>
+<td colspan="2" align="left" rowspan="1">13012.42</td>
+<td align="left" rowspan="1" colspan="1">105.12</td>
+<td align="left" rowspan="1" colspan="1">0.81</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Pelecaniformes’</td>
+<td colspan="2" align="left" rowspan="1"><italic>Fregata magnificens</italic></td>
+<td colspan="2" align="left" rowspan="1">10389.53</td>
+<td align="left" rowspan="1" colspan="1">53.67</td>
+<td align="left" rowspan="1" colspan="1">0.52</td>
+<td align="left" rowspan="1" colspan="1">Type 2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Pelecaniformes’</td>
+<td colspan="2" align="left" rowspan="1"><italic>Phalacrocorax carbo</italic></td>
+<td colspan="2" align="left" rowspan="1">13440.04</td>
+<td align="left" rowspan="1" colspan="1">82.20</td>
+<td align="left" rowspan="1" colspan="1">0.61</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Pelecaniformes’</td>
+<td colspan="2" align="left" rowspan="1"><italic>Phalacrocorax harrisi</italic></td>
+<td colspan="2" align="left" rowspan="1">10936.73</td>
+<td align="left" rowspan="1" colspan="1">71.37</td>
+<td align="left" rowspan="1" colspan="1">0.65</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Pelecaniformes’</td>
+<td colspan="2" align="left" rowspan="1"><italic>Threskiornis aethiopicus</italic></td>
+<td colspan="2" align="left" rowspan="1">9643.49</td>
+<td align="left" rowspan="1" colspan="1">54.17</td>
+<td align="left" rowspan="1" colspan="1">0.56</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Phaethontiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Phaethon lepturus</italic></td>
+<td colspan="2" align="left" rowspan="1">2801.90</td>
+<td align="left" rowspan="1" colspan="1">38.81</td>
+<td align="left" rowspan="1" colspan="1">1.39</td>
+<td align="left" rowspan="1" colspan="1">Type 4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Ciconiiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Ciconia ciconia</italic></td>
+<td colspan="2" align="left" rowspan="1">11348.13</td>
+<td align="left" rowspan="1" colspan="1">56.15</td>
+<td align="left" rowspan="1" colspan="1">0.49</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Ciconiiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Ardea cinerea</italic></td>
+<td colspan="2" align="left" rowspan="1">4999.82</td>
+<td align="left" rowspan="1" colspan="1">69.61</td>
+<td align="left" rowspan="1" colspan="1">1.39</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Charadriiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Rhynchops niger</italic></td>
+<td colspan="2" align="left" rowspan="1">1235.81</td>
+<td align="left" rowspan="1" colspan="1">8.43</td>
+<td align="left" rowspan="1" colspan="1">0.68</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Charadriiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Larus argentatus</italic></td>
+<td colspan="2" align="left" rowspan="1">5716.45</td>
+<td align="left" rowspan="1" colspan="1">26.94</td>
+<td align="left" rowspan="1" colspan="1">0.47</td>
+<td align="left" rowspan="1" colspan="1">Type 4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Charadriiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Creagrus furcatus</italic></td>
+<td colspan="2" align="left" rowspan="1">4919.36</td>
+<td align="left" rowspan="1" colspan="1">16.62</td>
+<td align="left" rowspan="1" colspan="1">0.34</td>
+<td align="left" rowspan="1" colspan="1">Type 4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Charadriiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Gelochelidon nilotica</italic></td>
+<td colspan="2" align="left" rowspan="1">1900.16</td>
+<td align="left" rowspan="1" colspan="1">17.36</td>
+<td align="left" rowspan="1" colspan="1">0.91</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Charadriiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Stercorarius skua</italic></td>
+<td colspan="2" align="left" rowspan="1">6769.41</td>
+<td align="left" rowspan="1" colspan="1">38.13</td>
+<td align="left" rowspan="1" colspan="1">0.56</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Charadriiformes</td>
+<td align="left" rowspan="1" colspan="1"><italic>Alca torda</italic></td>
+<td colspan="2" align="left" rowspan="1">3285.72</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">47.04</td>
+<td align="left" rowspan="1" colspan="1">1.43</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Strigiformes</td>
+<td align="left" rowspan="1" colspan="1"><italic>Tyto alba</italic></td>
+<td colspan="2" align="left" rowspan="1">6521.50</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">21.49</td>
+<td align="left" rowspan="1" colspan="1">0.33</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Falconiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Buteo buteo</italic></td>
+<td colspan="2" align="left" rowspan="1">7851.35</td>
+<td align="left" rowspan="1" colspan="1">33.22</td>
+<td align="left" rowspan="1" colspan="1">0.42</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Falconiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Aquila chrysaetos</italic></td>
+<td colspan="2" align="left" rowspan="1">21045.03</td>
+<td align="left" rowspan="1" colspan="1">104.74</td>
+<td align="left" rowspan="1" colspan="1">0.50</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Falconiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Circus cyaneus</italic></td>
+<td colspan="2" align="left" rowspan="1">3928.72</td>
+<td align="left" rowspan="1" colspan="1">25.86</td>
+<td align="left" rowspan="1" colspan="1">0.66</td>
+<td align="left" rowspan="1" colspan="1">Type 2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Falconiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Vultur gryphus</italic></td>
+<td colspan="2" align="left" rowspan="1">27099.93</td>
+<td align="left" rowspan="1" colspan="1">383.23</td>
+<td align="left" rowspan="1" colspan="1">1.41</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Falconiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Sagittarius serpentarius</italic></td>
+<td colspan="2" align="left" rowspan="1">12912.27</td>
+<td align="left" rowspan="1" colspan="1">124.33</td>
+<td align="left" rowspan="1" colspan="1">0.96</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Falconiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Falco tinnunculus</italic></td>
+<td colspan="2" align="left" rowspan="1">3152.49</td>
+<td align="left" rowspan="1" colspan="1">18.01</td>
+<td align="left" rowspan="1" colspan="1">0.57</td>
+<td align="left" rowspan="1" colspan="1">Type 4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Falconiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Falco subbuteo</italic></td>
+<td colspan="2" align="left" rowspan="1">2989.74</td>
+<td align="left" rowspan="1" colspan="1">13.66</td>
+<td align="left" rowspan="1" colspan="1">0.46</td>
+<td align="left" rowspan="1" colspan="1">Type 4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Falconiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Pandion haliaetus</italic></td>
+<td colspan="2" align="left" rowspan="1">10146.91</td>
+<td align="left" rowspan="1" colspan="1">76.46</td>
+<td align="left" rowspan="1" colspan="1">0.75</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Opisthocomiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Opisthocomus hoatzin</italic></td>
+<td colspan="2" align="left" rowspan="1">3370.00</td>
+<td align="left" rowspan="1" colspan="1">33.33</td>
+<td align="left" rowspan="1" colspan="1">0.99</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Psittaciformes</td>
+<td align="left" rowspan="1" colspan="1"><italic>Ara macao</italic></td>
+<td colspan="2" align="left" rowspan="1">15157.87</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">29.08</td>
+<td align="left" rowspan="1" colspan="1">0.19</td>
+<td align="left" rowspan="1" colspan="1">Type 1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Psittaciformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Amazona aestiva</italic></td>
+<td colspan="2" align="left" rowspan="1">8511.51</td>
+<td align="left" rowspan="1" colspan="1">35.24</td>
+<td align="left" rowspan="1" colspan="1">0.41</td>
+<td align="left" rowspan="1" colspan="1">Type 1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Psittaciformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Strigops habroptila</italic></td>
+<td colspan="2" align="left" rowspan="1">8849.56</td>
+<td align="left" rowspan="1" colspan="1">26.06</td>
+<td align="left" rowspan="1" colspan="1">0.29</td>
+<td align="left" rowspan="1" colspan="1">Type 1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Columbiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Columba livia</italic></td>
+<td colspan="2" align="left" rowspan="1">2134.52</td>
+<td align="left" rowspan="1" colspan="1">14.84</td>
+<td align="left" rowspan="1" colspan="1">0.70</td>
+<td align="left" rowspan="1" colspan="1">Type 2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Columbiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Pezophaps solitaria</italic></td>
+<td colspan="2" align="left" rowspan="1">8665.89</td>
+<td align="left" rowspan="1" colspan="1">48.72</td>
+<td align="left" rowspan="1" colspan="1">0.56</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Caprimulgiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Podargus strigoides</italic></td>
+<td colspan="2" align="left" rowspan="1">2322.97</td>
+<td align="left" rowspan="1" colspan="1">14.84</td>
+<td align="left" rowspan="1" colspan="1">0.64</td>
+<td align="left" rowspan="1" colspan="1">Type 4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Caprimulgiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Steatornis caripensis</italic></td>
+<td colspan="2" align="left" rowspan="1">2039.77</td>
+<td align="left" rowspan="1" colspan="1">14.55</td>
+<td align="left" rowspan="1" colspan="1">0.71</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Apodiformes</td>
+<td align="left" rowspan="1" colspan="1"><italic>Apus apus</italic></td>
+<td colspan="2" align="left" rowspan="1">707.83</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">5.25</td>
+<td align="left" rowspan="1" colspan="1">0.74</td>
+<td align="left" rowspan="1" colspan="1">Type 4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Apodiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Selasphorus rufus</italic></td>
+<td colspan="2" align="left" rowspan="1">157.29</td>
+<td align="left" rowspan="1" colspan="1">1.64</td>
+<td align="left" rowspan="1" colspan="1">1.04</td>
+<td align="left" rowspan="1" colspan="1">Type 1</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Trogoniformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Trogon curucui</italic></td>
+<td colspan="2" align="left" rowspan="1">889.99</td>
+<td align="left" rowspan="1" colspan="1">5.59</td>
+<td align="left" rowspan="1" colspan="1">0.63</td>
+<td align="left" rowspan="1" colspan="1">Type 4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Coraciiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Alcedo atthis</italic></td>
+<td colspan="2" align="left" rowspan="1">741.51</td>
+<td align="left" rowspan="1" colspan="1">8.12</td>
+<td align="left" rowspan="1" colspan="1">1.10</td>
+<td align="left" rowspan="1" colspan="1">Type 5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Coraciiformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Coracias garrulus</italic></td>
+<td colspan="2" align="left" rowspan="1">1970.03</td>
+<td align="left" rowspan="1" colspan="1">10.69</td>
+<td align="left" rowspan="1" colspan="1">0.54</td>
+<td align="left" rowspan="1" colspan="1">Type 4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Piciformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Ramphastos dicolorus</italic></td>
+<td colspan="2" align="left" rowspan="1">4525.02</td>
+<td align="left" rowspan="1" colspan="1">34.45</td>
+<td align="left" rowspan="1" colspan="1">0.76</td>
+<td align="left" rowspan="1" colspan="1">Type 2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Passeriformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Tyrannus tyrannus</italic></td>
+<td colspan="2" align="left" rowspan="1">532.71</td>
+<td align="left" rowspan="1" colspan="1">1.18</td>
+<td align="left" rowspan="1" colspan="1">0.22</td>
+<td align="left" rowspan="1" colspan="1">Type 4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Passeriformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Hirundo rustica</italic></td>
+<td colspan="2" align="left" rowspan="1">217.36</td>
+<td align="left" rowspan="1" colspan="1">4.08</td>
+<td align="left" rowspan="1" colspan="1">1.88</td>
+<td align="left" rowspan="1" colspan="1">Type 4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Passeriformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Corvus corax</italic></td>
+<td colspan="2" align="left" rowspan="1">17924.59</td>
+<td align="left" rowspan="1" colspan="1">78.04</td>
+<td align="left" rowspan="1" colspan="1">0.44</td>
+<td align="left" rowspan="1" colspan="1">Type 4</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Passeriformes</td>
+<td colspan="2" align="left" rowspan="1"><italic>Acanthorhynchus superciliosus</italic></td>
+<td colspan="2" align="left" rowspan="1">2369.64</td>
+<td align="left" rowspan="1" colspan="1">28.89</td>
+<td align="left" rowspan="1" colspan="1">1.22</td>
+<td align="left" rowspan="1" colspan="1">Type 2</td>
+</tr>
+</tbody>
+</table>
+</alternatives></table-wrap>
+<p>Digital endocranial casts were created using the Livewire interpolation and localized threshold segmentation tools in Materialise Mimics 14.11 by S.A.W. and M.A.K. Vascular features (e.g., occipital sinus, semicircular veins) on the endocranial surface were retained partly to maintain consistency with earlier quantitative studies that explored endocranial volume by particle-fill or fluid displacement methods <xref ref-type="bibr" rid="pone.0067176-Jerison1">[1]</xref>, and partly because their removal is highly problematic as it involves fundamental uncertainties concerning the boundary between the vascular features and neural tissue in life <xref ref-type="bibr" rid="pone.0067176-Ridgely1">[27]</xref>. However, where major vascular foramina that extend from the brain cavity to the exterior of the skull (e.g., foramina of the paired carotid arteries and caudal sections of the semicircular veins) have well-defined junctions with the neural endocranial cast, these were removed using the 3D voxel editing tool in Mimics 14.11, which allows the removal contour to follow the curve of the surface of the main endocranial cast. The rostral portion of the semicircular vein between the cerebellar fossa and mesencephalic fossa varies between being a fully enclosed canal (e.g., <italic>Columba livia</italic>, <italic>Corvus corax</italic>) and a sulcus (e.g., <italic>Muscivora tyrannus</italic>, <italic>Podiceps cristatus</italic>) in this dataset, so this portion of the structure was left intact in all segmentations to maintain consistency among brain cavity casts. Cranial nerves were segmented along the length of their foramina up to their exit from the brain cavity wall. The nerves were included in the brain cavity volume measurements because their diameter should broadly relate to the thickness of each nerve bundle and thus the relative importance of sensory and motor projections to relevant processing centers in the brain <xref ref-type="bibr" rid="pone.0067176-Striedter1">[28]</xref>.</p>
+<p>The floccular fossa casts were separated from the digital endocranial casts using the Mimics 14.11 3D voxel editing tool. Unlike polygon mesh editing approaches <xref ref-type="bibr" rid="pone.0067176-Walsh3">[6]</xref>, <xref ref-type="bibr" rid="pone.0067176-Walsh5">[29]</xref>, this technique results in precise orthogonal divisions between voxel boundaries that can be refit with no distortion or loss of information. On all endocranial casts, the separation between the floccular fossa and endocranial cast was made at the contour that best marks a sharp change of angle between the lateral wall of the cerebellar fossa and the floccular fossa proper. Remaining voxels projecting medially from the junction were removed, resulting in a contoured surface following the separation contour (<xref ref-type="fig" rid="pone-0067176-g001">Figure 1</xref>).</p>
+<fig id="pone-0067176-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0067176.g001</object-id><label>Figure 1</label><caption>
+<title>Segmentation process for the floccular fossa endocast (<italic>Corvus corax</italic>) using the Materialise Mimics 14.11 3D editing tool.</title>
+<p><bold>A</bold>. a separation contour is chosen on the segmented endocranial cast model based on assessment of which contour best represents the point at which the lateral wall of the cerebellar fossa most sharply projects laterally to form the walls of the floccular fossa. Voxels surrounding the separation contour are selected and deleted. <bold>B</bold>. voxels medial of the separation contour are removed following the curve of the contour, which normally results in a concave medial surface (<bold>C</bold>.). <bold>D</bold>. vascular structures are removed from the FFV endocast where required (Type 4 fossa shown in this example) to leave (<bold>E</bold>.) only the external expression of the fossa as an endocast.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0067176.g001" position="float" xlink:type="simple"/></fig>
+<p>The floccular fossa was morphologically variable in this dataset and the true extent of the neural flocculus in the fossa was often difficult to determine from the bony walls of the floccular fossa alone. Separating the parts of the fossa assumed to be associated with vascular structures from those presumably containing neural tissue would be a highly subjective process. Because previous inferences of flying behavior have been made based on assessment of the size of the entire fossa <xref ref-type="bibr" rid="pone.0067176-Walsh3">[6]</xref>, <xref ref-type="bibr" rid="pone.0067176-Domnguez1">[7]</xref>, <xref ref-type="bibr" rid="pone.0067176-Witmer1">[9]</xref>, <xref ref-type="bibr" rid="pone.0067176-Milner1">[24]</xref>, no attempt was made to separate these structures, although vascular foramina exiting the fossa distally (e.g., rostral and caudal floccular arteries) were removed from the floccular fossa endocast.</p>
+<p>Volume measurements (mm<sup>3</sup>; <xref ref-type="supplementary-material" rid="pone.0067176.s001">Data S1</xref>) were made by S.A.W. from voxel data using Mimics 14.11. These comprised measurements of the full brain cavity endocranial casts with the floccular fossa included (BCEV) and the separated left and right floccular fossa casts, which were combined as a single volumetric value (FFV). FFV values were subtracted from the BCEV values resulting in a reduced brain cavity cast (BCEVr), and both FFV and BCEVr measurements were Log<sub>10</sub> transformed to normalize the data and mitigate size effects within the dataset.</p>
+<p>To examine interspecific differences in relative FFV size, we ran an ordinary least-squares linear regression on FFV and BCEVr. Using species as independent data points, we calculated residuals from this regression, which were used as relative FFV values in the analyses of aerial maneuverability described below. In addition, we calculated a phylogeny-corrected linear regression and prediction intervals to assess whether any of the species were significant outliers <xref ref-type="bibr" rid="pone.0067176-Garland1">[30]</xref>–<xref ref-type="bibr" rid="pone.0067176-Corfield1">[32]</xref>. Two different phylogenetic trees were constructed in Mesquite <xref ref-type="bibr" rid="pone.0067176-Maddison1">[33]</xref>. The two trees differed in the branching of deeper nodes in the phylogeny (e.g., orders, families) and were based on Hackett et al. <xref ref-type="bibr" rid="pone.0067176-Hackett1">[34]</xref> and Livezey and Zusi <xref ref-type="bibr" rid="pone.0067176-Livezey1">[35]</xref>. Additional resolution within clades was provided by Kennedy and Page <xref ref-type="bibr" rid="pone.0067176-Kennedy1">[36]</xref> and Harshman et al. <xref ref-type="bibr" rid="pone.0067176-Harshman1">[37]</xref>. Because the trees were assembled from multiple sources, all branch lengths were set to 1 to calculate the phylogeny-corrected regression line and prediction intervals. Once the regression line and prediction intervals were calculated in the PDAP module <xref ref-type="bibr" rid="pone.0067176-Midford1">[38]</xref> of Mesquite, they were re-plotted in the original data space (following <xref ref-type="bibr" rid="pone.0067176-Garland1">[30]</xref>).</p>
+<p>The relationship between the two transformed volume values and flight was tested using four published indices of aerial maneuverability derived from wing bone proportions (<xref ref-type="supplementary-material" rid="pone.0067176.s001">Data S1</xref>). The first of these, the brachial index (BI) <xref ref-type="bibr" rid="pone.0067176-Nudds1">[39]</xref>, comprises humerus to ulna length ratios that represent a continuum in which maneuverable species possess low values (0.7 or lower), poorly maneuverable gliding and soaring species have values of 1.0 or higher, and flightless species have high values of 1.2 or higher. Two published analyses by Rayner <xref ref-type="bibr" rid="pone.0067176-Rayner1">[40]</xref> and Norberg <xref ref-type="bibr" rid="pone.0067176-Norberg1">[41]</xref> of flight style categories based on wing loading and aspect ratios were also tested. Categories from these studies were coded and in some cases combined to emphasize aerial maneuverability. An extra ‘flightless’ category was also added. The Rayner <xref ref-type="bibr" rid="pone.0067176-Rayner1">[40]</xref>, categories comprised (0) flightless; (1) poor fliers; (2) generalists occupying non-specialized positions; (3) marine and thermal soarers; (4) diving and water birds and (5) aerial predators. The Norberg <xref ref-type="bibr" rid="pone.0067176-Norberg1">[41]</xref> categories were (0) flightless; (1) slow, poorly maneuverable soarers; (2) fast, poorly maneuverable fliers; (3) slow maneuverable fliers; (4) fast maneuverable fliers. Lastly, the wing bone proportion/kinematic categories of Wang et al. <xref ref-type="bibr" rid="pone.0067176-Wang1">[42]</xref> were included, but reordered to reflect maneuverability: (0) flightless; (1) flapping and soaring (comparable to Rayner <xref ref-type="bibr" rid="pone.0067176-Rayner1">[40]</xref>, category 3, and Norberg <xref ref-type="bibr" rid="pone.0067176-Norberg1">[41]</xref> categories1 and 2); (2) continuous flapping (comparable to Rayner <xref ref-type="bibr" rid="pone.0067176-Rayner1">[40]</xref>, categories 1 and 4, and Norberg <xref ref-type="bibr" rid="pone.0067176-Norberg1">[41]</xref> category 2); (3) bounding passerine-type flight (comparable to Rayner <xref ref-type="bibr" rid="pone.0067176-Rayner1">[40]</xref>, category 2), and (4) flapping and gliding (comparable to Rayner <xref ref-type="bibr" rid="pone.0067176-Rayner1">[40]</xref>, category 5, and Norberg <xref ref-type="bibr" rid="pone.0067176-Norberg1">[41]</xref>, categories 3 and 4). A comparison between relative floccular fossa volume in volant versus non-volant taxa was also made.</p>
+<p>Each of these indices of aerial maneuverability was then compared with relative FFV (see above) using species as independent data points and phylogenetic generalized least-squares (PGLS), which takes phylogenetic relatedness into account <xref ref-type="bibr" rid="pone.0067176-Lavin1">[43]</xref>. Distance matrices and species data were exported from Mesquite and PGLS calculations performed in Regressionv2.m in MATLAB <xref ref-type="bibr" rid="pone.0067176-Lavin1">[43]</xref>. As with the phylogeny-corrected confidence intervals, all branch lengths were set at 1.</p>
+</sec><sec id="s3">
+<title>Results</title>
+<p>We detected five main morphological floccular fossa types in this dataset based on the degree to which the fossa is expanded within the loop of the rostral and caudal arteries, the shape of the proximal region of the fossa, the elongation of the fossa and its degree of rostrocaudal compression (<xref ref-type="table" rid="pone-0067176-t001">Table 1</xref>). In Type 1 fossae (6.6% of sample; <xref ref-type="fig" rid="pone-0067176-g002">Figure 2</xref> A,B) the arterial loop is enclosed within the fossa to the extent that the structures do not leave an impression on the fossa walls. The fossa itself is dome-shaped and only a single foramen exits the fossa distally. The arterial loop is also enclosed by Type 2 fossae (15% of sample; <xref ref-type="fig" rid="pone-0067176-g002">Figure 2</xref> C,D), and the fossa base is dome-shaped and tapers distally into a rostrocaudally compressed region that twists to form a partial spiral. The fossa may be elongate or truncated, and its distal portion tapers into a single foramen that exits the fossa distally. Type 3 fossae (11.7% of sample; <xref ref-type="fig" rid="pone-0067176-g002">Figure 2</xref> E,F) also enclose the arterial loop, but unlike Types 1 and 2, the base is not markedly domed, and exhibits no torsion. The main section of the fossa is elongate and approximately circular in section, either tapering into a single foramen that exits the distal extent of the fossa, or widening into a blunt and bulbous distal end. Type 4 fossae (20% of the sample; <xref ref-type="fig" rid="pone-0067176-g002">Figure 2</xref> G,H) possess the same twisted base and rostrocaudal compression as Type 2 fossae, but do not enclose the arterial loop. In these the rostral and caudal arteries exit the tapered distal extent of the fossa and converge distally to form a ‘paperclip’ shape, with a single smaller distally-directed foramen at its distal extent. Finally, Type 5 fossae (46.7% of the sample; <xref ref-type="fig" rid="pone-0067176-g002">Figure 2</xref> I,J) are the most variable. These lack the twisted base of Types 2 and 4, but are rostrocaudally compressed. The arterial loop leaves a distinct trace on the surface of the fossa, and there is often a sheet of bone in between that causes a ‘fenestra’ in the flocculus endocast. Variability in the development of the arterial sulci or foramina in these fossae may obscure the distal extent of the neural flocculus.</p>
+<fig id="pone-0067176-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0067176.g002</object-id><label>Figure 2</label><caption>
+<title>Flocculus types recognised in this study.</title>
+<p>A–B, Type 1 (<italic>Ara macao</italic>); C–D, Type 2 (<italic>Eudyptula</italic> sp.); E–F, Type 3 (<italic>Struthio camelus</italic>); G–H, Type 4 (<italic>Apus apus</italic>) and I–J, Type 5 (<italic>Ardea cinerea</italic>). Figures in the top row are dorsal views, figures in the bottom row are caudal views.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0067176.g002" position="float" xlink:type="simple"/></fig>
+<p><italic>Tyrannus tyrannus</italic> possessed the smallest absolute FFV value (1.18 mm<sup>3</sup>) and <italic>Vultur gryphus</italic> the largest (383.23 mm<sup>3</sup>; <xref ref-type="table" rid="pone-0067176-t001">Table 1</xref>). However, when expressed as a percentage of total BCEV, <italic>Ara macao</italic> possessed the smallest relative FFV (0.19%), while the relative FFV of <italic>Hirundo rustica</italic> was the largest (1.88%; <xref ref-type="table" rid="pone-0067176-t001">Table 1</xref>).</p>
+<p>There was a strong positive correlation (p = &lt;0.001, r<sup>2</sup> = 0.84) between BCEVr and FFV and none of the species fell outside of the confidence intervals (<xref ref-type="fig" rid="pone-0067176-g003">Figure 3A</xref>). Although flightless species had larger absolute FFV volumes, there was a large amount of overlap in relative FFV volume between flightless and volant species (<xref ref-type="fig" rid="pone-0067176-g003">Figure 3B</xref>) and no significant difference between flightless and volant species was detected (all p values &gt;0.10). This non-significant result remained when the wing-propelled divers were excluded from the analysis (p&gt;0.10). Similarly, a comparison within clades revealed no appreciable differences in relative FFV. For example, the flightless Kakapo (<italic>Strigops habroptilus</italic>) has a relative FFV between that of the Scarlet Macaw (<italic>Ara macao</italic>) and the Blue-fronted Amazon (<italic>Amazona aestiva</italic>). Thus, the loss of flight is not associated with a significant change in relative FFV.</p>
+<fig id="pone-0067176-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0067176.g003</object-id><label>Figure 3</label><caption>
+<title>Floccular fossa volume relative to endocranial volume.</title>
+<p><bold>A</bold>. scatterplot of floccular fossa volume plotted against total endocranial volume (minus that of the floccular fossa). The blue circles indicate flightless species whereas the yellow circles indicate volant species. The lines depict the least-squares linear regression line (solid, y = 0.919x+2.013) and 95% confidence intervals of least-squares linear regression using species as independent data points (dashed lines) and after correction for phylogeny (dotted lines). <bold>B</bold>. scatterplot of the relative floccular volume of flightless (blue) and volant (yellow) species calculated as the residuals from a common least-squares linear regression.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0067176.g003" position="float" xlink:type="simple"/></fig>
+<p>The brachial index (BI) was not significantly associated with relative FFV in both our analyses of species as independent data points and PGLS (<xref ref-type="table" rid="pone-0067176-t002">Table 2</xref>). As shown in <xref ref-type="fig" rid="pone-0067176-g004">Figure 4A</xref>, however, <italic>Apteryx</italic> and <italic>Struthio</italic> have far larger BI values (2.24 and 3.18 respectively) than all other taxa analyzed and are obvious outliers in the BI dataset. Excluding these two species from the analysis resulted in a significant positive relationship (<xref ref-type="fig" rid="pone-0067176-g004">Figure 4B</xref>) between relative FFV and BI, regardless of whether or not phylogeny was taken into account (<xref ref-type="bibr" rid="pone.0067176-Livezey1">[35]</xref>: F = 4.79, df = 1,55, p = 0.03, r<sup>2</sup> = 0.08; <xref ref-type="bibr" rid="pone.0067176-Hackett1">[34]</xref>: F = 6.38, df = 1,55, p = 0.01, r<sup>2</sup> = 0.10) or not (F = 8.82, df = 1,56, p = 0.004, r<sup>2</sup> = 0.12).</p>
+<fig id="pone-0067176-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0067176.g004</object-id><label>Figure 4</label><caption>
+<title>Scatterplot of relative floccular fossa volume plotted against the brachial index.</title>
+<p><bold>A</bold>. including the outliers <italic>Apteryx</italic> and <italic>Struthio</italic>. <bold>B</bold>. with those outliers removed. Note that relative floccular fossa volume was calculated as the residuals from a least-squares linear regression as shown in <xref ref-type="fig" rid="pone-0067176-g003">Figure 3</xref>. For both scatterplots, the solid line depicts the least-squares linear regression.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0067176.g004" position="float" xlink:type="simple"/></fig><table-wrap id="pone-0067176-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0067176.t002</object-id><label>Table 2</label><caption>
+<title>Results of analyses of variance on relative floccular volume and the three flight style estimates used in this study (see <xref ref-type="sec" rid="s2">Materials and Methods</xref> for details).</title>
+</caption><alternatives><graphic id="pone-0067176-t002-2" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0067176.t002" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Flight style estimate</td>
+<td align="left" rowspan="1" colspan="1">No phylogeny</td>
+<td align="left" rowspan="1" colspan="1">Livezey &amp; Zusi <xref ref-type="bibr" rid="pone.0067176-Livezey1">[35]</xref></td>
+<td align="left" rowspan="1" colspan="1">Hackett et al. <xref ref-type="bibr" rid="pone.0067176-Hackett1">[34]</xref></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>Brachial index</bold></td>
+<td align="left" rowspan="1" colspan="1">F = 0.22, df = 1,58, p = 0.64</td>
+<td align="left" rowspan="1" colspan="1">F = 0.002, df = 1,57, p = 0.96</td>
+<td align="left" rowspan="1" colspan="1">F = 0.05, df = 1,57, p = 0.82</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>Rayner </bold><xref ref-type="bibr" rid="pone.0067176-Rayner1">[<bold>40</bold>]</xref></td>
+<td align="left" rowspan="1" colspan="1">F = 2.19, df = 5,44, p = 0.07</td>
+<td align="left" rowspan="1" colspan="1">F = 1.59, df = 5,44, p = 0.18</td>
+<td align="left" rowspan="1" colspan="1">F = 1.33, df = 5,44, p = 0.27</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>Norberg </bold><xref ref-type="bibr" rid="pone.0067176-Norberg1">[<bold>41</bold>]</xref></td>
+<td align="left" rowspan="1" colspan="1">F = 2.03, df = 4,47, p = 0.11</td>
+<td align="left" rowspan="1" colspan="1">F = 0.57, df = 4,47, p = 0.69</td>
+<td align="left" rowspan="1" colspan="1">F = 0.76, df = 4,47, p = 0.56</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>Wang et al.</bold> <xref ref-type="bibr" rid="pone.0067176-Wang1">[<bold>42</bold>]</xref></td>
+<td align="left" rowspan="1" colspan="1">F = 0.62, df = 4,27, p = 0.65</td>
+<td align="left" rowspan="1" colspan="1">F = 0.09, df = 4,27, p = 0.98</td>
+<td align="left" rowspan="1" colspan="1">F = 0.15, df = 4,27, p = 0.96</td>
+</tr>
+</tbody>
+</table>
+</alternatives></table-wrap>
+<p>Finally, no significant relationship was found between relative FFV and any of the three aerial maneuverability classification schemes (<xref ref-type="fig" rid="pone-0067176-g005">Figure 5</xref>, <xref ref-type="table" rid="pone-0067176-t002">Table 2</xref>). Inspection of the scatterplots reveals that there is considerable variability within each category used in all three schemes and no clear difference in relative FFV among any of them.</p>
+<fig id="pone-0067176-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0067176.g005</object-id><label>Figure 5</label><caption>
+<title>Scatterplots of relative floccular volume grouped according to each of the categories used in the aerial maneuverability measures.</title>
+<p><bold>A</bold>. Rayner <xref ref-type="bibr" rid="pone.0067176-Rayner1">[40]</xref>. <bold>B</bold>. Norberg <xref ref-type="bibr" rid="pone.0067176-Norberg1">[41]</xref>. <bold>C</bold>. Wang et al. <xref ref-type="bibr" rid="pone.0067176-Wang1">[42]</xref>. The mean ± standard deviations are shown for each group. Note that relative floccular volume was calculated as the residuals from a least-squares linear regression as shown in <xref ref-type="fig" rid="pone-0067176-g003">Figure 3</xref>.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0067176.g005" position="float" xlink:type="simple"/></fig></sec><sec id="s4">
+<title>Discussion</title>
+<p>Although there appears to be a relationship between relative FFV and BI, the need to remove the outliers <italic>Apteryx</italic> and <italic>Struthio</italic> to achieve significance even in this small selection of taxa indicates that relative floccular fossa size is not a reliable indicator of flying ability in extant birds. This finding is supported by the absence of a significant relationship between any categorical flight style variable and FFV, or even a clear separation between volant and flightless species.</p>
+<p>Nonetheless, the weak relationship between relative FFV and BI is interesting as it suggests that a signal is present, but that it may have been weakened by one or more other factors. As mentioned above, it is possible that a significant proportion of the neural flocculus is not detected using this approach because it occurs within the vermis of the cerebellum and cannot be estimated from the endocranial surface. Nonetheless, current knowledge of flocculus extent within the avian cerebellum suggests that this is unlikely to be the case <xref ref-type="bibr" rid="pone.0067176-Pakan1">[44]</xref>. Another source of error may stem from determination of the demarcation between the floccular fossa and cerebellum at the surface of the cerebellar fossa, which potentially may produce slight variation in fossa volume measurements. Possibly more problematic is that the distal extent of the neural flocculus is impossible to determine with certainty in most Type 5 fossae (the most commonly encountered type), and a potentially significant proportion of volume in these may relate to vascular space rather than neural tissue. An extensive survey of vascular versus neural occupancy of the floccular fossa in living bird species is needed to test the nature and extent of this variability. Until floccular fossa vascularity is better known in extant birds, informed estimates of neural volume in the floccular fossae of fossil birds cannot be made. Similarly, estimates of flying ability based on the apparently large flocculi observed on the endocranial casts of non-avian dinosaurs <xref ref-type="bibr" rid="pone.0067176-Kundrt1">[12]</xref>, <xref ref-type="bibr" rid="pone.0067176-Balanoff1">[13]</xref> and pterosaurs <xref ref-type="bibr" rid="pone.0067176-Witmer1">[9]</xref> should be regarded with additional caution, especially as some of these taxa are phylogenetically distant from extant birds and may have had novel neural or vascular structures that are unknown in modern birds.</p>
+<p>Because maneuverability increases as BI values decrease <xref ref-type="bibr" rid="pone.0067176-Nudds1">[39]</xref>, one prediction is that species with low BI values should have larger flocculi. However, in this dataset the opposite is true. One possible reason for this is that larger birds tend to have larger brains and larger BI values, and the strong positive correlation between FFV and BCEVr volumes indicates they also have larger relative FFV values. The presence of large flying and flightless species in the dataset could potentially cause this positive relationship. However, although not shown, the removal of all taxa greater than 10 kg in the dataset (<italic>Struthio</italic>, <italic>Dromaius</italic>, <italic>Casuarius</italic>, <italic>Rhea</italic>, <italic>Pezophaps</italic>, <italic>Cygnus</italic> and <italic>Vultur</italic>: see <xref ref-type="supplementary-material" rid="pone.0067176.s001">Data S1</xref>) had no significant effect on this positive correlation between BI and relative FFV.</p>
+<p>Larger flying birds are generally thermal or dynamic soarers (e.g., <italic>Aquila</italic>, <italic>Buteo</italic>, <italic><underline>Vultur</underline></italic>, <italic>Diomedea</italic>) that often spend long periods far from the ground, are incapable of tight maneuvering and experience relatively little in the way of powerful vertical accelerations through flapping flight <xref ref-type="bibr" rid="pone.0067176-Rayner1">[40]</xref>, <xref ref-type="bibr" rid="pone.0067176-Norberg1">[41]</xref>. <italic>Cygnus</italic> is an exception in terms of engaging in extended periods of powerful flapping flight (but not agile aerial maneuvers), but the long neck of anseriforms serves to insulate their heads from the powerful vertical rise and fall during the wing beat cycle <xref ref-type="bibr" rid="pone.0067176-Warrick1">[45]</xref>. One explanation of the positive relationship between FFV and BI is that low VOR gains far from the ground might actually require a greater commitment of neural tissue to VOR processing, resulting in larger flocculi. If so, species that fly closer to the ground may not require such large flocculi because VOR gain from the optic flow field is greater. A factor potentially weakening this relationship might be that major differences in VOR gain between flying far from the ground and close to the ground, as well as changes in VOR gain during landing maneuvers and subsequent terrestrial locomotion, require a particularly large degree of plasticity and adaptation. If this extra capacity requires increases in neural tissue it could affect any prediction of how flocculus volume will vary based on basic quantification of ‘normal’ flight in a given taxon. The reasons for this positive relationship are therefore potentially complex, and the relatively weak relationship (r<sup>2</sup> of ca. 0.1) should be regarded with caution until more is known about how flocculus structure and function differs among taxa.</p>
+<p>It is also noteworthy that flightless birds have relative FFV values in the upper range of the dataset, and that there is a high degree of overlap with flying species. Since these taxa do not experience the diversity of flight-based optic flow environments mentioned above, the flocculus might be expected to decrease in relative size during the evolution of flightlessness if the role of the flocculus in processing the VCR and VOR is so important for flight. This size decrease has clearly not occurred, so assuming vascular structures in the floccular fossa of these taxa are not significantly larger than in volant species, the region must remain important in flightless species for other reasons. The high FFV values of flightless taxa might simply represent retention of the condition seen in their volant ancestors and represent examples of phylogenetic conservatism <xref ref-type="bibr" rid="pone.0067176-Voogd1">[20]</xref>, or represent exaptation of functions for ground-based bipedal locomotion from those once used for flight. For instance, the VOR is important for visual field processing in other locomotory modes such as running and wing- and foot-propelled diving, and together with the VCR the flocculus must play a crucial role in maintaining and changing posture <xref ref-type="bibr" rid="pone.0067176-Hirasaki1">[46]</xref>, <xref ref-type="bibr" rid="pone.0067176-Muir1">[47]</xref>.</p>
+<p>The strong correlation between FFV and BCEVr indicates that changes in the region’s size must generally keep pace with those of overall brain size during evolution, even though overall size changes may be a result of mosaic rather than concerted regional size change <xref ref-type="bibr" rid="pone.0067176-Iwaniuk3">[48]</xref>. However, the apparent expansion of the flocculus may not result solely from increases in floccular tissue, and other parts of the vestibulocerebellum may also be involved. For instance, the uvula and nodulus lie medial to the floccular lobes and integrate optic flow and vestibular information to process postural and locomotor reflexes relating to head translation and stabilization <xref ref-type="bibr" rid="pone.0067176-Wylie2">[49]</xref>. Consequently, uvula-nodulus processing must be important for flight, and is probably also relevant to debates <xref ref-type="bibr" rid="pone.0067176-Necker1">[50]</xref> about the nature and purpose of avian ‘head bobbing’ during terrestrial locomotion. The uvula-nodulus might be expected to be larger in volant taxa, although this enlargement would not be obvious in an endocranial cast. However, expansion of the uvula-nodulus could conceivably have led to extrusion of the flocculus into the loop of the rostral semicircular canal. If so, the apparently large flocculi of birds may actually be an expression of a functionally enlarged flocculus-uvula-nodulus complex. A comparison of vestibulocerebellar size, the combination of the uvula and nodulus, across extant birds suggests that the uvula-nodulus is smaller in ‘strong fliers’ <xref ref-type="bibr" rid="pone.0067176-Iwaniuk4">[51]</xref>, which were a collection of species defined by Larsell <xref ref-type="bibr" rid="pone.0067176-Larsell1">[52]</xref> as species that fly long distances or are highly maneuverable and included a diverse array of taxa (waterfowl, swifts, raptors, hummingbirds, seabirds, terns, penguins and swallows). A more accurate categorization of flight behavior as well as a survey of floccular volumes would provide some insight into whether uvula-nodulus expansion is related to floccular expansion and the relationship that both have to flight behavior, if any.</p>
+<p>Enhanced visual stabilization has been suggested to be important for stable terrestrial bipedal locomotion <xref ref-type="bibr" rid="pone.0067176-Fujita1">[53]</xref>, and the possibility exists that the enlarged and protruding flocculus (possibly related to uvula-nodulus expansion) seen in birds, non-avian theropod dinosaurs and pterosaurs (but not extant crocodiles) actually relates to the evolution of bipedal terrestrial locomotion in Archosauria. Compared with quadrupedal locomotion, bipedality is inherently unstable and requires enhanced control through vestibular and proprioceptive feedback <xref ref-type="bibr" rid="pone.0067176-Fujita1">[53]</xref>, <xref ref-type="bibr" rid="pone.0067176-Dietz1">[54]</xref>. As such, primary enlargement of the flocculus/uvula-nodulus to cope with these demands may have occurred in the common ancestor of dinosaurs, birds and pterosaurs, or have arisen multiple times if bipedality evolved separately in several archosaur clades. The flocculus is not laterally expanded in squamates <xref ref-type="bibr" rid="pone.0067176-Larsell2">[55]</xref>, but there is some lateral expansion to form a discernible floccular ‘lobe’ in chelonians and <italic>Alligator</italic> <xref ref-type="bibr" rid="pone.0067176-Larsell3">[56]</xref>. However, no volumetric measurements are available for the flocculus or uvula-nodulus in any of these taxa and nothing is known about the hodological or physiological organization of the flocculus and associated vestibulocerebellum in squamates, turtles or crocodilians <xref ref-type="bibr" rid="pone.0067176-Voogd1">[20]</xref>. Testing whether the evolution of bipedality is indeed associated with an expansion of the vestibulocerebellum (indexed by expansion of the flocculus) may be possible by amassing data for a broader range of species. For example, µCT analyses of key basal archosaur taxa and crocodile-line archosaur (pseudosuchian) taxa, including both obligate quadrupeds and rare bipeds (such as <italic>Effigia</italic>), would represent an important step toward testing the hypothesis that the multiple instances of flight evolution in Archosauria were aided by the possession of a basic ‘flying brain’ in a common archosaur ancestor <xref ref-type="bibr" rid="pone.0067176-Witmer2">[19]</xref>.</p>
+<p>There is a degree of within-clade variation in floccular fossa type, but some clades (notably Palaeognathae – Type 3; Psittaciformes – Type 1) appear to possess one type only. Across clades that exhibit variation, there is some evidence that some fossa types may be more common among taxa exhibiting broad differences in locomotor behavior. For instance, Type 4 fossae are present in <italic>Apus</italic>, <italic>Coracias</italic>, <italic>Corvus</italic>, <italic>Creagrus</italic>, <italic>Falco</italic>, <italic>Hirundo</italic>, <italic>Larus</italic>, <italic>Phaethon</italic>, <italic>Podargus</italic>, <italic>Trogon</italic> and <italic>Tyrannus</italic>. These taxa represent at least eight different avian orders, but all species exhibit good and sometimes exceptional maneuverability. These short and dome-like fossae contrast strongly with the long and broad Type 3 fossae found in the flightless palaeognaths, but also in the weak flier <italic>Rhynchotus</italic> and the soaring <italic>Diomedea</italic>. Further work is needed to determine whether floccular fossa morphology may be more useful than size for inferring flying ability.</p>
+<p>Given the high FFV values for extant flightless birds, the apparently large flocculi seen in some bird-like theropod dinosaurs mentioned above might support the hypothesis that these taxa are secondarily flightless birds. This suggestion is enhanced by the morphology of most (e.g., <xref ref-type="bibr" rid="pone.0067176-Norell1">[14]</xref>, <xref ref-type="bibr" rid="pone.0067176-Franzosa1">[57]</xref>, <xref ref-type="bibr" rid="pone.0067176-Lautenschlager1">[58]</xref>), but not all (e.g., possibly not <italic>Incisivosaurus</italic> <xref ref-type="bibr" rid="pone.0067176-Balanoff1">[13]</xref>), known theropod flocculi, which most closely approximate the Type 3 fossae of palaeognaths described here. However, until a more comprehensive survey of fossa morphology can be undertaken, the possibility that the Type 3 fossa represents a plesiomorphic morphology that arose in non-avian theropods and that was retained by birds cannot be discounted. Consequently, the results of our numerical analyses and morphological investigations neither support nor refute derivation of these taxa from volant ancestors. However, overwhelming anatomical evidence from all other parts of the skeleton in these bird-like taxa strongly indicates that they genuinely are non-avian dinosaurs.</p>
+<p>Our results provide a reminder of the limitations of the brain cavity as a source of neural information. A growing number of quantitative investigations of relative brain region volume using wet specimen datasets are providing useful behavioral characterizations of brain composition and shape <xref ref-type="bibr" rid="pone.0067176-Corfield2">[59]</xref>, <xref ref-type="bibr" rid="pone.0067176-Iwaniuk5">[60]</xref>. By comparison, few studies <xref ref-type="bibr" rid="pone.0067176-Zelenitsky1">[61]</xref> have attempted empirical investigation of brain cavity morphology for inferring behavior. Despite the advent of X-ray µCT, the field of avian paleoneurology will remain limited to qualitative assessment of brain shape or quantitative assessment of overall brain size until such studies are performed.</p>
+</sec><sec id="s5">
+<title>Supporting Information</title>
+<supplementary-material id="pone.0067176.s001" mimetype="application/vnd.ms-excel" xlink:href="info:doi/10.1371/journal.pone.0067176.s001" position="float" xlink:type="simple"><label>Data S1</label><caption>
+<p><bold>Measurements and flight-style coding for all included avian taxa.</bold></p>
+<p>(XLS)</p>
+</caption></supplementary-material><supplementary-material id="pone.0067176.s002" mimetype="application/pdf" xlink:href="info:doi/10.1371/journal.pone.0067176.s002" position="float" xlink:type="simple"><label>Scanning S1</label><caption>
+<p><bold>Scanning parameters, specimen numbers and name of who scanned and segmented each specimen.</bold></p>
+<p>(PDF)</p>
+</caption></supplementary-material></sec></body>
+<back>
+<ack>
+<p>We are grateful to Jo Cooper (NHMUK) for specimen access and collecting measurements, and to Sandra Chapman (NHMUK) and Bob McGowan (NMS), for specimen access. We wish to thank two anonymous reviewers and the editor, Doug Wylie, for greatly improving this manuscript, especially the discussion of the role of the uvula-nodulus as a mechanism for flocculus expansion in birds and dinosaurs.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0067176-Jerison1"><label>1</label>
+<mixed-citation publication-type="book" xlink:type="simple">Jerison HJ (1973) Evolution of the brain and intelligence. London: Academic Press. 482 p.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Northcutt1"><label>2</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Northcutt</surname><given-names>RG</given-names></name> (<year>2001</year>) <article-title>Evolution of the nervous system: changing views of brain evolution</article-title>. <source>Brain Res Bull</source> <volume>55</volume>: <fpage>663</fpage>–<lpage>674</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Walsh1"><label>3</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Walsh</surname><given-names>SA</given-names></name>, <name name-style="western"><surname>Knoll</surname><given-names>MA</given-names></name> (<year>2011</year>) <article-title>Directions in palaeoneurology</article-title>. <source>Spec Pap Pal</source> <volume>86</volume>: <fpage>263</fpage>–<lpage>279</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Walsh2"><label>4</label>
+<mixed-citation publication-type="book" xlink:type="simple">Walsh SA, Luo ZX, Barrett PM (2013) Modern imaging techniques as a window to prehistoric auditory worlds. In: Köppl C, Manley G, editors. Insights from comparative hearing research. Springer Handbook of Auditory Research. Berlin: Springer Verlag. In press.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Iwaniuk1"><label>5</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Iwaniuk</surname><given-names>AN</given-names></name>, <name name-style="western"><surname>Nelson</surname><given-names>J</given-names></name> (<year>2002</year>) <article-title>Can endocranial volume be used as an estimate of brain size in birds?</article-title> <source>Can J Zool</source> <volume>80</volume>: <fpage>16</fpage>–<lpage>23</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Walsh3"><label>6</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Walsh</surname><given-names>SA</given-names></name>, <name name-style="western"><surname>Milner</surname><given-names>AC</given-names></name> (<year>2011</year>) <article-title><italic>Halcyornis toliapicus</italic> (Aves: Lower Eocene, England) indicates advanced neuromorphology in Mesozoic Neornithes</article-title>. <source>J Syst Pal</source> <volume>9</volume>: <fpage>173</fpage>–<lpage>181</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Domnguez1"><label>7</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Domínguez</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Milner</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Ketcham</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Cookson</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Rowe</surname><given-names>TB</given-names></name> (<year>2004</year>) <article-title>The avian nature of the brain and inner ear of <italic>Archaeopteryx</italic></article-title>. <source>Nature</source> <volume>430</volume>: <fpage>666</fpage>–<lpage>669</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Walsh4"><label>8</label>
+<mixed-citation publication-type="book" xlink:type="simple">Walsh SA, Milner AC (2011) Evolution of the avian brain and senses. In: Dyke G, Kaiser G, editors. Living dinosaurs: the evolutionary history of modern birds. Chichester: John Wiley &amp; Sons. 282–305.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Witmer1"><label>9</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Chatterjee</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Franzosa</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Rowe</surname><given-names>T</given-names></name> (<year>2003</year>) <article-title>Neuroanatomy of flying reptiles and implications for flight, posture and behaviour</article-title>. <source>Nature</source> <volume>425</volume>: <fpage>950</fpage>–<lpage>953</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Burnham1"><label>10</label>
+<mixed-citation publication-type="book" xlink:type="simple">Burnham DA (2004) New information of <italic>Bambiraptor feinbergi</italic> (Theropoda: Dromaeosauridae) from the late Cretaceous of Montana. In Currie P, Koppelhaus EB, Shugar MA, Wright JL, editors. Feathered dragons: studies on the transition from dinosaurs to birds. Bloomington: Indiana Press. 67–111.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Osmlska1"><label>11</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Osmólska</surname><given-names>H</given-names></name> (<year>2004</year>) <article-title>Evidence on relation of brain to endocranial cavity in oviraptorid dinosaurs</article-title>. <source>Acta Pal Pol</source> <volume>49</volume>: <fpage>321</fpage>–<lpage>324</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Kundrt1"><label>12</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kundrát</surname><given-names>M</given-names></name> (<year>2007</year>) <article-title>Avian-like attributes of a virtual brain model of the oviraptorid theropod <italic>Conchoraptor gracilis</italic></article-title>. <source>Naturwissenschaften</source> <volume>94</volume>: <fpage>499</fpage>–<lpage>504</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Balanoff1"><label>13</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Balanoff</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Kobayashi</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Matsufune</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name> (<year>2009</year>) <article-title>Cranial osteology of the theropod dinosaur <italic>Incisivosaurus gauthieri</italic> (Theropoda: Oviraptorosauria)</article-title>. <source>Am Mus Nov</source> <volume>3651</volume>: <fpage>1</fpage>–<lpage>35</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Norell1"><label>14</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Bever</surname><given-names>GS</given-names></name>, <name name-style="western"><surname>Balanoff</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Clarke</surname><given-names>JM</given-names></name>, <etal>et al</etal>. (<year>2009</year>) <article-title>A review of the Mongolian Cretaceous dinosaur <italic>Saurornithoides</italic> (Troodontidae: Theropoda)</article-title>. <source>Am Mus Nov</source> <volume>3654</volume>: <fpage>1</fpage>–<lpage>63</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Kavanau1"><label>15</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kavanau</surname><given-names>L</given-names></name> (<year>2010</year>) <article-title>Secondarily flightless birds or Cretaceous non-avian theropods?</article-title> <source>Med Hypo</source> <volume>74</volume>: <fpage>275</fpage>–<lpage>276</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Feduccia1"><label>16</label>
+<mixed-citation publication-type="book" xlink:type="simple">Feduccia A (2011) Riddle of the feathered dragons: hidden birds of China. New Haven: Yale University Press. 368 p.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Dyke1"><label>17</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dyke</surname><given-names>GJ</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name> (<year>2005</year>) <article-title><italic>Caudipteryx</italic> as a non-avialan theropod rather than a flightless bird</article-title>. <source>Acta Pal Pol</source> <volume>50</volume>: <fpage>101</fpage>–<lpage>116</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Hu1"><label>18</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hu</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Hou</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Xu</surname><given-names>X</given-names></name> (<year>2009</year>) <article-title>A pre-<italic>Archaeopteryx</italic> troodontid theropod from China with long feathers on the metatarsus</article-title>. <source>Nature</source> <volume>461</volume>: <fpage>640</fpage>–<lpage>643</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Witmer2"><label>19</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Ridgely</surname><given-names>RC</given-names></name> (<year>2007</year>) <article-title>Evolving an on-board flight computer: brains, ears, and exaptation in the evolution of birds and other theropod dinosaurs</article-title>. <source>J Morph</source> <volume>ICVM–8</volume>: <fpage>1150</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Voogd1"><label>20</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Voogd</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Wylie</surname><given-names>DRW</given-names></name> (<year>2004</year>) <article-title>Functional and anatomical organization of floccular zones: A preserved feature in vertebrates</article-title>. <source>J Comp Neurol</source> <volume>470</volume>: <fpage>107</fpage>–<lpage>112</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Ito1"><label>21</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ito</surname><given-names>M</given-names></name> (<year>1998</year>) <article-title>Cerebellar learning in the vestibulo-ocular reflex</article-title>. <source>Trends Cog Sci</source> <volume>2</volume>: <fpage>313</fpage>–<lpage>321</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Iwaniuk2"><label>22</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Iwaniuk</surname><given-names>AN</given-names></name>, <name name-style="western"><surname>Wylie</surname><given-names>DRW</given-names></name> (<year>2007</year>) <article-title>A neural specialization for hovering in hummingbirds: hypertrophy of the pretectal nucleus lentiformis mesencephali</article-title>. <source>J Comp Neurol</source> <volume>500</volume>: <fpage>211</fpage>–<lpage>221</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Wylie1"><label>23</label>
+<mixed-citation publication-type="book" xlink:type="simple">Wylie DRW, Iwaniuk AN (2012) Neural mechanisms of motion detection in birds. In: Lazareva O, Shimizu T, Wasserman E, editors. How animals see the world. New York: Oxford University Press. 289–318.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Milner1"><label>24</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Milner</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Walsh</surname><given-names>SA</given-names></name> (<year>2009</year>) <article-title>Avian brain evolution: new data from Palaeogene birds (Lower Eocene) from England</article-title>. <source>Zool J Linn Soc</source> <volume>155</volume>: <fpage>198</fpage>–<lpage>219</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Baumel1"><label>25</label>
+<mixed-citation publication-type="book" xlink:type="simple">Baumel JJ (1993) Systema cardiovasculare. In: Baumel JJ, editor. Handbook of avian anatomy: nomina anatomica avium. Cambridge MA: Nuttall Ornithological Club. 407–476.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Abel1"><label>26</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Abel</surname><given-names>RL</given-names></name>, <name name-style="western"><surname>Laurini</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Richter</surname><given-names>M</given-names></name> (<year>2012</year>) <article-title>A palaeobiologist's guide to ‘virtual’ micro-CT preparation</article-title>. <source>Palaeo Elec</source> <volume>15</volume>: <fpage>1</fpage>–<lpage>16</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Ridgely1"><label>27</label>
+<mixed-citation publication-type="book" xlink:type="simple">Ridgely RC, Witmer LM (2008) Gross Anatomical Brain Region Approximation (GABRA): a new technique for assessing brain structure in dinosaurs and other fossil archosaurs. J Vert Pal 28 (3, Suppl.): 131A.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Striedter1"><label>28</label>
+<mixed-citation publication-type="book" xlink:type="simple">Striedter G (2005) Principles of brain evolution. Sunderland MA: Sinauer Associates. 436 p.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Walsh5"><label>29</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Walsh</surname><given-names>SA</given-names></name>, <name name-style="western"><surname>Barrett</surname><given-names>PM</given-names></name>, <name name-style="western"><surname>Milner</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Manley</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name> (<year>2009</year>) <article-title>Inner ear anatomy is a proxy for deducing auditory capability and behaviour in reptiles and birds</article-title>. <source>Proc R Soc Lond B</source> <volume>276</volume>: <fpage>1355</fpage>–<lpage>1360</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Garland1"><label>30</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Garland</surname><given-names>T</given-names><suffix>Jr</suffix></name>, <name name-style="western"><surname>Ives</surname><given-names>AR</given-names></name> (<year>2000</year>) <article-title>Using the past to predict the present: confidence intervals for regression equations in phylogenetic comparative methods</article-title>. <source>Am Nat</source> <volume>155</volume>: <fpage>346</fpage>–<lpage>364</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-GutirrezIbez1"><label>31</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gutiérrez-Ibáñez</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Iwaniuk</surname><given-names>AN</given-names></name>, <name name-style="western"><surname>Wylie</surname><given-names>DR</given-names></name> (<year>2009</year>) <article-title>The independent evolution of the enlargement of the principal sensory nucleus of the trigeminal nerve (PrV) in three different groups of birds</article-title>. <source>Brain Behav Evol</source> <volume>74</volume>: <fpage>280</fpage>–<lpage>294</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Corfield1"><label>32</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Corfield</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Gsell</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Brunton</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Heesy</surname><given-names>CP</given-names></name>, <name name-style="western"><surname>Hall</surname><given-names>MI</given-names></name>, <etal>et al</etal>. (<year>2011</year>) <article-title>Anatomical specializations for nocturnality in a critically endangered parrot, the Kakapo (<italic>Strigops habroptilus</italic>)</article-title>. <source>PLoS ONE</source> <volume>6</volume>: <fpage>e22945</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Maddison1"><label>33</label>
+<mixed-citation publication-type="other" xlink:type="simple">Maddison WP, Maddison DR (2009) Mesquite: a modular system for evolutionary analysis. Version 2.6. Available: <ext-link ext-link-type="uri" xlink:href="http://mesquiteproject.org" xlink:type="simple">http://mesquiteproject.org</ext-link>. Accessed 2011 Sep 25.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Hackett1"><label>34</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hackett</surname><given-names>SJ</given-names></name>, <name name-style="western"><surname>Kimball</surname><given-names>RT</given-names></name>, <name name-style="western"><surname>Reddy</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Bowie</surname><given-names>RCK</given-names></name>, <name name-style="western"><surname>Braun</surname><given-names>EL</given-names></name>, <etal>et al</etal>. (<year>2008</year>) <article-title>A phylogenomic study of birds reveals their evolutionary history</article-title>. <source>Science</source> <volume>320</volume>: <fpage>1763</fpage>–<lpage>1768</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Livezey1"><label>35</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Livezey</surname><given-names>BC</given-names></name>, <name name-style="western"><surname>Zusi</surname><given-names>RL</given-names></name> (<year>2007</year>) <article-title>Higher-order phylogeny of modern birds (Theropoda, Aves: Neornithes) based on comparative anatomy. II. Analysis and discussion</article-title>. <source>Zool J Linn Soc</source> <volume>49</volume>: <fpage>1</fpage>–<lpage>95</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Kennedy1"><label>36</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kennedy</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Page</surname><given-names>RDM</given-names></name> (<year>2002</year>) <article-title>Seabird supertrees: combining partial estimates of procellariiform phylogeny</article-title>. <source>Auk</source> <volume>119</volume>: <fpage>88</fpage>–<lpage>108</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Harshman1"><label>37</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Harshman</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Braun</surname><given-names>EL</given-names></name>, <name name-style="western"><surname>Braun</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Huddleston</surname><given-names>CJ</given-names></name>, <name name-style="western"><surname>Bowie</surname><given-names>RCK</given-names></name>, <etal>et al</etal>. (<year>2008</year>) <article-title>Phylogenomic evidence for multiple losses of flight in ratite birds</article-title>. <source>PNAS</source> <volume>105</volume>: <fpage>13462</fpage>–<lpage>13467</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Midford1"><label>38</label>
+<mixed-citation publication-type="other" xlink:type="simple">Midford PE, Garland T, Maddison WP (2008) PDAP: a MESQUITE translation of the PDTREE application of Garland et al.’s phenotypic diversity analysis programs, version 1.14. Available: <ext-link ext-link-type="uri" xlink:href="http://mesquiteproject.org/pdap_mesquite/" xlink:type="simple">http://mesquiteproject.org/pdap_mesquite/</ext-link>. Accessed 2012 Jan 5.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Nudds1"><label>39</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Nudds</surname><given-names>RL</given-names></name>, <name name-style="western"><surname>Dyke</surname><given-names>GJ</given-names></name>, <name name-style="western"><surname>Rayner</surname><given-names>JMV</given-names></name> (<year>2007</year>) <article-title>Avian brachial index and wing kinematics: putting movement back into bones</article-title>. <source>J Zool</source> <volume>272</volume>: <fpage>218</fpage>–<lpage>226</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Rayner1"><label>40</label>
+<mixed-citation publication-type="book" xlink:type="simple">Rayner JMV (1988) Form and function in vertebrate flight. In: Johnston RF, editor. Current Ornithology vol 5. New York and London: Plenum Press. 1–66.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Norberg1"><label>41</label>
+<mixed-citation publication-type="book" xlink:type="simple">Norberg UM (1990) Vertebrate flight: mechanics, physiology, morphology, ecology and evolution. Berlin: Springer-Verlag. 291 p.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Wang1"><label>42</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>, <name name-style="western"><surname>McGowan</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Dyke</surname><given-names>GJ</given-names></name> (<year>2011</year>) <article-title>Avian wing proportions and flight styles: first step towards predicting the flight modes of Mesozoic birds</article-title>. <source>PLoS ONE</source> <volume>6</volume>: <fpage>e28672</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Lavin1"><label>43</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lavin</surname><given-names>SR</given-names></name>, <name name-style="western"><surname>Karasov</surname><given-names>WH</given-names></name>, <name name-style="western"><surname>Ives</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Middleton</surname><given-names>KM</given-names></name>, <name name-style="western"><surname>Garland</surname><given-names>T</given-names><suffix>Jr</suffix></name> (<year>2008</year>) <article-title>Morphometrics of the avian small intestine, compared with non-flying mammals: A phylogenetic perspective</article-title>. <source>Phys Biochem Zool</source> <volume>81</volume>: <fpage>526</fpage>–<lpage>550</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Pakan1"><label>44</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pakan</surname><given-names>JMP</given-names></name>, <name name-style="western"><surname>Graham</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Gutiérrez-Ibáñez</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Wylie</surname><given-names>DRW</given-names></name> (<year>2011</year>) <article-title>Organization of the cerebellum: Correlating zebrin immunochemistry with optic flow zones in the pigeon flocculus</article-title>. <source>Vis Neurosci</source> <volume>28</volume>: <fpage>163</fpage>–<lpage>174</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Warrick1"><label>45</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Warrick</surname><given-names>DR</given-names></name>, <name name-style="western"><surname>Bundle</surname><given-names>MWK</given-names></name>, <name name-style="western"><surname>Dial</surname><given-names>P</given-names></name> (<year>2002</year>) <article-title>Bird maneuvering flight: blurred bodies, clear heads</article-title>. <source>Int Comp Biol</source> <volume>42</volume>: <fpage>141</fpage>–<lpage>148</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Hirasaki1"><label>46</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hirasaki</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Moore</surname><given-names>ST</given-names></name>, <name name-style="western"><surname>Raphan</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Cohen</surname><given-names>B</given-names></name> (<year>1999</year>) <article-title>Effects of walking velocity on vertical head and body movements during locomotion</article-title>. <source>Exp Brain Res</source> <volume>127</volume>: <fpage>117</fpage>–<lpage>130</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Muir1"><label>47</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Muir</surname><given-names>GD</given-names></name>, <name name-style="western"><surname>Gowri</surname><given-names>KSV</given-names></name> (<year>2005</year>) <article-title>Role of motor and visual experience during development of bipedal locomotion in chicks</article-title>. <source>J Neurophysiol</source> <volume>94</volume>: <fpage>3691</fpage>–<lpage>3697</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Iwaniuk3"><label>48</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Iwaniuk</surname><given-names>AN</given-names></name>, <name name-style="western"><surname>Dean</surname><given-names>KM</given-names></name>, <name name-style="western"><surname>Nelson</surname><given-names>JE</given-names></name> (<year>2004</year>) <article-title>A mosaic pattern characterizes the evolution of the avian brain</article-title>. <source>Proc R Soc Lond B</source> <volume>271</volume>: <fpage>S148</fpage>–<lpage>S151</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Wylie2"><label>49</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wylie</surname><given-names>DR</given-names></name>, <name name-style="western"><surname>Frost</surname><given-names>BJ</given-names></name> (<year>1999</year>) <article-title>Complex spike activity of Purkinje cells in the ventral uvula and nodulus of pigeons in response to translational optic flow</article-title>. <source>J Neurophysiol</source> <volume>81</volume>: <fpage>256</fpage>–<lpage>266</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Necker1"><label>50</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Necker</surname><given-names>R</given-names></name> (<year>2007</year>) <article-title>Head-bobbing of walking birds</article-title>. <source>J Comp Physiol A</source> <volume>193</volume>: <fpage>1177</fpage>–<lpage>1183</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Iwaniuk4"><label>51</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Iwaniuk</surname><given-names>AN</given-names></name>, <name name-style="western"><surname>Hurd</surname><given-names>PL</given-names></name>, <name name-style="western"><surname>Wylie</surname><given-names>DRW</given-names></name> (<year>2006</year>) <article-title>Comparative morphology of the avian cerebellum: II. Size of folia</article-title>. <source>Brain Behav Evol</source> <volume>69</volume>: <fpage>196</fpage>–<lpage>219</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Larsell1"><label>52</label>
+<mixed-citation publication-type="book" xlink:type="simple">Larsell O (1967) The comparative anatomy and histology of the cerebellum from myxinoids through birds. Minneapolis, MN: University of Minnesota Press. 291 p.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Fujita1"><label>53</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fujita</surname><given-names>M</given-names></name> (<year>2002</year>) <article-title>Head bobbing and the movement of the centre of gravity in walking pigeons (<italic>Columba livia</italic>)</article-title>. <source>J Zool Lond</source> <volume>257</volume>: <fpage>373</fpage>–<lpage>379</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Dietz1"><label>54</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dietz</surname><given-names>V</given-names></name> (<year>2002</year>) <article-title>Proprioception and locomotor disorders</article-title>. <source>Nat Rev Neurosci</source> <volume>3</volume>: <fpage>781</fpage>–<lpage>90</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Larsell2"><label>55</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Larsell</surname><given-names>O</given-names></name> (<year>1926</year>) <article-title>The cerebellum of reptiles: lizards and snake</article-title>. <source>J Comp Neurol</source> <volume>41</volume>: <fpage>59</fpage>–<lpage>94</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Larsell3"><label>56</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Larsell</surname><given-names>O</given-names></name> (<year>1932</year>) <article-title>The cerebellum of reptiles: chelonians and alligator</article-title>. <source>J Comp Neurol</source> <volume>56</volume>: <fpage>299</fpage>–<lpage>345</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Franzosa1"><label>57</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Franzosa</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Rowe</surname><given-names>T</given-names></name> (<year>2005</year>) <article-title>Cranial endocast of the Cretaceous theropod dinosaur <italic>Acrocanthosaurus atokensis</italic></article-title>. <source>J Vert Pal</source> <volume>25</volume>: <fpage>859</fpage>–<lpage>864</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Lautenschlager1"><label>58</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lautenschlager</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Rayfield</surname><given-names>EJ</given-names></name>, <name name-style="western"><surname>Altangerel</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Zanno</surname><given-names>LE</given-names></name>, <name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name> (<year>2012</year>) <article-title>The endocranial anatomy of Therizinosauria and its implications for sensory and cognitive function</article-title>. <source>PLoS ONE</source> <volume>7</volume>: <fpage>e52289.49</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Corfield2"><label>59</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Corfield</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>Wild</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Parsons</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Kubke</surname><given-names>F</given-names></name> (<year>2012</year>) <article-title>Morphometric analysis of telencephalic structure in a variety of neognath and paleognath bird species reveals regional differences associated with specific behavioral traits</article-title>. <source>Brain Behav Evol</source> <volume>80</volume>: <fpage>181</fpage>–<lpage>195</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Iwaniuk5"><label>60</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Iwaniuk</surname><given-names>AN</given-names></name>, <name name-style="western"><surname>Hurd</surname><given-names>PL</given-names></name> (<year>2005</year>) <article-title>The evolution of cerebrotypes in birds</article-title>. <source>Brain Behav Evol</source> <volume>65</volume>: <fpage>215</fpage>–<lpage>230</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0067176-Zelenitsky1"><label>61</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zelenitsky</surname><given-names>DK</given-names></name>, <name name-style="western"><surname>Therrien</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Ridgely</surname><given-names>RC</given-names></name>, <name name-style="western"><surname>McGee</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name> (<year>2011</year>) <article-title>Evolution of olfaction in non-avian theropod dinosaurs and birds</article-title>. <source>Proc R Soc B</source> <volume>278</volume>: <fpage>3625</fpage>–<lpage>3634</lpage>.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>

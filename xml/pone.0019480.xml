@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="EN">
+  <front>
+    <journal-meta><journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><!--===== Grouping journal title elements =====--><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher></journal-meta>
+    <article-meta><article-id pub-id-type="publisher-id">PONE-D-10-00291</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0019480</article-id><article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Evolutionary biology</subject>
+            <subj-group>
+              <subject>Paleontology</subject>
+              <subj-group>
+                <subject>Vertebrate paleontology</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Earth sciences</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Evolutionary Biology</subject>
+        </subj-group>
+      </article-categories><title-group><article-title>Short-Snouted Toothless Ichthyosaur from China Suggests Late Triassic
+                    Diversification of Suction Feeding Ichthyosaurs</article-title><alt-title alt-title-type="running-head">Suction Feeding Ichthyosaurs</alt-title></title-group><contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Sander</surname>
+            <given-names>P. Martin</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+                        <sup>1</sup>
+                    </xref>
+          <xref ref-type="corresp" rid="cor1">
+                        <sup>*</sup>
+                    </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Chen</surname>
+            <given-names>Xiaohong</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+                        <sup>2</sup>
+                    </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Cheng</surname>
+            <given-names>Long</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+                        <sup>2</sup>
+                    </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Wang</surname>
+            <given-names>Xiaofeng</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+                        <sup>2</sup>
+                    </xref>
+        </contrib>
+      </contrib-group><aff id="aff1">
+                <label>1</label>
+                <addr-line>Steinmann Institute, Division of Palaeontology, University of Bonn, Bonn,
+                    Germany</addr-line>
+            </aff><aff id="aff2">
+                <label>2</label>
+                <addr-line>Wuhan Institute of Geology and Mineral Resources (formerly Yichang
+                    Institute of Geology and Mineral Resources), Hubei, China</addr-line>
+            </aff><contrib-group>
+        <contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Claessens</surname>
+            <given-names>Leon</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group><aff id="edit1">College of the Holy Cross, United States of America</aff><author-notes>
+        <corresp id="cor1">* E-mail: <email xlink:type="simple">martin.sander@uni-bonn.de</email></corresp>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: XW PMS XC LC. Performed the
+                        experiments: XW PMS XC LC. Analyzed the data: PMS LC XC. Contributed
+                        reagents/materials/analysis tools: XW XC LC. Wrote the paper: PMS.</p>
+        </fn>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn></author-notes><pub-date pub-type="collection">
+        <year>2011</year>
+      </pub-date><pub-date pub-type="epub">
+        <day>23</day>
+        <month>5</month>
+        <year>2011</year>
+      </pub-date><volume>6</volume><issue>5</issue><elocation-id>e19480</elocation-id><history>
+        <date date-type="received">
+          <day>6</day>
+          <month>8</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>6</day>
+          <month>4</month>
+          <year>2011</year>
+        </date>
+      </history><!--===== Grouping copyright info into permissions =====--><permissions><copyright-year>2011</copyright-year><copyright-holder>Sander et al</copyright-holder><license><license-p>This is an open-access article distributed under the
+                terms of the Creative Commons Attribution License, which permits unrestricted use,
+                distribution, and reproduction in any medium, provided the original author and
+                source are credited.</license-p></license></permissions><abstract>
+        <sec>
+          <title>Background</title>
+          <p>Ichthyosaurs were an important group of Mesozoic marine reptiles and existed
+                        from the Early Triassic to the early Late Cretaceous. Despite a great
+                        diversity in body shapes and feeding adaptations, all share greatly enlarged
+                        eyes, an elongated rostrum with numerous conical teeth, and a streamlined
+                        body.</p>
+        </sec>
+        <sec>
+          <title>Methodology/Principal Findings</title>
+          <p>Based on new material from China and the restudy of <italic>Shastasaurus
+                            pacificus</italic>, we here reinterpret the classical large-bodied Late
+                        Triassic ichthyosaur genus <italic>Shastasaurus</italic> to differ greatly
+                        from the standard ichthyosaurian body plan, indicating much greater
+                        morphological diversity and range of feeding adaptations in ichthyosaurs
+                        than previously recognized. Phylogenetic analysis indicates a monophyletic
+                        clade consisting of the giant <italic>Shonisaurus sikanniensis</italic>,
+                            <italic>Guanlingsaurus liangae</italic>, and <italic>Shastasaurus
+                            pacificus</italic> to which the genus name <italic>Shastasaurus</italic>
+                        is applied. <italic>Shastasaurus liangae</italic> comb. nov. is from the
+                        Late Triassic (Carnian) Xiaowa Formation of Guizhou Province, southwestern
+                        China. The species combines a diminutive head with an entirely toothless and
+                        greatly reduced snout. The species also has by far the highest vertebral
+                        count among ichthyosaurs (86 presacral vertebrae and &gt;110 caudal
+                        vertebrae), a count that is also very high for tetrapods in general. A
+                        reduced toothless snout and a diminutive head is also apparently present in
+                        the giant <italic>S. sikanniensis</italic> and presumably in <italic>S.
+                            pacificus</italic>.</p>
+        </sec>
+        <sec>
+          <title>Conclusions/Significance</title>
+          <p>In analogy to many modern odontocetes, <italic>Shastasaurus</italic> is
+                        interpreted as a specialized suction feeder on unshelled cephalopods and
+                        fish, suggesting a unique but widespread Late Triassic diversification of
+                        toothless, suction-feeding ichthyosaurs. Suction feeding has not been
+                        hypothesized for any of the other diverse marine reptiles of the Mesozoic
+                        before, but in <italic>Shastasaurus</italic> may be linked to the Late
+                        Triassic minimum in atmospheric oxygen.</p>
+        </sec>
+      </abstract><funding-group><funding-statement>Grant from Deutsche Forschungsgemeinschaft (# 446 CHV 111/12/06) to PMS, Grant
+                    from the Chinese Geolgical Survey (#1212010611603) to XFW and XCH, and funds
+                    from the University of Bonn, Germany. The funders had no role in study design,
+                    data collection and analysis, decision to publish, or preparation of the
+                    manuscript.</funding-statement></funding-group><counts>
+        <page-count count="10"/>
+      </counts></article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>The Triassic witnessed an unprecedented radiation of marine reptiles, possibly
+                triggered by the Permian/Triassic extinction event which left the marine environment
+                largely devoid of metazoans <xref ref-type="bibr" rid="pone.0019480-Benton1">[1]</xref>, <xref ref-type="bibr" rid="pone.0019480-Erwin1">[2]</xref> or by the dramatic decline of atmospheric oxygen level
+                    <xref ref-type="bibr" rid="pone.0019480-Huey1">[3]</xref>, <xref ref-type="bibr" rid="pone.0019480-Ward1">[4]</xref> during this
+                period. The most successful group in this radiation were the ichthyosaurs <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>–<xref ref-type="bibr" rid="pone.0019480-Motani2">[9]</xref> which appear in
+                the fossil record in the latest Early Triassic and reached their greatest diversity
+                during the Middle and Late Triassic <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>–<xref ref-type="bibr" rid="pone.0019480-Motani1">[8]</xref>. Ichthyosaurs were very well
+                adapted to the marine environment as evidenced by their worldwide record in open
+                marine sediments. This invasion of the marine realm was faciliated by live birth
+                which is already seen in the earliest forms <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>–<xref ref-type="bibr" rid="pone.0019480-Motani2">[9]</xref>. Ichthyosaurs are characterized
+                by their greatly enlarged eyes, elongated rostrum and numerous conical teeth.</p>
+      <p>Ichthyosaurs show many evolutionary convergences with modern cetaceans <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>, <xref ref-type="bibr" rid="pone.0019480-Sander1">[6]</xref>, <xref ref-type="bibr" rid="pone.0019480-Motani1">[8]</xref>, providing
+                important clues to functional versus phylogenetic constraints in whale evolution. As
+                attested to by fossil stomach contents, the elongated and toothed ichthyosaur
+                rostrum was used to capture fish and squid, the diet of most extant odontocetes.
+                Some of these odontocetes, such as the beaked whales (Ziphiidae), some delphinids,
+                pygmy and dwarf sperm whales (<italic>Kogia sima</italic> and <italic>K.
+                    breviceps</italic>), and even the sperm whales (<italic>Physeter</italic>), use
+                suction feeding instead of an elongate tooth-bearing rostrum to capture their prey
+                    <xref ref-type="bibr" rid="pone.0019480-Heyning1">[10]</xref>, <xref ref-type="bibr" rid="pone.0019480-Werth1">[11]</xref>, <xref ref-type="bibr" rid="pone.0019480-Werth2">[12]</xref>. In fact,
+                “suction feeding is the dominant method of prey capture in aquatic
+                vertebrates” <xref ref-type="bibr" rid="pone.0019480-Werth1">[11, p.
+                    1415]</xref> but has not been postulated for Mesozoic marine reptiles with
+                the exception of the giant <italic>Shonisaurus sikanniensis</italic>
+                <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref>.</p>
+      <p>Based on new ichthyosaur finds from China, and the reexamination and reinterpretation
+                of material from the western USA, we suggest that in the Late Triassic there was a
+                previously unrecognized global diversification of large suction-feeding ichthyosaurs
+                that probably were the ecological equivalent to the extant suction-feeding
+                odontocetes.</p>
+      <p>Large-bodied (adult length &gt;7 m) Late Triassic Ichthyosauria include taxa with the
+                familiar elongated rostrum equipped with numerous teeth <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>, <xref ref-type="bibr" rid="pone.0019480-Sander1">[6]</xref> but also a few forms lacking
+                teeth combined with an abbreviated snout. These include <italic>Shastasaurus
+                    liangae</italic> comb. nov. <xref ref-type="bibr" rid="pone.0019480-Yin1">[14]</xref> from the early Carnian of China, <italic>Shastasaurus
+                    sikanniensis</italic> comb. nov. <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref> from the middle Norian of
+                British Columbia, and probably <italic>Shastasaurus pacificus</italic>
+                <xref ref-type="bibr" rid="pone.0019480-Merriam1">[15]</xref> from the
+                late Carnian of California.</p>
+      <p>The youngest of the Chinese Triassic ichthyosaur-bearing formations is the early
+                Carnian Xiaowa Formation of the Guanling area, Guizhou Province <xref ref-type="bibr" rid="pone.0019480-Wang1">[16]</xref>. The
+                faunistically unique Xiaowa Formation is also known as the Wayao Formation or the
+                Wayo Member of the Falang Formation in the literature <xref ref-type="bibr" rid="pone.0019480-Wang1">[16]</xref>. The fossiliferous black shales
+                represent the upper part of the lower member of the Xiaowa Formation <xref ref-type="bibr" rid="pone.0019480-Wang1">[16]</xref>. Ichthyosaurs
+                belonging to three different taxa are the most common vertebrate fossils in these
+                black shales, whereas fish fossils are extremely rare <xref ref-type="bibr" rid="pone.0019480-Wang1">[16]</xref>. Most common among the
+                ichthyosaur taxa is the small (total length &lt;2 m) <italic>Qianichthyosaurus
+                    zhoui</italic>, followed by the moderately rare and larger (total length &lt;6
+                m) <italic>Guizhouichthyosaurus tangae</italic> (probable junior synonyms of this
+                taxon are <italic>Cymbspondylus asiaticus</italic> and <italic>Pangjiangsaurus
+                    epicharis</italic>
+                <xref ref-type="bibr" rid="pone.0019480-Wang1">[16]</xref>), and the large
+                (total length &lt;9 m) <italic>Shastasaurus liangae</italic> comb. nov., previously
+                only known from the poorly prepared holotype of <italic>Guanlingsaurus
+                    liangae</italic> housed at the Geological Survey of Guizhou Province, Guiyang,
+                People's Republic of China <xref ref-type="bibr" rid="pone.0019480-Wang1">[16]</xref>. Field work by staff of the Wuhan Institute of Geology
+                and Mineral Resources (the former Yichang Institute of Geology and Mineral Resources
+                [YIGMR]) resulted in the aquisition of three excellent new specimens of
+                this species. These and <italic>Shastasaurus pacificus</italic>
+                <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>, <xref ref-type="bibr" rid="pone.0019480-Merriam1">[15]</xref> are the focus
+                of our study.</p>
+    </sec>
+    <sec id="s2" sec-type="materials|methods">
+      <title>Materials and Methods</title>
+      <p>The specimes of <italic>S. liangae</italic> comb. nov. examined first-hand for this
+                study are the following three individuals: YIGMR SPCV03107, a large but incomplete
+                skeleton, YIGMR SPCV03108, a complete but diagenetically flattened skeleton of a
+                juvenile, and YIGMR SPCV03109, a large and complete but not yet fully prepared
+                skeleton preserverd in three dimensions. In the collections of the Museum of
+                Paleontology, University of California at Berkeley, USA (UCMP), the first author
+                also examined the proposed neotype of <italic>Shastasaurus pacificus</italic> (UCMP
+                9017) <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>, a
+                partial skeleton from the Carnian Hosselkus Limestone of Shasta County, California,
+                USA. This find comprises the skull lacking the snout, the cervical and anterior
+                dorsal vertebral column and ribs, and parts of the shoulder girdle and forelimbs
+                    <xref ref-type="bibr" rid="pone.0019480-Merriam1">[15]</xref>.</p>
+      <p>The phylogenetic framework for this study was obtained through two different
+                phylogenetic analyses. One is based on a modified and extended data matrix of Motani
+                    <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref> and the
+                other on a modified and extended data matrix of Sander <xref ref-type="bibr" rid="pone.0019480-Sander1">[6]</xref>. The data matrices were edited
+                with MacClade 4 and analyzed with PAUP 4.0b10. The matrices were modified by adding
+                four new terminal taxa, <italic>Shastasaurus liangae</italic> comb. nov.,
+                    <italic>Guizhouichthyosaurus tangae</italic>
+                <xref ref-type="bibr" rid="pone.0019480-Yin1">[14]</xref>, <xref ref-type="bibr" rid="pone.0019480-Maisch2">[18]</xref>, <xref ref-type="bibr" rid="pone.0019480-Shang1">[19]</xref>,
+                    <italic>Shastasaurus sikanniensis</italic> comb. nov. <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref>, and
+                    <italic>Callawaya</italic>
+                <xref ref-type="bibr" rid="pone.0019480-Nicholls2">[20]</xref>. In
+                addition, six new characters were added (<xref ref-type="supplementary-material" rid="pone.0019480.s001">Table S1</xref>, <xref ref-type="supplementary-material" rid="pone.0019480.s002">Table S2</xref>, <xref ref-type="supplementary-material" rid="pone.0019480.s003">Table S3</xref>, <xref ref-type="supplementary-material" rid="pone.0019480.s004">Table S4</xref>). <italic>Shastasaurus
+                    pacificus</italic> was recoded in the matrices based on personal inspection by
+                P.M.S. in 2007 to only include the material from the late Carnian Hosselkuss
+                Limestone of California <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>, <xref ref-type="bibr" rid="pone.0019480-Merriam1">[15]</xref> for reasons explained below. The modified matrix based on
+                Motani <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref> has 36
+                taxa and 111 characters, and that based on Sander <xref ref-type="bibr" rid="pone.0019480-Sander1">[6]</xref> has 15 taxa (the
+                Neoichthyosauria being treated as single terminal taxon) and 125 characters. The
+                search mode was heuristic and employed exactly the same settings as in the original
+                analyses. The resulting trees were optimized both under DELTRAN and ACCTRAN
+                character optimization, but only unambiguous character state transformations (<xref ref-type="supplementary-material" rid="pone.0019480.s005">Table S5</xref>) were
+                used for inferences about character evolution.</p>
+    </sec>
+    <sec id="s3">
+      <title>Results</title>
+      <sec id="s3a">
+        <title>Systematic Paleontology</title>
+        <p>Ichthyosauria Blainville, 1835</p>
+        <p>Merriamosauria Motani, 1999</p>
+        <p><italic>Shastasaurus</italic> Merriam, 1895</p>
+        <sec id="s3a1">
+          <title>Type species</title>
+          <p><italic>Shastasaurus pacificus</italic> Merriam, 1895</p>
+        </sec>
+        <sec id="s3a2">
+          <title>Included species</title>
+          <p><italic>Shastasaurus sikanniensis</italic> comb. nov. <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref>, <italic>Shastasaurus
+                            liangae</italic> comb. nov. <xref ref-type="bibr" rid="pone.0019480-Yin1">[14]</xref>.</p>
+        </sec>
+        <sec id="s3a3">
+          <title>Revised diagnosis based on the phylogenetic analysis</title>
+          <p>Large to gigantic Shastasauridae diagnosed by the following unambiguous and
+                        unequivocal synapomorphies (<xref ref-type="supplementary-material" rid="pone.0019480.s005">Table S5</xref>): abbreviated rostrum and
+                        extremely slender lower jaw. Unambiguous but equivocal (i.e. consistency
+                        index is &lt;1) synapomorphies are the lack of a parietal ridge and the loss
+                        of marginal teeth. Three ambiguous and equivocal synapomorphies are listed
+                        in <xref ref-type="supplementary-material" rid="pone.0019480.s005">Table
+                            S5</xref>. <italic>Shastasaurus</italic> differs from all other
+                        ichthyosaurs in the reduced snout and lack of teeth. In addition,
+                            <italic>Shastasaurus</italic> differs from other basal Merriamosauria
+                        except for <italic>Shonisaurus popularis</italic> and
+                            <italic>Besanosaurus</italic> in its larger size.</p>
+        </sec>
+        <sec id="s3a4">
+          <title>Remarks</title>
+          <p>The character state “loss of marginal teeth” is also unambiguous
+                        and unequivocal if <italic>Hupehsuchus</italic>, which is not an ichthyosaur
+                            <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>–<xref ref-type="bibr" rid="pone.0019480-Motani1">[8]</xref>, is deleted from the
+                        analysis. While the holotype of the type species <italic>S.
+                            pacificus</italic> is incompletely preserved, it shows at least one of
+                        the synapomorphies of the genus <italic>Shastasaurus</italic>, the slender
+                        lower jaw. Character optimization indicates that both the lack of teeth and
+                        the reduced snout must have been present in <italic>S. pacificus</italic>
+                        despite them not being preserved.</p>
+        </sec>
+        <sec id="s3a5">
+          <title>Horizon and localities</title>
+          <p>Upper Triassic, lower Carnian to middle Norian of southwestern China and
+                        western North America (California and British Columbia).</p>
+        </sec>
+        <sec id="s3a6">
+          <title><italic>Shastasaurus liangae</italic> comb. nov</title>
+        </sec>
+        <sec id="s3a7">
+          <title>Synonymy</title>
+          <p><italic>Guanlingsaurus liangae</italic> (Yin in <xref ref-type="bibr" rid="pone.0019480-Yin1">[14]</xref>)</p>
+        </sec>
+        <sec id="s3a8">
+          <title>Holotype</title>
+          <p>Geological Survey of Guizhou Province, Guiyang, People's Republic of
+                        China specimen GMR 014, a complete skeleton. However, there are doubts about
+                        the integrity of the material. The specimen was briefly described and
+                        figured by Yin et al. <xref ref-type="bibr" rid="pone.0019480-Yin1">[14]</xref> as <italic>Guanlingsaurus liangae</italic> and
+                        access is limited <xref ref-type="bibr" rid="pone.0019480-Wang1">[16]</xref>, <xref ref-type="bibr" rid="pone.0019480-Maisch2">[18]</xref>, <xref ref-type="bibr" rid="pone.0019480-Shang1">[19]</xref>. However, autapomorphies of the species such as
+                        the very high number of presacral and caudal vertebrae are clearly
+                        discernable from the publication of Yin et al. <xref ref-type="bibr" rid="pone.0019480-Yin1">[14]</xref>.</p>
+        </sec>
+        <sec id="s3a9">
+          <title>Referred material</title>
+          <p>YIGMR SPCV03107, YIGMR SPCV03108, and YIGMR SPCV03109.</p>
+        </sec>
+        <sec id="s3a10">
+          <title>Horizon and locality</title>
+          <p>Upper Triassic, lower Carnian laminated beds of the lower Xiaowa Formation,
+                        Guanling County, Guizhou Provice, southwestern China <xref ref-type="bibr" rid="pone.0019480-Yin1">[14]</xref>, <xref ref-type="bibr" rid="pone.0019480-Wang1">[16]</xref>.</p>
+        </sec>
+        <sec id="s3a11">
+          <title>Revised diagnosis based on the phylogenetic analysis</title>
+          <p>Large <italic>Shastasaurus</italic> with a very small skull, less than
+                        10% of total length. <italic>S. liangae</italic> comb. nov. is
+                        diagnosed by the following unambiguous but equivocal synapomorphies:
+                        postorbital triradiate in shape and contiguous shaft of ulna absent. Other
+                        characters are that the rostrum is greatly reduced in length, mainly
+                        resulting from very short and slender premaxillae and dentaries. The nasals
+                        and the angulars of the lower jaw reach the tip of the snout. The jaws are
+                        completely toothless. There are 86 presacral and &gt;110 caudal vertebrae,
+                        the highest number of any ichthyosaur <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>–<xref ref-type="bibr" rid="pone.0019480-Maisch1">[7]</xref>.
+                            <italic>S. liangae</italic> comb. nov. differs from <italic>Shastasaurus
+                            sikanniensis</italic> comb. nov. <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref> in the lacrimal
+                        having numerous small to medium-sized nutritive foramina, the supratemporal
+                        extending well posterior of the parietal, and in a more strongly
+                        foreshortened propodium and zeugopodium in both the forelimb and the
+                        hindlimb. <italic>S. liangae</italic> comb. nov. differs from <italic>S.
+                            sikanniensis</italic> comb. nov. <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref> and <italic>S.
+                            pacificus</italic>
+                        <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>,
+                            <xref ref-type="bibr" rid="pone.0019480-Merriam1">[15]</xref>
+                        in the lack of a preaxial notch in the radiale. Differs from <italic>S.
+                            pacificus</italic> in the relative longer postorbital region and larger
+                        upper temporal openings, the long axes of which are nearly parallel in
+                            <italic>S. liangae</italic> but enclose an angle of about 60° in
+                            <italic>S. pacificus</italic> because of its posteriorly diverging
+                        parietals.</p>
+        </sec>
+      </sec>
+      <sec id="s3b">
+        <title>Description of <italic>Shastasaurus liangae</italic> comb. nov</title>
+        <p>The largest skeleton of <italic>S. liangae</italic> (YIGMR SPCV03109) is 8.3 m
+                    long. This is somewhat longer than the holotype and slightly longer than the
+                    three-dimensionally preserved specimen YGMIR SPCV03107 which must have been
+                    about 7 m in total length. The juvenile (YIGMR SPCV03108, <xref ref-type="fig" rid="pone-0019480-g001">Fig. 1</xref>) is 3.74 m long. Skull length as
+                    measured along skull midline is 8.3% of total length in the largest
+                    specimen and 9.3% in the juvenile. Skull length is 17.7% of
+                    presacral lenght in the juvenile compared to &gt;40% in most other
+                    ichthyosaurs <xref ref-type="bibr" rid="pone.0019480-Sander1">[6]</xref>. The most striking feature about the skull of
+                        <italic>S. liangae</italic> comb. nov. is its very short snout region (<xref ref-type="fig" rid="pone-0019480-g002">Figs. 2</xref>, <xref ref-type="fig" rid="pone-0019480-g003">3</xref>). In addition, the snout is completely
+                    toothless, as best shown by the juvenile skull because of the partial
+                    disarticulation of its jaw bones. There is no evidence for a dental groove in
+                    the dentary, premaxilla, and maxilla. All bones contributing to the snout taper
+                    rapidly to a point. The premaxilla is dominated by an elongate foramen that
+                    enters the bone obliquely in posterior direction. Likewise, the maxilla shows
+                    several very large foramina that take up much of the lateral side of the bone
+                    and are not seen in any other ichthyosaur. The maxilla is excluded from the
+                    external nares by the premaxilla and lacrimal. There is a very large internasal
+                    foramen between the external nares. The lacrimal is perforated by numerous small
+                    to medium-sized foramina. Uniquely among ichthyosaurs <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>, and extremely unusual
+                    among sauropsids, the nasal extends anteriorly to the very tip of the snout
+                        (<xref ref-type="fig" rid="pone-0019480-g002">Fig. 2C, D</xref>). The orbit
+                    is evenly oval in outline, and the orbital and postorbital region of the skull
+                    are as in other Merriamosauria <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>.</p>
+        <fig id="pone-0019480-g001" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0019480.g001</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title><italic>Shastasaurus liangae</italic> comb. nov.</title>
+            <p>Juvenile individual YGMIR SPCV03108, total length 3.75 m. Scale bar, 50
+                            cm.</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0019480.g001" xlink:type="simple"/>
+        </fig>
+        <fig id="pone-0019480-g002" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0019480.g002</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Skull anatomy of <italic>Shastasaurus liangae</italic> comb.
+                            nov.</title>
+            <p>Photograph and drawing of skull of YGMIR SPCV03107. (A) in left lateral
+                            view. Note the greatly abbreviated rostrum, the complete lack of teeth,
+                            the large foramina in the maxillary and lacrimal bones, and the dorsally
+                            convex coronoid region of the dentary (arrow). (B) in dorsal view. Note
+                            the nasals extending to the tip of the rostrum. Abbreviations: a,
+                            angular; ar, articular; d, dentary; en, external nares; f, frontal; if,
+                            internasal foramen; j, jugal; l, lacrimal; mx, maxilla; pa, parietal;
+                            pf, postfrontal; pm, premaxilla; po, postorbital; prf, prefrontal; qj,
+                            quadratojugal; sa, surangular; sq, squamosal; st, supratemporal; uto,
+                            upper temporal opening.</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0019480.g002" xlink:type="simple"/>
+        </fig>
+        <p>The dentaries of the lower jaw are very short and completely edentulous with a
+                    smooth dorsal surface. In lateral view, there is a marked dorsal convexity in
+                    the coronoid region of the dentary opposite the maxilla, which is ventrally
+                    concave. Just as unusual as the nasal extending to tip of the upper jaw is the
+                    configuration of the angular that ventrally, together with the splenial, extends
+                    to the very tip of the lower jaw, as can be seen in the skull YIGMR SPCV03109 in
+                    ventral view and in the juvenile YIGMR SPCV03108 (<xref ref-type="fig" rid="pone-0019480-g003">Fig. 3</xref>). The postdentary region of the lower
+                    jaw is as in other Merriamosauria <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref> and ends in a large
+                    retroarticular process. The hyoid bones are only observable in the juvenile and
+                    are remarkably long, reaching 31% of the length of the lower jaw.</p>
+        <fig id="pone-0019480-g003" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0019480.g003</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Skull anatomy of <italic>Shastasaurus liangae</italic> comb.
+                            nov.</title>
+            <p>Photograph (A) and drawing (B) of the skull of the juvenile specimen
+                            YGMIR SPCV03108. Crushing lead to both the dorsal and the right lateral
+                            view being exposed. Note the greatly abbreviated rostrum, the complete
+                            lack of teeth, and the large foramina in the maxilla. Also note the
+                            nasals extending to the tip of the rostrum and the angular almost
+                            extending to the tip of the lower jaw. The extent of the left hyoid bone
+                            is highlighted by the arrows. Abbreviations: a, angular; d, dentary; f,
+                            frontal; hy, hyoid bone: j, jugal; l, lacrimal; mx, maxilla; pa,
+                            parietal; pf, postfrontal; pm, premaxilla; po, postorbital; prf,
+                            prefrontal; q, quadrate; sa, surangular; sq, squamosal; st,
+                            supratemporal.</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0019480.g003" xlink:type="simple"/>
+        </fig>
+        <p><italic>Shastasaurus liangae</italic> comb. nov. has by far the highest number of
+                    vertebrae of any ichthyosaur <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>, <xref ref-type="bibr" rid="pone.0019480-Sander1">[6]</xref> with approximately 86 presacrals and over 100 caudal
+                    vertebrae (<xref ref-type="fig" rid="pone-0019480-g001">Fig. 1</xref>). This is
+                    also among the highest numbers in amniotes in general <xref ref-type="bibr" rid="pone.0019480-Mller1">[21]</xref>. From the first cervical to
+                    the middle dorsal, the vertebrae nearly double in height and width. Compared to
+                    other Merriamosauria, the loss of contact of the diapophysis with the neural
+                    arch occurs very far back, on the 69th presacral. Despite the very high number
+                    of vertebrae, the body shape index <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref> of 3.9 is similar to
+                    other long-bodied Triassic Merriamosauria <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref>. The caudal vertebral
+                    column is very straight without a tailbend (<xref ref-type="fig" rid="pone-0019480-g001">Fig. 1</xref>).</p>
+        <p>The appendicular skeleton is generally similar to that of other basal
+                    Merriamosauria, with the proximal bones of the anterior limbs all being
+                    disc-shaped, suggesting that they were surrounded by extensive cartilage (<xref ref-type="fig" rid="pone-0019480-g004">Fig. 4A</xref>). Distally, the
+                    forefins appear to have been incompletely ossified as well, considering that all
+                    three new specimens preserve very few fin bones except for humerus, radius, ulna
+                    and radiale. This suggests that the distal carpals, metacarpals, and phalanges
+                    possibly were not ossified at all. The alternative explanation, that they were
+                    lost taphonomically, is inconsistent with the high degree of articulation
+                    generally observed in marine reptiles from the Xiaowa Formation <xref ref-type="bibr" rid="pone.0019480-Wang1">[16]</xref>. If these
+                    elements were ossified, it appears likely that at least one out of three
+                    specimens should have preserved some of these bones. The incomplete ossification
+                    of the distal forelimbs is also suggested by the illustration of the holotype
+                    with only three digits preserved and an apparent phalangeal formula of 1-1-0
+                        <xref ref-type="bibr" rid="pone.0019480-Yin1">[14, plate
+                    9]</xref>. The humerus of <italic>S. liangae</italic> is wider than long,
+                    and its length is only 1% of the body length. Together with the small
+                    zeugopodium of the forelimb and the poor ossification of the distal limb, this
+                    suggests that the forefins were disproportionally small in life. The hind fins
+                    appear to have been even smaller than the forefins, and the humerus to femur
+                    ratio is 1.16. However, the proximal bones of the hindfins retain a shaft and
+                    are remarkably stout (<xref ref-type="fig" rid="pone-0019480-g004">Fig.
+                        4B</xref>). The hindfins also appear poorly ossified distally.</p>
+        <fig id="pone-0019480-g004" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0019480.g004</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Appendicular skeleton of <italic>Shastasaurus liangae</italic> comb.
+                            nov.</title>
+            <p>(A) Pectoral girdle and forelimb elements of YGMIR SPCV03107. (B) Pelvic
+                            girdle and hindlimb elements of YGMIR SPCV03107. Abbreviations: f,
+                            femur; fi, fibula; h, humerus; i, ischium; r, radius; s, scapula; t,
+                            tibia; u, ulna. Scale bars, 10 cm.</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0019480.g004" xlink:type="simple"/>
+        </fig>
+      </sec>
+      <sec id="s3c">
+        <title>Reevaluation of <italic>Shastasaurus pacificus</italic></title>
+        <p><italic>Shastasaurus pacificus</italic> was the first large ichthyosaur from the
+                    Triassic for which articulated material became known. It was first described
+                    over a century ago based on a specimen from the late Carnian of northern
+                    California <xref ref-type="bibr" rid="pone.0019480-Merriam1">[15]</xref>, <xref ref-type="bibr" rid="pone.0019480-Merriam2">[22]</xref>. Although the rostrum remains unknown, being broken
+                    off in the only reasonably complete skull, UCMP 9017 (<xref ref-type="fig" rid="pone-0019480-g005">Fig. 5</xref>), the preserved parts of maxilla and
+                    dentary in this skull are toothless <xref ref-type="bibr" rid="pone.0019480-Maisch3">[23]</xref>. Notwithstanding,
+                        <italic>Shastasaurus pacificus</italic> was reconstructed several times in
+                    the past to conform to the general ichthyosaurian skull shape with a long
+                    rostrum and numerous teeth <xref ref-type="bibr" rid="pone.0019480-Maisch1">[e.g.]</xref>, <xref ref-type="bibr" rid="pone.0019480-Motani3">[ 7]</xref>, <xref ref-type="bibr" rid="pone.0019480-Maisch3">[17]</xref>, <xref ref-type="bibr" rid="pone.0019480-Callaway1">[23,24]</xref>. These reconstructions were apparently inspired by
+                    the putative assignment of a normal ichthyosaurian snout fragment from the Upper
+                    Triassic of Mexico to <italic>Shastasaurus altispinus</italic>
+                    <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>, <xref ref-type="bibr" rid="pone.0019480-Nicholls2">[20]</xref>, <xref ref-type="bibr" rid="pone.0019480-Callaway1">[24]</xref> and on
+                    the assignment of a long-snouted ichthyosaur from the Norian of British Columbia
+                    to <italic>Shastasaurus</italic> as <italic>S. neoscapularis</italic>
+                    <xref ref-type="bibr" rid="pone.0019480-McGowan2">[25]</xref>. However
+                    this material has since been placed in its own genus,
+                        <italic>Callawayia</italic>
+                    <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>, <xref ref-type="bibr" rid="pone.0019480-Maisch1">[7]</xref>, <xref ref-type="bibr" rid="pone.0019480-Nicholls2">[20]</xref>. We
+                    follow the view of Nicholls &amp; Manabe <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref>, <xref ref-type="bibr" rid="pone.0019480-Nicholls2">[20]</xref> that the genus
+                        <italic>Shastasaurus</italic> should be restriced to Merriam's <xref ref-type="bibr" rid="pone.0019480-Merriam1">[15]</xref>, <xref ref-type="bibr" rid="pone.0019480-Merriam3">[26]</xref> original
+                    type series from the Hosselkus Limestone of California. The notion of
+                        <italic>Shastasaurus</italic> being a typical, long-snouted ichthyosaur is
+                    also reflected in the recent reassignment by Shang &amp; Li <xref ref-type="bibr" rid="pone.0019480-Shang1">[19]</xref> of
+                        <italic>Guizhouichthyosaurus tangae</italic> to the genus
+                        <italic>Shastasaurus</italic>.</p>
+        <fig id="pone-0019480-g005" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0019480.g005</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Partial skull of <italic>Shastasaurus pacificus</italic> (UCMP 9017)
+                            from the Late Triassic of California, USA, in (A) lateral, (B) dorsal,
+                            and (C) anterolateral view.</title>
+            <p>Based on this skull, <italic>Shastasaurus</italic> has repeatedly been
+                            reconstructed with a long, tooth-bearing rostrum. However, note the
+                            slenderness of the lower jaw (B, C) and the strong anterior taper of the
+                            snout (B), both of which are more consistent with the abbreviated and
+                            toothless snout of <italic>Shastasaurus liangae</italic> comb. nov. than
+                            with the traditional long-snouted reconstruction of this skull (as,
+                            e.g., in references <xref ref-type="bibr" rid="pone.0019480-Merriam2">[22]</xref> and <xref ref-type="bibr" rid="pone.0019480-Maisch3">[23]</xref>).</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0019480.g005" xlink:type="simple"/>
+        </fig>
+        <p>Re-examination of UCMP 9017 in light of the new Chinese material and character
+                    optimization based on phylogenetic analysis and suggests that <italic>S.
+                        pacificus</italic> (<xref ref-type="fig" rid="pone-0019480-g005">Fig.
+                        5</xref>) had the same reduced snout as <italic>Shastasaurus
+                        liangae</italic> comb. nov. In addition, among the material from California,
+                    distal limb elements are rare and not preserved in articulation, and isolated
+                    teeth were never found with any of the Californian <italic>Shastasaurus</italic>
+                    material <xref ref-type="bibr" rid="pone.0019480-Merriam1">[15]</xref>, <xref ref-type="bibr" rid="pone.0019480-Merriam2">[22]</xref>, <xref ref-type="bibr" rid="pone.0019480-Merriam3">[26]</xref>. These observations are consistent with the
+                    edentulous condition and reduced distal fins of <italic>Shastasaurus
+                        liangae</italic> comb. nov. However, some anatomical differences, such as
+                    the relatively longer postorbital region, the larger upper temporal openings,
+                    and the posteriorly diverging parietals indicate that <italic>Shastasaurus
+                        liangae</italic> is not a junior synonym of <italic>Shastasaurus
+                        pacificus</italic> (see diagnosis).</p>
+      </sec>
+      <sec id="s3d">
+        <title>Phylogenetic relationships and taxonomic consequences</title>
+        <p>A very similar tree topology resulted from both phylogenetic analyses, one based
+                    on a modified and extended data matrix of Motani <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref> and one based on a modified
+                    and extended data matrix of Sander <xref ref-type="bibr" rid="pone.0019480-Sander1">[6]</xref>. In this article, we will
+                    discuss the analysis of the modified matrix of Motani <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref> in detail because it
+                    represents the most widely used data set in ichthyosaur phylogenetic research.
+                    Our analysis based on the modified and extended data matrix of Motani <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref> recovered
+                    72 most parsimonious trees (MPTs). The strict consensus of these (<xref ref-type="fig" rid="pone-0019480-g006">Fig. 6</xref>) had a length of 254
+                    steps, a consistency index of 0.569, a rescaled consistency index of 0.462, and
+                    a retention index of 0.81. The disagreement between the MPTs is largely confined
+                    to the outgroup taxa and the basal Merriamosauria. Exept for these poorly
+                    resolved areas and the new taxa, the topology of the tree does not differ from
+                    that found in the earlier analysis by Motani <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref>. The quality metrics of our
+                    analysis do not differ much from that of Motani <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref> either, which had a
+                    consistency index of 0.654 and was one step shorter. The sligthly poorer
+                    measures for the tree statistics in our analysis are not surprising because of
+                    the addition of four terminal taxa and of new characters. However, we note that
+                    the scope of the current study is not a reanalysis of ichthyosaurian
+                    interrelationships but the determination of the phylogenetic position of
+                        <italic>S. liangae</italic>.</p>
+        <fig id="pone-0019480-g006" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0019480.g006</object-id>
+          <label>Figure 6</label>
+          <caption>
+            <title>Phylogenetic relationships of <italic>Shastasaurus</italic>.</title>
+            <p>This cladogram represents the strict consensus of 72 most parsimonious
+                            trees. Differences in topology among MPTs are mainly found among the
+                            outgroup taxa and the basal Merriamosauria. Derived Parvipelvia were
+                            part of the analysis but were omitted for clarity. Relevant nodes are
+                            numbered in accordance with <xref ref-type="supplementary-material" rid="pone.0019480.s005">Table S5</xref>. See <xref ref-type="sec" rid="s2">Materials and Methods</xref> section and <xref ref-type="sec" rid="s5">Supporting Information</xref> for details of
+                            analysis.</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0019480.g006" xlink:type="simple"/>
+        </fig>
+        <p>In the analysis of the modified matrix of Motani <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref>, <italic>Shastasaurus
+                        liangae</italic> comb. nov. is most closely related to <italic>Shastasaurus
+                        pacificus</italic> (<xref ref-type="fig" rid="pone-0019480-g006">Fig.
+                        6</xref>). These two taxa in turn are most closely related to
+                        <italic>Shonisaurus sikanniensis</italic>, forming a monophyletic group.
+                        <italic>Shonisaurus popularis</italic> was found to be less derived than
+                    this clade, making the genus <italic>Shonisaurus</italic> paraphyletic. This
+                    leads us to propose including <italic>S. sikanniensis</italic> in the genus
+                        <italic>Shastasaurus</italic> as <italic>Shastasaurus sikanniensis</italic>
+                    comb. nov. We feel justified in doing so because the original authors <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref> had
+                    already noted the strong affinites of this species with
+                        <italic>Shastasaurus</italic>, and their decision to assign <italic>S.
+                        sikanniensis</italic> to <italic>Shonisauris</italic> was not based on a
+                    phylogenetic analysis.</p>
+        <p>We used the unambiguous and unequivocal synapomorphies at node 57 (abbreviated
+                    rostrum and slender lower jaw, see <xref ref-type="supplementary-material" rid="pone.0019480.s005">Table S5</xref>) to diagnose
+                        <italic>Shastasaurus</italic> because of the major morphological departure
+                    from all other ichthyosaurs they represent. Retaining the original genus names
+                    for <italic>S. sikanniensis</italic> and <italic>S. liangae</italic> was not an
+                    option because of the resulting paraphyly of the genus
+                        <italic>Shonisaurus</italic>. Since the genus name
+                        <italic>Shonisaurus</italic> has to stay with the type species <italic>S.
+                        popularis</italic>, the only taxonomic options for <italic>S.
+                        sikanniensis</italic> were either to erect a new genus name or to include it
+                    and <italic>G. liangae</italic> in the genus <italic>Shastasaurus</italic>. The
+                    list of apomorphies for <italic>Shastasaurus</italic> and the three included
+                    species are provided in <xref ref-type="supplementary-material" rid="pone.0019480.s005">Table S5</xref>.</p>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <title>Discussion</title>
+      <sec id="s4a">
+        <title>Toothlessness in ichthyosaurs</title>
+        <p>Previously, complete toothlessness had only been described for the adults of one
+                    other Triassic ichthyosaur species, i.e., the giant <italic>Shastasaurus
+                        sikanniensis</italic> comb. nov. However, the juveniles of the <italic>S.
+                        sikanniensis</italic> appear to have had teeth <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref>. Additionally, Nicholls
+                    &amp; Manabe <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref> suggested that <italic>Shonisaurus popularis</italic>
+                    also lacked teeth in the adult, but this is difficult to verify because of the
+                    poor preservation of the material.</p>
+        <p><italic>S. sikanniensis</italic> comb. nov. resembles <italic>S. liangae</italic>
+                    comb. nov. in its toothlessness, in that its snout is reduced, the hyoids are
+                    enlarged, and at &lt;3 m <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref>, the skull is small relative to the estimated body
+                    length of 21 m. Our phylogenetic analysis (<xref ref-type="fig" rid="pone-0019480-g006">Fig. 6</xref>) indicates that the Shastasauridae
+                    evolved towards tooth reduction and loss, possibly beginning with
+                        <italic>Besanosaurus leptorhynchus</italic> which has few and very small
+                    teeth <xref ref-type="bibr" rid="pone.0019480-DalSasso1">[27]</xref>.
+                    The short snout of <italic>Shastasaurus liangae</italic> comb. nov. thus may
+                    have evolved from a long-snouted ichthyosaur with a slender rostrum like
+                        <italic>Besanosaurus</italic> by strong heterochrony. We hypothesize that
+                    early developmental stages of this ancestor that were retained by
+                        <italic>Shastasaurus liangae</italic> comb. nov. are the failure of teeth to
+                    form, the participation of the nasal and angular in the tip of the snout, and
+                    the very large internasal foramen. In embryos of extant Reptilia, the jaws
+                    ossify well before the development of teeth <xref ref-type="bibr" rid="pone.0019480-DeBeer1">[28]</xref>. Similarly, at least in
+                        <italic>Lacerta</italic> and <italic>Sphenodon</italic> embryos, the
+                    premaxillary bones are separated among the skull midline by the nasals which
+                    reach the tip of the snout <xref ref-type="bibr" rid="pone.0019480-DeBeer1">[28]</xref>. The fairly late-stage embryos of the sauropodomorph
+                    dinosaur <italic>Massospondylus</italic> are toothless as well <xref ref-type="bibr" rid="pone.0019480-Reisz1">[29]</xref>, but early
+                    hatchlings have a full complement of teeth. The alternative hypothesis to
+                    explain the evolution of toothlessness in <italic>Shastasaurus</italic>, early
+                    senescence of the dental lamina, would require senescence to have occurred in
+                    early juveniles, requiring a much greater shift in development than the first
+                    hypothesis.</p>
+        <p>Although toothlessness occurs in mature individuals of a few Jurassic ichthyosaur
+                    species <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>,
+                        <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref>,
+                    the toothless condition in some of these is a taphonomic artifact because of the
+                    loose, aulacodont tooth implantation <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>. None of the Jurassic forms
+                    has a smooth dorsal surface of the dentary without a trace of a dental groove or
+                    tooth sockets <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>, and none has the strikingly reduced snout of
+                        <italic>Shastasaurus liangae</italic> comb. nov., which only accounts for
+                    42% of lower jaw length (the snout ratio of McGowan <xref ref-type="bibr" rid="pone.0019480-McGowan3">[30]</xref>), as compared to
+                    53% in the Jurasssic ichthyosaur with the shortest snout,
+                        <italic>Ichthyosaurus breviceps</italic>
+                    <xref ref-type="bibr" rid="pone.0019480-McGowan3">[30]</xref>.</p>
+      </sec>
+      <sec id="s4b">
+        <title>Modern analog</title>
+        <p>The closest modern analogs in skull shape, body proportions and body size to
+                        <italic>Shastasaurus liangae</italic> and the lesser known other two species
+                    of <italic>Shastasaurus</italic> are the unusual Ziphiidae (beaked whales,
+                    Odontoceti <xref ref-type="bibr" rid="pone.0019480-Clarke1">[31]</xref>, <xref ref-type="bibr" rid="pone.0019480-Nowak1">[32]</xref>) which range from 6 m to 11 m in length and have a
+                    proportionally small skull and a snout that is toothless, save for one or two
+                    pairs of peculiar teeth in the lower jaw, which do not erupt in the females of
+                    some species. In addition, ziphiids share with <italic>Shastasaurus
+                        liangae</italic> an elongate body and very small forefins <xref ref-type="bibr" rid="pone.0019480-Clarke1">[31]</xref>. As in
+                        <italic>Shastasaurus</italic> species, their toothlessness evolved from
+                    ancestral forms with numerous teeth <xref ref-type="bibr" rid="pone.0019480-Werth1">[11]</xref>, <xref ref-type="bibr" rid="pone.0019480-Lambert1">[33]</xref>, <xref ref-type="bibr" rid="pone.0019480-Lambert2">[34]</xref>. Further similarities in
+                    the skull of <italic>Shastasaurus liangae</italic> and ziphiid whales are the
+                    dorsally convex coronoid region of the lower jaw and the enlarged hyoids. Other
+                    modern odontocetes tending towards toothlessness are the modern sperm whales
+                        (<italic>Physeter</italic> and the pygmy and dwarf sperm whales,
+                        <italic>Kogia sima</italic> and <italic>K. breviceps</italic>), some
+                    delphinids such as Risso's dolphin (<italic>Grampus griseus</italic>, a few
+                    lower teeth and no upper teeth), and the narwhal (<italic>Monodon
+                        monoceros</italic>) which only retains its huge maxillary tusk <xref ref-type="bibr" rid="pone.0019480-Nowak1">[32]</xref>. Among
+                    these, <italic>Kogia</italic> spp., <italic>Grampus</italic>, and
+                        <italic>Monodon</italic> have an abbreviated rostrum as seen in
+                        <italic>Shastasaurus</italic>.</p>
+        <p>These odontocete taxa and the ziphiid whales are suction feeders in which the
+                    tongue is pulled back rapidly by strong retractor muscles that are attached to
+                    hypertrophied hyoid bones <xref ref-type="bibr" rid="pone.0019480-Heyning1">[10]</xref>. In this way, prey items are taken up by the negative
+                    pressure generated in the oral cavity, obviating the need for teeth to hold them
+                    before swallowing. Based on the morphological similarity of suction-feeding
+                    odontocete whales and <italic>Shastasaurus liangae</italic> comb. nov.,
+                    including the enlarged hyoids and the massive convex coronoid region of the
+                    lower jaw, and by exclusion of other options, we suggest that <italic>S.
+                        liangae</italic> comb. nov., and probably <italic>S. pacificus</italic> and
+                        <italic>S. sikanniensis</italic> comb. nov., were specialized in a similar
+                    manner (see also Nichols &amp; Manabe <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref> on <italic>S.
+                        sikanniensis</italic>). An importantant component of the diet of most
+                    suction-feeding odontocetes, particulary of ziphiids <xref ref-type="bibr" rid="pone.0019480-Clarke1">[31]</xref>, <xref ref-type="bibr" rid="pone.0019480-MacLeod1">[35]</xref>, are coleoid cephalopods.
+                    Cephalopods, which are commonly bioluminescent, would have been suitable prey
+                    for visually hunting ichthyosaurs <xref ref-type="bibr" rid="pone.0019480-Massare1">[36]</xref>, <xref ref-type="bibr" rid="pone.0019480-Motani4">[37]</xref>, <xref ref-type="bibr" rid="pone.0019480-Massare2">[38]</xref> as well, especially since
+                    bioluminescent cephalopods would have been visually detectable below the photic
+                    zone and at night. The eyes of <italic>Shastasaurus</italic> species appear to
+                    be average-sized for ichthyosaurs, although this is difficult to quantify
+                    because of lack of comparative size standards. They were clearly relatively
+                    larger than in <italic>Cymbospondylus</italic> but smaller than in mixosaurs and
+                        <italic>Qianichthyosaurus</italic>
+                    <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>, <xref ref-type="bibr" rid="pone.0019480-Sander1">[6]</xref>, <xref ref-type="bibr" rid="pone.0019480-Nicholls3">[39]</xref>.</p>
+        <p>Werth <xref ref-type="bibr" rid="pone.0019480-Werth1">[11]</xref>
+                    established the relationship between an abbreviated snout and generation of
+                    suction in modern cetaceans but, as the example of the ziphiids shows, an
+                    abbreviated rostrum is not a requirement for suction feeding. The specific
+                    mechanism of suction feeding in <italic>Shastasaurus</italic> probably was
+                    different from that of ziphiid and other whales, because the latter have a
+                    secondary soft palate that aids in generating negative pressure. The exact
+                    mechanism of suction generation is difficult to infer in
+                        <italic>Shastasaurus</italic> but may have involved specialized soft tissue
+                    structures in the snout such as lips or cheeks that would have tightly closed
+                    the mouth on the sides and increased the efficency of suction. The potential
+                    presence of such structures is hinted at by the unique large foramina in the
+                    maxillary and lacimal bones of <italic>S. liangae</italic> comb. nov. The
+                    massive retroarticular process of the lower jaw, combined with the reduced
+                    rostrum, may also have played a role in suction feeding because they would have
+                    allowed very fast and forceful opening of the jaws. Preferred prey of
+                        <italic>Shastasaurus</italic> may have been pelagic coleoid cephalopods and
+                    fish. Both of these are fast swimmers, making suction feeding a more efficient
+                    hunting mechanism than the elongated, tooth-bearing rostrum plesiomorphic for
+                    ichthyosaurs in general and Merriamosauria in particular. Shelled cephalopods,
+                    predominantly ammonites, are slower swimmers and occur abundantly together with
+                        <italic>Shastasaurus</italic> but may have been less attractive prey for
+                        <italic>Shastasaurus</italic> because of their protective shell and rounded
+                    shape.</p>
+        <p>As noted, further similarities of <italic>Shastasaurus</italic> and Ziphiidae are
+                    the very small pectoral fins and the slender, elongate body. In ziphiids, the
+                    reduced pectoral fins are believed to be an adaptation to deep diving, reducing
+                    drag on the descent. The functional significance of body elongation and high
+                    vertebral number in <italic>Shastasaurus liangae</italic> comb. nov. is not
+                    clear. High vertebral numbers are typical of marine reptiles <xref ref-type="bibr" rid="pone.0019480-Mller1">[21]</xref>, and
+                        <italic>S. liangae</italic> comb. nov. appears to be the culmination of this
+                    evolutionary trend among ichthyosaurs.</p>
+        <p>Notably, just like the modern suction-feeding odontocetes <xref ref-type="bibr" rid="pone.0019480-Nowak1">[32]</xref>, the species of
+                        <italic>Shastasaurus</italic> show a size range from about 4 m to about 20 m
+                    adult body length. This similar size bracket may have biomechanical reasons
+                    rooted in the scaling of muscle power and maneuverability. Whales larger than 20
+                    m (exclusively mysticetes) are filter feeders, whereas a body size &lt;4 m, seen
+                    in most dolphins and toothed ichthyosaurs, may favor catching prey with a long
+                    slender rostrum studded with teeth.</p>
+      </sec>
+      <sec id="s4c">
+        <title>Diversification of suction feeding ichthyosaurs</title>
+        <p>Our detailed study of the osteology of the <italic>Shastasaurus liangae</italic>
+                    comb. nov. and the phylogenetic analysis of related taxa reveals a Late Triassic
+                    diversification of large, toothless, suction-feeding ichthyosaurs. The spatial
+                    and temporal distribution of the species of <italic>Shastasaurus</italic>
+                    indicates that this diversification was widespread, if not global, and
+                    long-lasting, from at least the early Carnian to the middle Norian. Considering
+                    the only recently recognized <xref ref-type="bibr" rid="pone.0019480-Brayard1">[40]</xref> very long duration of the Late Triassic, especially
+                    the Norian, the diversification of suction feeding ichthyosaurs thus may have
+                    lasted for up to 32 million years and may represent a hidden radiation in the
+                    Triassic oceans, only incompletely captured by the fossil record.</p>
+        <p>Support for this view comes from the small number, low diversity, and limited
+                    geographic spread of Late Triassic ichthyosaur localities compared to those of
+                    Middle Triassic age <xref ref-type="bibr" rid="pone.0019480-McGowan1">[5]</xref>–<xref ref-type="bibr" rid="pone.0019480-Motani1">[8]</xref>, especially considering the vastly longer duration of
+                    the Late Triassic compared to the Middle Triassic <xref ref-type="bibr" rid="pone.0019480-Brayard1">[40]</xref>. Add to this the
+                    apparently pelagic lifestyle of <italic>Shastasaurus</italic> and a similar
+                    picture emerges as for the ziphiid whale fossil record. Because of their pelagic
+                    life style and deep-diving habit, these whales are not only very rare in fossil
+                    whale faunas <xref ref-type="bibr" rid="pone.0019480-Lambert1">[33]</xref>, <xref ref-type="bibr" rid="pone.0019480-Lambert2">[34]</xref>, <xref ref-type="bibr" rid="pone.0019480-Bianucci1">[41]</xref> but are also the least known group of whales today. A
+                    pelagic lifestyle for <italic>Shastasaurus</italic> is suggested by its rarity
+                    in the Xiaowa Formation of China and the Hosselkus Limestone of California and
+                    also by the observation that all of the beds that yielded
+                        <italic>Shastasaurus</italic> have a pelagic depositional environment as
+                    well as a distinctly pelagic fauna of ammonites, halobiid bivalves and
+                    vertebrates <xref ref-type="bibr" rid="pone.0019480-Nicholls1">[13]</xref>, <xref ref-type="bibr" rid="pone.0019480-Wang1">[16]</xref>, <xref ref-type="bibr" rid="pone.0019480-Merriam2">[22]</xref>),</p>
+      </sec>
+      <sec id="s4d">
+        <title>Suction feeding and low atmospheric oxygen</title>
+        <p>Restudy of <italic>Shastasaurus liangae</italic> comb. nov. from China and
+                        <italic>Shastasaurus pacificus</italic> from the United States adds another,
+                    unexpected type to the already very diverse feeding adaptations in Triassic
+                    ichthyosaurs <xref ref-type="bibr" rid="pone.0019480-Massare1">[36]</xref> and reveals a Late Triassic diversification of large
+                    to giant toothless, presumably suction-feeding ichthyosaurs. By the Late
+                    Triassic, ichthyosaurs had evolved the widest range of trophic adaptations known
+                    in any marine tetrapod group <xref ref-type="bibr" rid="pone.0019480-Sander1">[6]</xref>, <xref ref-type="bibr" rid="pone.0019480-Motani1">[8]</xref>, <xref ref-type="bibr" rid="pone.0019480-Massare1">[36]</xref>, <xref ref-type="bibr" rid="pone.0019480-Motani5">[42]</xref>. The diversification of ichthyosaurs in the Early and
+                    Middle Triassic happened together with the recovery of marine invertebrate life
+                    from the devastating end-Permian extinction <xref ref-type="bibr" rid="pone.0019480-Benton1">[1]</xref>, <xref ref-type="bibr" rid="pone.0019480-Erwin1">[2]</xref>. In particular, ammonites
+                    apparently recovered much more quickly than the benthic invertebrates <xref ref-type="bibr" rid="pone.0019480-Brayard1">[40]</xref>. If this
+                    is indicative of a fast recovery of cephalopods in general, it would explain the
+                    rapid radiation of early ichthyosaurs, because shell-less cephalopods were the
+                    main prey of ichthyosaurs. Apart from the diversity of standard ichthyosaurs
+                    (cephalopod and fish eaters with an isodont dentition of small conical teeth)
+                    and the putative suction feeders described here, the Triassic witnessed the
+                    evolution of ichthyosaurs belonging to other feeding guilds <xref ref-type="bibr" rid="pone.0019480-Massare1">[36]</xref>. These
+                    include forms with crushing dentitions (<italic>Phalarodon</italic>
+                    <xref ref-type="bibr" rid="pone.0019480-Schmitz1">[43]</xref>,
+                        <italic>Tholodus</italic>
+                    <xref ref-type="bibr" rid="pone.0019480-Sander2">[44]</xref>,
+                        <italic>Xinminosaurus</italic>
+                    <xref ref-type="bibr" rid="pone.0019480-Jiang1">[45]</xref>) and, in
+                    the Norian, a large marine top predator (<italic>Himalayasaurus</italic>
+                    <xref ref-type="bibr" rid="pone.0019480-Motani6">[46]</xref>). The
+                    appearance of <italic>S. liangae</italic> comb. nov. in the poorly oxygenated
+                    environment of the Carnian Xiaowa Formation <xref ref-type="bibr" rid="pone.0019480-Wang1">[16]</xref> and the diversification of
+                    suction-feeding ichthyosaurs is consistent with the Phanerozoic minimum in
+                    atmospheric oxygen in the Late Triassic, which may have given air-breathing
+                    marine reptiles and low oxygen-tolerant cephalopods a competitive advantage over
+                    gill-breathing fish <xref ref-type="bibr" rid="pone.0019480-Ward1">[4]</xref>, <xref ref-type="bibr" rid="pone.0019480-Wang1">[16]</xref>.</p>
+        <p>Suction-feeding ichthyosaurs of the genus <italic>Shastasaurus</italic> did not
+                    survive into the Jurassic. This may have been because they lost their
+                    competitive advantage as atmospheric oxygen rose again, although there are no
+                    other large suction feeders known among Early Jurassic marine vertebrate.
+                    Alternatively, suction-feeding ichthyosaurs may have fallen victim to the
+                    end-Triassic extinction event that greatly reduced ichthyosaur taxonomic and
+                    ecological diversity <xref ref-type="bibr" rid="pone.0019480-Sander1">[6]</xref>, <xref ref-type="bibr" rid="pone.0019480-Motani5">[42]</xref>, with only the thunniform longirostrine
+                    Neoichthyosauria surviving. These radiated throughout the Jurassic but never
+                    reached the trophic diversity of Triassic forms again, including the
+                    suction-feeding <italic>Shastasaurus</italic>.</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>Supporting Information</title>
+      <supplementary-material id="pone.0019480.s001" mimetype="application/msword" position="float" xlink:href="info:doi/10.1371/journal.pone.0019480.s001" xlink:type="simple">
+        <label>Table S1</label>
+        <caption>
+          <p>The additional characters in the modified and extended character matrix from
+                        Motani <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref>.</p>
+          <p>(DOC)</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="pone.0019480.s002" mimetype="application/msword" position="float" xlink:href="info:doi/10.1371/journal.pone.0019480.s002" xlink:type="simple">
+        <label>Table S2</label>
+        <caption>
+          <p>Characters states in the four new terminal taxa in the modified and extended
+                        character matrix from Motani <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref>.</p>
+          <p>(DOC)</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="pone.0019480.s003" mimetype="application/msword" position="float" xlink:href="info:doi/10.1371/journal.pone.0019480.s003" xlink:type="simple">
+        <label>Table S3</label>
+        <caption>
+          <p>Coding of the six new characters for all taxa of the modified and extended
+                        character matrix from Motani <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref>.</p>
+          <p>(DOC)</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="pone.0019480.s004" mimetype="text/plain" position="float" xlink:href="info:doi/10.1371/journal.pone.0019480.s004" xlink:type="simple">
+        <label>Table S4</label>
+        <caption>
+          <p>NEXUS file of the modified and extended character matrix from Motani <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref> used in
+                        the phylogenetic analysis.</p>
+          <p>(TXT)</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="pone.0019480.s005" mimetype="application/msword" position="float" xlink:href="info:doi/10.1371/journal.pone.0019480.s005" xlink:type="simple">
+        <label>Table S5</label>
+        <caption>
+          <p>List of apomorphies found in the phylogenetic analysis based on the modified
+                        matrix from Motani <xref ref-type="bibr" rid="pone.0019480-Motani3">[17]</xref>. ACCTRAN = optimization
+                        criterion accelerated transformation,
+                        DELTRAN = optimization criterion delayed
+                        transformation. Bold print indicates unambiguous and unequivocal
+                        synapomorphies.</p>
+          <p>(DOC)</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Philip Gingerich, Jes Rust, and Olivier Lambert for discussions on ziphiid
+                whales, Z.-Q. Zhao for preparation, and G. Oleschinski for help with photography.
+                The manuscript benefitted greatly from formal reviews by Olivier Lambert, Judy
+                Massare, and Erin Maxwell.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0019480-Benton1">
+        <label>1</label>
+        <element-citation publication-type="other" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Benton</surname><given-names>MJ</given-names></name></person-group>
+                    <year>2003</year>
+                    <source>When Life Nearly Died. The Greatest Mass Extinction of All Time</source>
+                    <publisher-loc>London</publisher-loc>
+                    <publisher-name>Thames &amp; Hudson.</publisher-name>
+                    <!--===== Restructure page-count as size[@units="page"] =====--><size units="page">336</size>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Erwin1">
+        <label>2</label>
+        <element-citation publication-type="other" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Erwin</surname><given-names>DH</given-names></name></person-group>
+                    <year>2006</year>
+                    <source>Extinction. How Life on Earth Nearly Ended 250 Million Years
+                        Ago</source>
+                    <publisher-loc>Princeton</publisher-loc>
+                    <publisher-name>Princeton University Press.</publisher-name>
+                    <!--===== Restructure page-count as size[@units="page"] =====--><size units="page">296</size>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Huey1">
+        <label>3</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Huey</surname><given-names>RB</given-names></name><name name-style="western"><surname>Ward</surname><given-names>PD</given-names></name></person-group>
+                    <year>2005</year>
+                    <article-title>Hypoxia, global warming, and terrestrial Late Permian
+                        extinctions.</article-title>
+                    <source>Science</source>
+                    <volume>308</volume>
+                    <fpage>398</fpage>
+                    <lpage>401</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Ward1">
+        <label>4</label>
+        <element-citation publication-type="other" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Ward</surname><given-names>P</given-names></name></person-group>
+                    <year>2006</year>
+                    <source>Out of Thin Air. Dinosaurs, Birds, and Earth's Ancient
+                        Atmosphere</source>
+                    <publisher-loc>Washington, DC</publisher-loc>
+                    <publisher-name>Joseph Henry Publishers.</publisher-name>
+                    <!--===== Restructure page-count as size[@units="page"] =====--><size units="page">296</size>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-McGowan1">
+        <label>5</label>
+        <element-citation publication-type="other" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>McGowan</surname><given-names>C</given-names></name><name name-style="western"><surname>Motani</surname><given-names>R</given-names></name></person-group>
+                    <year>2003</year>
+                    <article-title>Handbook of Palaeoherpetology. Part 8.</article-title>
+                    <person-group person-group-type="editor"><name name-style="western"><surname>Sues</surname><given-names>H-D</given-names></name></person-group>
+                    <publisher-loc>Munich</publisher-loc>
+                    <publisher-name>Dr. Friedrich Pfeil Verlag.</publisher-name>
+                    <comment>Ichthyopterygia:</comment>
+                    <!--===== Restructure page-count as size[@units="page"] =====--><size units="page">175</size>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Sander1">
+        <label>6</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Sander</surname><given-names>PM</given-names></name></person-group>
+                    <year>2000</year>
+                    <article-title>Ichthyosauria: their diversity, distribution, and
+                        phylogeny.</article-title>
+                    <source>Paläontologische Zeitschrift</source>
+                    <volume>74</volume>
+                    <fpage>1</fpage>
+                    <lpage>35</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Maisch1">
+        <label>7</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Maisch</surname><given-names>MW</given-names></name><name name-style="western"><surname>Matzke</surname><given-names>AT</given-names></name></person-group>
+                    <year>2000</year>
+                    <article-title>The Ichthyosauria.</article-title>
+                    <source>Stuttgarter Beiträge zur Naturkunde B</source>
+                    <volume>298</volume>
+                    <fpage>1</fpage>
+                    <lpage>159</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Motani1">
+        <label>8</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Motani</surname><given-names>R</given-names></name></person-group>
+                    <year>2009</year>
+                    <article-title>The evolution of marine reptiles.</article-title>
+                    <source>Evolution: Education and Outreach</source>
+                    <volume>2</volume>
+                    <fpage>224</fpage>
+                    <lpage>235</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Motani2">
+        <label>9</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Motani</surname><given-names>R</given-names></name></person-group>
+                    <year>2010</year>
+                    <article-title>Warm-blooded “sea dragons”?</article-title>
+                    <source>Science</source>
+                    <volume>328</volume>
+                    <fpage>1361</fpage>
+                    <lpage>1362</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Heyning1">
+        <label>10</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Heyning</surname><given-names>JE</given-names></name><name name-style="western"><surname>Mead</surname><given-names>JG</given-names></name></person-group>
+                    <year>1996</year>
+                    <article-title>Suction feeding in beaked whales: morphological and observational
+                        evidence.</article-title>
+                    <source>Natural History Museum <italic>of</italic> Los Angeles County
+                        Contribution <italic>in</italic> Science</source>
+                    <volume>464</volume>
+                    <fpage>1</fpage>
+                    <lpage>12</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Werth1">
+        <label>11</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Werth</surname><given-names>AJ</given-names></name></person-group>
+                    <year>2006</year>
+                    <article-title>Mandibular and dental variation and the evolution of suction
+                        feeding in Odontoceti.</article-title>
+                    <source>Journal of Mammalogy</source>
+                    <volume>87</volume>
+                    <fpage>579</fpage>
+                    <lpage>588</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Werth2">
+        <label>12</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Werth</surname><given-names>AJ</given-names></name></person-group>
+                    <year>2004</year>
+                    <article-title>Functional morphology of the sperm whale tongue, with reference
+                        to suction feeding.</article-title>
+                    <source>Aquatic Mammals</source>
+                    <volume>30</volume>
+                    <fpage>405</fpage>
+                    <lpage>418</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Nicholls1">
+        <label>13</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Nicholls</surname><given-names>EM</given-names></name><name name-style="western"><surname>Manabe</surname><given-names>M</given-names></name></person-group>
+                    <year>2004</year>
+                    <article-title>Giant ichthyosaurs of the Triassic-A new species of
+                            <italic>Shonisaurus</italic> from the Pardonet Formation (Norian, Late
+                        Triassic) of British Columbia.</article-title>
+                    <source>Journal of Vertebrate Paleontology</source>
+                    <volume>24</volume>
+                    <fpage>838</fpage>
+                    <lpage>849</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Yin1">
+        <label>14</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Yin</surname><given-names>G</given-names></name><name name-style="western"><surname>Zhou</surname><given-names>X</given-names></name><name name-style="western"><surname>Cao</surname><given-names>Z</given-names></name><name name-style="western"><surname>Yu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Luo</surname><given-names>Y</given-names></name></person-group>
+                    <year>2000</year>
+                    <article-title>A preliminary study on the early Late Triassic reptiles from
+                        Guanling, Guizhou, China (in Chinese).</article-title>
+                    <source>Geology-Geochemistry</source>
+                    <volume>28</volume>
+                    <fpage>1</fpage>
+                    <lpage>23</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Merriam1">
+        <label>15</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Merriam</surname><given-names>JC</given-names></name></person-group>
+                    <year>1902</year>
+                    <article-title>Triassic Ichthyopterygia from California and
+                        Nevada.</article-title>
+                    <source>University of California Publications - Bulletin of the Department of
+                        Geology</source>
+                    <volume>3</volume>
+                    <fpage>63</fpage>
+                    <lpage>108</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Wang1">
+        <label>16</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name><name name-style="western"><surname>Bachmann</surname><given-names>GH</given-names></name><name name-style="western"><surname>Hagdorn</surname><given-names>H</given-names></name><name name-style="western"><surname>Sander</surname><given-names>PM</given-names></name><name name-style="western"><surname>Cuny</surname><given-names>G</given-names></name><etal/></person-group>
+                    <year>2008</year>
+                    <article-title>The Late Triassic black shales of the Guanling area (Ghuizhou
+                        Province, Southwest China) – a unique marine reptile and pelagic
+                        crinoid fossillagerstätte.</article-title>
+                    <source>Palaeontology</source>
+                    <volume>51</volume>
+                    <fpage>27</fpage>
+                    <lpage>61</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Motani3">
+        <label>17</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Motani</surname><given-names>R</given-names></name></person-group>
+                    <year>1999</year>
+                    <article-title>Phylogeny of the Ichthyopterygia.</article-title>
+                    <source>Journal of Vertebrate Paleontology</source>
+                    <volume>19</volume>
+                    <fpage>473</fpage>
+                    <lpage>496</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Maisch2">
+        <label>18</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Maisch</surname><given-names>MW</given-names></name><name name-style="western"><surname>Pan</surname><given-names>X</given-names></name><name name-style="western"><surname>Sun</surname><given-names>Z</given-names></name><name name-style="western"><surname>Cai</surname><given-names>T</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>D</given-names></name><etal/></person-group>
+                    <year>2006</year>
+                    <article-title>Cranial osteology of <italic>Guizhouichthyosaurus tangae</italic>
+                        (Reptilia: Ichthyosauria) from the Upper Triassic of China.</article-title>
+                    <source>Journal of Vertebrate Paleontology</source>
+                    <volume>26</volume>
+                    <fpage>588</fpage>
+                    <lpage>597</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Shang1">
+        <label>19</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Shang</surname><given-names>Q-H</given-names></name><name name-style="western"><surname>Li</surname><given-names>C</given-names></name></person-group>
+                    <year>2009</year>
+                    <article-title>On the occurrence of the ichthyosaur
+                            <italic>Shastasaurus</italic> in the Guanling biota (Late Triassic),
+                        Guizhou, China.</article-title>
+                    <source>Vertebrata Palasiatica</source>
+                    <volume>47</volume>
+                    <fpage>178</fpage>
+                    <lpage>193</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Nicholls2">
+        <label>20</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Nicholls</surname><given-names>EL</given-names></name><name name-style="western"><surname>Manabe</surname><given-names>M</given-names></name></person-group>
+                    <year>2001</year>
+                    <article-title>A new genus of ichthyosaur from the Late Triassic Pardonet
+                        Formation of British Columbia: bridging the Triassic Jurassic
+                        gap.</article-title>
+                    <source>Canadian Journal of Earth Sciences</source>
+                    <volume>38</volume>
+                    <fpage>983</fpage>
+                    <lpage>1002</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Mller1">
+        <label>21</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Müller</surname><given-names>J</given-names></name><name name-style="western"><surname>Scheyer</surname><given-names>TM</given-names></name><name name-style="western"><surname>Head</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Barrett</surname><given-names>PM</given-names></name><name name-style="western"><surname>Werneburg</surname><given-names>I</given-names></name><etal/></person-group>
+                    <year>2010</year>
+                    <article-title>Homeotic effects, somitogenesis and the evolution of vertebral
+                        numbers in recent and fossil amniotes.</article-title>
+                    <source>Proceedings of the National Academy of Science, USA</source>
+                    <volume>107</volume>
+                    <fpage>2118</fpage>
+                    <lpage>2123</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Merriam2">
+        <label>22</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Merriam</surname><given-names>JC</given-names></name></person-group>
+                    <year>1908</year>
+                    <article-title>Triassic Ichthyosauria, with special reference to the American
+                        forms.</article-title>
+                    <source>University of California Memoir</source>
+                    <volume>1</volume>
+                    <fpage>1</fpage>
+                    <lpage>155</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Maisch3">
+        <label>23</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Maisch</surname><given-names>MW</given-names></name></person-group>
+                    <year>2000</year>
+                    <article-title>Observations on Triassic ichthyosaurs. Part VI. On the cranial
+                        osteology of <italic>Shastasaurus alexandrae</italic> Merriam, 1902 from the
+                        Hosselkus Limestone (Carnian, Late Triassic) of Northern California with a
+                        revision of the genus.</article-title>
+                    <source>Neues Jahrbuch für Geologie und Paläontologie -
+                        Abhandlungen</source>
+                    <volume>217</volume>
+                    <fpage>1</fpage>
+                    <lpage>25</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Callaway1">
+        <label>24</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Callaway</surname><given-names>JM</given-names></name><name name-style="western"><surname>Massare</surname><given-names>JA</given-names></name></person-group>
+                    <year>1989</year>
+                    <article-title><italic>Shastasaurus altispinus</italic> (Ichthyosauria,
+                        Shastasauridae) from the Upper Triassic of the El Antimonio district,
+                        northwestern Sonora, Mexico.</article-title>
+                    <source>Journal of Paleontology</source>
+                    <volume>63</volume>
+                    <fpage>930</fpage>
+                    <lpage>939</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-McGowan2">
+        <label>25</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>McGowan</surname><given-names>C</given-names></name></person-group>
+                    <year>1996</year>
+                    <article-title>A new and typically Jurassic ichthyosaur from the Upper Triassic
+                        of British Columbia.</article-title>
+                    <source>Canadian Journal of Earth Sciences</source>
+                    <volume>33</volume>
+                    <fpage>24</fpage>
+                    <lpage>32</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Merriam3">
+        <label>26</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Merriam</surname><given-names>JC</given-names></name></person-group>
+                    <year>1895</year>
+                    <article-title>On some reptilian remains from the Triassic of Northern
+                        California.</article-title>
+                    <source>American Journal of Science</source>
+                    <volume>50</volume>
+                    <fpage>55</fpage>
+                    <lpage>57</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-DalSasso1">
+        <label>27</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Dal Sasso</surname><given-names>C</given-names></name><name name-style="western"><surname>Pinna</surname><given-names>G</given-names></name></person-group>
+                    <year>1996</year>
+                    <article-title><italic>Besanosaurus leptorhynchus</italic> n. gen. n. sp., a new
+                        shastasaurid ichthyosaur from the Middle Triassic of Besano (Lombardy, N.
+                        Italy).</article-title>
+                    <source>Palaeontologia Lombarda Nuova Seria</source>
+                    <volume>4</volume>
+                    <fpage>1</fpage>
+                    <lpage>23</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-DeBeer1">
+        <label>28</label>
+        <element-citation publication-type="other" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>De Beer</surname><given-names>G</given-names></name></person-group>
+                    <year>1971</year>
+                    <source>The Development of the Vertebrate Skull</source>
+                    <publisher-loc>Oxford</publisher-loc>
+                    <publisher-name>Clarendon Press.</publisher-name>
+                    <!--===== Restructure page-count as size[@units="page"] =====--><size units="page">570</size>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Reisz1">
+        <label>29</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Reisz</surname><given-names>RR</given-names></name><name name-style="western"><surname>Scott</surname><given-names>D</given-names></name><name name-style="western"><surname>Sues</surname><given-names>H-D</given-names></name><name name-style="western"><surname>Evans</surname><given-names>DC</given-names></name><name name-style="western"><surname>Raath</surname><given-names>MA</given-names></name></person-group>
+                    <year>2005</year>
+                    <article-title>Embryos of an Early Jurassic prosauropod dinosaur and their
+                        evolutionary significance.</article-title>
+                    <source>Science</source>
+                    <volume>309</volume>
+                    <fpage>761</fpage>
+                    <lpage>764</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-McGowan3">
+        <label>30</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>McGowan</surname><given-names>C</given-names></name></person-group>
+                    <year>1974</year>
+                    <article-title>A revision of the latipinnate ichthyosaurs of the Lower Jurassic
+                        of England (Reptilia: Ichthyosauria).</article-title>
+                    <source>Life Science Contributions Royal Ontario Museum</source>
+                    <volume>100</volume>
+                    <fpage>1</fpage>
+                    <lpage>30</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Clarke1">
+        <label>31</label>
+        <element-citation publication-type="other" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Clarke</surname><given-names>MR</given-names></name></person-group>
+                    <year>1996</year>
+                    <article-title>Cephalopods in the diets of odontocetes.</article-title>
+                    <person-group person-group-type="editor"><name name-style="western"><surname>Bryden</surname><given-names>MM</given-names></name><name name-style="western"><surname>Harrison</surname><given-names>R</given-names></name></person-group>
+                    <source>Research on Dolphins</source>
+                    <publisher-loc>Oxford</publisher-loc>
+                    <publisher-name>Clarendon Press</publisher-name>
+                    <fpage>281</fpage>
+                    <lpage>321</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Nowak1">
+        <label>32</label>
+        <element-citation publication-type="other" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Nowak</surname><given-names>RM</given-names></name></person-group>
+                    <year>1999</year>
+                    <source>Walker's Mammals of the World. Sixth Edition. Volume II</source>
+                    <publisher-loc>Baltimore</publisher-loc>
+                    <publisher-name>The Johns Hopkins University Press.</publisher-name>
+                    <!--===== Restructure page-count as size[@units="page"] =====--><size units="page">1095</size>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Lambert1">
+        <label>33</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Lambert</surname><given-names>O</given-names></name></person-group>
+                    <year>2005</year>
+                    <article-title>Systematics and phylogeny of the fossil beaked whales
+                            <italic>Ziphirostrum</italic> du Bas, 1868 and
+                            <italic>Choneziphius</italic> Duvernoy, 1851 (Mammalia, Cetacea,
+                        Odontoceti), from the Neogene of Antwerp (North Belgium).</article-title>
+                    <source>Geodiversitas</source>
+                    <volume>27</volume>
+                    <fpage>443</fpage>
+                    <lpage>497</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Lambert2">
+        <label>34</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Lambert</surname><given-names>O</given-names></name><name name-style="western"><surname>Bianucci</surname><given-names>G</given-names></name><name name-style="western"><surname>Post</surname><given-names>K</given-names></name></person-group>
+                    <year>2009</year>
+                    <article-title>A new beaked whale (Odontoceti, Ziphiidae) from the Middle
+                        Miocene of Peru.</article-title>
+                    <source>Journal of Vertebrate Paleontology</source>
+                    <volume>29</volume>
+                    <fpage>910</fpage>
+                    <lpage>922</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-MacLeod1">
+        <label>35</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>MacLeod</surname><given-names>CD</given-names></name><name name-style="western"><surname>Santos</surname><given-names>MB</given-names></name><name name-style="western"><surname>Pierce</surname><given-names>GJ</given-names></name></person-group>
+                    <year>2003</year>
+                    <article-title>Review of data on the diets of beaked whales: Evidence of niche
+                        segregation and geographic segregation.</article-title>
+                    <source>Journal of the Marine Biological Association of the United
+                        Kingdom</source>
+                    <volume>83</volume>
+                    <fpage>651</fpage>
+                    <lpage>665</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Massare1">
+        <label>36</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Massare</surname><given-names>JA</given-names></name></person-group>
+                    <year>1987</year>
+                    <article-title>Tooth morphology and prey preference of Mesozoic marine
+                        reptiles.</article-title>
+                    <source>Journal of Vertebrate Paleontology</source>
+                    <volume>7</volume>
+                    <fpage>121</fpage>
+                    <lpage>137</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Motani4">
+        <label>37</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Motani</surname><given-names>R</given-names></name><name name-style="western"><surname>Rothschild</surname><given-names>BM</given-names></name><name name-style="western"><surname>Wahl</surname><given-names>WJ</given-names></name></person-group>
+                    <year>1999</year>
+                    <article-title>Large eyeballs in diving ichthyosaurs.</article-title>
+                    <source>Nature</source>
+                    <volume>402</volume>
+                    <fpage>747</fpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Massare2">
+        <label>38</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Massare</surname><given-names>JA</given-names></name><name name-style="western"><surname>Young</surname><given-names>HA</given-names></name></person-group>
+                    <year>2005</year>
+                    <article-title>Gastric contents of an ichthyosaur from the Sundance
+                        Formation.</article-title>
+                    <source>Paludicola</source>
+                    <volume>5</volume>
+                    <fpage>20</fpage>
+                    <lpage>27</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Nicholls3">
+        <label>39</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Nicholls</surname><given-names>EL</given-names></name><name name-style="western"><surname>Wei</surname><given-names>C</given-names></name><name name-style="western"><surname>Manabe</surname><given-names>M</given-names></name></person-group>
+                    <year>2002</year>
+                    <article-title>New material of <italic>Qianichthyosaurus</italic> Li, 1999
+                        (Reptilia, Ichtyosauria) from the Late Triassic of southern China, and
+                        implications for the distribution of Triassic ichthyosaurs.</article-title>
+                    <source>Journal of Vertebrate Paleontology</source>
+                    <volume>22</volume>
+                    <fpage>759</fpage>
+                    <lpage>765</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Brayard1">
+        <label>40</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Brayard</surname><given-names>A</given-names></name><name name-style="western"><surname>Escarguel</surname><given-names>G</given-names></name><name name-style="western"><surname>Bucher</surname><given-names>H</given-names></name><name name-style="western"><surname>Monnet</surname><given-names>C</given-names></name><name name-style="western"><surname>Brühwiler</surname><given-names>T</given-names></name><etal/></person-group>
+                    <year>2009</year>
+                    <article-title>Good genes and good luck: Ammonoid diversity and the end-Permian
+                        mass extinction.</article-title>
+                    <source>Science</source>
+                    <volume>325</volume>
+                    <fpage>1118</fpage>
+                    <lpage>1121</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Bianucci1">
+        <label>41</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Bianucci</surname><given-names>G</given-names></name><name name-style="western"><surname>Lambert</surname><given-names>O</given-names></name><name name-style="western"><surname>Post</surname><given-names>K</given-names></name></person-group>
+                    <year>2007</year>
+                    <article-title>A high diversity in fossil beaked whales (Mammalia, Odontoceti,
+                        Ziphiidae) recovered by trawling from the sea floor off South
+                        Africa.</article-title>
+                    <source>Geodiversitas</source>
+                    <volume>29</volume>
+                    <fpage>561</fpage>
+                    <lpage>617</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Motani5">
+        <label>42</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Motani</surname><given-names>R</given-names></name></person-group>
+                    <year>2005</year>
+                    <article-title>Ichthyosauria: evolution and physical constraints of fish-shaped
+                        reptiles.</article-title>
+                    <source>Annual Review of Earth and Planetary Sciences</source>
+                    <volume>33</volume>
+                    <fpage>395</fpage>
+                    <lpage>420</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Schmitz1">
+        <label>43</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Schmitz</surname><given-names>L</given-names></name><name name-style="western"><surname>Sander</surname><given-names>PM</given-names></name><name name-style="western"><surname>Storrs</surname><given-names>GW</given-names></name><name name-style="western"><surname>Rieppel</surname><given-names>O</given-names></name></person-group>
+                    <year>2004</year>
+                    <article-title>On a new mixosaurid from the Middle Triassic of
+                        Nevada.</article-title>
+                    <source>Palaeontographica A</source>
+                    <volume>270</volume>
+                    <fpage>133</fpage>
+                    <lpage>162</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Sander2">
+        <label>44</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Sander</surname><given-names>PM</given-names></name><name name-style="western"><surname>Mazin</surname><given-names>J-M</given-names></name></person-group>
+                    <year>1993</year>
+                    <article-title>The paleobiogeography of Middle Triassic ichthyosaurs: The five
+                        major faunas.</article-title>
+                    <source>Paleontologia Lombarda, Nuova Serie</source>
+                    <volume>2</volume>
+                    <fpage>145</fpage>
+                    <lpage>152</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Jiang1">
+        <label>45</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Jiang</surname><given-names>D</given-names></name><name name-style="western"><surname>Motani</surname><given-names>R</given-names></name><name name-style="western"><surname>Schmitz</surname><given-names>L</given-names></name><name name-style="western"><surname>Rieppel</surname><given-names>O</given-names></name><name name-style="western"><surname>Hao</surname><given-names>W</given-names></name><etal/></person-group>
+                    <year>2008</year>
+                    <article-title>New primitive ichthyosaurian (Reptilia, Diapsida) from the Middle
+                        Triassic of Panxian (Guizhou, southwestern China) and its position in the
+                        Triassic Biotic Recovery.</article-title>
+                    <source>Progress on Natural Science</source>
+                    <volume>18</volume>
+                    <fpage>1315</fpage>
+                    <lpage>1319</lpage>
+                </element-citation>
+      </ref>
+      <ref id="pone.0019480-Motani6">
+        <label>46</label>
+        <element-citation publication-type="journal" xlink:type="simple">
+                    <person-group person-group-type="author"><name name-style="western"><surname>Motani</surname><given-names>R</given-names></name><name name-style="western"><surname>Manabe</surname><given-names>M</given-names></name><name name-style="western"><surname>Dong</surname><given-names>ZM</given-names></name></person-group>
+                    <year>1999</year>
+                    <article-title>The status of <italic>Himalayasaurus tibetensis</italic>
+                        (Ichthyopterygia).</article-title>
+                    <source>Paludicola</source>
+                    <volume>2</volume>
+                    <fpage>174</fpage>
+                    <lpage>181</lpage>
+                </element-citation>
+      </ref>
+    </ref-list>
+    
+  </back>
+</article>

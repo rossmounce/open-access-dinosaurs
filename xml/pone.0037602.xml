@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="EN">
+  <front>
+    <journal-meta><journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><!--===== Grouping journal title elements =====--><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher></journal-meta>
+    <article-meta><article-id pub-id-type="publisher-id">PONE-D-11-25235</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0037602</article-id><article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Ecology</subject>
+            <subj-group>
+              <subject>Coastal ecology</subject>
+              <subject>Conservation science</subject>
+              <subject>Global change ecology</subject>
+              <subject>Marine ecology</subject>
+              <subject>Population ecology</subject>
+              <subject>Species extinction</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Marine biology</subject>
+            <subj-group>
+              <subject>Marine conservation</subject>
+              <subject>Marine monitoring</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Zoology</subject>
+            <subj-group>
+              <subject>Herpetology</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Earth sciences</subject>
+          <subj-group>
+            <subject>Atmospheric science</subject>
+            <subj-group>
+              <subject>Climatology</subject>
+              <subj-group>
+                <subject>Climate change</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Ecology</subject>
+          <subject>Marine and Aquatic Sciences</subject>
+        </subj-group>
+      </article-categories><title-group><article-title>Climate Driven Egg and Hatchling Mortality Threatens Survival of Eastern Pacific Leatherback Turtles</article-title><alt-title alt-title-type="running-head">Climate Change Threatens Leatherback Turtles</alt-title></title-group><contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Santidrián Tomillo</surname>
+            <given-names>Pilar</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Saba</surname>
+            <given-names>Vincent S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="fn" rid="fn1">
+            <sup>¤</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Blanco</surname>
+            <given-names>Gabriela S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Stock</surname>
+            <given-names>Charles A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Paladino</surname>
+            <given-names>Frank V.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff5">
+            <sup>5</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Spotila</surname>
+            <given-names>James R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group><aff id="aff1"><label>1</label><addr-line>Department of Biology, Drexel University, Philadelphia, Pennsylvania, United States of America</addr-line>       </aff><aff id="aff2"><label>2</label><addr-line>The Leatherback Trust, Goldring Marine Biology Station, Playa Grande, Costa Rica</addr-line>       </aff><aff id="aff3"><label>3</label><addr-line>Atmospheric and Oceanic Sciences Program, Princeton University, Princeton, New Jersey, United States of America</addr-line>       </aff><aff id="aff4"><label>4</label><addr-line>NOAA, Geophysical Fluid Dynamics Laboratory, Princeton, New Jersey, United States of America</addr-line>       </aff><aff id="aff5"><label>5</label><addr-line>Department of Biology, Indiana-Purdue University, Fort Wayne, Indiana, United States of America</addr-line>       </aff><contrib-group>
+        <contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Goldstien</surname>
+            <given-names>Sharyn Jane</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group><aff id="edit1">University of Canterbury, New Zealand</aff><author-notes>
+        <corresp id="cor1">* E-mail: <email xlink:type="simple">ms454@drexel.edu</email></corresp>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: PST FP JS. Performed the experiments: PST VS GB CS. Analyzed the data: PST VS GB CS. Wrote the paper: PST VS GB CS FP JS.</p>
+        </fn>
+        <fn fn-type="current-aff" id="fn1">
+          <label>¤</label>
+          <p>Current address: Geophysical Fluid Dynamics Laboratory, Northeast Fisheries Science Center, NOAA National Marine Fisheries Service, Princeton, New Jersey, United States of America</p>
+        </fn>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn></author-notes><pub-date pub-type="collection">
+        <year>2012</year>
+      </pub-date><pub-date pub-type="epub">
+        <day>23</day>
+        <month>5</month>
+        <year>2012</year>
+      </pub-date><volume>7</volume><issue>5</issue><elocation-id>e37602</elocation-id><history>
+        <date date-type="received">
+          <day>11</day>
+          <month>12</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>4</month>
+          <year>2012</year>
+        </date>
+      </history><!--===== Grouping copyright info into permissions =====--><permissions><copyright-year>2012</copyright-year><copyright-holder>Santidrián Tomillo et al</copyright-holder><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><abstract>
+        <p>Egg-burying reptiles need relatively stable temperature and humidity in the substrate surrounding their eggs for successful development and hatchling emergence. Here we show that egg and hatchling mortality of leatherback turtles (<italic>Dermochelys coriacea</italic>) in northwest Costa Rica were affected by climatic variability (precipitation and air temperature) driven by the El Niño Southern Oscillation (ENSO). Drier and warmer conditions associated with El Niño increased egg and hatchling mortality. The fourth assessment report of the Intergovernmental Panel on Climate Change (IPCC) projects a warming and drying in Central America and other regions of the World, under the SRES A2 development scenario. Using projections from an ensemble of global climate models contributed to the IPCC report, we project that egg and hatchling survival will rapidly decline in the region over the next 100 years by ∼50–60%, due to warming and drying in northwestern Costa Rica, threatening the survival of leatherback turtles. Warming and drying trends may also threaten the survival of sea turtles in other areas affected by similar climate changes.</p>
+      </abstract><funding-group><funding-statement>Financial support was provided by The Leatherback Trust (<ext-link ext-link-type="uri" xlink:href="http://www.leatherback.org" xlink:type="simple">www.leatherback.org</ext-link>), the Betz Chair Endowment of Drexel University and the Earthwatch Institute (<ext-link ext-link-type="uri" xlink:href="http://www.earthwatch.org" xlink:type="simple">www.earthwatch.org</ext-link>). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts>
+        <page-count count="7"/>
+      </counts></article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>Reproductive success of egg-burying species such as sea turtles depends upon the stability of the nest environment <xref ref-type="bibr" rid="pone.0037602-Packard1">[1]</xref>, <xref ref-type="bibr" rid="pone.0037602-Webb1">[2]</xref>. For example, it is suggested that crocodilians and turtles survived the mass extinction at the end of the Cretaceous Period in part because they laid eggs in substrates that provided relatively stable temperature and humidity throughout incubation <xref ref-type="bibr" rid="pone.0037602-Robertson1">[3]</xref>, <xref ref-type="bibr" rid="pone.0037602-Paladino1">[4]</xref>. Variations in temperature and humidity occur in the underground nest environment and are greater in freshwater turtle and lizard nests that are shallower than sea turtle nests <xref ref-type="bibr" rid="pone.0037602-Ackerman1">[5]</xref>. Water exchange and incubation temperature influence hatching success of eggs and fitness of hatchlings. High temperature and dry substrates are unfavorable for egg development and hatchling quality <xref ref-type="bibr" rid="pone.0037602-Webb1">[2]</xref>, <xref ref-type="bibr" rid="pone.0037602-Ackerman1">[5]</xref>–<xref ref-type="bibr" rid="pone.0037602-Matsuzawa1">[8]</xref> and can cause the loss of an entire reproductive season <xref ref-type="bibr" rid="pone.0037602-Valverde1">[9]</xref>. Thus, changes in local climate can have important effects on reproductive success of reptiles.</p>
+      <p>El Niño Southern Oscillation (ENSO) has profound effects on many ecological processes <xref ref-type="bibr" rid="pone.0037602-Timmermann1">[10]</xref>, <xref ref-type="bibr" rid="pone.0037602-Stenseth1">[11]</xref>. It alternates from “El Niño” periods when sea surface temperature (SST) in the eastern tropical Pacific is warmer than normal, to “La Niña” when SST is cooler than normal, both of variable duration and strength, with ENSO neutral conditions in between. ENSO affects local weather in diverse ways. Warm El Niño events are associated with increased precipitation in the Galápagos Islands <xref ref-type="bibr" rid="pone.0037602-Trillmich1">[12]</xref>, <xref ref-type="bibr" rid="pone.0037602-Gibbs1">[13]</xref> and floods in South America, whereas they are associated with drought in Australia and Indonesia <xref ref-type="bibr" rid="pone.0037602-Webster1">[14]</xref>.</p>
+      <p>Leatherback turtles (<italic>Dermochelys coriacea</italic>) nest on tropical and subtropical beaches around the world, but are critically in danger of extinction <xref ref-type="bibr" rid="pone.0037602-Sarti1">[15]</xref> due to anthropogenic impacts such as egg poaching and bycatch in industrial and artisanal fisheries <xref ref-type="bibr" rid="pone.0037602-SantidrinTomillo1">[16]</xref>, <xref ref-type="bibr" rid="pone.0037602-Kaplan1">[17]</xref>, <xref ref-type="bibr" rid="pone.0037602-SartiMartnez1">[18]</xref>. Populations of leatherback turtles have been greatly reduced in the eastern Pacific and Playa Grande, in northwestern Costa Rica remains one of the last major nesting sites in the region <xref ref-type="bibr" rid="pone.0037602-Spotila1">[19]</xref>, <xref ref-type="bibr" rid="pone.0037602-SantidrinTomillo2">[20]</xref>. Female leatherbacks in the eastern Pacific nest on average 7 times in a season and return to the nesting beach every 3.7 years <xref ref-type="bibr" rid="pone.0037602-SantidrinTomillo2">[20]</xref>, <xref ref-type="bibr" rid="pone.0037602-Reina1">[21]</xref>. This remigration interval can be prolonged during El Niño conditions or reduced during La Niña conditions <xref ref-type="bibr" rid="pone.0037602-Saba1">[22]</xref>, <xref ref-type="bibr" rid="pone.0037602-Reina2">[23]</xref>. Eggs are buried ∼80 cm deep in the sand, incubate for ∼60 days <xref ref-type="bibr" rid="pone.0037602-Binckley1">[24]</xref> and, after hatching, hatchlings emerge synchronously from the nest <xref ref-type="bibr" rid="pone.0037602-Bustard1">[25]</xref>. Temperature of the sand affects the ability of hatchlings to emerge from the nest <xref ref-type="bibr" rid="pone.0037602-SantidrinTomillo3">[26]</xref>. Furthermore, leatherback turtles, as well as other reptiles, have temperature-dependent sex determination (TSD) and El Niño causes a female-biased sex ratio <xref ref-type="bibr" rid="pone.0037602-Binckley1">[24]</xref>, <xref ref-type="bibr" rid="pone.0037602-Sieg1">[27]</xref>. Climate change may threaten survival of leatherback populations even if other factors driving population declines are removed.</p>
+      <p>Monthly precipitation in North Pacific Costa Rica is influenced by ENSO. Rainy seasons during El Niño events occur but levels of rain are low, causing droughts during the following dry season <xref ref-type="bibr" rid="pone.0037602-Waylen1">[28]</xref>. The rainy season extends from May to November with September and October being the rainiest months, followed by the dry season from December to April (<xref ref-type="fig" rid="pone-0037602-g001">Fig. 1</xref>). The leatherback nesting season starts in October and ends at the end of February. Because the incubation period lasts two months, many clutches are still incubating during the peak of the dry season when sand temperature is maximal, which reduces hatching success and emergence of hatchlings from the nest <xref ref-type="bibr" rid="pone.0037602-Drake1">[7]</xref>, <xref ref-type="bibr" rid="pone.0037602-Valverde1">[9]</xref>, <xref ref-type="bibr" rid="pone.0037602-SantidrinTomillo3">[26]</xref>.</p>
+      <fig id="pone-0037602-g001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0037602.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Monthly distribution of precipitation in Liberia, Costa Rica.</title>
+          <p>Precipitation is highly variable between years of El Niño (1987–1988) and La Niña (1998–1999, 2007–2008). The Multivariate ENSO Index (MEI; solid line) indicates when the Pacific climate is in El Niño (red) and La Niña (blue) phases <xref ref-type="bibr" rid="pone.0037602-Wolter2">[34]</xref>.</p>
+        </caption>
+        <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0037602.g001" xlink:type="simple"/>
+      </fig>
+      <p>The objective of this study was to test the effects of climatic conditions on the incubation of leatherback eggs and emergence of hatchlings from the nest. We found that hatching success of eggs and emergence rate of hatchlings from the nest were strongly affected by the prevailing climatic conditions. Our projections showed that hatchling output will decline throughout the 21<sup>st</sup> century under projections of climate change.</p>
+    </sec>
+    <sec id="s2" sec-type="materials|methods">
+      <title>Materials and Methods</title>
+      <p>We conducted the study at Playa Grande, Parque Nacional Marino Las Baulas (10°20 N, 85°51 W), located on the North Pacific coast of Costa Rica. We included six nesting seasons in the analyses, from 2004–2005 to 2009–2010. Each season included clutches laid from October of each year to January of the next. Clutches laid in February were removed from the analyses because of low sample sizes. We marked nests during egg oviposition and excavated them two days after hatchlings emerged. In some instances we could not mark them because we missed the turtle, we found her when she was already covering the nest, or we lost the nest because of inaccurate triangulations. We excavated and included a total of 814 nests in the analyses (31% of the total estimated number of clutches laid between 2004–2005 and 2009–2010) from 283 females (70% of the females) (<xref ref-type="table" rid="pone-0037602-t001">Table 1</xref>).</p>
+      <table-wrap id="pone-0037602-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0037602.t001</object-id><label>Table 1</label><caption>
+          <title>Number of female turtles and nests registered per season and included in the analyses.</title>
+        </caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0037602-t001-1" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0037602.t001" xlink:type="simple"/><table>
+          <colgroup span="1">
+            <col align="left" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+          </colgroup>
+          <thead>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="6" rowspan="1">Seasons</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">2004–2005</td>
+              <td align="left" colspan="1" rowspan="1">2005–2006</td>
+              <td align="left" colspan="1" rowspan="1">2006–2007</td>
+              <td align="left" colspan="1" rowspan="1">2007–2008</td>
+              <td align="left" colspan="1" rowspan="1">2008–2009</td>
+              <td align="left" colspan="1" rowspan="1">2009–2010</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Total number of turtles</td>
+              <td align="left" colspan="1" rowspan="1">54</td>
+              <td align="left" colspan="1" rowspan="1">124</td>
+              <td align="left" colspan="1" rowspan="1">76</td>
+              <td align="left" colspan="1" rowspan="1">81</td>
+              <td align="left" colspan="1" rowspan="1">27</td>
+              <td align="left" colspan="1" rowspan="1">41</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Number of turtles represented</td>
+              <td align="left" colspan="1" rowspan="1">40</td>
+              <td align="left" colspan="1" rowspan="1">71</td>
+              <td align="left" colspan="1" rowspan="1">44</td>
+              <td align="left" colspan="1" rowspan="1">65</td>
+              <td align="left" colspan="1" rowspan="1">26</td>
+              <td align="left" colspan="1" rowspan="1">37</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Total number of nests</td>
+              <td align="left" colspan="1" rowspan="1">358</td>
+              <td align="left" colspan="1" rowspan="1">772</td>
+              <td align="left" colspan="1" rowspan="1">536</td>
+              <td align="left" colspan="1" rowspan="1">507</td>
+              <td align="left" colspan="1" rowspan="1">170</td>
+              <td align="left" colspan="1" rowspan="1">258</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Number of nests analyzed</td>
+              <td align="left" colspan="1" rowspan="1">128</td>
+              <td align="left" colspan="1" rowspan="1">172</td>
+              <td align="left" colspan="1" rowspan="1">130</td>
+              <td align="left" colspan="1" rowspan="1">158</td>
+              <td align="left" colspan="1" rowspan="1">99</td>
+              <td align="left" colspan="1" rowspan="1">127</td>
+            </tr>
+          </tbody>
+        </table></alternatives><table-wrap-foot>
+          <fn id="nt101">
+            <label/>
+            <p>Total number of nests was obtained multiplying the total number of females identified in a season by the estimated clutch frequency for that year, following the methodology described in <xref ref-type="bibr" rid="pone.0037602-Steyermark1">[45]</xref>.</p>
+          </fn>
+        </table-wrap-foot></table-wrap>
+      <p>We estimated hatching success as the percentage of eggs within a clutch that completed development, and emergence rate as the percentage of hatchlings that successfully emerged from the nest within two nights of the initial emergence event. We used the formula <italic>H</italic> = <italic>S</italic>/(<italic>S</italic>+<italic>U</italic>) to estimate hatching success (<italic>H</italic>), where <italic>S</italic> was number of empty eggshells (more than 50% of the shell remained <xref ref-type="bibr" rid="pone.0037602-Miller1">[29]</xref>) and <italic>U</italic> was the number of unhatched eggs as previously described <xref ref-type="bibr" rid="pone.0037602-SantidrinTomillo3">[26]</xref>. We used the formula <italic>R</italic> = (<italic>S</italic>−(<italic>L</italic>+<italic>D</italic>))/<italic>S</italic> to estimate emergence rate (<italic>R</italic>), where <italic>L</italic> and <italic>D</italic> were live and dead hatchlings found in the nest respectively at excavation time. We estimated mean monthly hatching success and mean monthly emergence rate by month eggs were laid (October - January).</p>
+      <p>We obtained local climate data (monthly precipitation and air temperature) from a weather station located at the Daniel Oduber Quirós International Airport in Liberia, Costa Rica (approximately 50 km from study site). Through a regression analysis, we determined the effects of ambient temperature during the two incubating months and precipitation accumulated over different periods of time (during the two months of incubation, one, two and three months before eggs were laid and total precipitation during rainy season), on both hatching success and emergence rate. We then used the regression equations from the analyses of precipitation and ambient temperature that gave the strongest signal on monthly hatching success and emergence rate to produce a hindcast of mean annual estimates from 1976 to 2010, and average annual values considering the temporal distribution of nests (on average 13%, 27%, 35% and 25% of clutches are laid in October, November, December and January respectively). Finally, we compared the hindcast of hatching success and emergence rate to the September - October Multivariate ENSO Index (MEI) for the same time period. This index serves as an indicator of the strength of the El Niño and La Niña events. The MEI is calculated bimonthly and based on six observed variables over the tropical Pacific: sea level pressure, surface zonal and meridional wind components, sea surface temperature, surface air temperature, and cloudiness <xref ref-type="bibr" rid="pone.0037602-Wolter1">[30]</xref>. The MEI data were available at <ext-link ext-link-type="uri" xlink:href="http://www.esrl.noaa.gov/psd/people/klaus.wolter/MEI/table.html" xlink:type="simple">http://www.esrl.noaa.gov/psd/people/klaus.wolter/MEI/table.html</ext-link>.</p>
+      <sec id="s2a">
+        <title>Projections from Global Climate Models Throughout the 21<sup>st</sup> Century</title>
+        <p>We used climate model projections contributed to the Intergovernmental Panel on Climate Change (IPCC) fourth assessment report (AR4) to assess the potential effects of climate change on egg development and hatchling emergence at Playa Grande up to the year 2100 under the SRES A2 development scenario <xref ref-type="bibr" rid="pone.0037602-Nakicenovic1">[31]</xref>. We used the regression equations for hatching success and emergence rate based on the observed response to climate variability over the last decade, together with individual climate models and the ensemble mean projected monthly values of precipitation and air temperature for the area encompassing the northwest coast of Costa Rica.</p>
+        <p>We used bias-corrected monthly precipitation and ambient temperature projections from the ensemble of IPCC models. The ensemble (17 models) data were extracted from the World Climate Research Programme’s Coupled Model Intercomparison Project phase 3 (CMIP3) multi-model dataset <xref ref-type="bibr" rid="pone.0037602-Meehl1">[32]</xref> under the IPCC SRES A2 greenhouse gas emissions scenario. We bias-corrected each CMIP3 model’s projection based on observed climate data for the period of 1976 to 2000. For bias-correction, we extracted historical runs (Climate of the 20th century experiment) for each CMIP3 model for the same time period as the observed data in Liberia. For each month, we calculated a bias-correction factor by dividing the mean observed data by the mean modeled data. We used equations from the empirical analysis on hatching success and emergence rate together with each individual model’s projected precipitation and air temperature (bias-corrected) for the area encompassing northwest Costa Rica.</p>
+        <p>To more closely assess how projected changes in ENSO variability and mean warming and drying trends interact to determine hatching success and emergence rate, we examined projections from a subset of the climate model ensemble (<italic>n</italic> = 5) that most skillfully captured present day ENSO characteristics and feedbacks <xref ref-type="bibr" rid="pone.0037602-Collins1">[33]</xref>.</p>
+        <p>Of the six years, nesting seasons 2004–2005, 2006–2007 and 2009–2010 took place during El Niño conditions and seasons 2005–2006, 2007–2008 and 2008–2009 during La Niña conditions. The El Niño in 2009–2010 and the La Niña in 2007–2008 were the strongest of the six events <xref ref-type="bibr" rid="pone.0037602-Wolter2">[34]</xref>.</p>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>Results</title>
+      <p>Mean (±SD) annual hatching success and mean (±SD) annual emergence rate of leatherback clutches at Playa Grande for 2004–2005 to 2009–2010 were 0.47±0.25 and 0.82±0.22 respectively.</p>
+      <p>Climate variability influenced hatching success and emergence rate of leatherback clutches. Low precipitation and high temperatures were detrimental to both eggs during development and hatchlings during emergence (<xref ref-type="fig" rid="pone-0037602-g002">Fig. 2</xref>). Mean monthly hatching success was influenced by precipitation accumulated in the two months before eggs were laid, precipitation in October (immediately prior to the onset of the dry season), and average ambient temperature during the two months of incubation, The relationship was defined by a stepwise multiple regression equation:</p>
+      <fig id="pone-0037602-g002" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0037602.g002</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Hatching success and emergence rate of leatherback nests at Playa Grande, between 2004–2005 and 2009–2010.</title>
+          <p>(a) Observed versus predicted mean monthly hatching success. Prediction was based on local weather conditions (<italic>y = a+bx<sub>1</sub>+cx<sub>2</sub>−dx<sub>3</sub></italic>; <italic>R<sup>2</sup></italic> = 0.81, <italic>P</italic>&lt;0.001); where <italic>x<sub>1,</sub> x<sub>2</sub></italic> and <italic>x<sub>3</sub></italic> were precipitation accumulated in the two previous months, precipitation in October and mean ambient temperature during incubation respectively. Regression coefficients (± SE) were <italic>a = </italic>1.87±0.76, <italic>P</italic>&lt;0.05; <italic>b</italic> = 1.83×10<sup>−4</sup>±4.94×10<sup>−5</sup>, <italic>P</italic>&lt;0.002; <italic>c</italic> = 3.23×10<sup>−4</sup>±8.02×10<sup>−5</sup>, <italic>P</italic> = 0.001; <italic>d</italic> = −6.06×10<sup>−2</sup>±2.79×10<sup>−2</sup>, <italic>P</italic>&lt;0.05. (b) Observed versus predicted mean monthly emergence rate. Prediction was based on local weather (<italic>y = a−bx<sub>1</sub>+</italic>c<italic>x<sub>2</sub></italic>; <italic>R<sup>2</sup></italic> = 0.65, <italic>P</italic>&lt;0.001); where <italic>x<sub>1</sub></italic> and <italic>x<sub>2</sub></italic> were mean ambient temperature and precipitation accumulated in September-October respectively. Regression coefficients (± SE) were <italic>a = </italic>4.51±0.81, <italic>P</italic>&lt;0.001; <italic>b</italic> = –0.14±0.03, <italic>P</italic>&lt;0.001; <italic>c</italic> = 1.62×10<sup>−4</sup>±4.80×10<sup>−5</sup>, <italic>P</italic>&lt;0.01.</p>
+        </caption>
+        <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0037602.g002" xlink:type="simple"/>
+      </fig>
+      <p>
+        <disp-formula><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0037602.e001" xlink:type="simple"/></disp-formula>
+      </p>
+      <p>where <italic>x<sub>1</sub></italic> = precipitation accumulated in the two months before eggs were laid, <italic>x<sub>2</sub></italic> = precipitation in October and <italic>x<sub>3</sub></italic> = mean ambient temperature during the two months of incubation (<italic>R<sup>2</sup></italic> = 0.81, <italic>n</italic> = 24, <italic>P</italic>&lt;0.001, <xref ref-type="fig" rid="pone-0037602-g002">Fig. 2A</xref>). The standardized partial regression coefficients were 0.46, 0.45 and - 0.24 respectively. Therefore, precipitation in the two previous months, precipitation in October and ambient temperature during incubation explained 40, 39 and 21% respectively of the hatching success variation accounted for by the model.</p>
+      <p>Monthly emergence rate was best explained by the average ambient temperature during the two months of incubation and the total precipitation in September and October. The relationship was defined by a stepwise multiple regression equation:<disp-formula><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0037602.e002" xlink:type="simple"/></disp-formula><italic>x<sub>1</sub></italic> = mean ambient temperature during the incubation months and <italic>x<sub>2</sub></italic> = precipitation accumulated in September – October (<italic>R<sup>2</sup></italic> = 0.65, <italic>n</italic> = 24, <italic>P</italic>&lt;0.001, <xref ref-type="fig" rid="pone-0037602-g002">Fig. 2B</xref>). The standardized partial regression coefficients were - 0.62 and 0.44 respectively. Thus, air temperature during incubation and total precipitation in September and October explained 58 and 42% respectively of the variation in emergence rate explained by the model. Therefore, precipitation and ambient temperatures, characterized by a strong interannual variability, affected (1) eggs during development and (2) hatchlings during emergence through the ∼80 cm sand column.</p>
+      <p>We found that MEI was significantly correlated with hatching success (quadratic equation: y = 0.45–0.09 <italic>x</italic>+0.01 <italic>x<sup>2</sup></italic>, <italic>R<sup>2</sup></italic> = 0.52, <italic>n</italic> = 34, <italic>P</italic>&lt;0.001) and emergence rate (quadratic equation: y = 0.83–0.06 <italic>x</italic> −0.01 <italic>x<sup>2</sup></italic>, <italic>R<sup>2</sup></italic> = 0.52, <italic>n</italic> = 34, <italic>P</italic>&lt;0.001), with positive values of MEI (El Niño) corresponding to years of low hatching success and emergence rates and negative values of MEI (La Niña) corresponding to years of high hatching success and emergence rates (<xref ref-type="fig" rid="pone-0037602-g003">Fig. 3A,B</xref>). Our regression model estimated the lowest hatching success and emergence rate for 1987, a year of strong El Niño conditions, while estimating the highest hatching success for 1998 and 2007, and highest emergence rate for 1999, all during La Niña events (<xref ref-type="fig" rid="pone-0037602-g003">Fig. 3C,D</xref>).</p>
+      <fig id="pone-0037602-g003" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0037602.g003</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <title>Hatching success and emergence rate hindcasts from 1976–1977 to 2009–2010 related to MEI.</title>
+          <p>(a,b) hindcast of hatching success and emergence rate in relation to MEI of September-October (<italic>R<sup>2</sup></italic> = 0.52, <italic>P</italic>&lt;0.001 for both); (c,d) hindcast of hatching success and emergence rate (dashed lines with x’s) related to MEI (solid lines) of September-October by year. Lowest and highest hindcasts are marked with red and blue arrows respectively.</p>
+        </caption>
+        <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0037602.g003" xlink:type="simple"/>
+      </fig>
+      <sec id="s3a">
+        <title>Projections from Global Climate Models Throughout the 21<sup>st</sup> Century</title>
+        <p>Our model projected that both hatching success (Pearson correlation, <italic>r</italic> = −0.91, p&lt;0.01) and emergence rate (Pearson correlation, <italic>r</italic> = −0.97, p&lt;0.01) would significantly decrease between years 2001 and 2100 due to a warming and drying of the area encompassing northwest Costa Rica (<xref ref-type="fig" rid="pone-0037602-g004">Fig. 4</xref>). Of the 17 IPCC models used here, 13 of them projected a decrease in precipitation while all models projected an increase in air temperature. Our projections indicated that hatching success would decrease from a 10-year moving average ∼0.42 to ∼0.18 from the beginning to the end of the 21<sup>st</sup> century, and emergence rate from ∼0.76 to ∼0.29 (<xref ref-type="fig" rid="pone-0037602-g004">Fig. 4A,B</xref>).</p>
+        <fig id="pone-0037602-g004" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0037602.g004</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Hatching success and emergence rate projections of leatherback nests in 100 years of climate change.</title>
+            <p>Projections are based on (a,b) each of the 17 bias-corrected CMIP3 models (grey lines) and the ensemble mean (black line) and (c,d) 5 of the bias-corrected CMIP3 models that are skilful at resolving present-day ENSO variability (coloured lines) and their ensemble mean (black line). Time-series projections are presented as 10-year moving averages.</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0037602.g004" xlink:type="simple"/>
+        </fig>
+        <p>The subset of models that best captured ENSO variability produced projections of hatching success and emergence rate that had similarly decreasing trends to those of the full ensemble (<xref ref-type="fig" rid="pone-0037602-g004">Fig. 4C,D</xref>) despite diverging in their projections of changes in ENSO variability over the next 100 years <xref ref-type="bibr" rid="pone.0037602-Collins1">[33]</xref>. Here, projected hatching success decreased from ∼0.45 to ∼0.17 and emergence rate from ∼0.79 to ∼0.26 (<xref ref-type="fig" rid="pone-0037602-g004">Fig. 4C,D</xref>).</p>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <title>Discussion</title>
+      <p>Local climate had a strong effect on leatherback eggs and on hatchlings that must dig through 80 cm of sand. Dry and warm conditions at Playa Grande were harmful to both eggs and hatchlings. High temperatures during incubation also create lethal conditions for olive ridley turtle (<italic>Lepidochelys olivacea</italic>) eggs in Pacific Costa Rica during the dry season <xref ref-type="bibr" rid="pone.0037602-Valverde1">[9]</xref> and decrease emergence rate of green turtles (<italic>Chelonia mydas</italic>) in Caribbean Costa Rica <xref ref-type="bibr" rid="pone.0037602-Segura1">[35]</xref>.</p>
+      <p>Precipitation creates suitable conditions of humidity inside the nest and cool temperatures favor development and prevent sand desiccation in this region. However, higher levels of precipitation can result in increased mortality of eggs or hatchlings as seen at other locations <xref ref-type="bibr" rid="pone.0037602-Houghton1">[36]</xref>. The strong interannual variability of rainfall at Playa Grande results in “boom-and-bust” cycles of recruitment in the population. Therefore, cool and pluvial La Niña years are extremely important for periods of enhanced leatherback neonate recruitment. Additionally, because leatherbacks exhibit temperature-dependent sex determination and air temperatures during La Niña events are cooler, these events are critical for the production of male hatchlings <xref ref-type="bibr" rid="pone.0037602-Sieg2">[37]</xref>. Within a season, during both El Niño and La Niña events, wet and cool conditions at the beginning of the nesting season result in a higher production of hatchlings than at the end of the season when warm and dry conditions persist <xref ref-type="bibr" rid="pone.0037602-SantidrinTomillo3">[26]</xref>. Leatherbacks at Playa Grande typically nest in the open beach away from the vegetation and do not select for different nest sites along the sea to vegetation axis <xref ref-type="bibr" rid="pone.0037602-Nordmoe1">[38]</xref> and there is no shade available along the beach. Sea turtles in this type of tropical breeding site will have a lower fitness if they nest during the months when high temperatures would be detrimental for eggs and hatchlings. However, some nesting still occurs during the off season. Likewise during El Niño years, turtles still nest but in lower than average numbers. Historically, it is possible that some turtles benefited from low nest density found on the beach at these times, before declines started.</p>
+      <p>Hatching success and emergence rate, however, are influenced by variations in nest microclimate that are not fully captured by the MEI or the coarse monthly precipitation and temperature averages examined herein. For example, high temperatures inhibit emergence of sea turtle hatchlings <xref ref-type="bibr" rid="pone.0037602-Drake1">[7]</xref> and high temperatures in the period just before emergence are associated with lower emergence rate <xref ref-type="bibr" rid="pone.0037602-SantidrinTomillo3">[26]</xref>, <xref ref-type="bibr" rid="pone.0037602-Segura1">[35]</xref>. An example of where such dependence meteorological variations not captured by the metrics considered herein may have played a role is the 1997 El Niño. Despite being the strongest ENSO event recorded, the 1997 El Niño resulted in low annual hatching success and emergence rates but not lower than in 1987. This difference may be explained by the shorter time-scale meteorological variations or higher levels of rain accumulated in September and October of 1997 (271 and 182 mm) compared to 1987 (213 mm and 167 mm). Likewise, the 1988 La Niña was a very strong event but resulted in lower hatching success than in 1998 and 2007, when higher levels of rain were registered. Further exploration of the impact of meteorological variations over finer temporal and spatial scales than those captured by the metrics considered, may explain more variance in hatching and emergence success. However, the performance of the coarse-scale meteorological forcing considered herein as predictors (e.g., <italic>R<sup>2</sup></italic> = 0.81 and <italic>R<sup>2</sup></italic> = 0.65 for hatching and emergence respectively) suggests that they provide useful, robust indicators of climate effects. The utility of monthly precipitation and temperature metrics as predictors of hatching and emergence rates also facilitates integration with climate projection, which are archived as monthly outputs.</p>
+      <sec id="s4a">
+        <title>Projections from Global Climate Models Throughout the 21<sup>st</sup> Century</title>
+        <p>Most of the 17 projections contributed to the fourth assessment report of the IPCC projected a decrease in precipitation and all 17 models projected an increase in air temperature throughout the 21<sup>st</sup> century in northwestern Costa Rica. These results are consistent with prior studies that also report a decrease in IPCC model precipitation over Central America over the year 2100 <xref ref-type="bibr" rid="pone.0037602-Neelin1">[39]</xref>, <xref ref-type="bibr" rid="pone.0037602-DiNezio1">[40]</xref>. If the nesting sites of sea turtle species in Central America become warmer and dryer, we can expect similar declines in hatching success and hatchling emergence of other species. Additionally, sex ratios at Playa Grande are already female-biased (∼90%) <xref ref-type="bibr" rid="pone.0037602-Sieg2">[37]</xref>. Therefore, increased ambient temperature from climate change may result in a minimal per-decadal production of male hatchlings in the region.</p>
+        <p>Our projections show a sharp decline from ∼42% to ∼18% in hatching success and from ∼76% to ∼29% in emergence rate between 2001 and 2100. These results are also robust to uncertainties in the regression analysis and are strongly supported by physiological studies <xref ref-type="bibr" rid="pone.0037602-Packard1">[1]</xref>, <xref ref-type="bibr" rid="pone.0037602-Webb1">[2]</xref>, <xref ref-type="bibr" rid="pone.0037602-Ackerman1">[5]</xref>, <xref ref-type="bibr" rid="pone.0037602-Packard2">[6]</xref>.</p>
+        <p>“Boom-and-bust” cycles of recruitment can still be expected under future climatic scenarios. However, our model suggests that the overall leatherback recruitment rate may become too low to maintain populations because of the rapid changes in climatic conditions. Leatherback turtles reach sexual maturity in ∼15 years <xref ref-type="bibr" rid="pone.0037602-Zug1">[41]</xref> although recent studies suggest that it may take them up to 30 years to mature <xref ref-type="bibr" rid="pone.0037602-Avens1">[42]</xref>. Other sea turtle species reach sexual maturity in ∼25<bold>–</bold>40 years <xref ref-type="bibr" rid="pone.0037602-Zug2">[43]</xref>, <xref ref-type="bibr" rid="pone.0037602-Casale1">[44]</xref>. Therefore, the long generation times exhibited by sea turtles will make it very difficult for them to adapt to new environmental conditions caused by climate change.</p>
+        <p>Leatherback turtles at Playa Grande are currently endangered due to the impacts of fisheries, poaching, pollution, and tourist development on the nesting beaches. Our results show that even if these threats are eradicated, those turtles will still be threatened by climate change. Even considering human intervention at nesting beaches (i.e. irrigating nests, laboratory egg incubation, climate-controlled hatcheries), climate change may still become a major driver of the survival of leatherbacks due to the warming of Central America. Given the limited number of leatherback nesting beaches in Central America, which is governed by a variety of factors (i.e. tidal range, sand type, currents, predation, vegetation, beach development, etc.), the probability of a new nesting beach emerging in a cooler, wetter area throughout this century is unlikely. Similar drying and warming is projected throughout much of Central America by the majority of IPCC models <xref ref-type="bibr" rid="pone.0037602-DiNezio1">[40]</xref>. Significant southward movement into the equatorial convergence zone would yield wetter but similarly warm conditions with altered rainfall seasonality. Significant northward movement into the sub-tropics would yield cooler but much drier conditions [Saba et al. in review]. Thus, leatherback turtles that live in the east Pacific and nest in Central America will face increasing environmental pressures on their survival if similar trends continue in the 21<sup>st</sup> century. Local mitigation may not compensate for a lack of global action in reversing the trends. Other sea turtle species in Central America and in other drying and warming areas, whose egg and hatchling survival depend upon wetter, cooler climatic conditions, could follow a similar projected path as the leatherback turtle.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank the National Meteorological Institute of Costa Rica for providing weather data and NOAA for allowing access to Multivariate Enso Index data series. We acknowledge the modeling groups, the Program for Climate Model Diagnosis and Intercomparison (PCMDI) and the WCRP’s Working Group on Coupled Modeling (WGCM) for their roles in making available the WCRP CMIP3 multi-model dataset. Support of this dataset is provided by the Office of Science, U.S. Department of Energy. We thank R. Piedra and Park rangers from Playa Grande and colleagues that collaborated on the data collection over the years, especially J. Suss, J. Holding, T. Dornfeld, S. Valentine, K. Magrini, P. Clune, N. Robinson and C. Campaña. We thank the Goldring Marine Biology Station at Playa Grande for accommodation during the leatherback nesting seasons. The study was conducted under MINAET permits and was approved by the Animal Care Committee of Drexel University.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0037602-Packard1">
+        <label>1</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Packard</surname><given-names>GC</given-names></name><name name-style="western"><surname>Packard</surname><given-names>MJ</given-names></name></person-group>             <year>1988</year>             <article-title>The physiological ecology of reptilian eggs and embryos.</article-title>             <source>Gans C, Huey RB, eds</source>             <publisher-loc>Biology of the Reptilia Vol 16. New York</publisher-loc>             <publisher-name>Alan R. Liss</publisher-name>             <fpage>523</fpage>             <lpage>605</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Webb1">
+        <label>2</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Webb</surname><given-names>GJ</given-names></name><name name-style="western"><surname>Cooper-Preston</surname><given-names>H</given-names></name></person-group>             <year>1989</year>             <article-title>Effects of incubation temperature of crocodiles and the evolution of reptilian oviparity.</article-title>             <source>American Zoologist</source>             <volume>29</volume>             <fpage>953</fpage>             <lpage>971</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Robertson1">
+        <label>3</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Robertson</surname><given-names>DS</given-names></name><name name-style="western"><surname>McKenna</surname><given-names>MC</given-names></name><name name-style="western"><surname>Toon</surname><given-names>OB</given-names></name><name name-style="western"><surname>Hope</surname><given-names>S</given-names></name><name name-style="western"><surname>Lillegraven</surname><given-names>JA</given-names></name></person-group>             <year>2004</year>             <article-title>Survival in the first hours of the Cenozoic.</article-title>             <source>Geological Society of America Bulletin</source>             <volume>116</volume>             <fpage>760</fpage>             <lpage>768</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Paladino1">
+        <label>4</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Paladino</surname><given-names>FV</given-names></name><name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name><name name-style="western"><surname>Hammond</surname><given-names>JK</given-names></name><name name-style="western"><surname>Spotila</surname><given-names>JR</given-names></name></person-group>             <year>1991</year>             <article-title>Temperature dependent sex determination in dinosaurs: Implications for population dynamics and extinction.</article-title>             <source>Geological Society of America Special Paper</source>             <volume>238</volume>             <fpage>63</fpage>             <lpage>70</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Ackerman1">
+        <label>5</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ackerman</surname><given-names>RA</given-names></name><name name-style="western"><surname>Lott</surname><given-names>DB</given-names></name></person-group>             <year>2004</year>             <article-title>Thermal, hydric and respiratory climate of nests. In: Deeming DC, ed. Reptilian Incubation: Environment, Evolution, and Behaviour.</article-title>             <source>Nottingham: Nottingham University Press,</source>             <volume>15–43</volume>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Packard2">
+        <label>6</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Packard</surname><given-names>GC</given-names></name><name name-style="western"><surname>Packard</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Miller</surname><given-names>K</given-names></name><name name-style="western"><surname>Boardman</surname><given-names>TJ</given-names></name></person-group>             <year>1987</year>             <article-title>Influence of moisture, temperature, and substrate on snapping turtle eggs and embryos.</article-title>             <source>Ecology</source>             <volume>68</volume>             <fpage>983</fpage>             <lpage>993</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Drake1">
+        <label>7</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Drake</surname><given-names>DL</given-names></name><name name-style="western"><surname>Spotila</surname><given-names>JR</given-names></name></person-group>             <year>2002</year>             <article-title>Thermal tolerances and the timing of sea turtle hatchling emergence.</article-title>             <source>Journal of Thermal Biology</source>             <volume>27</volume>             <fpage>71</fpage>             <lpage>81</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Matsuzawa1">
+        <label>8</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Matsuzawa</surname><given-names>Y</given-names></name><name name-style="western"><surname>Sato</surname><given-names>K</given-names></name><name name-style="western"><surname>Sakamoto</surname><given-names>W</given-names></name><name name-style="western"><surname>Bjorndal</surname><given-names>KA</given-names></name></person-group>             <year>2002</year>             <article-title>Seasonal fluctuations in sand temperature: effects on the incubation period and mortality of loggerhead sea turtle (<italic>Caretta caretta</italic>) pre-emergent hatchlings in Minabe, Japan.</article-title>             <source>Marine Biology</source>             <volume>140</volume>             <fpage>639</fpage>             <lpage>646</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Valverde1">
+        <label>9</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Valverde</surname><given-names>RA</given-names></name><name name-style="western"><surname>Wingard</surname><given-names>S</given-names></name><name name-style="western"><surname>Gómez</surname><given-names>F</given-names></name><name name-style="western"><surname>Tordoir</surname><given-names>MT</given-names></name><name name-style="western"><surname>Orrego</surname><given-names>CM</given-names></name></person-group>             <year>2010</year>             <article-title>Field lethal incubation temperature of olive ridley sea turtle <italic>Lepidochelys olivacea</italic> at a mass nesting rookery.</article-title>             <source>Endangered Species Research</source>             <volume>12</volume>             <fpage>77</fpage>             <lpage>86</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Timmermann1">
+        <label>10</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Timmermann</surname><given-names>A</given-names></name><name name-style="western"><surname>Oberhuber</surname><given-names>J</given-names></name><name name-style="western"><surname>Bacher</surname><given-names>A</given-names></name><name name-style="western"><surname>Esch</surname><given-names>M</given-names></name><name name-style="western"><surname>Latif</surname><given-names>M</given-names></name><etal/></person-group>             <year>1999</year>             <article-title>Increased El Niño frequency in a climate model forced by future greenhouse warming.</article-title>             <source>Nature</source>             <volume>398</volume>             <fpage>694</fpage>             <lpage>697</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Stenseth1">
+        <label>11</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Stenseth</surname><given-names>NC</given-names></name><name name-style="western"><surname>Mysterud</surname><given-names>A</given-names></name><name name-style="western"><surname>Ottersen</surname><given-names>G</given-names></name><name name-style="western"><surname>Hurrell</surname><given-names>JW</given-names></name><name name-style="western"><surname>Chan</surname><given-names>KS</given-names></name><etal/></person-group>             <year>2002</year>             <article-title>Ecological effects of climate fluctuations.</article-title>             <source>Science</source>             <volume>297</volume>             <fpage>1292</fpage>             <lpage>1296</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Trillmich1">
+        <label>12</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Trillmich</surname><given-names>F</given-names></name><name name-style="western"><surname>Limberger</surname><given-names>D</given-names></name></person-group>             <year>1985</year>             <article-title>Drastic effects of El Niño on Galapagos pinnipeds.</article-title>             <source>Oecologia</source>             <volume>67</volume>             <fpage>19</fpage>             <lpage>22</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Gibbs1">
+        <label>13</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Gibbs</surname><given-names>HL</given-names></name><name name-style="western"><surname>Grant</surname><given-names>PR</given-names></name></person-group>             <year>1987</year>             <article-title>Ecological consequences of an exceptionally strong El Niño event on Darwin’s finches.</article-title>             <source>Ecology</source>             <volume>68</volume>             <fpage>1735</fpage>             <lpage>1746</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Webster1">
+        <label>14</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Webster</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Palmer</surname><given-names>TN</given-names></name></person-group>             <year>1997</year>             <article-title>The past and the future of El Niño.</article-title>             <source>Nature</source>             <volume>390</volume>             <fpage>562</fpage>             <lpage>564</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Sarti1">
+        <label>15</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Sarti</surname><given-names>Martinez</given-names></name><name name-style="western"><surname>L</surname></name></person-group>             <year>2000</year>             <article-title><italic>Dermochelys coriacea</italic>.</article-title>             <source>IUCN 2010, 2010 Red List of Threatened Species</source>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-SantidrinTomillo1">
+        <label>16</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Santidrián Tomillo</surname><given-names>P</given-names></name><name name-style="western"><surname>Saba</surname><given-names>VS</given-names></name><name name-style="western"><surname>Piedra</surname><given-names>R</given-names></name><name name-style="western"><surname>Paladino</surname><given-names>FV</given-names></name><name name-style="western"><surname>Spotila</surname><given-names>JR</given-names></name></person-group>             <year>2008</year>             <article-title>Effects of illegal harvest of eggs on the population decline of leatherback turtles in Las Baulas Marine National Park, Costa Rica.</article-title>             <source>Conservation Biology</source>             <volume>22</volume>             <fpage>1216</fpage>             <lpage>1224</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Kaplan1">
+        <label>17</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kaplan</surname><given-names>IC</given-names></name></person-group>             <year>2005</year>             <article-title>A risk assessment for Pacific leatherback turtles (<italic>Dermochelys coriacea</italic>).</article-title>             <source>Canadian Journal of Fisheries and Aquatic Sciences</source>             <volume>62</volume>             <fpage>1710</fpage>             <lpage>1719</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-SartiMartnez1">
+        <label>18</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Sarti Martínez</surname><given-names>L</given-names></name><name name-style="western"><surname>Barragán</surname><given-names>AR</given-names></name><name name-style="western"><surname>García Muñoz</surname><given-names>D</given-names></name><name name-style="western"><surname>García</surname><given-names>N</given-names></name><name name-style="western"><surname>Huerta</surname><given-names>P</given-names></name><etal/></person-group>             <year>2007</year>             <article-title>Conservation and biology of the leatherback turtle in the Mexican Pacific.</article-title>             <source>Chelonian Conservation and Biology</source>             <volume>6</volume>             <fpage>70</fpage>             <lpage>78</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Spotila1">
+        <label>19</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Spotila</surname><given-names>JR</given-names></name><name name-style="western"><surname>Reina</surname><given-names>RD</given-names></name><name name-style="western"><surname>Steyermark</surname><given-names>AC</given-names></name><name name-style="western"><surname>Plotkin</surname><given-names>PT</given-names></name><name name-style="western"><surname>Paladino</surname><given-names>FV</given-names></name></person-group>             <year>2000</year>             <article-title>Pacific leatherback turtles face extinction.</article-title>             <source>Nature</source>             <volume>405</volume>             <fpage>529</fpage>             <lpage>530</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-SantidrinTomillo2">
+        <label>20</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Santidrián Tomillo</surname><given-names>P</given-names></name><name name-style="western"><surname>Vélez</surname><given-names>E</given-names></name><name name-style="western"><surname>Reina</surname><given-names>RD</given-names></name><name name-style="western"><surname>Piedra</surname><given-names>R</given-names></name><name name-style="western"><surname>Paladino</surname><given-names>FV</given-names></name><etal/></person-group>             <year>2007</year>             <article-title>Reassesment of the leatherback turtles (<italic>Dermochelys coriacea</italic>) nesting population at Parque Nacional Marino Las Baulas, Costa Rica: effects of conservation efforts.</article-title>             <source>Chelonian Conservation Biology</source>             <volume>6</volume>             <fpage>54</fpage>             <lpage>62</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Reina1">
+        <label>21</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Reina</surname><given-names>RD</given-names></name><name name-style="western"><surname>Mayor</surname><given-names>PA</given-names></name><name name-style="western"><surname>Spotila</surname><given-names>JR</given-names></name><name name-style="western"><surname>Piedra</surname><given-names>R</given-names></name><name name-style="western"><surname>Paladino</surname><given-names>FV</given-names></name></person-group>             <year>2002</year>             <article-title>Nesting ecology of the leatherback turtle, <italic>Dermochelys coriacea</italic>, at Parque Nacional Marino Las Baulas, Costa Rica: 1988–1989 to 1999–2000.</article-title>             <publisher-loc>Copeia 2002</publisher-loc>             <publisher-name>653–664</publisher-name>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Saba1">
+        <label>22</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Saba</surname><given-names>VS</given-names></name><name name-style="western"><surname>Santidrián Tomillo</surname><given-names>P</given-names></name><name name-style="western"><surname>Reina</surname><given-names>R</given-names></name><name name-style="western"><surname>Spotila</surname><given-names>J</given-names></name><name name-style="western"><surname>Musick</surname><given-names>J</given-names></name><etal/></person-group>             <year>2007</year>             <article-title>The effect of the El Niño southern oscillation on the reproductive frequency of eastern Pacific leatherback turtles.</article-title>             <source>Journal of Applied Ecology</source>             <volume>44</volume>             <fpage>395</fpage>             <lpage>404</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Reina2">
+        <label>23</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Reina</surname><given-names>RD</given-names></name><name name-style="western"><surname>Spotila</surname><given-names>JR</given-names></name><name name-style="western"><surname>Paladino</surname><given-names>FV</given-names></name><name name-style="western"><surname>Dunham</surname><given-names>AE</given-names></name></person-group>             <year>2009</year>             <article-title>Changed reproductive schedule of eastern Pacific leatherback turtles <italic>Dermochelys coriacea</italic> following the 1997–98 El Niño to La Niña transition.</article-title>             <source>Endangered Species Research</source>             <volume>7</volume>             <fpage>155</fpage>             <lpage>161</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Binckley1">
+        <label>24</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Binckley</surname><given-names>CA</given-names></name><name name-style="western"><surname>Spotila</surname><given-names>JR</given-names></name><name name-style="western"><surname>Wilson</surname><given-names>KS</given-names></name><name name-style="western"><surname>Paladino</surname><given-names>FV</given-names></name></person-group>             <year>1998</year>             <article-title>Sex determination and sex ratios of Pacific leatherback turtles, <italic>Dermochelys coriacea</italic>.</article-title>             <publisher-loc>Copeia 1998</publisher-loc>             <publisher-name>291–300</publisher-name>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Bustard1">
+        <label>25</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Bustard</surname><given-names>HR</given-names></name></person-group>             <year>1967</year>             <article-title>Mechanism of nocturnal emergence from the nest in green turtle hatchlings.</article-title>             <source>Nature</source>             <volume>214</volume>             <fpage>317</fpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-SantidrinTomillo3">
+        <label>26</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Santidrián Tomillo</surname><given-names>P</given-names></name><name name-style="western"><surname>Wallace</surname><given-names>BP</given-names></name><name name-style="western"><surname>Suss</surname><given-names>JS</given-names></name><name name-style="western"><surname>Magrini</surname><given-names>KD</given-names></name><name name-style="western"><surname>Blanco</surname><given-names>G</given-names></name><etal/></person-group>             <year>2009</year>             <article-title>Influence of emergence success on the annual reproductive output of leatherback turtles.</article-title>             <source>Marine Biology</source>             <volume>156</volume>             <fpage>2021</fpage>             <lpage>2031</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Sieg1">
+        <label>27</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Sieg</surname><given-names>AE</given-names></name><name name-style="western"><surname>Binckley</surname><given-names>CA</given-names></name><name name-style="western"><surname>Wallace</surname><given-names>BP</given-names></name><name name-style="western"><surname>Santidrián Tomillo</surname><given-names>P</given-names></name><name name-style="western"><surname>Reina</surname></name><name name-style="western"><surname>RD</surname></name><etal/></person-group>             <year>2011</year>             <article-title>Sex ratios of leatherback turtles: hatchery translocations decreases metabolic heating and female-bias.</article-title>             <source>Endangered Species Research</source>             <volume>15</volume>             <fpage>195</fpage>             <lpage>204</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Waylen1">
+        <label>28</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Waylen</surname><given-names>PR</given-names></name><name name-style="western"><surname>Caviedes</surname><given-names>CN</given-names></name></person-group>             <year>1996</year>             <article-title>Interannual variability of monthly precipitation in Costa Rica.</article-title>             <source>Journal of Climate</source>             <volume>9</volume>             <fpage>2606</fpage>             <lpage>2613</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Miller1">
+        <label>29</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Miller</surname><given-names>JD</given-names></name></person-group>             <year>1999</year>             <article-title>Determining clutch size and hatching success. In: Eckert KL, Bjorndal KA, Abreu-Grobois FA, Donnelly M eds. Research and Management Techniques for the Conservation of Sea Turtles. IUCN/SSC Marine Turtle Specialist Group Publication No.</article-title>             <source>4,</source>             <volume>124–129</volume>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Wolter1">
+        <label>30</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wolter</surname><given-names>K</given-names></name><name name-style="western"><surname>Timlin</surname><given-names>MS</given-names></name></person-group>             <year>1998</year>             <article-title>Measuring the strength of ENSO events - how does 1997/98 rank?</article-title>             <source>Weather</source>             <volume>53</volume>             <fpage>315</fpage>             <lpage>324</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Nakicenovic1">
+        <label>31</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Nakicenovic</surname><given-names>N</given-names></name><etal/></person-group>             <year>2000</year>             <article-title>Special report on emissions scenarios.</article-title>             <publisher-loc>IPCC Special reports on Climate Change. The Hague</publisher-loc>             <publisher-name>Intergovernmental Panel on Climate Change</publisher-name>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Meehl1">
+        <label>32</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Meehl</surname><given-names>GA</given-names></name><name name-style="western"><surname>Covey</surname><given-names>C</given-names></name><name name-style="western"><surname>Delworth</surname><given-names>T</given-names></name><name name-style="western"><surname>Latif</surname><given-names>M</given-names></name><name name-style="western"><surname>McAvaney</surname><given-names>B</given-names></name><etal/></person-group>             <year>2007</year>             <article-title>The WCRP CMIP3 multi-model dataset: A new era in climate change research.</article-title>             <source>Bulletin of the American Meteorological Society</source>             <volume>88</volume>             <fpage>1383</fpage>             <lpage>1394</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Collins1">
+        <label>33</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Collins</surname><given-names>M</given-names></name><name name-style="western"><surname>An</surname><given-names>S</given-names></name><name name-style="western"><surname>Cai</surname><given-names>W</given-names></name><name name-style="western"><surname>Ganachaud</surname><given-names>A</given-names></name><name name-style="western"><surname>Guilyardi</surname><given-names>E</given-names></name><etal/></person-group>             <year>2010</year>             <article-title>The impact of global warming on the tropical Pacific Ocean and El Niño.</article-title>             <source>Nature Geoscience</source>             <volume>3</volume>             <fpage>391</fpage>             <lpage>397</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Wolter2">
+        <label>34</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wolter</surname><given-names>K</given-names></name></person-group>             <year>2011</year>             <article-title>Multivariate Enso Index (MEI) website.</article-title>             <volume>28</volume>             <comment>Available: <ext-link ext-link-type="uri" xlink:href="http://www.esrl.noaa.gov/psd/enso/mei" xlink:type="simple">http://www.esrl.noaa.gov/psd/enso/mei</ext-link>. Accessed 2012 Apr</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Segura1">
+        <label>35</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Segura</surname><given-names>LN</given-names></name><name name-style="western"><surname>Cajade</surname><given-names>R</given-names></name></person-group>             <year>2010</year>             <article-title>The effects of sand temperature on pre-emergent green sea turtle hatchlings.</article-title>             <source>Herpetological Conservation and Biology</source>             <volume>5</volume>             <fpage>196</fpage>             <lpage>206</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Houghton1">
+        <label>36</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Houghton</surname><given-names>JDR</given-names></name><name name-style="western"><surname>Myers</surname><given-names>AE</given-names></name><name name-style="western"><surname>Lloyd</surname><given-names>C</given-names></name><name name-style="western"><surname>King</surname><given-names>RS</given-names></name><name name-style="western"><surname>Isaacs</surname><given-names>C</given-names></name><etal/></person-group>             <year>2007</year>             <article-title>Protracted rainfall decreases temperature within leatherback turtle (<italic>Dermochelys coriacea</italic>) clutches in Grenada, West Indies: Ecological implications for a species displaying temperature sex determination.</article-title>             <source>Journal of Experimental Marine Biology and Ecology</source>             <volume>345</volume>             <fpage>71</fpage>             <lpage>77</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Sieg2">
+        <label>37</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Sieg</surname><given-names>AE</given-names></name></person-group>             <year>2010</year>             <article-title>Physiological constraints on the ecology of activity-limited ectotherms.</article-title>             <publisher-loc>[Ph.D.]</publisher-loc>             <publisher-name>Drexel University</publisher-name>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Nordmoe1">
+        <label>38</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Nordmoe</surname><given-names>ED</given-names></name><name name-style="western"><surname>Sieg</surname><given-names>AE</given-names></name><name name-style="western"><surname>Sotherland</surname><given-names>PR</given-names></name><name name-style="western"><surname>Spotila</surname><given-names>JR</given-names></name><name name-style="western"><surname>Paladino</surname><given-names>FV</given-names></name><etal/></person-group>             <year>2004</year>             <article-title>Nest site fidelity of leatherback turtles at Playa Grande, Costa Rica.</article-title>             <source>Animal Behaviour</source>             <volume>68</volume>             <fpage>387</fpage>             <lpage>394</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Neelin1">
+        <label>39</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Neelin</surname><given-names>JD</given-names></name><name name-style="western"><surname>Münnich</surname><given-names>M</given-names></name><name name-style="western"><surname>Su</surname><given-names>H</given-names></name><name name-style="western"><surname>Meyerson</surname><given-names>JE</given-names></name><name name-style="western"><surname>Holloway</surname><given-names>CE</given-names></name></person-group>             <year>2006</year>             <article-title>Tropical drying trends in global warming models and observation.</article-title>             <source>PNAS</source>             <volume>103</volume>             <fpage>6110</fpage>             <lpage>6115</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-DiNezio1">
+        <label>40</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>DiNezio</surname><given-names>P</given-names></name><name name-style="western"><surname>Clement</surname><given-names>A</given-names></name><name name-style="western"><surname>Vecchi</surname><given-names>GA</given-names></name></person-group>             <year>2010</year>             <article-title>Reconciling differing views of tropical Pacific climate change.</article-title>             <source>Eos, Transactions, American Geophysical Union</source>             <volume>91</volume>             <fpage>141</fpage>             <lpage>152</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Zug1">
+        <label>41</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Zug</surname><given-names>GR</given-names></name><name name-style="western"><surname>Parham</surname><given-names>J</given-names></name></person-group>             <year>1996</year>             <article-title>Age and growth in leatherback turtles, <italic>Dermochelys coriacea</italic> (Testudines: Dermochelyidae): a skeletochronological analysis.</article-title>             <source>Chelonian Conservation Biology</source>             <volume>2</volume>             <fpage>244</fpage>             <lpage>249</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Avens1">
+        <label>42</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Avens</surname><given-names>L</given-names></name><name name-style="western"><surname>Taylor</surname><given-names>JC</given-names></name><name name-style="western"><surname>Goshe</surname><given-names>LR</given-names></name><name name-style="western"><surname>Jones</surname><given-names>TT</given-names></name><name name-style="western"><surname>Hasting</surname><given-names>M</given-names></name></person-group>             <year>2009</year>             <article-title>Use of skeletochronological analysis to estimate the age of leatherback sea turtles <italic>Dermochelys coriacea</italic> in the western North Atlantic.</article-title>             <source>Endangered Species Research</source>             <volume>8</volume>             <fpage>165</fpage>             <lpage>177</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Zug2">
+        <label>43</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Zug</surname><given-names>GR</given-names></name><name name-style="western"><surname>Balazs</surname><given-names>GH</given-names></name><name name-style="western"><surname>Wetherall</surname><given-names>JA</given-names></name><name name-style="western"><surname>Parker</surname><given-names>DM</given-names></name><name name-style="western"><surname>Murakawa</surname><given-names>SKK</given-names></name></person-group>             <year>2002</year>             <article-title>Age and growth of Hawaiian green sea turtles <italic>Chelonia mydas</italic>: an analysis based on skeletochronology.</article-title>             <source>Fishery Bulletin</source>             <volume>100</volume>             <fpage>117</fpage>             <lpage>127</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Casale1">
+        <label>44</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Casale</surname><given-names>P</given-names></name><name name-style="western"><surname>Mazaris</surname><given-names>AD</given-names></name><name name-style="western"><surname>Freggi</surname><given-names>D</given-names></name></person-group>             <year>2011</year>             <article-title>Estimation of age at maturity of loggerhead sea turtles <italic>Caretta caretta</italic> in the Mediterranean using length-frequency data.</article-title>             <source>Endangered Species Research</source>             <volume>13</volume>             <fpage>123</fpage>             <lpage>129</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0037602-Steyermark1">
+        <label>45</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Steyermark</surname><given-names>A</given-names></name><name name-style="western"><surname>Williamas</surname><given-names>K</given-names></name><name name-style="western"><surname>Spotila</surname><given-names>JR</given-names></name><name name-style="western"><surname>Paladino</surname><given-names>FV</given-names></name><name name-style="western"><surname>Rostal</surname><given-names>SJ</given-names></name><etal/></person-group>             <year>1996</year>             <article-title>Nesting leatherback turtles at Las Baulas National Park, Costa Rica.</article-title>             <source>Chelonian Conservation and Biology</source>             <volume>2</volume>             <fpage>173</fpage>             <lpage>183</lpage>          </element-citation>
+      </ref>
+    </ref-list>
+    
+  </back>
+</article>

@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="EN">
+  <front>
+    <journal-meta><journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><!--===== Grouping journal title elements =====--><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher></journal-meta>
+    <article-meta><article-id pub-id-type="publisher-id">PONE-D-11-23490</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0034619</article-id><article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Anatomy and physiology</subject>
+            <subj-group>
+              <subject>Musculoskeletal system</subject>
+              <subj-group>
+                <subject>Biomechanics</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Biophysics</subject>
+            <subj-group>
+              <subject>Biomechanics</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Biotechnology</subject>
+            <subj-group>
+              <subject>Bioengineering</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Zoology</subject>
+            <subj-group>
+              <subject>Mammalogy</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Engineering</subject>
+          <subj-group>
+            <subject>Bioengineering</subject>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Medicine</subject>
+          <subj-group>
+            <subject>Anatomy and physiology</subject>
+            <subj-group>
+              <subject>Musculoskeletal system</subject>
+              <subj-group>
+                <subject>Biomechanics</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Physics</subject>
+          <subj-group>
+            <subject>Biophysics</subject>
+            <subj-group>
+              <subject>Biomechanics</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Physiology</subject>
+          <subject>Biotechnology</subject>
+          <subject>Biophysics</subject>
+          <subject>Physics</subject>
+        </subj-group>
+      </article-categories><title-group><article-title>3D Morphometric and Posture Study of Felid Scapulae Using Statistical Shape Modelling</article-title><alt-title alt-title-type="running-head">Statistical Shape Modelling of Felid Scapulae</alt-title></title-group><contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Zhang</surname>
+            <given-names>Kai Yu</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Wiktorowicz-Conroy</surname>
+            <given-names>Alexis</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Hutchinson</surname>
+            <given-names>John R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Doube</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Klosowski</surname>
+            <given-names>Michal</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Shefelbine</surname>
+            <given-names>Sandra J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Bull</surname>
+            <given-names>Anthony M. J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group><aff id="aff1"><label>1</label><addr-line>Department of Bioengineering, Imperial College London, South Kensington, London, United Kingdom</addr-line>       </aff><aff id="aff2"><label>2</label><addr-line>Structure and Motion Laboratory, The Royal Veterinary College, Hatfield, Hertfordshire, United Kingdom</addr-line>       </aff><aff id="aff3"><label>3</label><addr-line>Max Planck Institute for Molecular Cell Biology and Genetics, Dresden, Germany</addr-line>       </aff><contrib-group>
+        <contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Goswami</surname>
+            <given-names>Anjali</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group><aff id="edit1">University College London, United Kingdom</aff><author-notes>
+        <corresp id="cor1">* E-mail: <email xlink:type="simple">a.bull@imperial.ac.uk</email></corresp>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: AMJB KYZ. Performed the experiments: KYZ. Analyzed the data: KYZ AMJB. Contributed reagents/materials/analysis tools: KYZ MD MK AWC JRH. Wrote the paper: KYZ AWC AMJB JRH SJS MD.</p>
+        </fn>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn></author-notes><pub-date pub-type="collection">
+        <year>2012</year>
+      </pub-date><pub-date pub-type="epub">
+        <day>11</day>
+        <month>4</month>
+        <year>2012</year>
+      </pub-date><volume>7</volume><issue>4</issue><elocation-id>e34619</elocation-id><history>
+        <date date-type="received">
+          <day>24</day>
+          <month>11</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>2</day>
+          <month>3</month>
+          <year>2012</year>
+        </date>
+      </history><!--===== Grouping copyright info into permissions =====--><permissions><copyright-year>2012</copyright-year><copyright-holder>Zhang et al</copyright-holder><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><abstract>
+        <p>We present a three dimensional (3D) morphometric modelling study of the scapulae of Felidae, with a focus on the correlations between forelimb postures and extracted scapular shape variations. Our shape modelling results indicate that the scapular infraspinous fossa becomes larger and relatively broader along the craniocaudal axis in larger felids. We infer that this enlargement of the scapular fossa may be a size-related specialization for postural support of the shoulder joint.</p>
+      </abstract><funding-group><funding-statement>This work was done as part of the Medical Engineering Solutions in Osteoarthritis Centre of Excellence, which is funded by the Wellcome Trust (Grant ID: 088844) and the Engineering and Physical Sciences Research Council (EPSRC). This work was also funded by the Biotechnology and Biological Sciences Research Council (UK) (Grant ID: BB/F000863/1). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts>
+        <page-count count="8"/>
+      </counts></article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>The forelimbs of Felidae (cats) play important roles in locomotion <xref ref-type="bibr" rid="pone.0034619-Iwaniuk1">[1]</xref>–<xref ref-type="bibr" rid="pone.0034619-Morgan1">[3]</xref> and are an essential part of the prey-killing apparatus <xref ref-type="bibr" rid="pone.0034619-MeachenSamuels1">[4]</xref>. As a morphologically complex segment of the forelimb, the scapula transmits locomotor loads to the thorax, stabilises the shoulder and allows forelimb mobility; <italic>e.g.</italic> for climbing and prey apprehension <xref ref-type="bibr" rid="pone.0034619-Fischer2">[5]</xref>. Scapular morphology results from the complex influence of historical (phylogenetic ancestry) and functional (<italic>i.e.</italic>, selective) factors <xref ref-type="bibr" rid="pone.0034619-Morgan1">[3]</xref>. Furthermore, scaling and allometry studies indicate that body size can also influence scapular morphology <xref ref-type="bibr" rid="pone.0034619-Biewener1">[6]</xref>, <xref ref-type="bibr" rid="pone.0034619-Lijie1">[7]</xref>. In these regards, characterising the morphology of the scapula may provide insights into locomotion patterns and the particular functional capabilities associated with phylogenetic lineages such as Felidae.</p>
+      <p>Scaling studies of limb skeletal morphology have historically focused on the long bones (especially humerus, radius/ulna, femur, and tibia) using standard measures such as diameter, length and cross-sectional parameters. Very few studies have examined scaling of the pelvis or shoulder girdle because of the difficulty of parameterizing their complex shapes <xref ref-type="bibr" rid="pone.0034619-Lijie1">[7]</xref>. With any complex shape, one must assess how particular shape parameters may be related to locomotor parameters. This assessment is fairly straightforward for long bones but is more ambiguous for the scapula. Many morphometric studies of the scapula have involved analysis based on digitising landmarks in two dimensions (2D) (<italic>e.g.</italic> <xref ref-type="bibr" rid="pone.0034619-Morgan1">[3]</xref>, <xref ref-type="bibr" rid="pone.0034619-Swiderski1">[8]</xref>–<xref ref-type="bibr" rid="pone.0034619-Scholtz1">[14]</xref>). Scapulae, however, are not planar; thus some information may be lost or distorted in a 2D representation of such a 3D object <xref ref-type="bibr" rid="pone.0034619-Swiderski1">[8]</xref>. Some recently reported 3D morphometric studies relied on manually identifying anatomical features as landmarks (<italic>e.g.</italic> <xref ref-type="bibr" rid="pone.0034619-Young1">[15]</xref>–<xref ref-type="bibr" rid="pone.0034619-Young2">[17]</xref>); the positions and numbers of landmarks varied between different studies. This method may omit critical features by only focusing on a few manually selected anatomical landmarks. Hence an approach is needed that considers the maximal amount of 3D morphological detail.</p>
+      <p>Statistical shape modelling is a model-based image analysis technique that provides a parametric framework for representing variability in a large number of individual complex anatomical shapes <xref ref-type="bibr" rid="pone.0034619-Lorenz1">[18]</xref>. The basic approach used in making a statistical shape model (SSM) is to establish the pattern of ‘legal’ variation in the shape and spatial relationships of the structures in a given class of images <xref ref-type="bibr" rid="pone.0034619-Davies1">[19]</xref>. This technique allows a 3D morphometric analysis to reveal the important shape parameters. In addition it highlights how multiple parameters change together, rather than focusing on one parameter at a time. In this study statistical shape modelling is used to determine the principle morphological variations (MVs) in the scapulae of felids.</p>
+      <p>Limb posture is an important attribute of animal locomotion because it influences the patterns of movements and muscle activity that can contribute to support, braking and propulsion <xref ref-type="bibr" rid="pone.0034619-Fischer1">[2]</xref>, <xref ref-type="bibr" rid="pone.0034619-Biewener2">[20]</xref>, <xref ref-type="bibr" rid="pone.0034619-Day1">[21]</xref>. Fischer <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0034619-Fischer1">[2]</xref> examined limb postures of eight different mammalian species at footfall (FF), lift off and throughout a stance phase (‘amplitude’) using cineradiography. They concluded that the kinematic parameters (segment and joint angles during each stance phase) of forelimbs are independent of speed and gait, while the hindlimb kinematics varied with gaits. Day and Jayne <xref ref-type="bibr" rid="pone.0034619-Day1">[21]</xref> examined the limb postures at FF and midstance (MS) of nine species within the Felidae and found that the larger species of felids did not have more upright limbs than smaller species. This lack of size-related postural change in felids is dissimilar to observed postural changes in many other mammals <xref ref-type="bibr" rid="pone.0034619-Biewener2">[20]</xref> and suggests that larger felids might have evolved unusual specializations that enable a relative increase in muscular forces to maintain posture. Considering that body size, locomotor habits, and phylogenetic factors all influence scapular morphology, here we investigate how felid limb posture is correlated with 3D scapular morphology, in order to gain a greater understanding of the relationship between animal size, limb function, and scapular anatomy.</p>
+    </sec>
+    <sec id="s2">
+      <title>Results</title>
+      <sec id="s2a">
+        <title>With size model</title>
+        <p>In the ‘with size’ model, the contribution by the first MV alone claims more than 99% of total variation. By visualising the model with score of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e001" xlink:type="simple"/></inline-formula> to <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e002" xlink:type="simple"/></inline-formula> (<xref ref-type="fig" rid="pone-0034619-g001">Figure 1</xref>), it can be seen that this MV predominantly responds to scapular size. Furthermore, the change rates of parameter values (<xref ref-type="table" rid="pone-0034619-t001">Table 1</xref>) indicate that when body size increases, the scapula also becomes broader craniocaudally, and the spine inclines caudomedially toward the infraspinous fossa.</p>
+        <fig id="pone-0034619-g001" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0034619.g001</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>The first MVs of the ‘with size’ SSM (The mean model is in pink).</title>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.g001" xlink:type="simple"/>
+        </fig>
+        <table-wrap id="pone-0034619-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0034619.t001</object-id><label>Table 1</label><caption>
+            <title>Change rates of parameter values for the first MV in the ‘with size’ SSM.</title>
+          </caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0034619-t001-1" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.t001" xlink:type="simple"/><table>
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">Δ<sub>B/L</sub></td>
+                <td align="left" colspan="1" rowspan="1">Δ<sub>W/B</sub></td>
+                <td align="left" colspan="1" rowspan="1">Δ<sub>W/L</sub></td>
+                <td align="left" colspan="1" rowspan="1">Δ<sub>SpA</sub></td>
+                <td align="left" colspan="1" rowspan="1">Interpretation</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">
+                  <bold>1<sup>st</sup> MV (</bold>
+                  <xref ref-type="fig" rid="pone-0034619-g002">
+                    <bold>Figure 2</bold>
+                  </xref>
+                  <bold>)</bold>
+                </td>
+                <td align="left" colspan="1" rowspan="1">10.5%</td>
+                <td align="left" colspan="1" rowspan="1">2.0%</td>
+                <td align="left" colspan="1" rowspan="1">12.6%</td>
+                <td align="left" colspan="1" rowspan="1">7.7%</td>
+                <td align="left" colspan="1" rowspan="1">Substantial change in size of fossa relative to length, and also the inclination of spine against fossa.</td>
+              </tr>
+            </tbody>
+          </table></alternatives></table-wrap>
+      </sec>
+      <sec id="s2b">
+        <title>Without size model</title>
+        <p>The cumulative percentage of contributions by each MV in ‘without size’ SSM is shown in <xref ref-type="fig" rid="pone-0034619-g002">Figure 2</xref>.</p>
+        <fig id="pone-0034619-g002" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0034619.g002</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>The cumulative percentage of contributions by each MV in the ‘without size’ SSM.</title>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.g002" xlink:type="simple"/>
+        </fig>
+        <p>In the ‘without size’ model, the first six MVs contribute more than 75% of the total variation. The fifth and sixth MVs are complex and difficult to describe qualitatively. The first four MVs of the ‘without size’ SSM are shown in <xref ref-type="fig" rid="pone-0034619-g003">Figure 3</xref>.</p>
+        <fig id="pone-0034619-g003" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0034619.g003</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>The first four MVs of the ‘without size’ SSM (model with</title>
+            <p><inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e003" xlink:type="simple"/></inline-formula> <bold>is in purple; model with</bold> <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e004" xlink:type="simple"/></inline-formula> <bold>is in green).</bold> A: 1<sup>st</sup> MV; B: 2<sup>nd</sup> MV; C: 3<sup>rd</sup> MV; D: 4<sup>th</sup> MV.</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.g003" xlink:type="simple"/>
+        </fig>
+        <p>The change rates of parameter values for each MV in the ‘without size’ SSM are shown in <xref ref-type="table" rid="pone-0034619-t002">Table 2</xref>.</p>
+        <table-wrap id="pone-0034619-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0034619.t002</object-id><label>Table 2</label><caption>
+            <title>Change rates of parameter values for the first four MVs in the ‘without size’ SSM.</title>
+          </caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0034619-t002-2" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.t002" xlink:type="simple"/><table>
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">Δ<sub>B/L</sub></td>
+                <td align="left" colspan="1" rowspan="1">Δ<sub>W/B</sub></td>
+                <td align="left" colspan="1" rowspan="1">Δ<sub>W/L</sub></td>
+                <td align="left" colspan="1" rowspan="1">Δ<sub>SpA</sub></td>
+                <td align="left" colspan="1" rowspan="1">Interpretation</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">
+                  <bold>1<sup>st</sup> MV (</bold>
+                  <xref ref-type="fig" rid="pone-0034619-g003">
+                    <bold>Figure 3a</bold>
+                  </xref>
+                  <bold>)</bold>
+                </td>
+                <td align="left" colspan="1" rowspan="1">13.6%</td>
+                <td align="left" colspan="1" rowspan="1">13.5%</td>
+                <td align="left" colspan="1" rowspan="1">27.2%</td>
+                <td align="left" colspan="1" rowspan="1">−0.9%</td>
+                <td align="left" colspan="1" rowspan="1">Size change of fossa, particularly the infraspinous fossa.</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">
+                  <bold>2<sup>nd</sup> MV (</bold>
+                  <xref ref-type="fig" rid="pone-0034619-g003">
+                    <bold>Figure 3b</bold>
+                  </xref>
+                  <bold>)</bold>
+                </td>
+                <td align="left" colspan="1" rowspan="1">22.2%</td>
+                <td align="left" colspan="1" rowspan="1">2.1%</td>
+                <td align="left" colspan="1" rowspan="1">24.4%</td>
+                <td align="left" colspan="1" rowspan="1">−1.5%</td>
+                <td align="left" colspan="1" rowspan="1">Size change of fossa, both supraspinous and infraspinous fossae.</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">
+                  <bold>3<sup>rd</sup> MV (</bold>
+                  <xref ref-type="fig" rid="pone-0034619-g003">
+                    <bold>Figure 3c</bold>
+                  </xref>
+                  <bold>)</bold>
+                </td>
+                <td align="left" colspan="1" rowspan="1">9.3%</td>
+                <td align="left" colspan="1" rowspan="1">0.4%</td>
+                <td align="left" colspan="1" rowspan="1">9.4%</td>
+                <td align="left" colspan="1" rowspan="1">14.1%</td>
+                <td align="left" colspan="1" rowspan="1">Inclination of spine against fossa.</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">
+                  <bold>4<sup>th</sup> MV (</bold>
+                  <xref ref-type="fig" rid="pone-0034619-g003">
+                    <bold>Figure 3d</bold>
+                  </xref>
+                  <bold>)</bold>
+                </td>
+                <td align="left" colspan="1" rowspan="1">6.3%</td>
+                <td align="left" colspan="1" rowspan="1">−6.0%</td>
+                <td align="left" colspan="1" rowspan="1">0.2%</td>
+                <td align="left" colspan="1" rowspan="1">−5.8%</td>
+                <td align="left" colspan="1" rowspan="1">Size change of fossa, particularly the supraspinous fossa.</td>
+              </tr>
+            </tbody>
+          </table></alternatives></table-wrap>
+      </sec>
+      <sec id="s2c">
+        <title>Posture and moment arm (MA) correlation</title>
+        <p>No significant correlation was found between the humerus angles relative to vertical (θ) and the score of each species on each MV in either posture datasets.</p>
+        <p>The results of the MA correlation test (see <xref ref-type="sec" rid="s4">Methods</xref>) are consistent in both posture datasets, and are shown in <xref ref-type="table" rid="pone-0034619-t003">Table 3</xref> (only those results with statistical significance are included).</p>
+        <table-wrap id="pone-0034619-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0034619.t003</object-id><label>Table 3</label><caption>
+            <title>Results of correlation tests between MAs and MVs in the ‘with size’ and ‘without size’ SSMs.</title>
+          </caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0034619-t003-3" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.t003" xlink:type="simple"/><table>
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="2" rowspan="1">T<sub>1</sub> at FF (MAdataset1<xref ref-type="table-fn" rid="nt101">*</xref>)</td>
+                <td align="left" colspan="1" rowspan="1">Interpretation</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">r<sup>2</sup></td>
+                <td align="left" colspan="1" rowspan="1">p</td>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">
+                  <bold>1<sup>st</sup> MV in ‘with size’ SSM</bold>
+                </td>
+                <td align="left" colspan="1" rowspan="1">0.833</td>
+                <td align="left" colspan="1" rowspan="1">0.002</td>
+                <td align="left" colspan="1" rowspan="1">Larger species of felids have a larger MA of the vertical component of the GRF at FF.</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">
+                  <bold>1<sup>st</sup> MV in ‘without size’ SSM</bold>
+                </td>
+                <td align="left" colspan="1" rowspan="1">0.556</td>
+                <td align="left" colspan="1" rowspan="1">0.037</td>
+                <td align="left" colspan="1" rowspan="1">Those species with a relatively broader infraspinous fossa have a larger MA of the vertical component of the GRF at FF.</td>
+              </tr>
+            </tbody>
+          </table><table>
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="2" rowspan="1">T<sub>2</sub> at FF (MAdataset1)</td>
+                <td align="left" colspan="1" rowspan="1">Interpretation</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">r<sup>2</sup></td>
+                <td align="left" colspan="1" rowspan="1">p</td>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">
+                  <bold>1<sup>st</sup> MV in ‘with size’ SSM</bold>
+                </td>
+                <td align="left" colspan="1" rowspan="1">0.889</td>
+                <td align="left" colspan="1" rowspan="1">0.001</td>
+                <td align="left" colspan="1" rowspan="1">Larger species of felids have a larger MA of the horizontal component of the GRF at FF.</td>
+              </tr>
+            </tbody>
+          </table><table>
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="2" rowspan="1">T<sub>2</sub> at MS (MAdataset1)</td>
+                <td align="left" colspan="1" rowspan="1">Interpretation</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">r<sup>2</sup></td>
+                <td align="left" colspan="1" rowspan="1">p</td>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">
+                  <bold>1<sup>st</sup> MV in ‘with size’ SSM</bold>
+                </td>
+                <td align="left" colspan="1" rowspan="1">0.889</td>
+                <td align="left" colspan="1" rowspan="1">0.001</td>
+                <td align="left" colspan="1" rowspan="1">Larger species of felids have a larger MA of the horizontal component of the GRF at MS.</td>
+              </tr>
+            </tbody>
+          </table><table>
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="2" rowspan="1">T<sub>2</sub> at MS (MAdataset2<xref ref-type="table-fn" rid="nt102">**</xref>)</td>
+                <td align="left" colspan="1" rowspan="1">Interpretation</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">r<sup>2</sup></td>
+                <td align="left" colspan="1" rowspan="1">p</td>
+                <td align="left" colspan="1" rowspan="1"/>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">
+                  <bold>1<sup>st</sup> MV in ‘with size’ SSM</bold>
+                </td>
+                <td align="left" colspan="1" rowspan="1">0.867</td>
+                <td align="left" colspan="1" rowspan="1">0.015</td>
+                <td align="left" colspan="1" rowspan="1">Larger species of felids have a larger MA of the horizontal component of the GRF at MS.</td>
+              </tr>
+            </tbody>
+          </table></alternatives><table-wrap-foot>
+            <fn id="nt101">
+              <label>*</label>
+              <p>Posture data reported by Day and Jayne (2007);</p>
+            </fn>
+            <fn id="nt102">
+              <label>**</label>
+              <p>posture data collected by Wiktorowicz-Conroy <italic>et al.</italic> (manuscript in review).</p>
+            </fn>
+          </table-wrap-foot></table-wrap>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>Discussion</title>
+      <p>Two types of landmarks have been commonly used in previous scapular morphometric studies: biological landmarks (type1) which describe discrete positions of tissues or structures (often as single points), and morphometric landmarks (type2) which describe curvature or outlines. Due to the complexity of scapular structure, type1 landmarks are nearly absent <xref ref-type="bibr" rid="pone.0034619-Morgan1">[3]</xref> and often both types of landmarks have been adopted, although type2 landmarks may not be located in the same anatomical location <xref ref-type="bibr" rid="pone.0034619-Zelditch1">[22]</xref>. A conventional method in scapular morphometric studies has been to take dimensional measurements, such as distance or angles between the landmarks (<italic>e.g.</italic> <xref ref-type="bibr" rid="pone.0034619-Iwaniuk1">[1]</xref>, <xref ref-type="bibr" rid="pone.0034619-Price1">[9]</xref>, <xref ref-type="bibr" rid="pone.0034619-Taylor1">[23]</xref>), although by fixing the variables in advance, the hypothesis to be tested has been presumed and therefore important information could be missed. For example, Zelditch <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0034619-Zelditch1">[22]</xref> argued that this method could not be used for phylogenetic analyses because ‘manipulation of variables chosen in advance of analysis limits the possibility of assessing detailed similarity’ due to the fact that these variables were expected to differentiate species. However, identifying similarity is as important as, if not more important than difference for phylogenetic analyses. Landmark-based studies of scapulae have also often involved canonical variate analysis (CVA) and/or principal component analysis (PCA) (<italic>e.g.</italic> <xref ref-type="bibr" rid="pone.0034619-Scholtz1">[14]</xref>–<xref ref-type="bibr" rid="pone.0034619-Young2">[17]</xref>). The number and position of landmarks are critical in CVA and PCA analysis. By selecting landmarks in advance, they could fail to align along the principal axis and therefore important variations could be missed. To avoid these disadvantages, geometric methods such as a thin-plate spline decomposed by its partial (<italic>e.g.</italic> <xref ref-type="bibr" rid="pone.0034619-Swiderski1">[8]</xref>, <xref ref-type="bibr" rid="pone.0034619-Monteiro2">[12]</xref>, <xref ref-type="bibr" rid="pone.0034619-Zelditch1">[22]</xref>) or relative warps analysis <xref ref-type="bibr" rid="pone.0034619-Morgan1">[3]</xref> have been adopted in some scapular morphometric studies. Most of these studies were based on 2D data, which thus could not capture the 3D complexity of scapular shape. The number and positions of landmarks also varied, making it difficult to determine whether landmark selection affects analysis. Therefore, the method adopted in this study allows automatic selection of surface points covering the whole scapula, avoiding human manipulation in describing the shape. In this way, the maximum amount of 3D shape information can be preserved to allow more accurate 3D analysis. This comparative method potentially could also be used in phylogenetic analysis to reveal both similarities and differences.</p>
+      <p>Furthermore, the statistical shape modelling method highlights how multiple 3D shape parameters change together, which is more informative than measuring single variations. For example the first MV of the ‘with size’ SSM indicates that as body size increases, the infraspinous and supraspinous fossae become craniocaudally broader (see <xref ref-type="fig" rid="pone-0034619-g004">Figure 4</xref>). This can be understood in the light of the study by Day and Jayne <xref ref-type="bibr" rid="pone.0034619-Davies1">[19]</xref> showing that felid postural scaling is dissimilar from most other mammals' in that limb posture is maintained with increasing body size. Here we have shown that the scapular morphology is not preserved with size. The broadening of the fossae suggests increases in sizes of the attaching muscles, such as infraspinatus (see <xref ref-type="fig" rid="pone-0034619-g005">Figure 5</xref>) which support the maintenance of limb posture in gait by resisting a moment that would protract the humerus. The size or shape variations of other muscles attached close to the infraspinous fossa, such as teres major, subscapularis and rhomboideus, are difficult to assess in this study as they are attached to the caudal and dorsal borders of the scapula where our SSM did not show significant variations. Resolving this matter will require further acquisition and analysis of muscle data through dissection or imaging.</p>
+      <fig id="pone-0034619-g004" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0034619.g004</object-id>
+        <label>Figure 4</label>
+        <caption>
+          <title>Sketches of scapular fossa when changing size uniformly and accordingly as the first MV of the ‘with size’ SSM.</title>
+          <p>The original fossa is in dashed black; the fossa by changing size uniformly is dashed red, and the fossa by changing size accordingly as the first MV of the ‘with size’ SSM is in solid black.</p>
+        </caption>
+        <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.g004" xlink:type="simple"/>
+      </fig>
+      <fig id="pone-0034619-g005" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0034619.g005</object-id>
+        <label>Figure 5</label>
+        <caption>
+          <title>Sketch of a forelimb with different sizes of infraspinous fossa (dotted red sketch is for larger animal).</title>
+        </caption>
+        <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.g005" xlink:type="simple"/>
+      </fig>
+      <p>The complex shape of the scapula makes it difficult to use traditional scaling approaches. A common approach in scaling studies is to use linear measurements of bone dimensions, such as length and midshaft diameter of long bones <xref ref-type="bibr" rid="pone.0034619-Ruff1">[24]</xref>–<xref ref-type="bibr" rid="pone.0034619-Anyonge1">[41]</xref>, because they are easily obtained and are thought to have strong relationships with factors such as body mass <xref ref-type="bibr" rid="pone.0034619-Ruff1">[24]</xref>–<xref ref-type="bibr" rid="pone.0034619-Bonnan1">[27]</xref>, locomotor pattern <xref ref-type="bibr" rid="pone.0034619-Christiansen1">[25]</xref>, <xref ref-type="bibr" rid="pone.0034619-Bonnan1">[27]</xref>–<xref ref-type="bibr" rid="pone.0034619-IriateDiaz1">[29]</xref>, body shape <xref ref-type="bibr" rid="pone.0034619-Christiansen1">[25]</xref>, <xref ref-type="bibr" rid="pone.0034619-Ruff2">[26]</xref>, <xref ref-type="bibr" rid="pone.0034619-McMahon1">[30]</xref>, <xref ref-type="bibr" rid="pone.0034619-McMahon2">[31]</xref> or posture <xref ref-type="bibr" rid="pone.0034619-Biewener4">[32]</xref>, <xref ref-type="bibr" rid="pone.0034619-Bertram1">[33]</xref>. Cross-sectional area and bone curvature are also assessed to quantify strength-mass relationships <xref ref-type="bibr" rid="pone.0034619-Ruff2">[26]</xref>, <xref ref-type="bibr" rid="pone.0034619-Ruff3">[34]</xref>–<xref ref-type="bibr" rid="pone.0034619-Doube1">[39]</xref>. Previous scaling and morphology studies involving felids have demonstrated that the lengths of long bones (tibia and ulna, humerus and femur) scale isometrically with body mass, particularly for the tibia and ulna <xref ref-type="bibr" rid="pone.0034619-Christiansen2">[40]</xref>, <xref ref-type="bibr" rid="pone.0034619-Anyonge1">[41]</xref>. Humeral circumference on the other hand, appears to increase allometrically with body mass <xref ref-type="bibr" rid="pone.0034619-MeachenSamuels1">[4]</xref>, <xref ref-type="bibr" rid="pone.0034619-Doube1">[39]</xref>, <xref ref-type="bibr" rid="pone.0034619-Anyonge1">[41]</xref>. Unfortunately, none of these approaches or measurements can be easily transferred to the scapula, yet scapula morphology is important because it is distinct from long bones in its functions and anatomical connections. The multiple variations accompanied by size change revealed in the first MV of the ‘with size’ SSM also indicates that using a single scaling factor to scale the scapula uniformly is not sufficient to capture the complex variability related to size change in scapulae. Instead, within the species we used to construct the SSM, it would be more accurate to scale the scapulae by varying the score of this MV. This shows that the 3D statistical shape modelling method potentially can be used to provide a more accurate scaling solution than to use a single scaling factor.</p>
+      <p>No correlation has been found between the angle of the shoulder joint and the first MV of the ‘with size’ SSM, which predominantly responds to scapular size. This bolsters the conclusion drawn by Day and Jayne <xref ref-type="bibr" rid="pone.0034619-Day1">[21]</xref> that larger species of felids do not have more extended limbs than smaller species.</p>
+      <p>Previous studies have suggested that the ground reaction force (GRF) in quadrupeds tends to be aligned with the limb axis during steady speed locomotion <xref ref-type="bibr" rid="pone.0034619-Fung1">[42]</xref>, <xref ref-type="bibr" rid="pone.0034619-Macpherson1">[43]</xref>. In this study we did not measure the actual GRF moment arms (MAs) using the limb axis as an approximation of the GRF vector (or better yet, using actual experimental data on GRF), but rather we estimated the resolved horizontal and vertical components of the GRF. We did this because the species in this study cover a broad body size range. Hence these resolved GRF components would provide more information by isolating the MA of the vertical component; which is not dependent on the shoulder height; from the horizontal component; which is dependent on the shoulder height. Not surprisingly, the first MV of the ‘with size’ SSM is correlated with the horizontal MA. The MA of the vertical component of the GRF at FF is also correlated with size, which is expected because the posture is conserved across felid species. Interestingly, the MA of the vertical component of the GRF at FF is also correlated with the size of the infraspinous fossa (first MV of the ‘without size’ SSM), suggesting that a larger muscle mass is required to maintain shoulder joint postures in larger species.</p>
+      <sec id="s3a">
+        <title>Conclusions</title>
+        <p>3D statistical shape modelling was used to extract morphological variation parameters from 43 specimens of 23 felid species. The predominant variation of scapular shape across the species examined in this study is size-related. However, the scapulae also become craniocaudally broader as body size increases. The moment arm of the vertical component of the GRF at footfall is correlated with both body size and the size of the infraspinous fossa, which indicates that larger species of felids intend to have a larger infraspinous fossa to better support their own weight about the shoulder joint.</p>
+      </sec>
+    </sec>
+    <sec id="s4" sec-type="materials|methods">
+      <title>Materials and Methods</title>
+      <sec id="s4a">
+        <title>Statistical Shape Modelling</title>
+        <p>A set of 3D SSM was built from a training set of 3D surfaces that were aligned to a common coordinate frame. Each surface model in the dataset was represented by landmarks and correspondences were established between these landmarks to ensure all surfaces were represented in the same way. The term ‘landmark’ can be any feature that describes the 3D surface, such as a line feature or an area feature <xref ref-type="bibr" rid="pone.0034619-Yang1">[44]</xref>. In this study, arbitrary points on the surface were adopted as landmarks.</p>
+        <p>A scapula in the dataset was randomly chosen as the reference shape. The iterative closest point (ICP) algorithm proposed by Besl and McKay <xref ref-type="bibr" rid="pone.0034619-Besl1">[45]</xref> was employed to align all target surface models to the coordinate system defined by the reference shape (<xref ref-type="fig" rid="pone-0034619-g006">Figure 6b</xref>). Then a non-rigid surface-based registration using the multiresolution free-form deformation (FFD) algorithm proposed by Rueckert <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0034619-Rueckert1">[46]</xref> and further extended by Schnabel <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0034619-Schnabel1">[47]</xref> was used to establish correspondences within the dataset. This non-rigid surface-based registration was proposed based on B-splines, which are a type of mathematical model commonly used in computer graphics for generating and representing curves and surfaces. By changing the number and position of control points, B-splines can be locally deformed, and therefore curves or surfaces constructed from a number of B-splines can be deformed. This allows a target shape surface to be embedded onto a volumetric mesh, which initially derives from the reference shape and defines a continuous deformable field: <italic>i.e.</italic> the initial control points of this mesh were surface points of the reference shape. The mesh is subsequently subdivided into higher resolution levels by inserting control points into the current level of control points and decreasing the mesh space <xref ref-type="bibr" rid="pone.0034619-Yang2">[48]</xref>. The multiresolution FFD algorithm generates a hierarchy of deforming to deform the mesh by translating a sequence of control points, and minimizes the distance between every surface point on the reference shape and its closest point on the target shape. The optimal control point values are then calculated using the algorithm proposed by Lee <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0034619-Lee1">[49]</xref>. This process is repeated until the distances between the mesh and the target shape cannot be minimized any further. In this study, after the registration, the deformable mesh was deformed to the target shape. For each surface point on the reference shape, its closest point on the target shape was then assumed to be its corresponding point (<xref ref-type="fig" rid="pone-0034619-g006">Figure 6c</xref>).</p>
+        <fig id="pone-0034619-g006" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0034619.g006</object-id>
+          <label>Figure 6</label>
+          <caption>
+            <title>Establishing correspondences between reference (in pink) and target shape (in yellow).</title>
+            <p>A: original position; B: align reference and target shapes; C: reference shape deformed to target shape.</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.g006" xlink:type="simple"/>
+        </fig>
+        <p>After establishing correspondences among the dataset, PCA was performed on the matrix formed by all surface models to extract the principal axes to describe the morphological variability.</p>
+      </sec>
+      <sec id="s4b">
+        <title>Experimental Dataset</title>
+        <p>CT or X-ray microtomography (XMT) images of 43 scapulae from 23 felid species were used to construct the SSM. The sample information is listed as supporting information (<xref ref-type="supplementary-material" rid="pone.0034619.s001">Table S1</xref>). Specimens were selected to provide a wide range of body masses and provide broad coverage of felid taxa and their locomotor specialisations. Larger scapulae were imaged in clinical CT scanners (LightSpeed16, GE MEDICAL SYSTEMS Ltd, UK; Mx8000 IDT 16, Philips, Netherlands; PQ5000, Marconi Medical Systems, Inc, USA.) and smaller scapulae imaged in XMT (X-Tek HMX ST 225, Nikon Metrology Ltd, Tring, UK), due to the extremely thin flat parts of the bone in small cats. The CT images were manually segmented and finalised using Mimics (Materialise NV, Belgium) and Geomagics Studio (Geomagic, Inc., USA) to achieve good quality 3D surface models.</p>
+        <p>The dataset in this study includes species across a broad body mass range; roughly 1–300 kg. Therefore two types of models were constructed to examine the variability: the ‘with size’ SSM was constructed from scapulae in their original size; and the ‘without size’ SSM was constructed from scapulae scaled to a reference shape to minimize the size variation in the dataset. The scaling factor (SF) in the ‘without size’ SSM for each shape model was calculated as: <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e005" xlink:type="simple"/></inline-formula>; in which <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e006" xlink:type="simple"/></inline-formula> is the distance between P<sub>1</sub> (the intersection point of the scapular spine and the dorsal border) and P<sub>2</sub> (the centre of the glenoid cavity) of the scapula (<xref ref-type="fig" rid="pone-0034619-g007">Figure 7</xref>) to be scaled, and <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e007" xlink:type="simple"/></inline-formula> is the distance between P<sub>1</sub> and P<sub>2</sub> of the reference scapula.</p>
+        <fig id="pone-0034619-g007" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0034619.g007</object-id>
+          <label>Figure 7</label>
+          <caption>
+            <title>Reference features and parameters used to quantify MVs.</title>
+            <p>P<sub>1</sub>: intersection point of spine and dorsal border; P<sub>2</sub>: centre of glenoid cavity; P<sub>3</sub>: mid-point between P<sub>1</sub> and P<sub>2</sub>; P<sub>4</sub>: intersection point of caudal border with DV plane; P<sub>5</sub>: intersection point of cranial border with DV plane.</p>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.g007" xlink:type="simple"/>
+        </fig>
+      </sec>
+      <sec id="s4c">
+        <title>Data Analysis</title>
+        <p>The MVs extracted from the datasets were exported both qualitatively and quantitatively. The following reference features and parameters were constructed and measured for each variation (<xref ref-type="fig" rid="pone-0034619-g007">Figure 7</xref>):</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Length (L): the distance between the intersection point of the scapular spine and the dorsal border (P<sub>1</sub>) and the centre of the glenoid cavity (P<sub>2</sub>);</p>
+          </list-item>
+          <list-item>
+            <p>Dorsal-ventral (DV) plane: the plane through the mid-point (P<sub>3</sub>) between P<sub>1</sub> and P<sub>2</sub>, and perpendicular with the line via P<sub>1</sub> and P<sub>2</sub>;</p>
+          </list-item>
+          <list-item>
+            <p>Breadth (B): the distance between the intersection point of the caudal border with the DV plane (P<sub>4</sub>) and the intersection point of the cranial border with the DV plane (P<sub>5</sub>);</p>
+          </list-item>
+          <list-item>
+            <p>Infra-breadth (W): the distance between P<sub>3</sub> and P<sub>4</sub>.</p>
+          </list-item>
+          <list-item>
+            <p>SpA: angle between lines fitted through landmarks selected from the spine and fossa borders after truncated by the DV plane.</p>
+          </list-item>
+        </list>
+        <p>For each MV, the score on that principal axis was varied from <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e008" xlink:type="simple"/></inline-formula> to <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e009" xlink:type="simple"/></inline-formula> (where <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e010" xlink:type="simple"/></inline-formula> is the standard deviation along each principal axis) with the scores on all other principal axes fixed as 0 to observe the variability. In particular, the values of parameters were measured on the models with score of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e011" xlink:type="simple"/></inline-formula>, 0 and <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e012" xlink:type="simple"/></inline-formula> along each principal axis. B/L, W/B and W/L were calculated for each MV to characterise the size changes of the infraspinous and supraspinous fossae relative to the length. The change rates of these parameters were calculated as: <disp-formula><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.e013" xlink:type="simple"/></disp-formula>In which <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e014" xlink:type="simple"/></inline-formula> is the parameter value of the model with score of 0; <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e015" xlink:type="simple"/></inline-formula> is the parameter value of the model with score of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e016" xlink:type="simple"/></inline-formula>, <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e017" xlink:type="simple"/></inline-formula> is the parameter value of the model with score of <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0034619.e018" xlink:type="simple"/></inline-formula>.</p>
+      </sec>
+      <sec id="s4d">
+        <title>Correlation with posture and MA data</title>
+        <p>Day and Jayne <xref ref-type="bibr" rid="pone.0034619-Day1">[21]</xref> reported kinematic data on limb postures for walking felids. The nine species they examined included domestic cat, serval, ocelot, lynx, leopard, cheetah, cougar, lion and tiger. We reconstructed the postures of these species using the mean values of joint angles of forelimbs at footfall (FF) and mid-stance (MS), and the mean relative length of each segment (% total limb length) that were reported by Day and Jayne <xref ref-type="bibr" rid="pone.0034619-Day1">[21]</xref>. The total limb length was scaled using the same scaling factor for constructing the ‘without size’ SSM for each species. The moment arms (MAs) of the presumed vertical component (T<sub>1</sub>) and of the horizontal component (T<sub>2</sub>) of the GRF from the most proximal point of the humerus at FF and MS were estimated instead of the true GRF data. The vertical component corresponds to the force acting in line with gravity, and the horizontal component corresponds to the propulsion or braking force component. The correlations between the MA at FF and MS and the MV of each species on each principal axis were tested using Spearman test at a 95% confidence level. The correlations between humerus angles relative to vertical (θ) (<xref ref-type="fig" rid="pone-0034619-g008">Figure 8</xref>) at each stance and the score of each species on each principal axis were also tested.</p>
+        <fig id="pone-0034619-g008" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0034619.g008</object-id>
+          <label>Figure 8</label>
+          <caption>
+            <title>Moment arm from the most proximal point of humerus to the presumed vertical vector of the ground reaction force (GRF measured at FF).</title>
+          </caption>
+          <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.g008" xlink:type="simple"/>
+        </fig>
+        <p>In addition, we also tested the correlations between the score of each species on each MV and the posture data taken by Wiktorowicz-Conroy <italic>et al.</italic> (manuscript in review) from six species of felids (domestic cat (<italic>Felid catus</italic>; N = 2), ocelot (<italic>Leopardus pardalis</italic>; N = 1), caracal (<italic>Caracal caracal</italic>; N = 2), leopard (<italic>Panthera pardus</italic>; N = 2), serval (<italic>Leptailurus serval</italic>; N = 2), and tiger (<italic>Panthera tigris</italic>; N = 4)). Kinematics of the forelimb joints (metacarpal-phalangeal, wrist, elbow, shoulder) were obtained at MS during low speeds (walks). Joint angles and segment lengths of the forelimb were determined using methods consistent with previous studies <xref ref-type="bibr" rid="pone.0034619-Biewener2">[20]</xref>, <xref ref-type="bibr" rid="pone.0034619-Roberts1">[50]</xref>–<xref ref-type="bibr" rid="pone.0034619-Ren1">[54]</xref>.</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>Supporting Information</title>
+      <supplementary-material id="pone.0034619.s001" mimetype="application/msword" position="float" xlink:href="info:doi/10.1371/journal.pone.0034619.s001" xlink:type="simple">
+        <label>Table S1</label>
+        <caption>
+          <p>
+            <bold>Information of the dataset used to construct the SSM of cat scapulae is listed in this table.</bold>
+          </p>
+          <p>(DOC)</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The authors are grateful to Mathew Lowe at the University Museum of Zoology, Cambridge, and Roberto Portela Miguez and Louise Tomsett at the Natural History Museum London, for assistance with specimen loans. We thank Richard Abel for assistance with XMT scanning at the Natural History Museum London.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0034619-Iwaniuk1">
+        <label>1</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Iwaniuk</surname><given-names>AN</given-names></name><name name-style="western"><surname>Pellis</surname><given-names>SM</given-names></name><name name-style="western"><surname>Whishaw</surname><given-names>IQ</given-names></name></person-group>             <year>1999</year>             <article-title>The relationship between forelimb morphology and behaviour in North American carnivores (Carnivora).</article-title>             <source>Canadian Journal of Zoology</source>             <volume>77</volume>             <issue>7</issue>             <fpage>1064</fpage>             <lpage>1074</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Fischer1">
+        <label>2</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Fischer</surname><given-names>MS</given-names></name><name name-style="western"><surname>Schilling</surname><given-names>N</given-names></name><name name-style="western"><surname>Schmidt</surname><given-names>M</given-names></name><name name-style="western"><surname>Haarhaus</surname><given-names>D</given-names></name><name name-style="western"><surname>Witte</surname><given-names>H</given-names></name></person-group>             <year>2002</year>             <article-title>Basiclimb kinematics of small therian mammals.</article-title>             <source>The Journal of Experimental Biology</source>             <volume>205</volume>             <fpage>1315</fpage>             <lpage>1338</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Morgan1">
+        <label>3</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Morgan</surname><given-names>CC</given-names></name></person-group>             <year>2009</year>             <article-title>Geometric morphometrics of the scapula of South American caviomorph rodents (Rodentia: Hystricognathi): form, function and phylogeny.</article-title>             <source>Mammalian Biology</source>             <volume>74</volume>             <fpage>497</fpage>             <lpage>506</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-MeachenSamuels1">
+        <label>4</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Meachen-Samuels</surname><given-names>J</given-names></name><name name-style="western"><surname>Van Valkenburgh</surname><given-names>B</given-names></name></person-group>             <year>2009</year>             <article-title>Forelimb indicators of prey-size preference in the Felidae.</article-title>             <source>J Morphol</source>             <volume>270</volume>             <issue>6</issue>             <fpage>729</fpage>             <lpage>44</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Fischer2">
+        <label>5</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Fischer</surname><given-names>MS</given-names></name><name name-style="western"><surname>Blickhan</surname><given-names>R</given-names></name></person-group>             <year>2006</year>             <article-title>The tri-segmented limbs of therian mammals: kinematics, dynamics, and self-stabilization – a review.</article-title>             <source>J Exp Zool</source>             <volume>305</volume>             <fpage>935</fpage>             <lpage>952</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Biewener1">
+        <label>6</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name></person-group>             <year>2000</year>             <article-title>Scaling of terrestrial support: differing solutions to mechanical constraints of size.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Brown</surname><given-names>JH</given-names></name><name name-style="western"><surname>West</surname><given-names>GB</given-names></name></person-group>             <source>Scaling in biology</source>             <fpage>51</fpage>             <lpage>66</lpage>             <comment>Oxford University Press, Oxford</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Lijie1">
+        <label>7</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Lijie</surname><given-names>KE</given-names></name><name name-style="western"><surname>Tardieu</surname><given-names>C</given-names></name><name name-style="western"><surname>Fischer</surname><given-names>MS</given-names></name></person-group>             <year>2003</year>             <article-title>Scaling of long bones in ruminants with respect to the scapula.</article-title>             <source>Journal of Zoological Systematics and Evolutionary Research</source>             <volume>41</volume>             <issue>2</issue>             <fpage>118</fpage>             <lpage>126</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Swiderski1">
+        <label>8</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Swiderski</surname><given-names>DL</given-names></name></person-group>             <year>1993</year>             <article-title>Morphological evolution of the scapula in tree squirrels, chipmumks, and ground squirrels (sciuridae): an analysis using thin-plate splines.</article-title>             <source>Evolution</source>             <volume>47</volume>             <issue>6</issue>             <fpage>1854</fpage>             <lpage>1873</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Price1">
+        <label>9</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Price</surname><given-names>MV</given-names></name></person-group>             <year>1993</year>             <article-title>A functional-morphometric analysis of forelimbs in bipedal and quadrupedal heteromyid rodents.</article-title>             <source>Journal of the linnean society</source>             <volume>50</volume>             <fpage>339</fpage>             <lpage>360</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Johnson1">
+        <label>10</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Johnson</surname><given-names>GR</given-names></name><name name-style="western"><surname>Spalding</surname><given-names>D</given-names></name><name name-style="western"><surname>Nowitzke</surname><given-names>A</given-names></name><name name-style="western"><surname>Bodguk</surname><given-names>N</given-names></name></person-group>             <year>1996</year>             <article-title>Modelling the muscles of the scapula morphometric and coordinate data and functional implications.</article-title>             <source>J Biomechanics</source>             <volume>29</volume>             <issue>8</issue>             <fpage>1039</fpage>             <lpage>1051</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Monteiro1">
+        <label>11</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Monteiro</surname><given-names>LR</given-names></name><name name-style="western"><surname>Abe</surname><given-names>AS</given-names></name></person-group>             <year>1999</year>             <article-title>Functional and historical determinants of shape in the scapula of xenarthran mammals:evolution of a complex morphological structure.</article-title>             <source>Jounral of morphology</source>             <volume>241</volume>             <fpage>251</fpage>             <lpage>263</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Monteiro2">
+        <label>12</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Monteiro</surname><given-names>LR</given-names></name></person-group>             <year>2000</year>             <article-title>Geometric morphometrics and the developent of complex structures:ontogenetic changes in scapular shape of dasypodid armadillos.</article-title>             <source>Hystrix,(n.s.)</source>             <volume>11</volume>             <issue>1</issue>             <fpage>91</fpage>             <lpage>98</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Asta1">
+        <label>13</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Astúa</surname><given-names>D</given-names></name></person-group>             <year>2009</year>             <article-title>Evolution of scapula size and shape in didelphid marsupials (Didelphimorphia:didelphidae).</article-title>             <source>Evolution</source>             <volume>63</volume>             <issue>9</issue>             <fpage>2438</fpage>             <lpage>2456</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Scholtz1">
+        <label>14</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Scholtz</surname><given-names>Y</given-names></name><name name-style="western"><surname>Steyn</surname><given-names>M</given-names></name><name name-style="western"><surname>Pretorius</surname><given-names>E</given-names></name></person-group>             <year>2010</year>             <article-title>A geometric morphometric study into the sexual dimorphism of the human scapula.</article-title>             <source>HOMO-Journal of comparative human biology</source>             <volume>61</volume>             <fpage>253</fpage>             <lpage>270</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Young1">
+        <label>15</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Young</surname><given-names>NM</given-names></name></person-group>             <year>2008</year>             <article-title>A comparison of the ontogeny of shape variation in the anthropoid scapula:functional and phylogenetic signal.</article-title>             <source>American Journal of physical anthropology</source>             <volume>136</volume>             <fpage>247</fpage>             <lpage>264</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Depecker1">
+        <label>16</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Depecker</surname><given-names>M</given-names></name><name name-style="western"><surname>Berge</surname><given-names>C</given-names></name><name name-style="western"><surname>Penin</surname><given-names>X</given-names></name><name name-style="western"><surname>Renous</surname><given-names>S</given-names></name></person-group>             <year>2006</year>             <article-title>Geometric morphometric of the shoulder girdle in extant turtles (Chelonii).</article-title>             <source>J Anat</source>             <volume>208</volume>             <fpage>35</fpage>             <lpage>45</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Young2">
+        <label>17</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Young</surname><given-names>NM</given-names></name></person-group>             <year>2006</year>             <article-title>Function, ontogeny and canalization of shape variace in the primate scapula.</article-title>             <source>J Anat</source>             <volume>209</volume>             <fpage>623</fpage>             <lpage>636</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Lorenz1">
+        <label>18</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Lorenz</surname><given-names>C</given-names></name><name name-style="western"><surname>Krahnstoever</surname><given-names>N</given-names></name></person-group>             <year>2000</year>             <article-title>Generation of point-based 3D statistical shape models for anatomical objects.</article-title>             <source>Comput Vis Image Underst</source>             <volume>77</volume>             <fpage>175</fpage>             <lpage>191</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Davies1">
+        <label>19</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Davies</surname><given-names>RH</given-names></name><name name-style="western"><surname>Twinning</surname><given-names>CJ</given-names></name><name name-style="western"><surname>Cootes</surname><given-names>TF</given-names></name><name name-style="western"><surname>Taylor</surname><given-names>CJ</given-names></name></person-group>             <year>2002</year>             <article-title>Aotomatic construction of optimal 3d statistical shape models.</article-title>             <fpage>77</fpage>             <lpage>80</lpage>             <comment>Medical image understanding and analysis:BMVA</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Biewener2">
+        <label>20</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name></person-group>             <year>1990</year>             <article-title>Biomechanics of mammalian terrestrial locomotion.</article-title>             <source>Science</source>             <volume>250</volume>             <fpage>1097</fpage>             <lpage>1103</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Day1">
+        <label>21</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Day</surname><given-names>LM</given-names></name><name name-style="western"><surname>Jayne</surname><given-names>BC</given-names></name></person-group>             <year>2007</year>             <article-title>Interspecific scaling of the morphology and posture of the limbs during the locomotion of cats (Felidae).</article-title>             <source>The Journal of Experimental Biology</source>             <volume>210</volume>             <fpage>642</fpage>             <lpage>654</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Zelditch1">
+        <label>22</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Zelditch</surname><given-names>ML</given-names></name><name name-style="western"><surname>Fink</surname><given-names>WL</given-names></name><name name-style="western"><surname>Swiderski</surname><given-names>DL</given-names></name></person-group>             <year>1995</year>             <article-title>Morphometrics, homology and phylogenetics: quantified characters as synapomorphies.</article-title>             <source>Syst Biol</source>             <volume>44</volume>             <fpage>179</fpage>             <lpage>189</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Taylor1">
+        <label>23</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Taylor</surname><given-names>AB</given-names></name></person-group>             <year>1997</year>             <article-title>Scapula form and biomechanics in gorillas.</article-title>             <source>Journal of human evolution</source>             <volume>33</volume>             <fpage>529</fpage>             <lpage>533</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Ruff1">
+        <label>24</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ruff</surname><given-names>CB</given-names></name></person-group>             <year>1991</year>             <article-title>Climate, body size and body shape in hominid evolution.</article-title>             <source>Journal of Human Evolution</source>             <volume>21</volume>             <fpage>81</fpage>             <lpage>105</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Christiansen1">
+        <label>25</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Christiansen</surname><given-names>P</given-names></name></person-group>             <year>1999</year>             <article-title>Scaling of mammalian long bones:small and large mammals compared.</article-title>             <source>Journal of Zoology</source>             <volume>247</volume>             <fpage>333</fpage>             <lpage>348</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Ruff2">
+        <label>26</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ruff</surname><given-names>CB</given-names></name></person-group>             <year>2000</year>             <article-title>Body size, body shape, and long bone strength in modern humans.</article-title>             <source>Journal of Human Evolution</source>             <volume>38</volume>             <issue>2</issue>             <fpage>269</fpage>             <lpage>290</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Bonnan1">
+        <label>27</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Bonnan</surname><given-names>MF</given-names></name></person-group>             <year>2007</year>             <article-title>Linear and Geometric Morphometric Analysis of Long Bone Scaling Patterns in Jurassic Neosauropod Dinosaurs: Their Functional and Paleobiological Implications.</article-title>             <source>The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology</source>             <volume>290</volume>             <fpage>1089</fpage>             <lpage>1111</lpage>             <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/ar.20578" xlink:type="simple">10.1002/ar.20578</ext-link></comment>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Biewener3">
+        <label>28</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name></person-group>             <year>1983</year>             <article-title>Allometry of quadrupedal locomotion: the scaling of duty factor, bone curvature and limb orientation to body size.</article-title>             <source>The Journal of Experimental Biology</source>             <volume>105</volume>             <fpage>147</fpage>             <lpage>17</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-IriateDiaz1">
+        <label>29</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Iriate-Diaz</surname><given-names>J</given-names></name></person-group>             <year>2002</year>             <article-title>Differential scaling of locomotor performance in small and large terrestrial mammals.</article-title>             <source>The Journal of Experimental Biology</source>             <volume>205</volume>             <fpage>2897</fpage>             <lpage>2908</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-McMahon1">
+        <label>30</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>McMahon</surname><given-names>TA</given-names></name></person-group>             <year>1975</year>             <article-title>Using body size to understand the structural design of animals: quadrupedal locomotion.</article-title>             <source>J Appl Physiol</source>             <volume>39</volume>             <fpage>619</fpage>             <lpage>627</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-McMahon2">
+        <label>31</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>McMahon</surname><given-names>TA</given-names></name></person-group>             <year>1975</year>             <article-title>Allometry and biomechanics - limb bones in adult ungulates.</article-title>             <source>Am Nat</source>             <volume>109</volume>             <fpage>547</fpage>             <lpage>563</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Biewener4">
+        <label>32</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name></person-group>             <year>1989</year>             <article-title>Scaling body support in mammals: limb posture and muscle mechanics.</article-title>             <source>Science</source>             <volume>245</volume>             <fpage>45</fpage>             <lpage>48</lpage>             <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1126/science.2740914" xlink:type="simple">10.1126/science.2740914</ext-link></comment>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Bertram1">
+        <label>33</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Bertram</surname><given-names>JE</given-names></name><name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name></person-group>             <year>1990</year>             <article-title>Differential scaling of the long bones in the terrestrial carnivora and other mammals.</article-title>             <source>J Morphol</source>             <volume>204</volume>             <fpage>157</fpage>             <lpage>69</lpage>             <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/jmor.1052040205" xlink:type="simple">10.1002/jmor.1052040205</ext-link></comment>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Ruff3">
+        <label>34</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ruff</surname><given-names>CB</given-names></name><name name-style="western"><surname>Hayes</surname><given-names>WC</given-names></name></person-group>             <year>1982</year>             <article-title>Cross-sectional geometry of Pecos Pubelo femora and tibiae-a biomechanical investigation. I. Method and general pattern of variation.</article-title>             <source>American Journal of Physical Anthropology</source>             <volume>60</volume>             <fpage>359</fpage>             <lpage>381</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Biewener5">
+        <label>35</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name><name name-style="western"><surname>Thomason</surname><given-names>J</given-names></name><name name-style="western"><surname>Lanyon</surname><given-names>LE</given-names></name></person-group>             <year>1983</year>             <article-title>Mechanics of locomotion and jumping in the forelimb of the horse (Equus): in vivo stress in the radius and metacarpus.</article-title>             <source>Journal of Zoology</source>             <volume>201</volume>             <fpage>67</fpage>             <lpage>82</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Brand1">
+        <label>36</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Brand</surname><given-names>RA</given-names></name><name name-style="western"><surname>Pedersen</surname><given-names>DR</given-names></name><name name-style="western"><surname>Friederich</surname><given-names>JA</given-names></name></person-group>             <year>1986</year>             <article-title>The sensitivity of muscle force predictions to changes in physiologic cross-sectional area.</article-title>             <source>Journal of Biomechanics</source>             <volume>19</volume>             <issue>8</issue>             <fpage>589</fpage>             <lpage>596</lpage>             <comment>ISSN 0021-9290, 10.1016/0021-9290(86)90164-8</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Selker1">
+        <label>37</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Selker</surname><given-names>F</given-names></name><name name-style="western"><surname>Carter</surname><given-names>DR</given-names></name></person-group>             <year>1989</year>             <article-title>Scaling of long bone fracture strength with animal mass.</article-title>             <source>Journal of Biomechanics</source>             <volume>22</volume>             <issue>11–12</issue>             <fpage>1175</fpage>             <lpage>1183</lpage>             <comment>ISSN 0021-9290, 10.1016/0021-9290(89)90219-4</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Carrano1">
+        <label>38</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Carrano</surname><given-names>MT</given-names></name></person-group>             <year>2001</year>             <article-title>Implications of limb bone scaling, curvature and eccentricity in mammals and non-avian dinosaurs.</article-title>             <source>Journal of Zoology</source>             <volume>254</volume>             <fpage>41</fpage>             <lpage>55</lpage>             <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0952836901000541" xlink:type="simple">10.1017/S0952836901000541</ext-link></comment>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Doube1">
+        <label>39</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Doube</surname><given-names>M</given-names></name><name name-style="western"><surname>Wiktorowicz-Conroy</surname><given-names>A</given-names></name><name name-style="western"><surname>Christiansen</surname><given-names>P</given-names></name><name name-style="western"><surname>Hutchinson</surname><given-names>JR</given-names></name><name name-style="western"><surname>Shefelbine</surname><given-names>S</given-names></name></person-group>             <year>2009</year>             <article-title>Three-dimensional geometric analysis of felid limb bone allometry.</article-title>             <source>PLoS ONE</source>             <volume>4</volume>             <fpage>e4742</fpage>             <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal" xlink:type="simple">10.1371/journal</ext-link></comment>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Christiansen2">
+        <label>40</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Christiansen</surname><given-names>P</given-names></name><name name-style="western"><surname>Harris</surname><given-names>JM</given-names></name></person-group>             <year>2005</year>             <article-title>The body size of <italic>Smilodon</italic> (Mammalia: Felidae).</article-title>             <source>J Morphol</source>             <volume>266</volume>             <fpage>369</fpage>             <lpage>384</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Anyonge1">
+        <label>41</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Anyonge</surname><given-names>W</given-names></name></person-group>             <year>1993</year>             <article-title>Body mass in large extant and extinct carnivores.</article-title>             <source>Journal of Zoology</source>             <volume>231</volume>             <fpage>339</fpage>             <lpage>350</lpage>             <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1469-7998.1993.tb01922" xlink:type="simple">10.1111/j.1469-7998.1993.tb01922</ext-link></comment>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Fung1">
+        <label>42</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Fung</surname><given-names>J</given-names></name><name name-style="western"><surname>Macpherson</surname><given-names>JM</given-names></name></person-group>             <year>1995</year>             <article-title>Determinants of postural orientation in quadrupedal stance.</article-title>             <source>The journal of neuroscience</source>             <volume>15</volume>             <issue>2</issue>             <fpage>1121</fpage>             <lpage>1131</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Macpherson1">
+        <label>43</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Macpherson</surname><given-names>JM</given-names></name><name name-style="western"><surname>Ye</surname><given-names>Y</given-names></name></person-group>             <year>1998</year>             <article-title>The cat vertebral column:stance configuration and range of motion.</article-title>             <source>Exp Brain Res</source>             <volume>119</volume>             <fpage>324</fpage>             <lpage>332</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Yang1">
+        <label>44</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Yang</surname><given-names>Y</given-names></name></person-group>             <year>2008</year>             <article-title>Shape modelling of bones application to the primate shoulder.</article-title>             <comment>PhD thesis. Imperial College London, Department of Bioengineering and Department of Computing, 2008</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Besl1">
+        <label>45</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Besl</surname><given-names>PJ</given-names></name><name name-style="western"><surname>McKay</surname><given-names>ND</given-names></name></person-group>             <year>1992</year>             <article-title>A method for registration of 3d shapes. IEEE Trans.</article-title>             <source>Pattern Anal Mach Intell</source>             <volume>14</volume>             <fpage>239</fpage>             <lpage>356</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Rueckert1">
+        <label>46</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rueckert</surname><given-names>D</given-names></name><name name-style="western"><surname>Sonoda</surname><given-names>LI</given-names></name><name name-style="western"><surname>Hayes</surname><given-names>C</given-names></name><name name-style="western"><surname>Hill</surname><given-names>DLG</given-names></name><name name-style="western"><surname>Leach</surname><given-names>MO</given-names></name><etal/></person-group>             <year>1999</year>             <article-title>Non-rigid registration using free-form deformations: application to breast mr images.</article-title>             <source>IEEE Trans Med Img1999</source>             <volume>18</volume>             <fpage>712</fpage>             <lpage>721</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Schnabel1">
+        <label>47</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Schnabel</surname><given-names>JA</given-names></name><name name-style="western"><surname>Rueckert</surname><given-names>D</given-names></name><name name-style="western"><surname>Quist</surname><given-names>M</given-names></name><name name-style="western"><surname>Blackall</surname><given-names>JM</given-names></name><name name-style="western"><surname>Casterllano-Smith</surname><given-names>AD</given-names></name><etal/></person-group>             <year>2001</year>             <article-title>A generic framework for nonrigid registration based on nonuniform unlit-level free-form deformations.</article-title>             <source>Medical Image Comuting and Computer Science</source>             <volume>2208</volume>             <fpage>573</fpage>             <lpage>581</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Yang2">
+        <label>48</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Yang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Bull</surname><given-names>AMJ</given-names></name><name name-style="western"><surname>Rueckert</surname><given-names>D</given-names></name><name name-style="western"><surname>Hill</surname><given-names>A</given-names></name></person-group>             <year>2006</year>             <article-title>3D statistical shape modelling of long bones. Third International Workshop, WBIR 2006, Utrecht, The Netherlands.</article-title>             <source>Lecture Notes in Computer Science</source>             <volume>4057</volume>             <fpage>306</fpage>             <lpage>314</lpage>             <comment>ISBN 978-3-540-35648-6</comment>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Lee1">
+        <label>49</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>S</given-names></name><name name-style="western"><surname>Wolberg</surname><given-names>G</given-names></name><name name-style="western"><surname>Shin</surname><given-names>SY</given-names></name></person-group>             <year>1997</year>             <article-title>Scattered datainterpolation with multilevel b-splines.</article-title>             <source>IEEE transactions on visulization and computer graphics</source>             <volume>3</volume>             <fpage>228</fpage>             <lpage>244</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Roberts1">
+        <label>50</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Roberts</surname><given-names>TJ</given-names></name><name name-style="western"><surname>Chen</surname><given-names>MS</given-names></name><name name-style="western"><surname>Taylor</surname><given-names>CR</given-names></name></person-group>             <year>1998</year>             <article-title>Energetics of bipedal running, II: Limb design and running mechanics.</article-title>             <source>The Journal of Experimental Biology</source>             <volume>201</volume>             <fpage>2753</fpage>             <lpage>2762</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Biewener6">
+        <label>51</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name><name name-style="western"><surname>Farley</surname><given-names>CT</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>TJ</given-names></name><name name-style="western"><surname>Temaner</surname><given-names>M</given-names></name></person-group>             <year>2004</year>             <article-title>Muscle mechanical advantage of human walking and running: implications for energy cost.</article-title>             <source>J Appl Physiol</source>             <volume>97</volume>             <fpage>2266</fpage>             <lpage>2274</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Winter1">
+        <label>52</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Winter</surname><given-names>DA</given-names></name></person-group>             <year>2005</year>             <source>Biomechanics and Motor Control of Human Movement. 3rd Ed</source>             <publisher-loc>New York</publisher-loc>             <publisher-name>Wiley &amp; Sons</publisher-name>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Pontzer1">
+        <label>53</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Pontzer</surname><given-names>H</given-names></name><name name-style="western"><surname>Raichlen</surname><given-names>DA</given-names></name><name name-style="western"><surname>Sockol</surname><given-names>MD</given-names></name></person-group>             <year>2009</year>             <article-title>The metabolic cost of walking in humans, chimpanzees, and early hominins.</article-title>             <source>J Hum Evol</source>             <volume>56</volume>             <fpage>43</fpage>             <lpage>54</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0034619-Ren1">
+        <label>54</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Ren</surname><given-names>L</given-names></name><name name-style="western"><surname>Miller</surname><given-names>CE</given-names></name><name name-style="western"><surname>Lair</surname><given-names>R</given-names></name><name name-style="western"><surname>Hutchinson</surname><given-names>JR</given-names></name></person-group>             <year>2010</year>             <article-title>Integration of biomechanical compliance, leverage, and power in elephant limbs.</article-title>             <source>PNAS</source>             <volume>107</volume>             <fpage>7078</fpage>             <lpage>7082</lpage>          </element-citation>
+      </ref>
+    </ref-list>
+    
+  </back>
+</article>

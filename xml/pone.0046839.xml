@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plosone</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS ONE</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1932-6203</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">10-PONE-RA-19404</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0046839</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Earth sciences</subject>
+          <subj-group>
+            <subject>Paleontology</subject>
+            <subj-group>
+              <subject>Vertebrate paleontology</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Evolutionary Biology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A New Rhynchocephalian from the Late Jurassic of Germany with a Dentition That Is Unique amongst Tetrapods</article-title>
+        <alt-title alt-title-type="running-head">New Rhynchocephalian</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Rauhut</surname>
+            <given-names>Oliver W. M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Heyng</surname>
+            <given-names>Alexander M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>López-Arbarello</surname>
+            <given-names>Adriana</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Hecker</surname>
+            <given-names>Andreas</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>Bayerische Staatssammlung für Paläontologie und Geologie and Department of Earth and Environmental Sciences, Ludwig Maximilians University, Munich, Germany</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>2</label>
+        <addr-line>GeoBioCenter, Ludwig Maximilians University, Munich, Germany</addr-line>
+      </aff>
+      <aff id="aff3">
+        <label>3</label>
+        <addr-line>Max-Planck-Gesellschaft, Generalverwaltung, Munich, Germany</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Farke</surname>
+            <given-names>Andrew A.</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">
+        <addr-line>Raymond M. Alf Museum of Paleontology, United States of America</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email xlink:type="simple">o.rauhut@lrz.uni-muenchen.de</email></corresp>
+        <fn fn-type="conflict">
+          <p>The authors have declared that no competing interests exist.</p>
+        </fn>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: OWMR AMH ALA AH. Performed the experiments: OWMR ALA. Analyzed the data: OWMR ALA. Contributed reagents/materials/analysis tools: AMH AH. Wrote the paper: OWMR AMH ALA.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>10</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>7</volume>
+      <issue>10</issue>
+      <elocation-id>e46839</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>1</day>
+          <month>6</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>9</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-year>2012</copyright-year>
+        <copyright-holder>Rauhut et al</copyright-holder>
+        <license xlink:type="simple">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p>Rhynchocephalians, the sister group of squamates (lizards and snakes), are only represented by the single genus <italic>Sphenodon</italic> today. This taxon is often considered to represent a very conservative lineage. However, rhynchocephalians were common during the late Triassic to latest Jurassic periods, but rapidly declined afterwards, which is generally attributed to their supposedly adaptive inferiority to squamates and/or Mesozoic mammals, which radiated at that time. New finds of Mesozoic rhynchocephalians can thus provide important new information on the evolutionary history of the group.</p>
+        </sec>
+        <sec>
+          <title>Principle Findings</title>
+          <p>A new fossil relative of <italic>Sphenodon</italic> from the latest Jurassic of southern Germany, <italic>Oenosaurus muehlheimensis</italic> gen. et sp. nov., presents a dentition that is unique amongst tetrapods. The dentition of this taxon consists of massive, continuously growing tooth plates, probably indicating a crushing dentition, thus representing a previously unknown trophic adaptation in rhynchocephalians.</p>
+        </sec>
+        <sec>
+          <title>Conclusions/Significance</title>
+          <p>The evolution of the extraordinary dentition of <italic>Oenosaurus</italic> from the already highly specialized Zahnanlage generally present in derived rhynchocephalians demonstrates an unexpected evolutionary plasticity of these animals. Together with other lines of evidence, this seriously casts doubts on the assumption that rhynchocephalians are a conservative and adaptively inferior lineage. Furthermore, the new taxon underlines the high morphological and ecological diversity of rhynchocephalians in the latest Jurassic of Europe, just before the decline of this lineage on this continent. Thus, selection pressure by radiating squamates or Mesozoic mammals alone might not be sufficient to explain the demise of the clade in the Late Mesozoic, and climate change in the course of the fragmentation of the supercontinent of Pangaea might have played a major role.</p>
+        </sec>
+      </abstract>
+      <funding-group>
+        <funding-statement>The authors have no funding or support to report.</funding-statement>
+      </funding-group>
+      <counts>
+        <page-count count="9"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>The recent genus <italic>Sphenodon</italic> is the only living representative of the Rhynchocephalia, the sister taxon of the Squamata (lizards and snakes) within the Lepidosauria <xref ref-type="bibr" rid="pone.0046839-Evans1">[1]</xref>. Due to the long history of the group, reaching back to at least the Middle Triassic (∼235 million years), and the supposedly primitive morphology of the genus, <italic>Sphenodon</italic> is often regarded as a “living fossil”. Thus, this taxon is frequently used as a model organism for a basal diapsid in investigations dealing with the evolution of reptiles, even in recent studies ranging from the structure of the pineal organ <xref ref-type="bibr" rid="pone.0046839-Ung1">[2]</xref> to tetrapod locomotion <xref ref-type="bibr" rid="pone.0046839-Reilly1">[3]</xref>.</p>
+      <p>Rhynchocephalians were a common component of Mesozoic small vertebrate faunas <xref ref-type="bibr" rid="pone.0046839-Evans2">[4]</xref>, <xref ref-type="bibr" rid="pone.0046839-Jones1">[5]</xref>, and research in the past thirty years has shown that they were not only taxonomically and ecologically diverse during this time, but also showed a remarkable morphological variability <xref ref-type="bibr" rid="pone.0046839-Jones2">[6]</xref>. Indeed, several of the features that were thought to represent the plesiomorphic condition in <italic>Sphenodon</italic>, such as the closed lower temporal arcade, were recently demonstrated to be apomorphic reversals to a condition resembling the ancestral morphology instead (e.g. <xref ref-type="bibr" rid="pone.0046839-Whiteside1">[7]</xref>, <xref ref-type="bibr" rid="pone.0046839-Mller1">[8]</xref>). Nevertheless, all rhynchocephalians but the most basal forms are characterized by a very specialized dentition pattern, in which the teeth are fully acrodont, no tooth replacement is present in post-hatchling individuals, and additional teeth are added at the posterior end of the tooth row during ontogeny <xref ref-type="bibr" rid="pone.0046839-Robinson1">[9]</xref>. Although tooth shape itself is quite variable in rhynchocephalians <xref ref-type="bibr" rid="pone.0046839-Jones3">[10]</xref>, this special type of tooth development was thought to limit their adaptive potential <xref ref-type="bibr" rid="pone.0046839-Gorniak1">[11]</xref>. Consequently, the demise of the group in the later Mesozoic has been linked to the adaptive radiation of squamates and/or mammals (see <xref ref-type="bibr" rid="pone.0046839-Jones1">[5]</xref>).</p>
+      <p>Here we report on a new taxon of rhynchocephalian from the Late Jurassic of southern Germany that further underlines the morphological and ecological diversity of rhynchocephalians and indicates high adaptive plasticity even in the dentitions of these animals. The specimen was found in the middle parts of the Moernsheim Formation exposed at Mühlheim (<xref ref-type="fig" rid="pone-0046839-g001">Fig. 1</xref>), in a section of platy, siliceous limestones overlying lime bank B-H-5 (“Krebs-Bank”). The marine Tithonian (Upper Jurassic) Moernsheim Formation covers the famous Solnhofen lithographic limestones in the western region of the Franconian Alb in northern Bavaria. In contrast to the underlying Solnhofen Formation, the sediments of the Moernsheim Formation are more heterogeneous, consisting of mainly siliceous limestones in alternate bedding with marly and limey sections, and with intercalated banks particularly in the lower parts of the formation.</p>
+      <fig id="pone-0046839-g001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0046839.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Geographical and stratigraphic setting of the locality of the new taxon.</title>
+          <p>Modified from <xref ref-type="bibr" rid="pone.0046839-Schmid1">[16]</xref>, <xref ref-type="bibr" rid="pone.0046839-LpezArbarello1">[54]</xref>, <xref ref-type="bibr" rid="pone.0046839-Frsich1">[55]</xref>.</p>
+        </caption>
+        <graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0046839.g001" position="float" xlink:type="simple"/>
+      </fig>
+    </sec>
+    <sec id="s2" sec-type="methods">
+      <title>Methods</title>
+      <p>The data matrix was analysed with PAUP 4.0b10 (Swofford 2003), using a branch and bound search. The initial analyses resulted in 119 trees with a length of 187 steps (CI 0.465, RI 0.649, RC 0.302). The strict consensus tree of these trees showed poor resolution, with Oenosaurus representing a member of a polytomy of rhynchocephalians more derived than Planocephalosaurus (<xref ref-type="supplementary-material" rid="pone.0046839.s001">Information S1</xref>); only pleurosaurs and eilenodontines showed up as monophyletic clades within this polytomy. However, reduced consensus trees of these 119 trees recovered a monophyletic Sphenodontinae, including Oenosaurus, but without further resolution within this clade (<xref ref-type="supplementary-material" rid="pone.0046839.s001">Information S1</xref>).</p>
+      <p>The taxon Pamizinsaurus from the Early Cretaceous of Mexico (Reynoso 1997) was identified as a wildcard taxon that strongly influenced the results. This may partially be due to high amounts of missing data (64%) in this taxon; however, that several other taxa have even higher amounts of missing data (Eilenodon 68%; Cynosphenodon: 73%; Toxolophosaurus: 79%) but proved to be less problematic, indicates that the wildcard status of Pamizinsaurus might also be due to some character conflict.</p>
+      <p>In a next step, we thus removed Pamizinsaurus from the matrix and ran a second analysis with the same settings as above. The analysis resulted in only two most parsimonious trees with a length of 184 steps (CI 0.473, RI 0.654, RC 0.309). The strict consensus tree of these two trees (<xref ref-type="fig" rid="pone-0046839-g003">Fig. 3</xref> and <xref ref-type="supplementary-material" rid="pone.0046839.s001">Information S1</xref>) is considerably better resolved than that resulting from the full analysis, but, importantly, it does not contradict the results of the latter, neither in the strict consensus, nor in any reduced consensus tree. Thus, we chose these results to illustrate and further explore the relationships of Oenosaurus. Bootstrap (10000 replicates) and Bremer support analyses were carried out on the pruned matrix, and the following list of synapomorphies is based on the strict consensus tree resulting from the pruned analysis.</p>
+      <sec id="s2a">
+        <title>Nomenclatorial Acts</title>
+        <p>The electronic edition of this article conforms to the requirements of the amended International Code of Zoological Nomenclature, and hence the new names contained herein are available under that Code from the electronic edition of this article. This published work and the nomenclatural acts it contains have been registered in ZooBank, the online registration system for the ICZN. The ZooBank LSIDs (Life Science Identifiers) can be resolved and the associated information viewed through any standard web browser by appending the LSID to the prefix “<ext-link ext-link-type="uri" xlink:href="http://zoobank.org/" xlink:type="simple">http://zoobank.org/</ext-link>”. The LSID for this publication is: urn:lsid:zoobank.org:pub: 4A00D064-A136-4944-AF8E-427B941FB38C. The electronic edition of this work was published in a journal with an ISSN, and has been archived and is available from the following digital repositories: PubMed Central, LOCKSS.</p>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>Results</title>
+      <sec id="s3a">
+        <title>Systematic Palaeontology</title>
+        <p>Lepidosauria Haeckel, 1866 <xref ref-type="bibr" rid="pone.0046839-Haeckel1">[12]</xref></p>
+        <p>Rhynchocephalia Günther, 1867 <xref ref-type="bibr" rid="pone.0046839-Gnther1">[13]</xref></p>
+        <p>Sphenodontia Williston, 1925 <xref ref-type="bibr" rid="pone.0046839-Williston1">[14]</xref></p>
+        <p>Sphenodontidae Cope, 1871 <xref ref-type="bibr" rid="pone.0046839-Cope1">[15]</xref></p>
+        <p><italic>Oenosaurus</italic> gen.nov.</p>
+        <p>urn:lsid:zoobank.org:act:48C1BA32-BC6D-407D-81E0-7ECFF22D77A3</p>
+        <p><italic>Oenosaurus muehlheimensis</italic> sp. nov.</p>
+        <p>urn:lsid:zoobank.org:act:6648C44F-FDC0-48B2-A6A9-399B17E07D38</p>
+        <sec id="s3a1">
+          <title>Etymology</title>
+          <p><italic>Oenos</italic>, [oinos] Greek, wine, referring to the Franconian Alb, a famous wine area, where the specimen was found, and <italic>saurus</italic>, [sauros] Greek, lizard. Species name refers to the village of Mühlheim, close to Mörnsheim, at the rim of the valley of the Altmühl in Bavaria.</p>
+        </sec>
+        <sec id="s3a2">
+          <title>Holotype</title>
+          <p>Bayerische Staatssammlung für Paläontologie und Geologie, Munich, Germany, BSPG 2009 I 23; partial skull and complete mandibles (<xref ref-type="fig" rid="pone-0046839-g002">Figs. 2</xref>, <xref ref-type="fig" rid="pone-0046839-g003">3</xref>, <xref ref-type="fig" rid="pone-0046839-g004">4</xref>).</p>
+          <fig id="pone-0046839-g002" position="float">
+            <object-id pub-id-type="doi">10.1371/journal.pone.0046839.g002</object-id>
+            <label>Figure 2</label>
+            <caption>
+              <title>New Late Jurassic sphenodontine rhynchocephalian <italic>Oenosaurus muehlheimensis</italic> (Holotype, BSPG 2009 I 23).</title>
+              <p>(A)–Skull in dorsal view. (B)–Skull in ventral view. (C–D)–Right mandible in lateral (C) and medial (D) views. (E)–Left mandible in lateral view. (F)–Stereophotographs of the skull in ventral view. Abbreviations: a, angular; ar, articular; bsp, basisphenoid; bt, basal tubera; co, coronoid; cos, coronoid shelf; d, dentary; ect, ectopterygoid; eo, exoccipital/opisthotic; f, frontal; fo, foramen; j, jugal; m, maxilla; mf, mandibular foramen; mg, Meckelian groove; oc, occipital condyle; pa, parietal; pal, palatine; po, postorbital; pof, postfrontal; prf, prefrontal; pt, pterygoid; sa, surangular; sy, symphysis; tp, tooth plate. Scale bars are 10 mm.</p>
+            </caption>
+            <graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0046839.g002" position="float" xlink:type="simple"/>
+          </fig>
+          <fig id="pone-0046839-g003" position="float">
+            <object-id pub-id-type="doi">10.1371/journal.pone.0046839.g003</object-id>
+            <label>Figure 3</label>
+            <caption>
+              <title>Details of dentition of <italic>O. muehlheimensis</italic> (Holotype, BSPG 2009 I 23).</title>
+              <p>(A)–Left maxillary tooth plate in ventral view (anterior is to the left). (B)–Enlargement of posterior part of left maxillary tooth plate, showing compound structure of the plate. (C)–Further enlargement of left maxillary tooth plate, showing closely packed, worn teeth with central pulp cavities. Scale bars are 1 mm (A, B) and 0.5 mm (C).</p>
+            </caption>
+            <graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0046839.g003" position="float" xlink:type="simple"/>
+          </fig>
+          <fig id="pone-0046839-g004" position="float">
+            <object-id pub-id-type="doi">10.1371/journal.pone.0046839.g004</object-id>
+            <label>Figure 4</label>
+            <caption>
+              <title>Parasagittal micro CT section of the right dentary of <italic>Oenosaurus muelheimensis</italic>.</title>
+              <p>Posterior is to the right. Abbreviations: bc, basal cavity; f, foramen. Small arrows point to bifurcating dentine channels. Scale bar is 5 mm.</p>
+            </caption>
+            <graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0046839.g004" position="float" xlink:type="simple"/>
+          </fig>
+        </sec>
+        <sec id="s3a3">
+          <title>Locality and horizon</title>
+          <p>Mörnsheim Formation (Lower Tithonian) <xref ref-type="bibr" rid="pone.0046839-Schmid1">[16]</xref>, “Krautworst Naturstein” quarry in Mühlheim near Mörnsheim, central Bavaria, Germany (<xref ref-type="fig" rid="pone-0046839-g001">Fig. 1</xref>).</p>
+        </sec>
+        <sec id="s3a4">
+          <title>Diagnosis</title>
+          <p>Small rhynchocephalian with the following autapomorphic characters: maxilla with a medial process at the posterior end; ectopterygoid with a secondary lateral process that contacts the medial side of the maxilla; palatines with a midline contact in ventral view; strongly pronounced lateral longitudinal groove on the dentaries, housing several large foramina; very high coronoid process, the anterior border of which forms an angle of approximately 90° with the tooth row; coronoid with a pronounced shoulder medially; dentition composed of extensive tooth plates formed by a multitude of fused, small, pencil-like teeth.</p>
+        </sec>
+        <sec id="s3a5">
+          <title>Description</title>
+          <p>The skull of <italic>Oenosaurus</italic> was preserved in ventral view, with the mandibles slightly displaced from the upper jaws. The skull is diagenetically dorsoventrally compressed and much of the dorsal skull roof is missing, as is the roof of the braincase. However, enough is preserved to record the general shape of the skull and the position and size of the orbitae (<xref ref-type="fig" rid="pone-0046839-g002">Fig. 2a</xref>).</p>
+          <p>The skull seems to have been rather robust. As preserved, it is 24.3 mm long. Unfortunately, the exact skull length cannot be determined, since the premaxillae are missing, but these bones probably did not account for more than an additional 2–3 mm. Thus, the skull was slightly broader (28 mm) than long, as in many rhynchocephalians, but unlike the slender, elongate skull of the marine pleurosaurs <xref ref-type="bibr" rid="pone.0046839-Jones2">[6]</xref>, <xref ref-type="bibr" rid="pone.0046839-Carroll1">[17]</xref>. The skull is triangular in dorsal or ventral view (<xref ref-type="fig" rid="pone-0046839-g002">Fig. 2a, b, f</xref>). The orbitae are large and placed anteriorly over the maxillary dentition, as in <italic>Sphenodon</italic> and <italic>Clevosaurus</italic> <xref ref-type="bibr" rid="pone.0046839-Jones2">[6]</xref>. Premaxillae and nasals are missing. The frontals are elongate and narrow, and flanked by the prefrontals anterolaterally (<xref ref-type="fig" rid="pone-0046839-g002">Fig. 2a</xref>). There is no trace of a lacrimal, though it cannot be ruled out completely that this might be due to preservation. The posterior part of the skull roof is poorly preserved and nothing can be said about the shape and size of the temporal fenestrae. A small fragment of the parietals shows that these bones were fused and formed a narrow sagittal crest medially. The postfrontals and postorbitals formed a broad shelf anterior to the dorsal temporal fenestra. The jugal was broad and reached anteriorly to almost half-length of the orbit. The maxillae are massive and broad, but rapidly narrow anteriorly. Posteriorly, the maxilla has a stout lateral process for the contact with the jugal and a smaller medial process that slots into the forked lateral process of the ectopterygoid.</p>
+          <p>The palate is only missing most of the vomer and the posterior ends of the quadrate wings of the pterygoids (<xref ref-type="fig" rid="pone-0046839-g002">Fig. 2b, f</xref>). The vomers were small. Their posterior ends separate the anterior ends of the palatines, but do not reach the pterygoids posteriorly, so that the palatines meet at the midline. Such a midline contact of the palatines was illustrated for the marine pleurosaurs by Carroll and Wild <xref ref-type="bibr" rid="pone.0046839-Carroll1">[17]</xref>, but not described in the text, and the line of contact is dotted in their reconstruction, so that some uncertainty of the condition in these animals remains. The palatines contact the maxillae laterally in a broad suture at about one third of the length of the latter bone, and form the posterior border of the internal choanae. The bones flank the pterygoids laterally over most of the length of the anterior process of the latter bone, taper posteriorly, and end a short way posterior to the posterior end of the maxillae. As in all sphenodontids, there is a raised ridge along the lateral edge of the posterior half of the palatines, but, due to preservation, it is uncertain if this ridge bore teeth, as it is the case in most taxa <xref ref-type="bibr" rid="pone.0046839-Whiteside1">[7]</xref>, <xref ref-type="bibr" rid="pone.0046839-Mller1">[8]</xref>. In contrast with derived rhynchocephalians <xref ref-type="bibr" rid="pone.0046839-Apestegua1">[18]</xref>, <xref ref-type="bibr" rid="pone.0046839-Rieppel1">[19]</xref>, but like the situation in basal forms <xref ref-type="bibr" rid="pone.0046839-Whiteside1">[7]</xref>, <xref ref-type="bibr" rid="pone.0046839-Fraser1">[20]</xref>, the ridge diverges from the maxillary posteriorly and is more or less parallel to the midline of the skull. The pterygoids taper anteriorly and broaden abruptly posteriorly towards the ventrolaterally extending pterygoid wings. There is no interpterygoid vacuity, but the pterygoids form a midline suture up to the basicranial articulation. Posteriorly, the slender, but well-developed, quadrate wings of the pterygoids diverge away from the ventral side of the braincase. A small fragment of bone lateral to the remnants of the left quadrate wing of the pterygoid might represent a remain of the pterygoid wing of the quadrate. Unlike basal rhynchocephalians, there are no teeth on the pterygoid. No suture between the quadrate wing of the pterygoid and the pterygoid wing of the quadrate is visible in the preserved portions, so the latter bone, which is not preserved, might have had a rather short pterygoid wing.</p>
+          <p>The ectopterygoid attaches anterolaterally to the pterygoid wing. It is unusual in that it has two lateral processes, one that contacts the posterior end of the maxilla, as in other rhynchocephalians, and a more anterior one that extends anterolaterally lateral to the palatine and contacts the medial side of the maxilla (<xref ref-type="fig" rid="pone-0046839-g002">Fig. 2b, f</xref>). This process forms the posterior border of the suborbital fenestra, which is surrounded by the palatine, maxilla, and ectopterygoid. Thus, the pterygoid is excluded from the rim of this fenestra, as in many other sphenodontids, but not more basal rhynchocephalians. In contrast to clevosaurs <xref ref-type="bibr" rid="pone.0046839-Fraser2">[21]</xref>, <xref ref-type="bibr" rid="pone.0046839-Sues1">[22]</xref>, <xref ref-type="bibr" rid="pone.0046839-Jones4">[23]</xref> there is no contact between the palatine and the ectopterygoid lateral to the fenestra. Together with the medial process of the maxilla, the secondary anterolateral process frames a large foramen lateral to the palatine ridge.</p>
+          <p>Only the floor of the braincase and the ventral parts of the occiput are preserved. The basisphenoid is narrow at the basicranial articulation, but rapidly widens posteriorly. The basipterygoid processes seem to be stout and short, but are mostly hidden by the pterygoids. The basisphenoid has a broad, shallow depression on the ventral side between the basipterygoid processes and the low, widely separated basal tubera. The occipital condyle is broad and not separated from the basioccipital body by a constricted neck, similar to the situation in the modern <italic>Sphenodon</italic>.</p>
+          <p>The lower jaw is 33 mm long and is especially notable for its high coronoid process, which exceeds the tooth row by approximately 8.7 mm in the right mandible and is thus almost 1.5 times higher than the body of the dentary (<xref ref-type="fig" rid="pone-0046839-g002">Fig. 2c, d</xref>). The dentary accounts for most of the length of the mandible, and, as in all rhynchocephalians, a posteroventral process of the dentary reaches posteriorly beyond the coronoid process to the level of the anterior margin of the mandibular articulation. A large incision in the posterodorsal margin of the dentary marks the enlarged mandibular foramen (<xref ref-type="fig" rid="pone-0046839-g002">Fig. 2c, e</xref>). A pronounced groove with several large foramina is present on the lateral side of the dentary, and its dorsal margin seems to be formed by a secondary bone skirt <xref ref-type="bibr" rid="pone.0046839-Jones1">[5]</xref>, <xref ref-type="bibr" rid="pone.0046839-Jones4">[23]</xref>, which probably accounts at least partially for the strong transverse thickening of the tooth-bearing part of the dentary. Anteriorly, the ventral margin of the bone extends ventrally to form a small, triangular “chin”, as it is present in many rhynchocephalians (e.g. <xref ref-type="bibr" rid="pone.0046839-Fraser1">[20]</xref>, <xref ref-type="bibr" rid="pone.0046839-Reynoso1">[24]</xref>–<xref ref-type="bibr" rid="pone.0046839-Reynoso3">[26]</xref>). There is no splenial.</p>
+          <p>The postdentary bones are entirely restricted to the posterior half of the mandible. The surangular makes up the posterior margin of the ventral part of the coronoid process and continues posteriorly to the end of the mandible. The mandibular articulation is developed as a longitudinal dorsal ridge on the articular. The ridge is sharp-edged dorsally and slightly displaced to the lateral side. Medially, it is flanked by a slightly anteroposteriorly concave medial bulge that becomes more pronounced posteriorly. This morphology is similar to the condition in derived rhynchocephalians, possibly indicating a propalinal movement of the lower jaw. The retroarticular process is short and stout. The medial side of the coronoid is thickened and forms a pronounced shelf below the tip of the coronoid process.</p>
+          <p>The most unusual character of the new taxon is the dentition. Unlike the situation in any other rhynchocephalian, broad tooth plates are present in both the maxillaries and dentaries. The maxillary tooth plates (<xref ref-type="fig" rid="pone-0046839-g002">Fig. 2b, f</xref>, <xref ref-type="fig" rid="pone-0046839-g003">3a</xref>) are broad posteriorly and narrow in their anterior half. They are 13 mm long and 4 mm wide at their widest part. The lateral edge of the tooth plates is slightly raised and shows a few small bumps. The dentary tooth plates are elongate and oval to subrectangular in outline, with a length of 13 mm and a maximum width of 3.5 mm. CT data shows that the central part of the tooth plate is placed in a broad depression on the dorsal surface of the mandible, though the tooth implantation can still be regarded as acrodont rather than protothecodont, as it is the case in some basal rhynchocephalians <xref ref-type="bibr" rid="pone.0046839-Fraser3">[27]</xref>.</p>
+          <p>Under closer inspection, the surfaces of the tooth plates show small, but clearly defined, round, oval, or angular subunits, made up of concentric dentine layers with a small central cavity (<xref ref-type="fig" rid="pone-0046839-g003">Fig. 3</xref>). Fine striations radiate outwards from the central cavity. Micro CT-images of the dentary tooth plate show that these dentine tubes extend over the entire height of the plate (<xref ref-type="fig" rid="pone-0046839-g004">Fig. 4</xref>). In the basal part, the central cavities become larger and form large, elongate cavities at the base of the tooth plate. In some instances, the central cavities of the dentine tubes bifurcate in their course from the base to the occlusal surface. Tooth enamel seems to be absent, but the dentine tubes are tightly cemented together towards the occlusal surface. At the occlusal surface, the central cavities of the tubes also seem to be filled with cement. The dentine tubes are generally somewhat larger in the central parts of the tooth plate, but become smaller towards the margins (<xref ref-type="fig" rid="pone-0046839-g003">Fig. 3a</xref>). The dentine tubes reach further ventrally in the anterior part of the dentary than in the posterior part, which might indicate a later addition of posterior dentine tubes during ontogeny, as it is the case with individual teeth in other rhynchocephalians <xref ref-type="bibr" rid="pone.0046839-Robinson1">[9]</xref>.</p>
+        </sec>
+      </sec>
+      <sec id="s3b">
+        <title>Systematic position</title>
+        <p>Despite its apomorphic cranial morphology and highly unusual dentition, cladistic analysis (see <xref ref-type="supplementary-material" rid="pone.0046839.s001">Information S1</xref>) places <italic>Oenosaurus</italic> well within the Rhynchocephalia (<xref ref-type="fig" rid="pone-0046839-g005">Fig. 5</xref>), because the taxon shows numerous synapomorphies of this clade and more exclusive ingroups, such s Sphenodontia and Sphenodontidae. These characters include a pronounced ridge or tooth row laterally on the palatine, a high coronoid process in the mandible, a posterior process of the dentary that extends posterior to the coronoid process, an enlarged mandibular foramen, the lack of a splenial, and an acrodont dentition <xref ref-type="bibr" rid="pone.0046839-Apestegua1">[18]</xref>, <xref ref-type="bibr" rid="pone.0046839-Sues1">[22]</xref>, <xref ref-type="bibr" rid="pone.0046839-Reynoso3">[26]</xref>, <xref ref-type="bibr" rid="pone.0046839-Fraser4">[28]</xref>–<xref ref-type="bibr" rid="pone.0046839-Dupret1">[30]</xref>. Within rhynchocephalians, <italic>Oenosaurus</italic> even falls within the clade that includes the Recent form, the Sphenodontinae <xref ref-type="bibr" rid="pone.0046839-Jones1">[5]</xref>, <xref ref-type="bibr" rid="pone.0046839-Reynoso1">[24]</xref>, though support for this placement is weak (see <xref ref-type="supplementary-material" rid="pone.0046839.s001">Information S1</xref>), and further material of this taxon (and others, which, with the exception of <italic>Sphenodon</italic>, are generally poorly known <xref ref-type="bibr" rid="pone.0046839-Jones1">[5]</xref>) might lead to changes in this part of the tree. Nevertheless, the phylogenetic position of the new taxon within Sphenodontidae (sensu <xref ref-type="bibr" rid="pone.0046839-Reynoso1">[24]</xref>) is well supported.</p>
+        <fig id="pone-0046839-g005" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0046839.g005</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Phylogenetic relationships of <italic>Oenosaurus muehlheimensis</italic> within rhynchocephalians.</title>
+            <p>Cladistic analysis of 70 osteological characters in 19 rhynchocephalian and two outgroup taxa resulted in the recovery of 2 trees with 184 steps (see <xref ref-type="supplementary-material" rid="pone.0046839.s001">Information S1</xref>). A strict consensus tree shows <italic>Oenosaurus</italic> well nested within sphenodontine rhynchocephalians, as a close relative to the Recent <italic>Sphenodon</italic>. 1, Rhynchocephalia; 2, Sphenodontinae.</p>
+          </caption>
+          <graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0046839.g005" position="float" xlink:type="simple"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <title>Discussion</title>
+      <p>The dentition of <italic>Oenosaurus</italic> is unique amongst tetrapods. Although tooth batteries are known in a small number of groups, including captorhinomorphs, rhynchosaurs, and advanced ornithischian dinosaurs, and plate-like teeth are present in placodonts, the detailed structure of these dentitions was markedly different (see <xref ref-type="bibr" rid="pone.0046839-Benton1">[31]</xref>–<xref ref-type="bibr" rid="pone.0046839-Peyer1">[33]</xref>). The tooth plates of <italic>Oenosaurus</italic> consist of a multitude of minute, closely packed and co-cemented dentine tubes without any discernible pattern of tooth rows or tooth generations. Although the dentine tubes as visible on the occlusal surfaces resemble individual teeth, CT images of the tooth plate show that they are elongate tubes extending for the entire height of the tooth plate, becoming wider towards a basal cavity just above the mandibular bone (<xref ref-type="fig" rid="pone-0046839-g004">Fig. 4</xref>). A very similar structure of pulpal canals (sometimes called denteons, due to their similarity to osteones in bone) surrounded by circumpulpal dentine is present in the continuously growing tooth plates of chimaerans and dipnoans (e.g. <xref ref-type="bibr" rid="pone.0046839-rvig1">[34]</xref>–<xref ref-type="bibr" rid="pone.0046839-Campbell1">[37]</xref>). These kinds of tissues are called pleromin in chimaerans and petrodentine in dipnoans and are structurally very similar, though differ in mineralogical composition <xref ref-type="bibr" rid="pone.0046839-Lund1">[38]</xref>. Osteodentine (dentine with osteone-like denteones and circumpulpal dentine) is also present in the continuously growing teeth of xenarthran mammals <xref ref-type="bibr" rid="pone.0046839-Kalthoff1">[39]</xref>. The structure of the teeth in <italic>Oenosaurus</italic> is similar to that in these taxa, indicating that the tooth plates in this taxon might also have been growing continuously, balanced by wear on the surface of the plate, as in chimaerans <xref ref-type="bibr" rid="pone.0046839-Didier1">[36]</xref>. A similar pattern of continuous growth and wear of the teeth was also hypothesized for the Early Cretaceous rhynchocephalian <italic>Ankylosphenodon</italic> by Reynoso <xref ref-type="bibr" rid="pone.0046839-Reynoso4">[40]</xref>. However, the teeth of the latter taxon differ from the tooth plates of <italic>Oenosaurus</italic> in representing separate teeth, being inserted into a deep groove in the jaw, the crowns having a triangular morphology in lateral view, and the presence of enamel at least in unworn teeth.</p>
+      <p>An interesting problem is the evolution of these tooth plates. The phylogenetic position of <italic>Oenosaurus</italic> shows that this taxon is well nested within taxa that have the specialized acrodont dentition typical for sphenodontids. The very peculiar plates are therefore derived from such a dentition and demonstrate a surprising evolutionary plasticity of such a seemingly highly specialized tooth anlage <xref ref-type="bibr" rid="pone.0046839-Robinson1">[9]</xref>. A possible, but currently untestable, hypothesis of the evolution of these tooth plates might be that they formed by fusion and modification of the hatchling dentition, which consists of small, peg-like teeth with active tooth replacement in several rhynchocephalians <xref ref-type="bibr" rid="pone.0046839-Heckert1">[41]</xref>, including the modern <italic>Sphenodon</italic> <xref ref-type="bibr" rid="pone.0046839-Harrison1">[42]</xref>, <xref ref-type="bibr" rid="pone.0046839-Rieppel2">[43]</xref>. However, further studies and, possibly, further discoveries of this or other taxa with similar dentitions are necessary to test this hypothesis.</p>
+      <p>One important question concerns the feeding ecology of <italic>Oenosaurus</italic>. The broad occlusal surface of both the upper and lower jaw argues against a cutting or tearing function, as it is present in most rhynchocephalians <xref ref-type="bibr" rid="pone.0046839-Jones3">[10]</xref>. A herbivorous diet, as it has been proposed for the continuously growing dentition of <italic>Ankylosphenodon</italic> <xref ref-type="bibr" rid="pone.0046839-Reynoso4">[40]</xref>, also seems unlikely. Although a broad occlusal surface with the possibility of some propalinal movement might be suitable for at least some kind of oral processing in a herbivore, the lack of enamel and thus cutting edges in the teeth and the lack of cropping teeth or a cutting edge in at least the anterior end of the dentary argues against such an interpretation. Furthermore, although a strict relationship between large body size and herbivory in lizards <xref ref-type="bibr" rid="pone.0046839-Pough1">[44]</xref> could not be confirmed <xref ref-type="bibr" rid="pone.0046839-Espinoza1">[45]</xref> there seems to be a general relationship between herbivory and large body size in this clade <xref ref-type="bibr" rid="pone.0046839-Meiri1">[46]</xref>. Thus, the small body size of <italic>Oenosaurus</italic> is more consistent with a carnivorous or omnivorous diet <xref ref-type="bibr" rid="pone.0046839-Meiri1">[46]</xref>. On the other hand, a crushing dentition in the lizard <italic>Dracaena</italic> was found to be associated with a reinforcement of the palate <xref ref-type="bibr" rid="pone.0046839-Dalrymple1">[47]</xref>, as it is also the case in the new taxon. The closed interpterygoid vacuity and the bifurcated lateral process of the ectopterygoid, leading to an interlocking articulation between this bone and the maxilla, both help to strengthen this structure and indicate a necessity to withstand high bite forces. Thus, a durophagous diet for <italic>Oenosaurus</italic> seems to be most likely. Unfortunately, since only the skull of this taxon is preserved, nothing can be said about whether it was terrestrial or aquatic. In an aquatic taxon, a diet of molluscs and crabs might be inferred, whereas a terrestrial animal might have fed on snails and insects with a thick endoskeleton. Phylogenetically, the new taxon is nested within fully terrestrial forms, but more complete material is needed to evaluate its ecological preferences.</p>
+      <p>Despite their specialized dentition, rhynchocephalians are quite variable in their tooth morphology. Rhynchocephalian teeth can be referred to three basic functional types <xref ref-type="bibr" rid="pone.0046839-Jones3">[10]</xref>: basal forms usually have small, conical teeth that are mainly used for piercing, most sphenodontids have anteroposteriorly elongate teeth that are used for cutting and slicing, and opisthodontians <xref ref-type="bibr" rid="pone.0046839-Apestegua1">[18]</xref> have transversely expanded teeth capable of grinding and shredding. These different tooth types can roughly be equated with insectivory, generalized carnivory (or piscivory, in the marine pleurosaurs), and herbivory, respectively <xref ref-type="bibr" rid="pone.0046839-Jones3">[10]</xref>. The tooth plates of <italic>Oenosaurus</italic> now demonstrate a further type of dentition in rhynchocephalians, a crushing dentition, indicating a durophagous diet. Therefore, the new taxon adds a further trophic adaptation and a previously unknown ecotype to the already recognized ecological diversity of Mesozoic rhynchocephalians <xref ref-type="bibr" rid="pone.0046839-Jones3">[10]</xref>.</p>
+      <p>The occurrence of a highly specialized rhynchocephalian close to the decline of the group in the Cretaceous <xref ref-type="bibr" rid="pone.0046839-Evans2">[4]</xref>, <xref ref-type="bibr" rid="pone.0046839-Apestegua2">[48]</xref> underlines their morphological and ecological diversity at that time (<xref ref-type="fig" rid="pone-0046839-g006">Fig. 6</xref>). In addition to the durophagous <italic>Oenosaurus</italic>, Late Jurassic and Early Cretaceous rhynchocephalians include long-legged, carnivorous or insectivorous terrestrial forms, such as <italic>Homeosaurus</italic>, herbivorous forms with a grinding dentition, such as <italic>Eilenodon</italic>, the enigmatic, probably edentulous aquatic <italic>Sapheosaurus</italic>, and the aquatic, probably piscivorous pleurosaurids <xref ref-type="bibr" rid="pone.0046839-Evans2">[4]</xref>, <xref ref-type="bibr" rid="pone.0046839-Jones2">[6]</xref>, <xref ref-type="bibr" rid="pone.0046839-Dupret1">[30]</xref>, <xref ref-type="bibr" rid="pone.0046839-CocudeMichel1">[49]</xref>. Thus, rhynchocephalians were at their highest morphological and ecological diversity at a time when squamate radiations were already well under way <xref ref-type="bibr" rid="pone.0046839-Mller1">[8]</xref> and Mesozoic mammals had achieved a remarkable diversity <xref ref-type="bibr" rid="pone.0046839-Luo1">[50]</xref>. This casts doubts on the idea that rhynchocephalians were evolutionary inferior to and displaced by squamates and/or Mesozoic mammals during the later Mesozoic <xref ref-type="bibr" rid="pone.0046839-Evans1">[1]</xref>, <xref ref-type="bibr" rid="pone.0046839-Evans2">[4]</xref>, <xref ref-type="bibr" rid="pone.0046839-Milner1">[51]</xref>. It has been suggested that rhynchocephalians show a preference for xenic environments in the Mesozoic <xref ref-type="bibr" rid="pone.0046839-Jones4">[23]</xref>, <xref ref-type="bibr" rid="pone.0046839-Evans3">[52]</xref>. Thus, climate change from predominantly xenic conditions in the Jurassic to more mesic conditions in the course of the break-up of Pangaea in the Cretaceous <xref ref-type="bibr" rid="pone.0046839-Hallam1">[53]</xref>, might have been responsible for the decline of this group.</p>
+      <fig id="pone-0046839-g006" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0046839.g006</object-id>
+        <label>Figure 6</label>
+        <caption>
+          <title>Calibrated phylogeny of rhynchocephalians, indicating different tooth types and dietary interpretations.</title>
+          <p>T, functional tooth type; D, interpretation of dietary preferences.</p>
+        </caption>
+        <graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0046839.g006" position="float" xlink:type="simple"/>
+      </fig>
+    </sec>
+    <sec id="s5">
+      <title>Supporting Information</title>
+      <supplementary-material id="pone.0046839.s001" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="info:doi/10.1371/journal.pone.0046839.s001" position="float" xlink:type="simple">
+        <label>Information S1</label>
+        <caption>
+          <p>
+            <bold>Character list, data matrix, analytical procedures, consensus trees, and list of synapomorphies at internal nodes for the cladistic analysis mentioned in the text.</bold>
+          </p>
+          <p>(DOCX)</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Roland Pöschl, who found the fossil, and the owners and operators of the Krautworst Naturstein quarry, Ulrich Leonhardt, Roland Pöschl and Uwe Krautworst, for donating the specimen to the BSPG. Ulrich Leonhardt, Stefan Sónyi, and Renate Liebreich are thanked for preparation of the fossil. The paper benefited from discussions with Marc Jones and Alexander Nützel. Furthermore, critical comments by Marc Jones and Nick Fraser considerably helped to improve the paper. CT scans were carried out at the Steinmann Institute of the University of Bonn with the help of Irina Ruf, which is greatly appreciated.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0046839-Evans1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Evans SE, Jones MEH (2010) The origins, early history and diversification of lepidosauromorph reptiles. In Bandyopadhyay S, editor. New aspects of Mesozoic biodiversity. Lecture notes in earth sciences. Springer Berlin/Heidelberg. pp. 22–44.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Ung1">
+        <label>2</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ung</surname><given-names>CY-J</given-names></name>, <name name-style="western"><surname>Molteno</surname><given-names>ACB</given-names></name> (<year>2004</year>) <article-title>An enigmatic eye: the histology of the tuatara pinneal complex</article-title>. <source>Clinical &amp; Experimental Ophthalmology</source> <volume>32</volume>: <fpage>614</fpage>–<lpage>618</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Reilly1">
+        <label>3</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Reilly</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>McElroy</surname><given-names>EJ</given-names></name>, <name name-style="western"><surname>Odum</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Hornyak</surname><given-names>VA</given-names></name> (<year>2006</year>) <article-title>Tuataras and salamanders show that walking and running mechanisms are ancient features of tetrapod locomotion</article-title>. <source>Proceedings of the Royal Society of London B</source> <volume>273</volume>: <fpage>1563</fpage>–<lpage>1568</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Evans2">
+        <label>4</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Evans</surname><given-names>SE</given-names></name>, <name name-style="western"><surname>Prasad</surname><given-names>GVR</given-names></name>, <name name-style="western"><surname>Manhas</surname><given-names>BK</given-names></name> (<year>2001</year>) <article-title>Rhynchocephalians (Diapsida: Lepidosauria) from the Jurassic Kota Formation of India</article-title>. <source>Zoological Journal of the Linnean Society</source> <volume>133</volume>: <fpage>309</fpage>–<lpage>334</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Jones1">
+        <label>5</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jones</surname><given-names>MEH</given-names></name>, <name name-style="western"><surname>Tennyson</surname><given-names>AJD</given-names></name>, <name name-style="western"><surname>Worthy</surname><given-names>JP</given-names></name>, <name name-style="western"><surname>Evans</surname><given-names>SE</given-names></name>, <name name-style="western"><surname>Worthy</surname><given-names>TH</given-names></name> (<year>2009</year>) <article-title>A sphenodontine (Rhynchocephalia) from the Miocene of New Zealand and palaeobiogeography of the tuatara (<italic>Sphenodon</italic>)</article-title>. <source>Proceedings of the Royal Society London B</source> <volume>276</volume>: <fpage>1385</fpage>–<lpage>1390</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Jones2">
+        <label>6</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jones</surname><given-names>MEH</given-names></name> (<year>2008</year>) <article-title>Skull shape and feeding strategy in <italic>Sphenodon</italic> and other Rhynchocephalia (Diapsida: Lepidosauria)</article-title>. <source>Journal of Morphology</source> <volume>269</volume>: <fpage>945</fpage>–<lpage>966</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Whiteside1">
+        <label>7</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Whiteside</surname><given-names>DI</given-names></name> (<year>1986</year>) <article-title>The head skeleton of the Rhaetian sphenodontid <italic>Diphydontosaurus avonis</italic> gen. et sp. nov., and the modernising of a living fossil</article-title>. <source>Philosophical Transactions of the Royal Society of London B</source> <volume>312</volume>: <fpage>379</fpage>–<lpage>430</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Mller1">
+        <label>8</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Müller</surname><given-names>J</given-names></name> (<year>2003</year>) <article-title>Early loss and multiple return of the lower temporal arcade in diasid reptiles</article-title>. <source>Naturwissenschaften</source> <volume>90</volume>: <fpage>473</fpage>–<lpage>476</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Robinson1">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Robinson PL (1976) How <italic>Sphenodon</italic> and <italic>Uromastyx</italic> grow their teeth and use them. In: Bellairs AdA, Cox CB, editors. Morphology and biology of reptiles. London: Academic Press. pp. 43–64.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Jones3">
+        <label>10</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jones</surname><given-names>MEH</given-names></name> (<year>2009</year>) <article-title>Dentary tooth shape in <italic>Sphenodon</italic> and its fossil relatives (Diapsida: Lepidosauria: Rhynchocephalia)</article-title>. <source>Frontiers of Oral Biology</source> <volume>13</volume>: <fpage>9</fpage>–<lpage>15</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Gorniak1">
+        <label>11</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gorniak</surname><given-names>GC</given-names></name>, <name name-style="western"><surname>Rosenberg</surname><given-names>HI</given-names></name>, <name name-style="western"><surname>Gans</surname><given-names>C</given-names></name> (<year>1982</year>) <article-title>Mastication in the tuatara, <italic>Sphenodon punctatus</italic> (Reptilia: Rhynchocephalia): structure and activity of the motor system,</article-title>. <source>Journal of Morphology</source> <volume>171</volume>: <fpage>321</fpage>–<lpage>353</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Haeckel1">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Haeckel E (1866) Generelle Morphologie der Organismen, Allgemeine Grundzuge der Organischen Formen-Wissenschaft, Mechanisch Begründet Durch die von Charles Darwin Reformirte Descendez-Theorie. Berlin: Verlag von Georg Reimer. 462 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Gnther1">
+        <label>13</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Günther</surname><given-names>A</given-names></name> (<year>1867</year>) <article-title>Contribution to the anatomy of <italic>Hatteria</italic> (Rhynchocephalus, Owen)</article-title>. <source>Proceedings of the Royal Society of London</source> <volume>15</volume>: <fpage>460</fpage>–<lpage>462</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Williston1">
+        <label>14</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Williston SW (1925) The osteology of reptiles. Cambridge: Harvard University Press. 300 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Cope1">
+        <label>15</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Cope</surname><given-names>ED</given-names></name> (<year>1871</year>) <article-title>On the homologies of some of the cranial bones of the Reptilia, and on the systematic arrangement of the class</article-title>. <source>Proceedings of the American Association for the Advancement of Science</source> <volume>19</volume>: <fpage>194</fpage>–<lpage>247</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Schmid1">
+        <label>16</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Schmid</surname><given-names>DU</given-names></name>, <name name-style="western"><surname>Leinfelder</surname><given-names>RR</given-names></name>, <name name-style="western"><surname>Schweigert</surname><given-names>G</given-names></name> (<year>2005</year>) <article-title>Stratigraphy and palaeoenvironments of the Upper Jurassic of Southern Germany - a review</article-title>. <source>Zitteliana</source> <volume>B26</volume>: <fpage>31</fpage>–<lpage>41</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Carroll1">
+        <label>17</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Carroll RL, Wild R (1994) Marine members of the Sphenodontia. In: Fraser NC, Sues H-D, editors. In the shadow of the dinosaurs: early Mesozoic tetrapods. Cambridge: Cambridge University Press. pp. 70–83.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Apestegua1">
+        <label>18</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Apesteguía</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Novas</surname><given-names>FE</given-names></name> (<year>2003</year>) <article-title>Large Cretaceous sphenodontian from Patagonia provides insight into lepidosaur evolution in Gondwana</article-title>. <source>Nature</source> <volume>425</volume>: <fpage>609</fpage>–<lpage>612</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Rieppel1">
+        <label>19</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rieppel</surname><given-names>O</given-names></name>, <name name-style="western"><surname>Gauthier</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Maisano</surname><given-names>J</given-names></name> (<year>2008</year>) <article-title>Comparative morphology of the dermal palate in squamate reptiles, with comments on phylogenetic implications</article-title>. <source>Zoological Journal of the Linnean Society</source> <volume>152</volume>: <fpage>131</fpage>–<lpage>152</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Fraser1">
+        <label>20</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fraser</surname><given-names>NC</given-names></name> (<year>1982</year>) <article-title>A new rhynchocephalian from the British Upper Trias</article-title>. <source>Palaeontology</source> <volume>25</volume>: <fpage>709</fpage>–<lpage>725</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Fraser2">
+        <label>21</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fraser</surname><given-names>NC</given-names></name> (<year>1988</year>) <article-title>The osteology and relationships of <italic>Clevosaurus</italic> (Reptilia: Sphenodontida)</article-title>. <source>Philosophycal Transactions of the Royal Society of London B</source> <volume>321</volume>: <fpage>125</fpage>–<lpage>178</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Sues1">
+        <label>22</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sues</surname><given-names>H-D</given-names></name>, <name name-style="western"><surname>Shubin</surname><given-names>NH</given-names></name>, <name name-style="western"><surname>Olsen</surname><given-names>PE</given-names></name> (<year>1994</year>) <article-title>A new sphenodontian (Lepidosauria: Rhynchocephalia) from the McCoy Brook Formation (Lower Jurassic) of Nova Scotia, Canada</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>14</volume>: <fpage>327</fpage>–<lpage>340</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Jones4">
+        <label>23</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jones</surname><given-names>MEH</given-names></name> (<year>2006</year>) <article-title>The Jurassic clevosaurs from China</article-title>. In: <source>New Mexico Museum of Natural History and Science Bulletin</source> <name name-style="western"><surname>Harris</surname><given-names>JD</given-names></name>, <name name-style="western"><surname>Lucas</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Kirkland</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Milner</surname><given-names>ARC</given-names></name>, editors. <article-title>The Triassic/Jurassic terrestrial transition</article-title>. <volume>37</volume>: <fpage>548</fpage>–<lpage>562</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Reynoso1">
+        <label>24</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Reynoso</surname><given-names>V-H</given-names></name> (<year>1996</year>) <article-title>A Middle Jurassic <italic>Sphenodon</italic>-like sphenodontian (Diapsida: Lepidosauria) from Huizachal Canyon, Tamaulipas, Mexico</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>16</volume>: <fpage>210</fpage>–<lpage>221</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Reynoso2">
+        <label>25</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Reynoso</surname><given-names>VH</given-names></name> (<year>1997</year>) <article-title>A ‘beaded’ sphenodontian (Diapsida: Lepidosauria) from the Early Cretaceous of central Mexico</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>17</volume>: <fpage>52</fpage>–<lpage>59</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Reynoso3">
+        <label>26</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Reynoso</surname><given-names>VH</given-names></name> (<year>2005</year>) <article-title>Possible evidence of a venom apparatus in a Middle Jurassic sphenodontian from the Huizachal Red Beds of Tamaulipas, México</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>25</volume>: <fpage>646</fpage>–<lpage>654</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Fraser3">
+        <label>27</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fraser</surname><given-names>NC</given-names></name>, <name name-style="western"><surname>Shelton</surname><given-names>CG</given-names></name> (<year>1988</year>) <article-title>Studies of tooth implantation in fossil tetrapods using high resolution X-radiography</article-title>. <source>Geological Magazine</source> <volume>125</volume>: <fpage>117</fpage>–<lpage>122</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Fraser4">
+        <label>28</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fraser</surname><given-names>NC</given-names></name>, <name name-style="western"><surname>Benton</surname><given-names>MJ</given-names></name> (<year>1989</year>) <article-title>The Triassic reptiles <italic>Brachyrhinodon</italic> and <italic>Polysphenodon</italic> and the relationships of the sphenodontids</article-title>. <source>Zoological Journal of the Linnean Society</source> <volume>96</volume>: <fpage>413</fpage>–<lpage>445</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Wu1">
+        <label>29</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Wu X-C (1994) Late Triassic - Early Jurassic sphenodontians from China and the phylogeny of the Sphenodontia. In: Fraser NC, Sues H-D, editors. In the shadow of the dinosaurs: early Mesozoic tetrapods. Cambridge: Cambridge University Press. pp. 38–69.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Dupret1">
+        <label>30</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dupret</surname><given-names>V</given-names></name> (<year>2004</year>) <article-title>The pleurosaurs: anatomy and phylogeny</article-title>. <source>Revue de Paléobiologie, Vol spéc</source> <volume>9</volume>: <fpage>61</fpage>–<lpage>80</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Benton1">
+        <label>31</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Benton</surname><given-names>MJ</given-names></name> (<year>1984</year>) <article-title>Tooth form, growth, and function in Triassic rhynchosaurs (Reptilia, Diapsida)</article-title>. <source>Palaeontology</source> <volume>27</volume>: <fpage>737</fpage>–<lpage>776</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Bell1">
+        <label>32</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bell</surname><given-names>PR</given-names></name>, <name name-style="western"><surname>Snively</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Shychoski</surname><given-names>L</given-names></name> (<year>2009</year>) <article-title>A comparison of the jaw mechanics in hadrosaurid and ceratopsid dinosaurs using Finite Element Analysis</article-title>. <source>The Anatomical Record</source> <volume>292</volume>: <fpage>1338</fpage>–<lpage>1351</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Peyer1">
+        <label>33</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Peyer B (1968) Comparative odontology. Chicago: The University of Chicago Press. 458 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-rvig1">
+        <label>34</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ørvig</surname><given-names>T</given-names></name> (<year>1976</year>) <article-title>The interpretation of osteodentine, with remarks on the dentition in the Devonian dipnoan <italic>Griphognathus</italic></article-title>. <source>Zoologica Scripta</source> <volume>5</volume>: <fpage>79</fpage>–<lpage>96</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-rvig2">
+        <label>35</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ørvig</surname><given-names>T</given-names></name> (<year>1985</year>) <article-title>Histologic studies of ostracoderms, placoderms and fossil elasmobranchs 5. Ptyctodontid tooth plates and their bearing on holocephalan ancestry: the condition of chimaerids</article-title>. <source>Zoologica Scripta</source> <volume>14</volume>: <fpage>55</fpage>–<lpage>79</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Didier1">
+        <label>36</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Didier</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Stahl</surname><given-names>BJ</given-names></name>, <name name-style="western"><surname>Zangerl</surname><given-names>R</given-names></name> (<year>1994</year>) <article-title>Development and growth of compound tooth plates in <italic>Callorhinchus milii</italic> (Chondrichthyes, Holocephali)</article-title>. <source>Journal of Morphology</source> <volume>222</volume>: <fpage>73</fpage>–<lpage>89</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Campbell1">
+        <label>37</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Campbell</surname><given-names>KSW</given-names></name>, <name name-style="western"><surname>Barwick</surname><given-names>RE</given-names></name> (<year>2007</year>) <article-title>The structure and stratigraphy of <italic>Speonesydrion</italic> from New South Wales, Australia, and the dentition of primitive dipnoans</article-title>. <source>Paläontologische Zeitschrift</source> <volume>81</volume>: <fpage>146</fpage>–<lpage>159</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Lund1">
+        <label>38</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Lund R, Bartholomew P, Kemp A (1992) The composition of the dental hard tissues of fishes. In: Smith P, Tchernov E, editors. Structure function and evolution of teeth. London and Tel Aviv: Freund Publishing House Ltd. pp. 35–72.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Kalthoff1">
+        <label>39</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kalthoff</surname><given-names>DC</given-names></name> (<year>2011</year>) <article-title>Microstructure of dental hard tissues in fossil and recent xenarthrans (Mammalia: Folivora and Cingulata)</article-title>. <source>Journal of Morphology</source> <volume>272</volume>: <fpage>641</fpage>–<lpage>661</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Reynoso4">
+        <label>40</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Reynoso</surname><given-names>VH</given-names></name> (<year>2000</year>) <article-title>An unusual aquatic sphenodontian (Reptilia: Diapsida) from the Tlayúa Formation (Albian), central México</article-title>. <source>Journal of Paleontolology</source> <volume>74</volume>: <fpage>133</fpage>–<lpage>148</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Heckert1">
+        <label>41</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Heckert</surname><given-names>AB</given-names></name>, <name name-style="western"><surname>Lucas</surname><given-names>SG</given-names></name>, <name name-style="western"><surname>Rinehart</surname><given-names>LF</given-names></name>, <name name-style="western"><surname>Hunt</surname><given-names>AP</given-names></name> (<year>2008</year>) <article-title>A new genus and species of sphenodontian from the Ghost Ranch <italic>Coelophysis</italic> quarry (Upper Triassic: Apachean), Rock Point Formation, New Mexico, USA</article-title>. <source>Palaeontology</source> <volume>51</volume>: <fpage>827</fpage>–<lpage>845</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Harrison1">
+        <label>42</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Harrison</surname><given-names>HS</given-names></name> (<year>1901</year>) <article-title>Development and succession of the teeth in <italic>Hatteria punctata</italic></article-title>. <source>Quarterly Journal of Microscopical Science</source> <volume>44</volume>: <fpage>161</fpage>–<lpage>213</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Rieppel2">
+        <label>43</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rieppel</surname><given-names>O</given-names></name> (<year>1992</year>) <article-title>The skull in a hatchling of <italic>Sphenodon punctatus</italic></article-title>. <source>Journal of Herpetology</source> <volume>26</volume>: <fpage>80</fpage>–<lpage>84</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Pough1">
+        <label>44</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pough</surname><given-names>FH</given-names></name> (<year>1973</year>) <article-title>Lizard energetics and diet</article-title>. <source>Ecology</source> <volume>54</volume>: <fpage>837</fpage>–<lpage>844</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Espinoza1">
+        <label>45</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Espinoza</surname><given-names>RE</given-names></name>, <name name-style="western"><surname>Wiens</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Tracy</surname><given-names>CR</given-names></name> (<year>2004</year>) <article-title>Recurrent evolution of herbivory in small, cold climate lizards: braking the ecophysiological rules of reptilian herbivory</article-title>. <source>PNAS</source> <volume>101</volume>: <fpage>16819</fpage>–<lpage>16824</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Meiri1">
+        <label>46</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Meiri</surname><given-names>S</given-names></name> (<year>2008</year>) <article-title>Evolution and ecology of lizard body sizes</article-title>. <source>Global Ecology and Biogeography</source> <volume>17</volume>: <fpage>724</fpage>–<lpage>734</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Dalrymple1">
+        <label>47</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dalrymple</surname><given-names>GH</given-names></name> (<year>1979</year>) <article-title>On the jaw mechanism of the snail-crushing lizards, <italic>Dracaena</italic> Daudin 1802 (Reptilia, Lacertilla, Teiidae)</article-title>. <source>Journal of Herpetology</source> <volume>13</volume>: <fpage>303</fpage>–<lpage>311</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Apestegua2">
+        <label>48</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Apesteguía</surname><given-names>S</given-names></name> (<year>2007</year>) <article-title>La evolución de los lepidosaurios</article-title>. <source>Investigación y Ciencia</source> <volume>367</volume>: <fpage>54</fpage>–<lpage>63</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-CocudeMichel1">
+        <label>49</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Cocude-Michel</surname><given-names>M</given-names></name> (<year>1963</year>) <article-title>Les Rhynchocéphales et les Sauriens des Calcaires lithographiques (Jurassique supérieur) d'Europe occidentale</article-title>. <source>Nouvelles Archives du Muséum d'Histoire Naturelle de Lyon</source> <volume>7</volume>: <fpage>1</fpage>–<lpage>187</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Luo1">
+        <label>50</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Luo</surname><given-names>Z-X</given-names></name> (<year>2007</year>) <article-title>Transformation and diversification in early mammal evolution</article-title>. <source>Nature</source> <volume>450</volume>: <fpage>1011</fpage>–<lpage>1019</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Milner1">
+        <label>51</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Milner AC, Milner AR, Evans SE (2000) Global changes and biota: amphibians, reptiles and birds. In: Culver S, Rawson P, editors. Biotic response to global change: the last 145 million years. Cambridge, UK: Cambridge University Press. pp. 316–332</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Evans3">
+        <label>52</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Evans</surname><given-names>SE</given-names></name> (<year>1998</year>) <article-title>Lepidosaurian faunas from the Early Cretaceous: a clade in transition</article-title>. <source>New Mexico Museum of Natural History and Science Bulletin</source> <volume>14</volume>: <fpage>195</fpage>–<lpage>200</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Hallam1">
+        <label>53</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hallam</surname><given-names>A</given-names></name> (<year>1984</year>) <article-title>Continental humid and arid zones during the Jurassic and Cretaceous</article-title>. <source>Palaeogeography, Palaeoclimatology, Palaeoecology</source> <volume>47</volume>: <fpage>195</fpage>–<lpage>223</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-LpezArbarello1">
+        <label>54</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>López-Arbarello</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Sferco</surname><given-names>E</given-names></name> (<year>2011</year>) <article-title>New semionotiform (Actinopterygii: Neopterygii) from the Late Jurassic of southern Germany</article-title>. <source>Journal of Systematic Palaeontology</source> <volume>9</volume> (<issue>2</issue>)  <fpage>197</fpage>–<lpage>215</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0046839-Frsich1">
+        <label>55</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fürsich</surname><given-names>FT</given-names></name>, <name name-style="western"><surname>Werner</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Schneider</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Mäuser</surname><given-names>M</given-names></name> (<year>2007</year>) <article-title>Sedimentology, taphonomy, and palaeoecology of a laminated plattenkalk from the Kimmeridgian of the northern Franconian Alb (southern Germany)</article-title>. <source>Palaeogeography, Palaeoclimatology, Palaeoecology</source> <volume>243</volume>: <fpage>92</fpage>–<lpage>117</lpage>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

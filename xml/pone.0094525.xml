@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group>
+<journal-title>PLoS ONE</journal-title></journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">PONE-D-13-23714</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pone.0094525</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology and life sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Biological tissue</subject><subj-group><subject>Connective tissue</subject><subj-group><subject>Bone</subject></subj-group></subj-group></subj-group><subj-group><subject>Musculoskeletal system</subject></subj-group></subj-group><subj-group><subject>Biomechanics</subject><subj-group><subject>Bone and joint mechanics</subject></subj-group></subj-group><subj-group><subject>Biophysics</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine and health sciences</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Physical sciences</subject><subj-group><subject>Physics</subject></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>Torsion and Antero-Posterior Bending in the <italic>In Vivo</italic> Human Tibia Loading Regimes during Walking and Running</article-title>
+<alt-title alt-title-type="running-head">Torsion and Bending in Human Tibia Loading</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Yang</surname><given-names>Peng-Fei</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Sanno</surname><given-names>Maximilian</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Ganse</surname><given-names>Bergita</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Koy</surname><given-names>Timmo</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Brüggemann</surname><given-names>Gert-Peter</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Müller</surname><given-names>Lars Peter</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Rittweger</surname><given-names>Jörn</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><addr-line>Key Laboratory for Space Bioscience and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, Xi'an, China</addr-line></aff>
+<aff id="aff2"><label>2</label><addr-line>Division of Space Physiology, Institute of Aerospace Medicine, German Aerospace Center, Cologne, Germany</addr-line></aff>
+<aff id="aff3"><label>3</label><addr-line>Institute of Biomechanics and Orthopaedics, German Sport University Cologne, Cologne, Germany</addr-line></aff>
+<aff id="aff4"><label>4</label><addr-line>Department of Orthopaedic and Trauma Surgery, University of Cologne, Cologne, Germany</addr-line></aff>
+<aff id="aff5"><label>5</label><addr-line>Institute for Biomedical Research into Human Movement and Health, Manchester Metropolitan University, Manchester, United Kingdom</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple"><name name-style="western"><surname>Carrier</surname><given-names>David</given-names></name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>University of Utah, United States of America</addr-line></aff>
+<author-notes>
+<corresp id="cor1">* E-mail: <email xlink:type="simple">yangpf@nwpu.edu.cn</email></corresp>
+<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn>
+<fn fn-type="con"><p>Conceived and designed the experiments: PFY MS BG TK GPB LPM JR. Performed the experiments: PFY MS BG TK GPB LPM JR. Analyzed the data: PFY MS BG TK GPB LPM JR. Contributed reagents/materials/analysis tools: PFY MS BG TK GPB LPM JR. Wrote the paper: PFY MS BG TK GPB LPM JR.</p></fn>
+</author-notes>
+<pub-date pub-type="collection"><year>2014</year></pub-date>
+<pub-date pub-type="epub"><day>14</day><month>4</month><year>2014</year></pub-date>
+<volume>9</volume>
+<issue>4</issue>
+<elocation-id>e94525</elocation-id>
+<history>
+<date date-type="received"><day>7</day><month>6</month><year>2013</year></date>
+<date date-type="accepted"><day>17</day><month>3</month><year>2014</year></date>
+</history>
+<permissions>
+<copyright-year>2014</copyright-year>
+<copyright-holder>Yang et al</copyright-holder><license xlink:type="simple"><license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions>
+<abstract>
+<p>Bending, in addition to compression, is recognized to be a common loading pattern in long bones in animals. However, due to the technical difficulty of measuring bone deformation in humans, our current understanding of bone loading patterns in humans is very limited. In the present study, we hypothesized that bending and torsion are important loading regimes in the human tibia. <italic>In vivo</italic> tibia segment deformation in humans was assessed during walking and running utilizing a novel optical approach. Results suggest that the proximal tibia primarily bends to the posterior (bending angle: 0.15°–1.30°) and medial aspect (bending angle: 0.38°–0.90°) and that it twists externally (torsion angle: 0.67°–1.66°) in relation to the distal tibia during the stance phase of overground walking at a speed between 2.5 and 6.1 km/h. Peak posterior bending and peak torsion occurred during the first and second half of stance phase, respectively. The peak-to-peak antero-posterior (AP) bending angles increased linearly with vertical ground reaction force and speed. Similarly, peak-to-peak torsion angles increased with the vertical free moment in four of the five test subjects and with the speed in three of the test subjects. There was no correlation between peak-to-peak medio-lateral (ML) bending angles and ground reaction force or speed. On the treadmill, peak-to-peak AP bending angles increased with walking and running speed, but peak-to-peak torsion angles and peak-to-peak ML bending angles remained constant during walking. Peak-to-peak AP bending angle during treadmill running was speed-dependent and larger than that observed during walking. In contrast, peak-to-peak tibia torsion angle was smaller during treadmill running than during walking. To conclude, bending and torsion of substantial magnitude were observed in the human tibia during walking and running. A systematic distribution of peak amplitude was found during the first and second parts of the stance phase.</p>
+</abstract>
+<funding-group><funding-statement>No current external funding sources for this study.</funding-statement></funding-group><counts><page-count count="12"/></counts></article-meta>
+</front>
+<body><sec id="s1">
+<title>Introduction</title>
+<p>Evidence suggests that both the geometry and thus the mechanical properties of long bones adapt to the mechanical load they are exposed to <xref ref-type="bibr" rid="pone.0094525-Main1">[1]</xref>–<xref ref-type="bibr" rid="pone.0094525-Schulte1">[3]</xref>. In the absence of an easy way to assess <italic>in vivo</italic> mechanical loads acting on bones, bone geometry, which is deemed to be causally related to its loading history, has been taken to predict the <italic>in vivo</italic> bone loading history <xref ref-type="bibr" rid="pone.0094525-Augat1">[4]</xref>, <xref ref-type="bibr" rid="pone.0094525-Capozza1">[5]</xref>. For instance, by analyzing a stack of peripheral quantitative computed tomography (pQCT) images taken across the human tibia, it was concluded that the almost circular distal tibia seems to be adapted to compressive loading patterns, while the non-circular geometry of the proximal tibia is the result of increased torsion and bending <xref ref-type="bibr" rid="pone.0094525-Capozza1">[5]</xref>. However, there are several problems with this approach <xref ref-type="bibr" rid="pone.0094525-Lieberman1">[6]</xref>. These include a lack of absolute values of cross-sectional geometric properties and a potential misalignment between the loading history and bone cross-sectional geometry <xref ref-type="bibr" rid="pone.0094525-Lieberman1">[6]</xref>. It is obvious, and not only therefore, that accurate measurements of real-world <italic>in vivo</italic> bone loading patterns are needed.</p>
+<p>Obtaining the information of the bone loading patterns is very important to better understand bone's mechano-adaptation, as bone responds differently to different deformation patterns, <italic>e.g.</italic> to torsion or compression <xref ref-type="bibr" rid="pone.0094525-Rubin1">[7]</xref>. Evidence also suggests that bone formation varies between anatomical sites due to the uneven local strain distribution and deformation patterns, as illustrated across the loaded ulna in rats <xref ref-type="bibr" rid="pone.0094525-Kotha1">[8]</xref>. Likewise, bending load, rather than local pressure, was capable of creating substantial periosteal mineral apposition in rats <xref ref-type="bibr" rid="pone.0094525-RaabCullen1">[9]</xref>. Moreover, understanding <italic>in vivo</italic> bone deformation is clinically relevant, in particular in relation to fatigue fracture. For example, <italic>ex vivo</italic> evidence suggests that mixed-mode loading is associated with greater bone fragility than uniaxial loading <xref ref-type="bibr" rid="pone.0094525-George1">[10]</xref>. Similarly, changing the loading mode from pure compression to a combination of torsional and compressive loading facilitates propagation of microcracks within the bone <xref ref-type="bibr" rid="pone.0094525-Wang1">[11]</xref>, and bones are relatively stronger when loaded by habitual load patterns than when exposed to novel loading regimes <xref ref-type="bibr" rid="pone.0094525-Reilly1">[12]</xref>.</p>
+<p>The <italic>in vivo</italic> bone deformation data currently available in literature mainly originates from studies that have used surgically implanted strain gauges. As noted previously, at least three strain gauges have to be attached around the long bone shaft to determine the neutral axis of bending and compute bending load or deformation. For most species, including humans, this operation is not feasible without affecting their regular muscle functions <xref ref-type="bibr" rid="pone.0094525-Lieberman1">[6]</xref>, <xref ref-type="bibr" rid="pone.0094525-Yang1">[13]</xref>.</p>
+<p>Harold Frost's mechanostat theory explains the functional adaptation capability of bone to mechanical stimulation <xref ref-type="bibr" rid="pone.0094525-Frost1">[14]</xref>. However, it is still under debate which loading parameters in terms of deformation type, amplitude, repetition cycles and frequency, are most effective for bone adaptation <xref ref-type="bibr" rid="pone.0094525-Huiskes1">[15]</xref>. Furthermore, the major sources of force, as well as the deformation modes required to effectively maintain or regulate bone structure and metabolism, remain unclear. Bending moments have been approximated in mammals, <italic>e.g.</italic> horse, dog and goat, using paired strains gauges from opposite surfaces of bones, in cases where limb motion is mainly in the parasagittal plane <xref ref-type="bibr" rid="pone.0094525-Rubin1">[7]</xref>, <xref ref-type="bibr" rid="pone.0094525-Biewener1">[16]</xref>–<xref ref-type="bibr" rid="pone.0094525-Gross1">[18]</xref>. A series of classic studies on the bones of the lower extremities of animals in the 1980 s suggested that bending is occurring during different locomotor activities. This was demonstrated when strain gauge measurements showed that the anterior aspect of bone is under tension while the posterior aspect is under compression <xref ref-type="bibr" rid="pone.0094525-Biewener1">[16]</xref>, <xref ref-type="bibr" rid="pone.0094525-Biewener2">[17]</xref>, <xref ref-type="bibr" rid="pone.0094525-Biewener3">[19]</xref>–<xref ref-type="bibr" rid="pone.0094525-Rubin3">[21]</xref>. Recent studies in animal <xref ref-type="bibr" rid="pone.0094525-Gross1">[18]</xref> and human models <xref ref-type="bibr" rid="pone.0094525-Aamodt1">[22]</xref>–<xref ref-type="bibr" rid="pone.0094525-Macdonald1">[24]</xref> suggest that bending is the primary component of long bone loading. The fact that most long bones are slightly curvatured also supports the idea that bending is notable, and that it may be enhanced by muscle contractions and the off-axis orientation of the bone to the center of body mass <xref ref-type="bibr" rid="pone.0094525-Bertram1">[25]</xref>. Furthermore, it has been speculated that the bone curvature is designed to improve the predictability of the bone load during different locomotor activities, since a curved bone is more likely to be bent than a straight bone <xref ref-type="bibr" rid="pone.0094525-Bertram1">[25]</xref>. Furthermore, studies have shown a shift of the bending neutral axis of long bones from the certroidal axis of the cross sectional area, indicating that long bones do indeed bend while experiencing axial loading <xref ref-type="bibr" rid="pone.0094525-Gross1">[18]</xref>, <xref ref-type="bibr" rid="pone.0094525-Judex1">[26]</xref>. In addition, it was shown that the bone loading pattern changes throughout the stance phase of the gait cycle and varies with speed <xref ref-type="bibr" rid="pone.0094525-Szivek1">[27]</xref>–<xref ref-type="bibr" rid="pone.0094525-Demes2">[29]</xref>. The underlying cause will be that muscles attached to bone change their moment with joint movement. For example, most muscle groups in the human shank insert into the posterior aspect of tibia or fibula (<xref ref-type="fig" rid="pone-0094525-g001">Figure 1A</xref>). Although these muscles work against poor lever arms, they still generate very large flexion moments <xref ref-type="bibr" rid="pone.0094525-Wehner1">[30]</xref>, <xref ref-type="bibr" rid="pone.0094525-Heinlein1">[31]</xref>.</p>
+<fig id="pone-0094525-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0094525.g001</object-id><label>Figure 1</label><caption>
+<title>The demonstration of the human shank, the tibia posterior bending angle and torsion angle.</title>
+<p>A: anatomy of human shank. B: the demonstration of the posterior bending of the proximal tibia. <italic>α<sub>pos</sub></italic> indicates the posterior bending angle. C: tibia torsion deformation. <italic>β</italic><sub>tor</sub> indicates the internal torsion angle whist the tibia is twisted.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0094525.g001" position="float" xlink:type="simple"/></fig>
+<p>It is unclear in how far bending moments might be minimized by muscular contractions. Such contractions could protect the bone material and especially the long bones from bending stress accumulation, and therefore reduce fracture risks <xref ref-type="bibr" rid="pone.0094525-Sverdlova1">[32]</xref>–<xref ref-type="bibr" rid="pone.0094525-Pauwels1">[35]</xref>. Muscle forces are thought by some to convert potential bending stress generated by reaction forces to compressive loading, which is less harmful for bone to tolerate <xref ref-type="bibr" rid="pone.0094525-Currey1">[36]</xref>. An <italic>in vivo</italic> tibia strain study in humans seems to support the opinion. Milgrom <italic>et al.</italic> compared strain data in humans in fatigued and non-fatigued status <xref ref-type="bibr" rid="pone.0094525-Milgrom1">[37]</xref>. The tensional strain of the antero-medial aspect of the tibia clearly increased when the gastrocnemius muscles were fatigue indicating that regular muscle activities might be crucial to maintain regular bone strains <xref ref-type="bibr" rid="pone.0094525-Milgrom1">[37]</xref>.</p>
+<p>However, as noted above, one can apply paired or more gauges only where opposing sides of the bone are free of muscle insertions. Such an anatomical site is not available in any of large human long bones. To our knowledge, the <italic>in vivo</italic> bone loading patterns in humans during daily activities remains unknown.</p>
+<p>In comparison to bending, the role of torsion on bone mechanical adaptation has received little to no attention. Several classic studies have demonstrated that the strain gradient is highly correlated with periosteal bone formation on different sites <xref ref-type="bibr" rid="pone.0094525-Judex1">[26]</xref>, <xref ref-type="bibr" rid="pone.0094525-Gross2">[38]</xref>. If this holds true, then torsional loading would not be a crucial factor for periosteal bone formation, as torsional loading is only capable of generating relative small strain gradients for a near cylinder shaped long bone, compared to bending load. Contradictorily, some studies suggested that different constituents of the loading environment, namely axial loading and torsional loading, play a distinct role in regulating bone formation and structure <xref ref-type="bibr" rid="pone.0094525-Rubin1">[7]</xref>, <xref ref-type="bibr" rid="pone.0094525-Guo1">[39]</xref>. These studies indicated that torsional loading might be one of the essential components of the entire bone loading regimes. Likewise, it was found that torsion dominates mechanical loading of the femur and tibiotarsus of the emu during running and gait <xref ref-type="bibr" rid="pone.0094525-Main2">[40]</xref>. Of note, torsion seems to be the main determinant of the design of long bones in birds <xref ref-type="bibr" rid="pone.0094525-Judex1">[26]</xref>, <xref ref-type="bibr" rid="pone.0094525-Main2">[40]</xref>–<xref ref-type="bibr" rid="pone.0094525-Swartz1">[43]</xref>. To date, there is no salient evidence to suggest a strong role for torsion in the design of human long bones. One would intuitively assume that torsion is the driving loading pattern to maintain the almost circular cross-sectional geometry of long hollow bones <xref ref-type="bibr" rid="pone.0094525-Feldman1">[44]</xref>, as torsion is capable of producing similar bone matrix deformation all along the circumference in different sites of the long bone. Results from an <italic>in vivo</italic> knee joint loading study indicated that the tibia-femur contact torsion moment was relatively small, with the normalized peak value (normalized by body weight times length) ranging from 0.53 to 1.1 <xref ref-type="bibr" rid="pone.0094525-Kutzner1">[45]</xref>. However, considering the low capability of bone to resist torsional loading, we hypothesize that the human tibia may experience considerable torsional loading during walking and running.</p>
+<p>Therefore, the goal of the present study was to use a novel optical segment tracking (OST) approach to investigate, for the first time, the <italic>in vivo</italic> human tibia loading regimes in terms of the tibia segment deformation regimes, including tibia antero-posterior (AP), medio-lateral bending angles (ML), torsion angles during most common locomotor activities for humans on the ground, <italic>e.g.</italic> walking and running. Furthermore, the relationship between the speed of walking and running, ground reaction force, moment and tibia deformation was assessed.</p>
+</sec><sec id="s2">
+<title>Material and Methods</title>
+<p>Five healthy male subjects (26–50 years old) were recruited to participate in this study. They were free of any muscle or joint injuries and had not undergone orthopedic surgery in the lower extremities within twelve months prior to the study.</p>
+<sec id="s2a">
+<title>1.1 Ethics statement</title>
+<p>Written and oral explanation of the purposes, benefits and risks of the study procedure were given to the subjects at least 3 days before they signed the consent forms. The subjects have given written informed consent, as outlined in the PLOS consent form, to the publication of their photograph. This study has been approved by the two relevant Ethics Committees, namely the ethical committee of the North-Rhine Medical Board in Düsseldorf and the ethical committee of the Faculty of Medicine in the University of Cologne. The operations and experiments were performed at the Department of Orthopedic and Trauma Surgery of the University Hospital of Cologne.</p>
+</sec><sec id="s2b">
+<title>1.2 OST approach for tibia segment deformation measurements</title>
+<p>A novel OST approach recently developed in our lab <xref ref-type="bibr" rid="pone.0094525-Yang2">[46]</xref> has been adopted for tibia segment deformation recording in this study. Briefly, three mono-cortical bone screws were partially implanted into the anterior-medial aspect of the tibial cortex (<xref ref-type="fig" rid="pone-0094525-g002">Figure 2A–B</xref>). A marker cluster with a set of three non-collinear retro-reflective markers (Ø5 mm, Géodésie Maintenance Services, Nort Sur Erdre, France, <xref ref-type="fig" rid="pone-0094525-g002">Figure 2C</xref>) was mounted on each bone screw. The trajectories of the marker clusters were captured at 300 Hz by a Vicon MX optical motion capture system with eight Vicon F40 cameras (Vicon Motion System Ltd., LA, USA) (<xref ref-type="fig" rid="pone-0094525-g002">Figure 2A</xref>). In order to optimize resolution, accuracy and precision, the optical system used in this study included even more cameras than the previous validation study. The optical system was configured in line with our recent recommendations <xref ref-type="bibr" rid="pone.0094525-Yang2">[46]</xref>. Specifications from our previous publication were followed, <italic>i.e.</italic>, positioning the cameras and adjusting the appropriate capture volume and the optimal distance between cameras and the tibia-affixed markers. It can therefore be taken as granted that the performance of the optical system was as good as in the mock-up study. This means that a resolution better than 20 µm within the capture volume of 400×300×300 mm<sup>3</sup> was achieved. The maximal absolute error was 1.8 µm during displacements by 20 µm and repeatability was 2.5 µm. A detailed error analysis was performed in order to estimate absolute distance recording errors as a function of bending angle errors (see <xref ref-type="sec" rid="s4">Discussion</xref>). Prior to the <italic>in vivo</italic> experiments, an <italic>ex vivo</italic> study on measuring tibia segment deformation under artificial loading in six cadaveric specimens has shown the fair repeatability and the feasibility of the OST approach (unpublished data). Briefly, the variance between the repeated tibia segment deformation measurements using the OST approach was assessed, whilst the cadaveric tibia was loaded by simulated muscle forces with a custom-made static loading device. Results suggested that the standard deviation of the mean bending and torsion deformation angles remains at a low level, from 0° to 0.04° for different loading conditions, indicating its potential to be applied <italic>in vivo</italic>. During the <italic>in vivo</italic> study, the stability of the bone screws in the tibial cortex was assessed by testing the resonance frequency of the screw-cluster structure and the relative position between the marker clusters prior to and after the exercises. It was shown to remain constant at ∼260 Hz and ∼380 Hz. The small location drift between the marker clusters during the course of the experimentation, which was maximally 0.06°, indicates that the implantation of the bone screws was extremely stable. The good toleration to the OST approach by the subjects also indicated its applicability for the <italic>in vivo</italic> measurements (See <xref ref-type="sec" rid="s3">Results</xref>).</p>
+<fig id="pone-0094525-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0094525.g002</object-id><label>Figure 2</label><caption>
+<title>Illustration of the surgical details and the application of the OST approach in this study.</title>
+<p>A) The optical motion capture system with 8 high resolution cameras to track the retro-reflective markers affixed into tibial cortex, as well as two of the ten cameras for full body motion capturing; B) Implanted bone screws in the tibial cortex; C) Marker clusters were affixed to the endings of the bone screws; D) Cross-sectional pQCT image. The black arrow indicates the hole left behind after removal of the bone screw. OST: optical segment tracking.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0094525.g002" position="float" xlink:type="simple"/></fig>
+<p>In order to identify the tibia anatomical landmarks, general retro-reflective markers (Ø16 mm, Vicon Motion System Ltd., LA, USA) were attached on the skin over the medial and lateral malleolus, the tibia tuberosity and over the head of the fibula. Prior to each trial of the activities, the trajectories of skin-attached markers were recorded simultaneously with tibia-affixed markers for 1–2 seconds while the shank was in a static position and free of any loading. This static trial allowed the generation of the Shank Anatomical Coordinate System (SACS) required for data analysis. Tibia segment deformation was expressed as the relative movement between the tibia-affixed marker clusters in the SACS.</p>
+</sec><sec id="s2c">
+<title>1.3 Surgical technique</title>
+<p>Surgical implantation and explantation of the bone screws was performed under local anesthesia by injecting Xylocain 1% and Carbostesin 0.5% into the skin and the periosteum of the right shank of each subject. Prior to the operation, Ibuprofen (600 mg) and Cefuroxime (1500 mg) was administered to reduce pain perception and the risk of infection. The thickness of the tibial cortex was determined from transverse MRI (Magnetic Resonance Imaging, 1.5 T, Philips, Best, The Netherlands) images of the shank. To prevent intrusion into the bone marrow, the sites for screw implantation were selected so that the thickness of the tibial cortex was thicker than 4 mm. Thus, screws were implanted at approximately 10 cm below the tibia plateau, in the middle of the tibia diaphysis and at approximately 10 cm above the tibia medial malleolus.</p>
+<p>Surgical incisions of approximately 1 cm length were made into the skin. A drill guide and a 2.1 mm diameter drill (Stryker Leibinger GmbH &amp; Co. KG, Germany) were used to drill three holes into the tibial cortex to a depth of 2.5 mm. Bone screws (Asnis Micro cannulated titanium screws, Ø3 mm, 24/6 mm, Stryker Leibinger GmbH &amp; Co. KG, Germany) were implanted with a dedicated screw driver. At the end of the experiment, <italic>i.e.</italic> between 6 and 8 hours later, bone screws were removed. Further details of the surgical procedure were described in another paper <xref ref-type="bibr" rid="pone.0094525-Ganse1">[47]</xref>.</p>
+</sec><sec id="s2d">
+<title>1.4 Investigated locomotor activities</title>
+<p>All of the subjects wore gymnastic shoes during the experiments. Members of staff familiarized with the experimental procedure once a week during 6 months preceding the study, and study subjects underwent preparatory training during at least one day prior to the actual experiments in order to be fully acquainted with the protocol. During the practice training, the experimental protocol was followed closely to help the test subjects to be mentally well prepared for the <italic>in vivo</italic> experiments – the exception being that bone screws were installed into a shin pad above the shank instead of into the tibia. Testing included the most common locomotor activities during daily life: (1) walking on a walkway with a force plate embedded at self-selected slow, free and fast speed, respectively (<xref ref-type="fig" rid="pone-0094525-g002">Figure 2A</xref>); (2) walking at 2.5, 3.5, 4.5 and 5.5 km/h on a treadmill (Schiller MTM-1500 med, h/p/cosmos sports &amp; medical GmbH, Germany); (3) running at 5.5 and 9 km/h on a treadmill (Two test subjects participated in the running test at 9 km/h). At least three repetitions have been performed at each speed of walking on the walkway, and a minimum of sixteen complete walking or running cycles were recorded on the treadmill, respectively.</p>
+</sec><sec id="s2e">
+<title>1.5 Assessment of speed and ground reaction forces during walking</title>
+<p>A second, independent motion capturing system with ten Bonita cameras (Vicon Motion System Ltd., LA, USA) was installed for the assessment of whole-body movement. Two general retro-reflective markers (Ø16 mm, Vicon Motion System Ltd., LA, USA) were attached to the skin of the left and right posterior superior iliac spine (PSIS). The trajectories of these two markers were sampled at 100 Hz for all subjects. Ground reaction forces during walking on the walkway were recorded at 1000 Hz with a force plate system (AMTI OR6-5, Watertown, MA, USA). The two motion capturing systems were synchronized by an external trigger.</p>
+</sec><sec id="s2f">
+<title>1.6 Peripheral quantitative computed tomography (pQCT) imaging</title>
+<p>Horizontal pQCT scans of the tibia on the sites of screw implantation were obtained one to three days after screw removal with a XCT3000 (Stratec Medizintechnik, Pforzheim, Germany) to document the screw holes and geometry of the tibia cross section area for further calculations (<xref ref-type="fig" rid="pone-0094525-g002">Figure 2D</xref>).</p>
+</sec><sec id="s2g">
+<title>1.7 Data analysis</title>
+<p>Raw marker trajectory data and ground reaction forces were further processed with custom-written MATLAB routines (The MathWorks, Inc. Version 7.9.0 R2009b). The raw marker trajectory data for tibia segment deformation recording was filtered using a 10-point moving average filter. Ground reaction force data was low-pass filtered using a 2<sup>nd</sup> order, zero lag Butterworth filter with cut-off frequency at 15 Hz.</p>
+<sec id="s2g1">
+<title>1.7.1 Determination of SACS, tibia bending and torsion angles</title>
+<p>For each subject, a randomly selected frame acquired during the static trial was utilized to determine an initial Cartesian SACS from the skin-attached tibia landmarks. In the SACS, X, Y and Z axes indicate the anterior-posterior, proximal-distal and medial-lateral direction, respectively <xref ref-type="bibr" rid="pone.0094525-Grood1">[48]</xref>. The coordinates of the marker clusters implanted into the tibia were then subjected to coordinate transformation <xref ref-type="bibr" rid="pone.0094525-Soderkvist1">[49]</xref>, <xref ref-type="bibr" rid="pone.0094525-Lafortune1">[50]</xref> to yield tibia segment deformation within the SACS. Differences between the relative position of each two sets of marker clusters in the SACS were then calculated and expressed as mean ± standard deviation (SD) of three Cardan/Euler angles and three translations along the axes of SACS, respectively. As the anterior-medial aspect of the tibia is free of muscle insertions, the effect of bone tissue inhomogeneity on anterior-medial tibia surface deformations was assumed to be negligible. AP bending angle, ML bending angle and inter-external torsion angle derived from Cardan/Euler angles were reported as tibia segment deformation. In the following, the relative movement of the proximal tibia-markers will be presented in relation to distal tibia-markers. Thus, AP bending (<xref ref-type="fig" rid="pone-0094525-g001">Figure 1B</xref>), ML bending and internal-external torsion (<xref ref-type="fig" rid="pone-0094525-g001">Figure 1C</xref>) always indicate the bending and torsion of the proximal tibia with respect to the distal tibia (<xref ref-type="fig" rid="pone-0094525-g001">Figure 1</xref>).</p>
+</sec><sec id="s2g2">
+<title>1.7.2 Calculation of the ground reaction force</title>
+<p>Vertical ground reaction force (VGRF) during walking was derived from the filtered ground reaction force data. In general, there are two noticeable peaks for the VGRF during walking. These two peak values of VGRF were automatically identified and used for further analysis. Vertical Free moment (VFM) is the torque which acts about the vertical axis through the center of pressure of the ground reaction force. By subtracting the AP moment and the ML moment from the total transverse ground reaction moment, VFM about the vertical axis through the center of pressure of the force plate was determined. The details on the moment calculation can be referred to the ‘Instruction Manual' of the AMTI Company <xref ref-type="bibr" rid="pone.0094525-UO1">[51]</xref>. VGRF was normalized to body weight (unit: N). VFM was normalized to the product of body weight (unit: N) and foot length (unit: m).</p>
+</sec><sec id="s2g3">
+<title>1.7.3 Calculation of walking speed on the walkway</title>
+<p>During walking trials on the walkway, the coordinates of the mid-point of two PSIS markers in global transverse plane were extracted from the filtered total trajectories data. The average walking speed of the subjects was determined as the moving distance of the mid-point of two PSIS markers divided by time over the stance phase of the right leg on the force plate.</p>
+</sec></sec><sec id="s2h">
+<title>1.8 Statistics</title>
+<p>Statistical analyses were performed using R statistic software (version 2.15.1, R Development Core Team, 2012). Least-squares linear regression was performed to determine the correlation between the tibia segment deformation angles and the moving speed, as well as VGRF or VFM for individual subjects. The 95% confidence interval for the slope was calculated. Furthermore, a one-way ANOVA linear model was employed to examine the main effects of subject, moving speed and the type of activity on the tibia segment deformation angles. Within-subject effects due to moving speed were assessed with the error analyses in an ANOVA linear model. Furthermore, considering that the sample size in the present study was limited, nonparametric tests were also adopted to assess the potential influence of small sample size on the statistical results. In particular, the correlation between tibia segment deformation angles, moving speed and VGRF or VFM for each individual subject was determined with Spearman's rank correlation rho (corresponding to Least-squares Linear regression in parametric tests). The effects of locomotor speed and the type of activity on tibia segment deformation angles during treadmill exercises were assessed with Friedman test or Wilcoxon Mann-Whitney test (corresponding to one-way ANOVA and t-test). Statistical significance was accepted at <italic>p</italic>≤0.05.</p>
+</sec></sec><sec id="s3">
+<title>Results</title>
+<p>Pain questionnaires (Visual analog scale form 0 to 10 indicating no pain to intolerable pain) were handed out during the <italic>in vivo</italic> experiments. All subjects report 0 during walking and running <xref ref-type="bibr" rid="pone.0094525-Ganse1">[47]</xref>, indicating that the potential influence of pain caused by the bone screws and the wound on the motion is minimized. The bone screws were firmly inserted into the tibia until the end of the experiments. Statistical analysis suggested that there is no fundamental difference between parametric and nonparametric analysis. The details can be found in the following sections. The results in the corresponding figures were thus presented based on the parametric analysis.</p>
+<sec id="s3a">
+<title>1.1 Walking on the walkway with force plate embedded</title>
+<p>A typical example of the tibia segment deformation angle during a stance phase of the gait cycle is presented in <xref ref-type="fig" rid="pone-0094525-g003">Figure 3</xref>. As the overground walking speed was not strictly controlled from subject to subject and computed after the experiments, the results in <xref ref-type="fig" rid="pone-0094525-g004">Figures 4</xref>–<xref ref-type="fig" rid="pone-0094525-g006">6</xref> provide all data on an individual basis. During the stance phase, there were generally posterior bending, external torsion and medial bending of the proximal tibia relative to the distal tibia, with posterior bending being most pronounced during the first half, and torsion being predominant during the second half of the stance phase.</p>
+<fig id="pone-0094525-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0094525.g003</object-id><label>Figure 3</label><caption>
+<title>Illustration of the tibia segment deformation (example during the stance phase of an overground gait cycle).</title>
+<p>Solid black line: AP bending angle of the proximal tibia with respect to the distal tibia. Dashed red line: torsion angle, dotted green line: ML bending angle, dash-dot blue line: vertical ground reaction force. Pos<sub>p2p</sub> refers to the peak-to-peak AP bending angle during the stance phase of the gait cycle. Med<sub>p2p</sub> refers to the peak-to-peak ML bending angle of the proximal tibia. Torsion<sub>p2p</sub> refers to the peak-to-peak torsion angle. AP: antero-posterior, ML: medio-lateral. Pos: posterior, Med: medial, p2p: peak-to-peak.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0094525.g003" position="float" xlink:type="simple"/></fig><fig id="pone-0094525-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0094525.g004</object-id><label>Figure 4</label><caption>
+<title>Illustration of individual tibia segment deformation during overground walking in relation to walking speed.</title>
+<p>The AP bending (A), torsion (B) and ML bending angle (C) indicate the extent of AP bending, external torsion and ML bending of the proximal tibia with respect to the distal tibia, respectively. The regression lines were given only when correlation between deformation angle and the walking speed was significant. It can be appreciated from these data that a high correlation exists between overground speed and bone deformation. This is despite the fact that locomotor patterns will contain elements that will not scale linearly with speed, which may underline the validity of the bone deformation measurements. AP: antero-posterior, ML: medio-lateral.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0094525.g004" position="float" xlink:type="simple"/></fig><fig id="pone-0094525-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0094525.g005</object-id><label>Figure 5</label><caption>
+<title>The relationship between the tibia segment deformation angles and the VGRF or VFM during walking.</title>
+<p>A: AP bending angles under different VGRF (the first peak value) during the first half stance phase of the gait cycle. B: Torsion angles under different VGRF (the second peak value) during the second half stance phase of the gait cycle. C: Torsion angles under different VFM during the second half stance phase of the gait cycle. The regression lines are displayed only where correlations between tibia deformation angles and the walking speed were significant. AP: antero-posterior, ML: medio-lateral. VGRF: vertical ground reaction force, VFM: vertical free moment.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0094525.g005" position="float" xlink:type="simple"/></fig><fig id="pone-0094525-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0094525.g006</object-id><label>Figure 6</label><caption>
+<title>Tibia segment deformation angles during walking and running on a treadmill at different speed.</title>
+<p>A: tibia AP bending angles at different speed of walking and running. B: tibia torsion angle. C: tibia ML bending angle. *: <italic>p</italic>&lt;0.05; ***: <italic>p</italic>&lt;0.001. AP: antero-posterior, ML: medio-lateral.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0094525.g006" position="float" xlink:type="simple"/></fig><sec id="s3a1">
+<title>1.1.1 Tibia segment deformation versus walking speed</title>
+<p>Statistical analysis yielded main effects of the test subject on the deformation angles (<italic>p</italic> = 0.02 and r<sup>2</sup> = 0.57 for tibia AP bending, <italic>p</italic>&lt;0.001 and r<sup>2</sup> = 0.09 for tibia torsion, <italic>p</italic>&lt;0.001 and r<sup>2</sup> = 0.03 for tibia ML bending). There were no significant within-subjects effects due to walking speed (<italic>p</italic> = 0.36 for tibia AP bending, <italic>p</italic> = 0.07 for tibia torsion, <italic>p</italic> = 0.1 for tibia ML bending). Therefore, the nonparametric and parametric statistic correlation analysis between deformation angles and walking speed was done separately for the individual test subjects (<xref ref-type="fig" rid="pone-0094525-g004">Figure 4</xref>). For all test subjects, the peak-to-peak AP bending angle linearly increased with walking speed. Peak-to-peak AP bending angles varied from 0.15° to 1.30° at the speed of 2.5 - 6.1 km/h. The slope of the regression line ranged from 0.17 to 0.32 with r-squared values between 0.70 and 0.96 (<xref ref-type="fig" rid="pone-0094525-g004">Figure 4A</xref>). Significant correlations between peak-to-peak tibia torsion angles and the speed were found in three out of five test subjects. The peak-to-peak tibia torsion angle varied between 0.67° and 1.66° at walking speed of 2.5–6.1 km/h (<xref ref-type="fig" rid="pone-0094525-g004">Figure 4B</xref>). By contrast, peak-to-peak ML bending angles were rather small, within 0.38°–0.90°, and were mostly un-related to walking speed, except for test subject B (<xref ref-type="fig" rid="pone-0094525-g004">Figure 4C</xref>). The linear regression results are summarized in <xref ref-type="table" rid="pone-0094525-t001">Table 1</xref>. Nonparametric statistical analysis (Spearman's rank correlation) yielded the similar correlation results to the parametric analysis between tibia bending angles and walking speed. The results were summarized in <xref ref-type="table" rid="pone-0094525-t002">Table 2</xref>.</p>
+<table-wrap id="pone-0094525-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0094525.t001</object-id><label>Table 1</label><caption>
+<title>Least-squares linear regression statistics for tibia bending angles versus walking speed.</title>
+</caption><alternatives><graphic id="pone-0094525-t001-1" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0094525.t001" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Subject</td>
+<td align="left" rowspan="1" colspan="1">Deformation</td>
+<td align="left" rowspan="1" colspan="1">b<sub>1</sub> (degree<xref ref-type="table-fn" rid="nt102">*</xref>h/km)</td>
+<td align="left" rowspan="1" colspan="1">a<sub>1</sub> (degree)</td>
+<td align="left" rowspan="1" colspan="1">r<sup>2</sup></td>
+<td align="left" rowspan="1" colspan="1"><italic>p</italic> value</td>
+<td align="left" rowspan="1" colspan="1">N</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">A</td>
+<td align="left" rowspan="1" colspan="1">AP Bending</td>
+<td align="left" rowspan="1" colspan="1">0.21<xref ref-type="table-fn" rid="nt104">***</xref></td>
+<td align="left" rowspan="1" colspan="1">−0.33</td>
+<td align="left" rowspan="1" colspan="1">0.82</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">16</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion</td>
+<td align="left" rowspan="1" colspan="1">0.05</td>
+<td align="left" rowspan="1" colspan="1">1.02</td>
+<td align="left" rowspan="1" colspan="1">0.16</td>
+<td align="left" rowspan="1" colspan="1">0.12</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">ML Bending</td>
+<td align="left" rowspan="1" colspan="1">7.57e-4</td>
+<td align="left" rowspan="1" colspan="1">0.72</td>
+<td align="left" rowspan="1" colspan="1">9.90e-05</td>
+<td align="left" rowspan="1" colspan="1">0.97</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">B</td>
+<td align="left" rowspan="1" colspan="1">AP Bending</td>
+<td align="left" rowspan="1" colspan="1">0.17<xref ref-type="table-fn" rid="nt104">***</xref></td>
+<td align="left" rowspan="1" colspan="1">−0.19</td>
+<td align="left" rowspan="1" colspan="1">0.92</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">9</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion</td>
+<td align="left" rowspan="1" colspan="1">0.08<xref ref-type="table-fn" rid="nt103">**</xref></td>
+<td align="left" rowspan="1" colspan="1">0.94</td>
+<td align="left" rowspan="1" colspan="1">0.68</td>
+<td align="left" rowspan="1" colspan="1">0.006</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">ML Bending</td>
+<td align="left" rowspan="1" colspan="1">0.03<xref ref-type="table-fn" rid="nt102">*</xref></td>
+<td align="left" rowspan="1" colspan="1">0.40</td>
+<td align="left" rowspan="1" colspan="1">0.56</td>
+<td align="left" rowspan="1" colspan="1">0.02</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">C</td>
+<td align="left" rowspan="1" colspan="1">AP Bending</td>
+<td align="left" rowspan="1" colspan="1">0.23<xref ref-type="table-fn" rid="nt104">***</xref></td>
+<td align="left" rowspan="1" colspan="1">−0.52</td>
+<td align="left" rowspan="1" colspan="1">0.96</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion</td>
+<td align="left" rowspan="1" colspan="1">0.19<xref ref-type="table-fn" rid="nt104">***</xref></td>
+<td align="left" rowspan="1" colspan="1">0.18</td>
+<td align="left" rowspan="1" colspan="1">0.85</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">ML Bending</td>
+<td align="left" rowspan="1" colspan="1">0.04</td>
+<td align="left" rowspan="1" colspan="1">0.28</td>
+<td align="left" rowspan="1" colspan="1">0.36</td>
+<td align="left" rowspan="1" colspan="1">0.07</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">D</td>
+<td align="left" rowspan="1" colspan="1">AP Bending</td>
+<td align="left" rowspan="1" colspan="1">0.32<xref ref-type="table-fn" rid="nt104">***</xref></td>
+<td align="left" rowspan="1" colspan="1">−0.58</td>
+<td align="left" rowspan="1" colspan="1">0.82</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">13</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion</td>
+<td align="left" rowspan="1" colspan="1">0.08<xref ref-type="table-fn" rid="nt104">***</xref></td>
+<td align="left" rowspan="1" colspan="1">1.19</td>
+<td align="left" rowspan="1" colspan="1">0.71</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">ML Bending</td>
+<td align="left" rowspan="1" colspan="1">0.05</td>
+<td align="left" rowspan="1" colspan="1">0.49</td>
+<td align="left" rowspan="1" colspan="1">0.19</td>
+<td align="left" rowspan="1" colspan="1">0.14</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">E</td>
+<td align="left" rowspan="1" colspan="1">AP Bending</td>
+<td align="left" rowspan="1" colspan="1">0.19<xref ref-type="table-fn" rid="nt103">**</xref></td>
+<td align="left" rowspan="1" colspan="1">0.07</td>
+<td align="left" rowspan="1" colspan="1">0.70</td>
+<td align="left" rowspan="1" colspan="1">0.0027</td>
+<td align="left" rowspan="1" colspan="1">10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion</td>
+<td align="left" rowspan="1" colspan="1">0.01</td>
+<td align="left" rowspan="1" colspan="1">1.39</td>
+<td align="left" rowspan="1" colspan="1">0.01</td>
+<td align="left" rowspan="1" colspan="1">0.80</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">ML Bending</td>
+<td align="left" rowspan="1" colspan="1">−0.03</td>
+<td align="left" rowspan="1" colspan="1">0.67</td>
+<td align="left" rowspan="1" colspan="1">0.07</td>
+<td align="left" rowspan="1" colspan="1">0.46</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt101"><label/><p>The linear model used in the statistics is: y<sub>1</sub> = b<sub>1</sub> * x<sub>1</sub>+a<sub>1</sub> (y<sub>1</sub> indicates the tibia bending angles, x<sub>1</sub> indicates walking speed, 95% Confident interval).</p></fn><fn id="nt102"><label/><p>*: <italic>p</italic>&lt;0.05,</p></fn><fn id="nt103"><label/><p>**: <italic>p</italic>&lt;0.01,</p></fn><fn id="nt104"><label/><p>***: <italic>p</italic>&lt;0.001.</p></fn></table-wrap-foot></table-wrap><table-wrap id="pone-0094525-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0094525.t002</object-id><label>Table 2</label><caption>
+<title>Nonparametric statistical analysis for tibia bending angles versus walking speed.</title>
+</caption><alternatives><graphic id="pone-0094525-t002-2" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0094525.t002" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Subject</td>
+<td align="left" rowspan="1" colspan="1">Deformation</td>
+<td align="left" rowspan="1" colspan="1">r<sub>s</sub></td>
+<td align="left" rowspan="1" colspan="1"><italic>p</italic> value</td>
+<td align="left" rowspan="1" colspan="1">N</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">A</td>
+<td align="left" rowspan="1" colspan="1">AP Bending</td>
+<td align="left" rowspan="1" colspan="1">0.77<xref ref-type="table-fn" rid="nt108">***</xref></td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">16</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion</td>
+<td align="left" rowspan="1" colspan="1">−0.38</td>
+<td align="left" rowspan="1" colspan="1">0.14</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">ML Bending</td>
+<td align="left" rowspan="1" colspan="1">−0.22</td>
+<td align="left" rowspan="1" colspan="1">0.42</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">B</td>
+<td align="left" rowspan="1" colspan="1">AP Bending</td>
+<td align="left" rowspan="1" colspan="1">0.88<xref ref-type="table-fn" rid="nt107">**</xref></td>
+<td align="left" rowspan="1" colspan="1">0.003</td>
+<td align="left" rowspan="1" colspan="1">9</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion</td>
+<td align="left" rowspan="1" colspan="1">−0.73<xref ref-type="table-fn" rid="nt106">*</xref></td>
+<td align="left" rowspan="1" colspan="1">0.03</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">ML Bending</td>
+<td align="left" rowspan="1" colspan="1">−0.76<xref ref-type="table-fn" rid="nt106">*</xref></td>
+<td align="left" rowspan="1" colspan="1">0.02</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">C</td>
+<td align="left" rowspan="1" colspan="1">AP Bending</td>
+<td align="left" rowspan="1" colspan="1">0.98<xref ref-type="table-fn" rid="nt108">***</xref></td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion</td>
+<td align="left" rowspan="1" colspan="1">−0.77<xref ref-type="table-fn" rid="nt107">**</xref></td>
+<td align="left" rowspan="1" colspan="1">0.0098</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">ML Bending</td>
+<td align="left" rowspan="1" colspan="1">−0.41</td>
+<td align="left" rowspan="1" colspan="1">0.24</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">D</td>
+<td align="left" rowspan="1" colspan="1">AP Bending</td>
+<td align="left" rowspan="1" colspan="1">0.78<xref ref-type="table-fn" rid="nt107">**</xref></td>
+<td align="left" rowspan="1" colspan="1">0.002</td>
+<td align="left" rowspan="1" colspan="1">13</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion</td>
+<td align="left" rowspan="1" colspan="1">−0.74<xref ref-type="table-fn" rid="nt107">**</xref></td>
+<td align="left" rowspan="1" colspan="1">0.004</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">ML Bending</td>
+<td align="left" rowspan="1" colspan="1">−0.40</td>
+<td align="left" rowspan="1" colspan="1">0.17</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">E</td>
+<td align="left" rowspan="1" colspan="1">AP Bending</td>
+<td align="left" rowspan="1" colspan="1">0.82<xref ref-type="table-fn" rid="nt107">**</xref></td>
+<td align="left" rowspan="1" colspan="1">0.004</td>
+<td align="left" rowspan="1" colspan="1">10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion</td>
+<td align="left" rowspan="1" colspan="1">−0.006</td>
+<td align="left" rowspan="1" colspan="1">1</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">ML Bending</td>
+<td align="left" rowspan="1" colspan="1">0.15</td>
+<td align="left" rowspan="1" colspan="1">0.68</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt105"><label/><p>The coefficient of correlation (r<sub>s</sub>) and level of significance (<italic>p</italic>) were yielded.</p></fn><fn id="nt106"><label/><p>*: <italic>p</italic>&lt;0.05,</p></fn><fn id="nt107"><label/><p>**: <italic>p</italic>&lt;0.01,</p></fn><fn id="nt108"><label/><p>***: <italic>p</italic>&lt;0.001.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s3a2">
+<title>1.1.2 Tibia segment deformation versus ground reaction force</title>
+<p>Regression analysis suggests that the tibia peak-to-peak AP bending angle increased linearly (<italic>p</italic>&lt;0.001) with the peak VGRF during the first half stance phase, with the slope of the regression line ranging between 1.99 degree*h/km and 2.56 degree*h/km (r<sup>2</sup>: 0.77–0.97, <xref ref-type="fig" rid="pone-0094525-g005">Figure 5A</xref>). By contrast, there was no such relationship between peak-to-peak torsion angle and peak VGRF during the second half of the stance phase, except for subject C (<italic>p</italic>&lt;0.001, r<sup>2</sup> = 0.94, <xref ref-type="fig" rid="pone-0094525-g005">Figure 5B</xref>).</p>
+<p>VFM but not VGRF was correlated with peak-to-peak torsion angles in four test subjects, except subject A (<italic>p</italic> = 0.056, r<sup>2</sup> = 0.22, <xref ref-type="fig" rid="pone-0094525-g005">Figure 5C</xref>).</p>
+<p>The linear regression results are summarized in <xref ref-type="table" rid="pone-0094525-t003">Table 3</xref>. Similar correlation trends between the tibia bending angles and walking speed were found using nonparametric statistical analysis. The Spearman's rank correlation results are summarized in <xref ref-type="table" rid="pone-0094525-t004">Table 4</xref>.</p>
+<table-wrap id="pone-0094525-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0094525.t003</object-id><label>Table 3</label><caption>
+<title>Least-squares linear regression statistics for tibia deformation angles versus VGRF and VFM.</title>
+</caption><alternatives><graphic id="pone-0094525-t003-3" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0094525.t003" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Subject</td>
+<td align="left" rowspan="1" colspan="1">Deformation angles</td>
+<td align="left" rowspan="1" colspan="1">b<sub>3</sub> (degree<xref ref-type="table-fn" rid="nt110">*</xref>h/km)</td>
+<td align="left" rowspan="1" colspan="1">a<sub>3</sub> (degree)</td>
+<td align="left" rowspan="1" colspan="1">r<sup>2</sup></td>
+<td align="left" rowspan="1" colspan="1"><italic>p</italic> value</td>
+<td align="left" rowspan="1" colspan="1">N</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">A</td>
+<td align="left" rowspan="1" colspan="1">AP Bending <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">1.91<xref ref-type="table-fn" rid="nt112">***</xref></td>
+<td align="left" rowspan="1" colspan="1">−1.75</td>
+<td align="left" rowspan="1" colspan="1">0.91</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">16</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">1.34</td>
+<td align="left" rowspan="1" colspan="1">−0.17</td>
+<td align="left" rowspan="1" colspan="1">0.24</td>
+<td align="left" rowspan="1" colspan="1">0.054</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VFM</td>
+<td align="left" rowspan="1" colspan="1">11.97</td>
+<td align="left" rowspan="1" colspan="1">1.07</td>
+<td align="left" rowspan="1" colspan="1">0.25</td>
+<td align="left" rowspan="1" colspan="1">0.056</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">B</td>
+<td align="left" rowspan="1" colspan="1">AP Bending <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">1.56<xref ref-type="table-fn" rid="nt112">***</xref></td>
+<td align="left" rowspan="1" colspan="1">−1.18</td>
+<td align="left" rowspan="1" colspan="1">0.97</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">9</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">1.02</td>
+<td align="left" rowspan="1" colspan="1">0.16</td>
+<td align="left" rowspan="1" colspan="1">0.11</td>
+<td align="left" rowspan="1" colspan="1">0.38</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VFM</td>
+<td align="left" rowspan="1" colspan="1">28.43<xref ref-type="table-fn" rid="nt110">*</xref></td>
+<td align="left" rowspan="1" colspan="1">0.60</td>
+<td align="left" rowspan="1" colspan="1">0.51</td>
+<td align="left" rowspan="1" colspan="1">0.046</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">C</td>
+<td align="left" rowspan="1" colspan="1">AP Bending <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">2.99<xref ref-type="table-fn" rid="nt112">***</xref></td>
+<td align="left" rowspan="1" colspan="1">−2.74</td>
+<td align="left" rowspan="1" colspan="1">0.77</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">3.67<xref ref-type="table-fn" rid="nt112">***</xref></td>
+<td align="left" rowspan="1" colspan="1">−3.03</td>
+<td align="left" rowspan="1" colspan="1">0.94</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VFM</td>
+<td align="left" rowspan="1" colspan="1">34.91<xref ref-type="table-fn" rid="nt111">**</xref></td>
+<td align="left" rowspan="1" colspan="1">0.33</td>
+<td align="left" rowspan="1" colspan="1">0.66</td>
+<td align="left" rowspan="1" colspan="1">0.008</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">D</td>
+<td align="left" rowspan="1" colspan="1">AP Bending <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">2.57<xref ref-type="table-fn" rid="nt112">***</xref></td>
+<td align="left" rowspan="1" colspan="1">−2.16</td>
+<td align="left" rowspan="1" colspan="1">0.97</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">13</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">0.85</td>
+<td align="left" rowspan="1" colspan="1">0.59</td>
+<td align="left" rowspan="1" colspan="1">0.21</td>
+<td align="left" rowspan="1" colspan="1">0.11</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VFM</td>
+<td align="left" rowspan="1" colspan="1">10.71<xref ref-type="table-fn" rid="nt111">**</xref></td>
+<td align="left" rowspan="1" colspan="1">1.31</td>
+<td align="left" rowspan="1" colspan="1">0.42</td>
+<td align="left" rowspan="1" colspan="1">0.003</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">E</td>
+<td align="left" rowspan="1" colspan="1">AP Bending <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">2.90<xref ref-type="table-fn" rid="nt112">***</xref></td>
+<td align="left" rowspan="1" colspan="1">−2.04</td>
+<td align="left" rowspan="1" colspan="1">0.84</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">1.05</td>
+<td align="left" rowspan="1" colspan="1">0.33</td>
+<td align="left" rowspan="1" colspan="1">0.08</td>
+<td align="left" rowspan="1" colspan="1">0.43</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VFM</td>
+<td align="left" rowspan="1" colspan="1">16.52<xref ref-type="table-fn" rid="nt110">*</xref></td>
+<td align="left" rowspan="1" colspan="1">1.10</td>
+<td align="left" rowspan="1" colspan="1">0.47</td>
+<td align="left" rowspan="1" colspan="1">0.04</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt109"><label/><p>The linear model used in the statistics is: y<sub>3</sub> = b<sub>3</sub> * x<sub>3</sub>+a<sub>3</sub> (y<sub>3</sub> indicates the tibia deformation angles, x<sub>3</sub> indicates vertical ground reaction force or vertical free moment, 95% Confident interval).</p></fn><fn id="nt110"><label/><p>*: <italic>p</italic>&lt;0.05,</p></fn><fn id="nt111"><label/><p>**: <italic>p</italic>&lt;0.01,</p></fn><fn id="nt112"><label/><p>***: <italic>p</italic>&lt;0.001.</p></fn></table-wrap-foot></table-wrap><table-wrap id="pone-0094525-t004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0094525.t004</object-id><label>Table 4</label><caption>
+<title>Nonparametric statistical analysis for tibia bending angles versus VGRF and VFM.</title>
+</caption><alternatives><graphic id="pone-0094525-t004-4" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0094525.t004" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Subject</td>
+<td align="left" rowspan="1" colspan="1">Deformation angles</td>
+<td align="left" rowspan="1" colspan="1">r<sub>s</sub></td>
+<td align="left" rowspan="1" colspan="1"><italic>p</italic> value</td>
+<td align="left" rowspan="1" colspan="1">N</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">A</td>
+<td align="left" rowspan="1" colspan="1">AP Bending <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">0.96<xref ref-type="table-fn" rid="nt116">***</xref></td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">16</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">−0.53<xref ref-type="table-fn" rid="nt114">*</xref></td>
+<td align="left" rowspan="1" colspan="1">0.04</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VFM</td>
+<td align="left" rowspan="1" colspan="1">−0.52<xref ref-type="table-fn" rid="nt114">*</xref></td>
+<td align="left" rowspan="1" colspan="1">0.04</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">B</td>
+<td align="left" rowspan="1" colspan="1">AP Bending <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">0.85<xref ref-type="table-fn" rid="nt115">**</xref></td>
+<td align="left" rowspan="1" colspan="1">0.003</td>
+<td align="left" rowspan="1" colspan="1">9</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">−0.23</td>
+<td align="left" rowspan="1" colspan="1">0.55</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VFM</td>
+<td align="left" rowspan="1" colspan="1">−0.89<xref ref-type="table-fn" rid="nt114">*</xref></td>
+<td align="left" rowspan="1" colspan="1">0.012</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">C</td>
+<td align="left" rowspan="1" colspan="1">AP Bending <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">0.78<xref ref-type="table-fn" rid="nt115">**</xref></td>
+<td align="left" rowspan="1" colspan="1">0.007</td>
+<td align="left" rowspan="1" colspan="1">10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">0.92<xref ref-type="table-fn" rid="nt116">***</xref></td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VFM</td>
+<td align="left" rowspan="1" colspan="1">−0.81<xref ref-type="table-fn" rid="nt115">**</xref></td>
+<td align="left" rowspan="1" colspan="1">0.008</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">D</td>
+<td align="left" rowspan="1" colspan="1">AP Bending <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">0.96<xref ref-type="table-fn" rid="nt116">***</xref></td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">13</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">−0.41</td>
+<td align="left" rowspan="1" colspan="1">0.17</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VFM</td>
+<td align="left" rowspan="1" colspan="1">−0.78<xref ref-type="table-fn" rid="nt115">**</xref></td>
+<td align="left" rowspan="1" colspan="1">0.002</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">E</td>
+<td align="left" rowspan="1" colspan="1">AP Bending <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">0.91<xref ref-type="table-fn" rid="nt116">***</xref></td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VGRF</td>
+<td align="left" rowspan="1" colspan="1">−0.16</td>
+<td align="left" rowspan="1" colspan="1">0.66</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Torsion <italic>v.s.</italic> VFM</td>
+<td align="left" rowspan="1" colspan="1">−0.42</td>
+<td align="left" rowspan="1" colspan="1">0.27</td>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt113"><label/><p>The coefficient of correlation (r<sub>s</sub>) and level of significance (<italic>p</italic>) were yielded accordingly.</p></fn><fn id="nt114"><label/><p>*: <italic>p</italic>&lt;0.05,</p></fn><fn id="nt115"><label/><p>**: <italic>p</italic>&lt;0.01,</p></fn><fn id="nt116"><label/><p>***: <italic>p</italic>&lt;0.001.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="s3b">
+<title>1.2 Walking and running on a treadmill</title>
+<p>During treadmill walking, significant main effects of the test subjects on the AP bending angle (<italic>p</italic>&lt;0.001, r<sup>2</sup> = 0.89), torsion angle (<italic>p</italic>&lt;0.001, r<sup>2</sup> = 0.85) and ML bending angle (<italic>p</italic> = 0.0046, r<sup>2</sup> = 0.62) were found. Within-subjects effects of walking speed were not found (<italic>p</italic> = 0.24 for tibia AP bending, <italic>p</italic> = 0.37 for tibia torsion, <italic>p</italic> = 0.16 for tibia ML bending). Therefore, and as above, the deformation results are presented on the basis of the individual test subject (<xref ref-type="fig" rid="pone-0094525-g006">Figure 6</xref>). The AP bending angle increased with walking speed (posterior bending angles: from 0.23°±0.03° to 0.90°±0.22°, <italic>p</italic>&lt;0.001) and running speed (posterior bending angles: from 1.07°±0.11° to 2.15°±0.27°, <italic>p</italic>&lt;0.001). At the same speed, running induced a larger AP bending angle than walking (<xref ref-type="fig" rid="pone-0094525-g006">Figure 6A</xref>, <italic>p</italic>&lt;0.001). No main effects of speed were found on tibia torsion during treadmill walking (external torsion angles: from 0.86°±0.10° to 1.85°±0.15 °, <italic>p</italic> = 0.067). Interestingly, for four test subjects, it seems that tibia torsion during running is lower than that during walking (<xref ref-type="fig" rid="pone-0094525-g006">Figure 6B</xref>, <italic>p</italic> = 0.048). During walking and running on the treadmill, ML bending, compared to bending deformation, occurred on somewhat low levels and was almost constant across speeds. One exception was that a larger ML bending angle was generated during running at 9 km/h than during running at 5.5 km/h and walking at different speeds (<xref ref-type="fig" rid="pone-0094525-g006">Figure 6C</xref>, <italic>p</italic>&lt;0.001). Tibia torsion of two test subjects responded differently to the running speed. The tibia torsion angle significantly increased for test subject D (<italic>p</italic>&lt;0.001), but decreased in test subject E (<xref ref-type="fig" rid="pone-0094525-g006">Figure 6B</xref>, <italic>p</italic> = 0.0013). The variation across the walking and running cycles was assessed by the standard deviation of the deformation angles, which was summarized in <xref ref-type="table" rid="pone-0094525-t005">Table 5</xref>.</p>
+<table-wrap id="pone-0094525-t005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0094525.t005</object-id><label>Table 5</label><caption>
+<title>The variation across the walking and running cycles was assessed with the standard deviation (SD) of the deformation angles.</title>
+</caption><alternatives><graphic id="pone-0094525-t005-5" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0094525.t005" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td colspan="3" align="left" rowspan="1">SD (Deformation Angles, Degree)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Subject</td>
+<td align="left" rowspan="1" colspan="1">Exercises</td>
+<td align="left" rowspan="1" colspan="1">Cycles</td>
+<td align="left" rowspan="1" colspan="1">AP Bending</td>
+<td align="left" rowspan="1" colspan="1">Torsion</td>
+<td align="left" rowspan="1" colspan="1">ML Bending</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">A</td>
+<td align="left" rowspan="1" colspan="1">walking</td>
+<td align="left" rowspan="1" colspan="1">5–19</td>
+<td align="left" rowspan="1" colspan="1">0.03–0.07</td>
+<td align="left" rowspan="1" colspan="1">0.08–0.10</td>
+<td align="left" rowspan="1" colspan="1">0.06–0.12</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">running</td>
+<td align="left" rowspan="1" colspan="1">22</td>
+<td align="left" rowspan="1" colspan="1">0.31</td>
+<td align="left" rowspan="1" colspan="1">0.25</td>
+<td align="left" rowspan="1" colspan="1">0.12</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">B</td>
+<td align="left" rowspan="1" colspan="1">walking</td>
+<td align="left" rowspan="1" colspan="1">22–15</td>
+<td align="left" rowspan="1" colspan="1">0.10–0.20</td>
+<td align="left" rowspan="1" colspan="1">0.08–0.13</td>
+<td align="left" rowspan="1" colspan="1">0.06–0.13</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">running</td>
+<td align="left" rowspan="1" colspan="1">41</td>
+<td align="left" rowspan="1" colspan="1">0.11</td>
+<td align="left" rowspan="1" colspan="1">0.16</td>
+<td align="left" rowspan="1" colspan="1">0.13</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">C</td>
+<td align="left" rowspan="1" colspan="1">walking</td>
+<td align="left" rowspan="1" colspan="1">23–48</td>
+<td align="left" rowspan="1" colspan="1">0.06–0.08</td>
+<td align="left" rowspan="1" colspan="1">0.13–0.19</td>
+<td align="left" rowspan="1" colspan="1">0.06–0.08</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">running</td>
+<td align="left" rowspan="1" colspan="1">30</td>
+<td align="left" rowspan="1" colspan="1">0.09</td>
+<td align="left" rowspan="1" colspan="1">0.11</td>
+<td align="left" rowspan="1" colspan="1">0.08</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">D</td>
+<td align="left" rowspan="1" colspan="1">walking</td>
+<td align="left" rowspan="1" colspan="1">6–39</td>
+<td align="left" rowspan="1" colspan="1">0.09–0.22</td>
+<td align="left" rowspan="1" colspan="1">0.05–0.20</td>
+<td align="left" rowspan="1" colspan="1">0.08–0.14</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">running</td>
+<td align="left" rowspan="1" colspan="1">39–53</td>
+<td align="left" rowspan="1" colspan="1">0.11–0.22</td>
+<td align="left" rowspan="1" colspan="1">0.14</td>
+<td align="left" rowspan="1" colspan="1">0.11–0.13</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">E</td>
+<td align="left" rowspan="1" colspan="1">walking</td>
+<td align="left" rowspan="1" colspan="1">16–39</td>
+<td align="left" rowspan="1" colspan="1">0.09–0.25</td>
+<td align="left" rowspan="1" colspan="1">0.12–0.17</td>
+<td align="left" rowspan="1" colspan="1">0.05–0.25</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">running</td>
+<td align="left" rowspan="1" colspan="1">18–28</td>
+<td align="left" rowspan="1" colspan="1">0.12–0.27</td>
+<td align="left" rowspan="1" colspan="1">0.18–0.20</td>
+<td align="left" rowspan="1" colspan="1">0.13–0.18</td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt117"><label/><p>SD: standard deviation.</p></fn></table-wrap-foot></table-wrap>
+<p>During treadmill walking, nonparametric analysis suggested a similar relationship between tibia deformation angles and moving speed as established during parametric analysis. More specifically, the AP bending angle increased with the walking speed (<italic>p</italic> = 0.007, except <italic>p</italic> = 0.42 for 2.5 km/h <italic>v.s.</italic> 3.5 km/h and <italic>p</italic> = 0.22 for 4.5 km/h <italic>v.s.</italic> 5.5 km/h comparisons). A larger AP bending angle was induced by running than walking (walking at 5.5 km/h <italic>v.s.</italic> run at 9 km/h: <italic>p</italic> = 0.03). No significant effects of speed were found on tibia torsion during treadmill walking (<italic>p</italic> = 0.22) and running (<italic>p</italic> = 0.08). ML bending remained at a low level and nearly constant across speeds (<italic>p</italic> = 0.45) and types of locomotion (<italic>p</italic> = 0.64).</p>
+</sec></sec><sec id="s4">
+<title>Discussion</title>
+<p>In this paper, the <italic>in vivo</italic> tibia segment deformation regimes in humans, <italic>e.g.</italic> bending and torsion, during walking and running were investigated utilizing a novel optical segment tracking (OST) approach for the first time. Substantial effects of the walking and running speed, VGRF and VFM on the bending and torsion deformation angles of the human tibia were found. It should also be stated that these deformations were of surprisingly large magnitude during walking and running. In addition to the expected result that tibia segment deformation would generally increase with locomotor speed and with ground reaction forces, this study has yielded a number of novel and less obvious findings. Firstly, and most importantly, bone segment deformation, almost like a finger-print, contains highly specific personal information. In other words, very close relationships were found between <italic>e.g.</italic> ground reaction force and tibia segment deformation within each test subject, but the exact nature of these relationships varied between people. Secondly, anterior-posterior bending and torsion were the prevailing tibia loading regimes, whilst medio-lateral bending was much less pronounced. Thirdly, the different tibia deformation regimes did not scale uniformly with locomotor speed or ground reaction force. Each locomotor activity was rather characterized by a variable amount of bending and torsional deformation. Fourth, on the basis of many studies on the bone deformation amplitude in the past, this study provides rationale to revisit the potential importance of <italic>in vivo</italic> loading regimes and its features during common exercises, <italic>e.g.</italic> walking and running.</p>
+<sec id="s4a">
+<title>1.1 Analysis of recording errors</title>
+<p>As with any new method, an assessment of limits arising from recording errors is vitally important. We see four major sources of error.</p>
+<p>Firstly, the accuracy and the repeatability of the adopted optical system for recording minute marker movement in the targeted 3D volume have to be considered. As outlined above, the accuracy (absolute error) and the repeatability were very favorable within the volume of 400×300×300 mm<sup>3</sup>, namely maximum 1.8 µm and 2.5 µm, respectively, to assess displacements by 20 µm. The corresponding error can be translated in terms of angular deviation (α<sub>error</sub> in <xref ref-type="fig" rid="pone-0094525-g007">Figure 7A</xref>) with the equations given as follows. The maximum between-marker distance within a marker cluster amounts to 25 mm, and we have to consider accuracy errors at both ends of the marker cluster. Thus, the total alignment error amounts to 2<sup>1/2</sup> * 1.8 = 2.55 µm, and the error for estimates of α<sub>error</sub> would be 180°–2 * arccos(2.55 µm/25 mm)  = 0.012° (the calculations of arccos were based on angles, <xref ref-type="fig" rid="pone-0094525-g007">Figure 7A</xref>). The α<sub>error</sub> value was smaller than reported deformation results by two orders of magnitude.</p>
+<fig id="pone-0094525-g007" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0094525.g007</object-id><label>Figure 7</label><caption>
+<title>The recording error analysis of the OST approach.</title>
+<p>A: the deformation angle deviation α<sub>error</sub> assumed from the absolute error of 2<sup>1/2</sup> * 1.8 = 2.55 µm for both ends of the markers in the marker cluster. Bold black line referred to the plane determined by three markers in the marker cluster. 25 mm indicated the maximum distance between the markers in one marker cluster. α refers to the angle between the marker clusters. B: the potential marker displacement (d) due to the vibration induced by the acceleration force (<italic>F</italic>) of the screw/cluster structure. The bold black line refers to the bone screw. The red spot indicates the position of the plane determined by the markers in this cluster. 26.6 mm indicates the distance between the plane determined by three markers in one marker cluster and the bone surface. OST: optical segment tracking.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0094525.g007" position="float" xlink:type="simple"/></fig>
+<p>Secondly, there is an undeterminable source of error associated with longitudinal variation as per the biological experiment itself. Our experience from the afore-mentioned <italic>ex vivo</italic> study suggested a reproducibility of approximately 0.04°. The value of 0.04° includes both measurement and experimental-longitudinal variation and is approximately twice as large as the measurement error only, but still substantially smaller than the reported results.</p>
+<p>Thirdly, we have to consider that the bone screws could have loosened, <italic>e.g.</italic> due to the impact during the locomotor activities. However, the screws were deemed as stable upon removal after exercises were completed. Both orthopedic surgeons involved in the present study had performed hundreds of materials removals in their surgical practice. Moreover, the constant resonance frequency of the screw-cluster structure and the non-systematic and negligible drift between the marker clusters suggested firm fixation of the bone screws in the tibial cortex (unpublished data).</p>
+<p>Fourthly, it is possible, in theory, that the marker cluster resonated during locomotor activities and thus produced artificial displacement. However, the vibration amplitude of the screw-cluster structure during the locomotor activities can be assessed with the known characteristics of the marker clusters and following equations, as illustrated in <xref ref-type="fig" rid="pone-0094525-g007">Figure 7B</xref>. The weight of the marker cluster is 5.6 grams. The most intense exercise, <italic>i.e.</italic> hopping, yielded acceleration of 3.5 times gravity, thus causing a force <italic>F</italic> of 0.19 N. The distance between the bone surface and the plane determined by three markers in the cluster is 26.6 mm (<italic>L</italic>), and the bending stiffness (flexural stiffness, <italic>i.e.</italic> the product of elastic modulus and area moment of inertia) of the bone screw shaft is 0.41 Nm<sup>2</sup> (elastic modulus of the screw material: <italic>E</italic> = 110 GPa, inner and outer diameters of 1.5 and 3 mm, respectively, and thus area moment of inertia <italic>I</italic> = 3.73 mm<sup>4</sup>). Thus potential vibration amplitude of the markers induced by the acceleration of the marker cluster would be maximally <xref ref-type="bibr" rid="pone.0094525-Gere1">[52]</xref><disp-formula id="pone.0094525.e001"><graphic position="anchor" xlink:href="info:doi/10.1371/journal.pone.0094525.e001" xlink:type="simple"/></disp-formula></p>
+<p>These results suggested that the amplitude of any vibration of the screw/cluster structure is relatively small, being certainly smaller than the resolution of the optical system, and probably negligible in comparison to the reported results.</p>
+</sec><sec id="s4b">
+<title>1.2 Main findings on tibia segment deformation during walking on the walkway</title>
+<p>Results from this study showed that the proximal tibia mainly twisted externally and bent to the posterior aspect, as well as to some extent to the medial aspect in relation to the distal tibia during the stance phase of walking and running. Previously, the tibia contact force and moment have been investigated with an instrumented knee implant <xref ref-type="bibr" rid="pone.0094525-Heinlein1">[31]</xref>, <xref ref-type="bibr" rid="pone.0094525-Kutzner1">[45]</xref>. These results are in accordance with our findings, especially regarding the occurrence of posterior and medial bending as well as torsion moments during the stance phase of level walking. In line with this, bending and torsion moments have been predicted to occur during walking in a musculoskeletal model calculation <xref ref-type="bibr" rid="pone.0094525-Wehner1">[30]</xref>. However, the results in our study disagree with previous reports of tibia bending assessed during running by inverse dynamics analysis, in which anterior, rather than posterior tibia bending moments were postulated during the stance phase of running <xref ref-type="bibr" rid="pone.0094525-HarisPhuah1">[53]</xref>. The inconsistencies may relate to the inherent limitations of the inverse dynamics analysis approach, <italic>e.g.</italic> only joint reaction forces are calculated, which may derive unrealistic tibia load. In this context, the present results may provide further, indirect evidence to the view that the largest skeletal forces depend on muscle contractions, rather than simply arising from mass acceleration <xref ref-type="bibr" rid="pone.0094525-Rittweger1">[54]</xref>.</p>
+<p>Another important finding is the non-uniform scaling of deformation regimes. As exemplified in <xref ref-type="fig" rid="pone-0094525-g003">Figure 3</xref>, there were generally two noticeable deformation peaks, one in antero-posterior bending that coincided with the heel-strike, and another one in torsion that coincided with toe lift-off. This pattern was also confirmed by statistical analyses, suggesting that the peak-to-peak antero-posterior bending angles are linearly correlated with the first peak of the vertical ground reaction force, while the peak-to-peak torsion angle is unrelated to the second peak of the VGRF, but correlates with the second peak of VFM during the second half of the stance phase. Considering the fact that the mechanical load on the tibia shaft is generally caused by body weight and muscle contractions, the plantar flexors are primarily active during the second half of the stance phase. It is therefore tempting to assume that the body weight primarily induces the posterior bending of the tibia, while torsion is mainly produced by the plantar flexors contraction. Certainly, further study into the relationship between the deformation angles and body weight or muscle activities is needed to draw a firm conclusion.</p>
+</sec><sec id="s4c">
+<title>1.3 Effects of walking speed on tibia segment deformation</title>
+<p>During walking on the walkway, tibia antero-posterior bending increased linearly with walking speed. This result is congruent with previous results of numerous animal experiments, <italic>e.g.</italic> dog tibia, dog radius, horse tibia, horse radius and goat tibia <xref ref-type="bibr" rid="pone.0094525-Rubin3">[21]</xref>, <xref ref-type="bibr" rid="pone.0094525-Biewener4">[55]</xref>. Similarly, for three test subjects, the torsion angles, but not the medio-lateral bending angles, slightly and linearly increased with walking speed. The medio-lateral bending angles remained rather constant with speed. Likewise, during treadmill walking, antero-posterior bending increased with speed. Interestingly, for three test subjects, tibia torsion angles increased linearly with walking speed during overground walking, but remained constant during treadmill walking, indicating that the tibia load might be different for these two cases. It has been shown that larger compression and tension strains on one site of bone were generated during the overground running than during the treadmill running <xref ref-type="bibr" rid="pone.0094525-Milgrom2">[56]</xref>. The current results provide further evidence that the VGRF during the mid- and late-stance phase of treadmill walking differs from overground walking <xref ref-type="bibr" rid="pone.0094525-White1">[57]</xref>, which might be able to explain the deformation difference found in the present study.</p>
+</sec><sec id="s4d">
+<title>1.4 Relationship between tibia segment deformation and ground reaction force or moment</title>
+<p>The results from this study revealed a strong relationship between the VFM and the tibia torsion deformation for four of the test subjects. It is of interest in this context that VFM seems to be closely related to the loading history of the tibia <xref ref-type="bibr" rid="pone.0094525-Milner1">[58]</xref>. Conversely, the results showed that tibia deformation or load could not be totally predicted from VGRF.</p>
+</sec><sec id="s4e">
+<title>1.5 Tibia segment deformation during running on the treadmill</title>
+<p>In general, running is a more demanding exercise than walking. The muscles in the lower extremities are generally more active during running than during walking. In addition, axial forces caused by mass acceleration are higher in running than in walking. Results from this study suggest that the antero-posterior bending angle during running is significantly larger than during walking, even at the same speed of locomotion (<xref ref-type="fig" rid="pone-0094525-g006">Figure 6</xref>). Despite the limited number of subjects (n = 2) participating in the jogging trials at 9 km/h, antero-posterior and medio-lateral bending were still significantly larger than at 5.5 km/h. Conversely, tibia torsion was profoundly decreased during jogging at 9 km/h, even below levels observed during walking. Previous strain gauge measurements generally found principal tibia strains to be larger during running than walking. However, no measurements in bending and torsion were available in these previous studies <xref ref-type="bibr" rid="pone.0094525-Milgrom3">[59]</xref>, <xref ref-type="bibr" rid="pone.0094525-Burr1">[60]</xref>.</p>
+<p>Taken all of the above together, results of the present study indicated that not only the amplitude, but the regimes of tibia load differ between running and walking. It has been well accepted that stress fractures in the anterior tibia shaft can occur among long distance runners <xref ref-type="bibr" rid="pone.0094525-Brubaker1">[61]</xref>. Our experiment suggests that such stress fractures may be related to the high tension in the anterior aspect of tibia, whilst the posterior tibia was under even larger compression. Likewise, an inverse dynamics analysis study on runners indicated that the superposition of the joint reaction force and muscle force magnify the tibia posterior compression and attenuated the tibia shear force <xref ref-type="bibr" rid="pone.0094525-Sasimontonkul1">[62]</xref>. This might be one of the reasons why torsion angles from our measurements were lower during running than walking.</p>
+</sec><sec id="s4f">
+<title>1.6 Limitations</title>
+<p>Although new knowledge on human tibia segment deformation was contributed to understand the <italic>in vivo</italic> loading situations, the OST approach leaves some open questions. Firstly, unlike the strain gauge approaches, the local strain information of the tibia surface is not assessed in the proposed approach. Such a high-fidelity estimation or calculation should rely on an inversely-driven Finite Element Model (FEM), with anatomical tibia data – an approach that is by no means trivial but necessary to understand the strain distribution across the tibia. Secondly, the capture volume of the optical system was limited (400×300×300 mm<sup>3</sup> in this case) in order to maintain acceptable accuracy and repeatability during the deformation recording, meaning that tibia-affixed markers have to be in this volume during the recording trials of the exercises. As a consequence, the selection of exercises which can be performed, <italic>e.g.</italic> continuous recording of long term walking (Even for single gait cycle, the full swing phase is not always available due to the restriction of the capture volume) or running over ground, is limited. Thirdly, in the presented study, the comparatively small sample size (n = 5) raises the issue of interpretation of the parametric statistical analysis. Hence, nonparameteric statistics, which are conceived to be more robust for small sample size, were used in addition to parametric statistics to analyse the present results. No clear differences were found when comparing the two types of analyses, indicating that the small sample size in the present study is not likely to influence the conclusions we drew form the results. However, a larger sample size would still be appreciated in future studies. To summarize, it remains uncertain in how far the OST approach will be applied widely in future studies, due to its invasiveness. Understanding what can and what cannot be expected from the OST approach will guide the design of future studies, which firstly need to focus on improvement of the OST approach, and then further expand its application when justifiable.</p>
+</sec></sec><sec id="s5">
+<title>Conclusions</title>
+<p>In summary, taking together the tibia segment deformation results from this first application of the proposed OST approach in humans <italic>in vivo</italic>, we conclude that the human tibia experiences a considerable amount of bending and torsion loading during walking and running. The maximum peak-to-peak antero-posterior bending, torsion and medio-lateral bending angles reached up to 1.30°, 1.66° and 0.90° during walking, respectively. The tibia antero-posterior bending angles and torsion angles increased linearly with the walking speed and VGRF or VFM. More interestingly, a more or less fixed phase-relationship exists between different types of deformation during the stance phase of walking. Running generates larger antero-posterior bending angles, but smaller torsion angles than walking. These new findings on tibia segment deformation regimes during walking and running are therefore bound to change our understanding of long bone deformation in humans and provide more insights into the mechanical load distribution rather than mechanical load amplitude alone.</p>
+</sec></body>
+<back>
+<ack>
+<p>We would like to thank Peter Gauger, Wolfram Sies, Andreas Kriechbaumer and Jakob Kümmel for their kind help during data collection. We also would like to thank Hans-Martin Küsel-Feldker and Jürgen Geiermannat of the Institute of Biomechanics and Orthopaedics, German Sport University Cologne, Germany, for fine manufacturing the marker clusters. Special acknowledgements go to Alex Ireland for his kind language editing assistance. Peng-Fei Yang acknowledges Helmholtz Space Life Sciences Research School (SpaceLife) and his scholarship by the China Scholarship Council (CSC No.: 2009629013). Last but not least we are very grateful to our test subjects - without their selfless contribution, this work would not have been possible.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0094525-Main1"><label>1</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Main</surname><given-names>RP</given-names></name>, <name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name> (<year>2004</year>) <article-title>Ontogenetic patterns of limb loading, <italic>in vivo</italic> bone strains and growth in the goat radius</article-title>. <source>J Exp Biol</source> <volume>207</volume>: <fpage>2577</fpage>–<lpage>2588</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Petit1"><label>2</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Petit</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Beck</surname><given-names>TJ</given-names></name>, <name name-style="western"><surname>Lin</surname><given-names>HM</given-names></name>, <name name-style="western"><surname>Bentley</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Legro</surname><given-names>RS</given-names></name>, <etal>et al</etal>. (<year>2004</year>) <article-title>Femoral bone structural geometry adapts to mechanical loading and is influenced by sex steroids: The Penn State Young Women's Health Study</article-title>. <source>Bone</source> <volume>35</volume>: <fpage>750</fpage>–<lpage>759</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Schulte1"><label>3</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Schulte</surname><given-names>FA</given-names></name>, <name name-style="western"><surname>Ruffoni</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Lambers</surname><given-names>FM</given-names></name>, <name name-style="western"><surname>Christen</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Webster</surname><given-names>DJ</given-names></name>, <etal>et al</etal>. (<year>2013</year>) <article-title>Local mechanical stimuli regulate bone formation and resorption in mice at the tissue level</article-title>. <source>PLoS ONE</source> <volume>8</volume>: <fpage>e62172</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Augat1"><label>4</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Augat</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Reeb</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Claes</surname><given-names>LE</given-names></name> (<year>1996</year>) <article-title>Prediction of fracture load at different skeletal sites by geometric properties of the cortical shell</article-title>. <source>J Bone Miner Res</source> <volume>11</volume>: <fpage>1356</fpage>–<lpage>1363</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Capozza1"><label>5</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Capozza</surname><given-names>RF</given-names></name>, <name name-style="western"><surname>Feldman</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Mortarino</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Reina</surname><given-names>PS</given-names></name>, <name name-style="western"><surname>Schiessl</surname><given-names>H</given-names></name>, <etal>et al</etal>. (<year>2010</year>) <article-title>Structural analysis of the human tibia by tomographic (pQCT) serial scans</article-title>. <source>J Anat</source> <volume>216</volume>: <fpage>470</fpage>–<lpage>481</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Lieberman1"><label>6</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lieberman</surname><given-names>DE</given-names></name>, <name name-style="western"><surname>Polk</surname><given-names>JD</given-names></name>, <name name-style="western"><surname>Demes</surname><given-names>B</given-names></name> (<year>2004</year>) <article-title>Predicting long bone loading from cross-sectional geometry</article-title>. <source>Am J Phys Anthropol</source> <volume>123</volume>: <fpage>156</fpage>–<lpage>171</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Rubin1"><label>7</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rubin</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Gross</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Qin</surname><given-names>YX</given-names></name>, <name name-style="western"><surname>Fritton</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Guilak</surname><given-names>F</given-names></name>, <etal>et al</etal>. (<year>1996</year>) <article-title>Differentiation of the bone-tissue remodeling response to axial and torsional loading in the turkey ulna</article-title>. <source>J Bone Joint Surg Am</source> <volume>78</volume>: <fpage>1523</fpage>–<lpage>1533</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Kotha1"><label>8</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kotha</surname><given-names>SP</given-names></name>, <name name-style="western"><surname>Hsieh</surname><given-names>YF</given-names></name>, <name name-style="western"><surname>Strigel</surname><given-names>RM</given-names></name>, <name name-style="western"><surname>Müller</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Silva</surname><given-names>MJ</given-names></name> (<year>2004</year>) <article-title>Experimental and finite element analysis of the rat ulnar loading model—correlations between strain and bone formation following fatigue loading</article-title>. <source>J Biomech</source> <volume>37</volume>: <fpage>541</fpage>–<lpage>548</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-RaabCullen1"><label>9</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Raab-Cullen</surname><given-names>DM</given-names></name>, <name name-style="western"><surname>Akhter</surname><given-names>MP</given-names></name>, <name name-style="western"><surname>Kimmel</surname><given-names>DB</given-names></name>, <name name-style="western"><surname>Recker</surname><given-names>RR</given-names></name> (<year>1994</year>) <article-title>Periosteal bone formation stimulated by externally induced bending strains</article-title>. <source>J Bone Miner Res</source> <volume>9</volume>: <fpage>1143</fpage>–<lpage>1152</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-George1"><label>10</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>George</surname><given-names>WT</given-names></name>, <name name-style="western"><surname>Vashishth</surname><given-names>D</given-names></name> (<year>2006</year>) <article-title>Susceptibility of aging human bone to mixed-mode fracture increases bone fragility</article-title>. <source>Bone</source> <volume>38</volume>: <fpage>105</fpage>–<lpage>111</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Wang1"><label>11</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wang</surname><given-names>XA</given-names></name>, <name name-style="western"><surname>Niebur</surname><given-names>GL</given-names></name> (<year>2006</year>) <article-title>Microdamage propagation in trabecular bone due to changes in loading mode</article-title>. <source>J Biomech</source> <volume>39</volume>: <fpage>781</fpage>–<lpage>790</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Reilly1"><label>12</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Reilly</surname><given-names>GC</given-names></name>, <name name-style="western"><surname>Currey</surname><given-names>JD</given-names></name> (<year>1999</year>) <article-title>The development of microcracking and failure in bone depends on the loading mode to which it is adapted</article-title>. <source>J Exp Biol</source> <volume>202</volume>: <fpage>543</fpage>–<lpage>552</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Yang1"><label>13</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Yang</surname><given-names>PF</given-names></name>, <name name-style="western"><surname>Bruggemann</surname><given-names>GP</given-names></name>, <name name-style="western"><surname>Rittweger</surname><given-names>J</given-names></name> (<year>2011</year>) <article-title>What do we currently know from <italic>in vivo</italic> bone strain measurements in humans</article-title>? <source>J Musculoskelet Neuronal Interact</source> <volume>11</volume>: <fpage>8</fpage>–<lpage>20</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Frost1"><label>14</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Frost</surname><given-names>HM</given-names></name> (<year>2000</year>) <article-title>The Utah paradigm of skeletal physiology: an overview of its insights for bone, cartilage and collagenous tissue organs</article-title>. <source>J Bone Miner Metab</source> <volume>18</volume>: <fpage>305</fpage>–<lpage>316</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Huiskes1"><label>15</label>
+<mixed-citation publication-type="other" xlink:type="simple">Huiskes R, van Rietbergen B (2005) Biomechanics of bone. In: C. MV, R H, editors. Basic Orthopaedic Biomechanics &amp; Mechano-biology. 3rd ed: Lippincott Williams &amp; Wilkins. pp.123–180.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Biewener1"><label>16</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name>, <name name-style="western"><surname>Thomason</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Lanyon</surname><given-names>LE</given-names></name> (<year>1988</year>) <article-title>Mechanics of locomotion and jumping in the horse (Equus): <italic>in vivo</italic> stress in the tibia and metatarsus</article-title>. <source>J Zool</source> <volume>214</volume>: <fpage>547</fpage>–<lpage>565</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Biewener2"><label>17</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name>, <name name-style="western"><surname>Thomason</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Goodship</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Lanyon</surname><given-names>LE</given-names></name> (<year>1983</year>) <article-title>Bone stress in the horse forelimb during locomotion at different gaits - a comparison of 2 experimental methods</article-title>. <source>J Biomech</source> <volume>16</volume>: <fpage>565</fpage>–<lpage>576</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Gross1"><label>18</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gross</surname><given-names>TS</given-names></name>, <name name-style="western"><surname>McLeod</surname><given-names>KJ</given-names></name>, <name name-style="western"><surname>Rubin</surname><given-names>CT</given-names></name> (<year>1992</year>) <article-title>Characterizing bone strain distributions <italic>in vivo</italic> using three triple rosette strain gages</article-title>. <source>J Biomech</source> <volume>25</volume>: <fpage>1081</fpage>–<lpage>1087</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Biewener3"><label>19</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name> (<year>1991</year>) <article-title>Musculoskeletal design in relation to body size</article-title>. <source>J Biomech</source> <volume>24</volume> Suppl 1<fpage>19</fpage>–<lpage>29</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Rubin2"><label>20</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rubin</surname><given-names>CT</given-names></name>, <name name-style="western"><surname>Lanyon</surname><given-names>LE</given-names></name> (<year>1984</year>) <article-title>Dynamic strain similarity in vertebrates; an alternative to allometric limb bone scaling</article-title>. <source>J Theor Biol</source> <volume>107</volume>: <fpage>321</fpage>–<lpage>327</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Rubin3"><label>21</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rubin</surname><given-names>CT</given-names></name>, <name name-style="western"><surname>Lanyon</surname><given-names>LE</given-names></name> (<year>1982</year>) <article-title>Limb mechanics as a function of speed and gait - a study of functional strains in the radius and tibia of horse and dog</article-title>. <source>J Exp Biol</source> <volume>101</volume>: <fpage>187</fpage>–<lpage>211</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Aamodt1"><label>22</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Aamodt</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Lund-Larsen</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Eine</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Andersen</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Benum</surname><given-names>P</given-names></name>, <etal>et al</etal>. (<year>1997</year>) <article-title><italic>In vivo</italic> measurements show tensile axial strain in the proximal lateral aspect of the human femur</article-title>. <source>J Orthop Res</source> <volume>15</volume>: <fpage>927</fpage>–<lpage>931</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Peterman1"><label>23</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Peterman</surname><given-names>MM</given-names></name>, <name name-style="western"><surname>Hamel</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Cavanagh</surname><given-names>PR</given-names></name>, <name name-style="western"><surname>Piazza</surname><given-names>SJ</given-names></name>, <name name-style="western"><surname>Sharkey</surname><given-names>NA</given-names></name> (<year>2001</year>) <article-title>In vitro modeling of human tibial strains during exercise in micro-gravity</article-title>. <source>J Biomech</source> <volume>34</volume>: <fpage>693</fpage>–<lpage>698</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Macdonald1"><label>24</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Macdonald</surname><given-names>HM</given-names></name>, <name name-style="western"><surname>Cooper</surname><given-names>DML</given-names></name>, <name name-style="western"><surname>McKay</surname><given-names>HA</given-names></name> (<year>2009</year>) <article-title>Anterior–posterior bending strength at the tibial shaft increases with physical activity in boys: evidence for non-uniform geometric adaptation</article-title>. <source>Osteopor Int</source> <volume>20</volume>: <fpage>61</fpage>–<lpage>70</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Bertram1"><label>25</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bertram</surname><given-names>JE</given-names></name>, <name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name> (<year>1988</year>) <article-title>Bone curvature: sacrificing strength for load predictability</article-title>? <source>J Theor Biol</source> <volume>131</volume>: <fpage>75</fpage>–<lpage>92</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Judex1"><label>26</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Judex</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Gross</surname><given-names>TS</given-names></name>, <name name-style="western"><surname>Zernicke</surname><given-names>RF</given-names></name> (<year>1997</year>) <article-title>Strain gradients correlate with sites of exercise-induced bone-forming surfaces in the adult skeleton</article-title>. <source>J Bone Miner Res</source> <volume>12</volume>: <fpage>1737</fpage>–<lpage>1745</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Szivek1"><label>27</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Szivek</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Johnson</surname><given-names>EM</given-names></name>, <name name-style="western"><surname>Magee</surname><given-names>FP</given-names></name> (<year>1992</year>) <article-title><italic>In vivo</italic> strain analysis of the greyhound femoral diaphysis</article-title>. <source>J Invest Surg</source> <volume>5</volume>: <fpage>91</fpage>–<lpage>108</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Demes1"><label>28</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Demes</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Stern</surname><given-names>JT</given-names><suffix>Jr</suffix></name>, <name name-style="western"><surname>Hausman</surname><given-names>MR</given-names></name>, <name name-style="western"><surname>Larson</surname><given-names>SG</given-names></name>, <name name-style="western"><surname>McLeod</surname><given-names>KJ</given-names></name>, <etal>et al</etal>. (<year>1998</year>) <article-title>Patterns of strain in the macaque ulna during functional activity</article-title>. <source>Am J Phys Anthropol</source> <volume>106</volume>: <fpage>87</fpage>–<lpage>100</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Demes2"><label>29</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Demes</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Qin</surname><given-names>YX</given-names></name>, <name name-style="western"><surname>Stern</surname><given-names>JT</given-names><suffix>Jr</suffix></name>, <name name-style="western"><surname>Larson</surname><given-names>SG</given-names></name>, <name name-style="western"><surname>Rubin</surname><given-names>CT</given-names></name> (<year>2001</year>) <article-title>Patterns of strain in the macaque tibia during functional activity</article-title>. <source>Am J Phys Anthropol</source> <volume>116</volume>: <fpage>257</fpage>–<lpage>265</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Wehner1"><label>30</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wehner</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Claes</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Simon</surname><given-names>U</given-names></name> (<year>2009</year>) <article-title>Internal loads in the human tibia during gait</article-title>. <source>Clin Biomech (Bristol, Avon)</source> <volume>24</volume>: <fpage>299</fpage>–<lpage>302</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Heinlein1"><label>31</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Heinlein</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Kutzner</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Graichen</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Bender</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Rohlmann</surname><given-names>A</given-names></name>, <etal>et al</etal>. (<year>2009</year>) <article-title>ESB Clinical Biomechanics Award 2008: Complete data of total knee replacement loading for level walking and stair climbing measured <italic>in vivo</italic> with a follow-up of 6–10 months</article-title>. <source>Clin Biomech (Bristol, Avon)</source> <volume>24</volume>: <fpage>315</fpage>–<lpage>326</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Sverdlova1"><label>32</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sverdlova</surname><given-names>NS</given-names></name>, <name name-style="western"><surname>Witzel</surname><given-names>U</given-names></name> (<year>2010</year>) <article-title>Principles of determination and verification of muscle forces in the human musculoskeletal system: Muscle forces to minimise bending stress</article-title>. <source>J Biomech</source> <volume>43</volume>: <fpage>387</fpage>–<lpage>396</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Munih1"><label>33</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Munih</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Kralj</surname><given-names>A</given-names></name> (<year>1997</year>) <article-title>Modelling muscle activity in standing with considerations for bone safety</article-title>. <source>J Biomech</source> <volume>30</volume>: <fpage>49</fpage>–<lpage>56</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Munih2"><label>34</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Munih</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Kralj</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Bajd</surname><given-names>T</given-names></name> (<year>1992</year>) <article-title>Bending moments in lower-extremity bones for 2 standing postures</article-title>. <source>J Biom Eng</source> <volume>14</volume>: <fpage>293</fpage>–<lpage>302</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Pauwels1"><label>35</label>
+<mixed-citation publication-type="other" xlink:type="simple">Pauwels F (1965) Gesammelte Abhandlungen zur funktionellen Anatomie des Be-wegungsapparates. Berlin Heidelberg New York: Springer.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Currey1"><label>36</label>
+<mixed-citation publication-type="book" xlink:type="simple">Currey JD (2006) Bones: Structure and Mechanics: Princeton University Press; 1 edition. 297 p.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Milgrom1"><label>37</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Milgrom</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Radeva-Petrova</surname><given-names>DR</given-names></name>, <name name-style="western"><surname>Finestone</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Nyska</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Mendelson</surname><given-names>S</given-names></name>, <etal>et al</etal>. (<year>2007</year>) <article-title>The effect of muscle fatigue on <italic>in vivo</italic> tibial strains</article-title>. <source>J Biomech</source> <volume>40</volume>: <fpage>845</fpage>–<lpage>850</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Gross2"><label>38</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gross</surname><given-names>TS</given-names></name>, <name name-style="western"><surname>Edwards</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>McLeod</surname><given-names>KJ</given-names></name>, <name name-style="western"><surname>Rubin</surname><given-names>CT</given-names></name> (<year>1997</year>) <article-title>Strain gradients correlate with sites of periosteal bone formation</article-title>. <source>J Bone Miner Res</source> <volume>12</volume>: <fpage>982</fpage>–<lpage>988</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Guo1"><label>39</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Guo</surname><given-names>XD</given-names></name>, <name name-style="western"><surname>Cowin</surname><given-names>SC</given-names></name> (<year>1992</year>) <article-title>Periosteal and endosteal control of bone remodeling under torsional loading</article-title>. <source>J Biomech</source> <volume>25</volume>: <fpage>645</fpage>–<lpage>650</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Main2"><label>40</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Main</surname><given-names>RP</given-names></name>, <name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name> (<year>2007</year>) <article-title>Skeletal strain patterns and growth in the emu hindlimb during ontogeny</article-title>. <source>J Exp Biol</source> <volume>210</volume>: <fpage>2676</fpage>–<lpage>2690</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-DeMargerie1"><label>41</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>De Margerie</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Sanchez</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Cubo</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Castanet</surname><given-names>J</given-names></name> (<year>2005</year>) <article-title>Torsional resistance as a principal component of the structural design of long bones: Comparative multivariate evidence in birds</article-title>. <source>Anat Rec</source> <volume>282A</volume>: <fpage>49</fpage>–<lpage>66</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Carrano1"><label>42</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carrano</surname><given-names>MT</given-names></name>, <name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name> (<year>1999</year>) <article-title>Experimental alteration of limb posture in the chicken (Gallus gallus) and its bearing on the use of birds as analogs for dinosaur locomotion</article-title>. <source>J Morphol</source> <volume>240</volume>: <fpage>237</fpage>–<lpage>249</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Swartz1"><label>43</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Swartz</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Bennett</surname><given-names>MB</given-names></name>, <name name-style="western"><surname>Carrier</surname><given-names>DR</given-names></name> (<year>1992</year>) <article-title>Wing bone stresses in free flying bats and the evolution of skeletal design for flight</article-title>. <source>Nature</source> <volume>359</volume>: <fpage>726</fpage>–<lpage>729</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Feldman1"><label>44</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Feldman</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Capozza</surname><given-names>RF</given-names></name>, <name name-style="western"><surname>Mortarino</surname><given-names>PA</given-names></name>, <name name-style="western"><surname>Reina</surname><given-names>PS</given-names></name>, <name name-style="western"><surname>Ferretti</surname><given-names>JL</given-names></name>, <etal>et al</etal>. (<year>2012</year>) <article-title>Site and sex effects on tibia structure in distance runners and untrained people</article-title>. <source>Med Sci Sports Exerc</source> <volume>44</volume>: <fpage>1580</fpage>–<lpage>1588</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Kutzner1"><label>45</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kutzner</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Heinlein</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Graichen</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Bender</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Rohlmann</surname><given-names>A</given-names></name>, <etal>et al</etal>. (<year>2010</year>) <article-title>Loading of the knee joint during activities of daily living measured <italic>in vivo</italic> in five subjects</article-title>. <source>J Biomech</source> <volume>43</volume>: <fpage>2164</fpage>–<lpage>2173</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Yang2"><label>46</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Yang</surname><given-names>PF</given-names></name>, <name name-style="western"><surname>Sanno</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Bruggemann</surname><given-names>GP</given-names></name>, <name name-style="western"><surname>Rittweger</surname><given-names>J</given-names></name> (<year>2012</year>) <article-title>Evaluation of the performance of a motion capture system for small displacement recording and a discussion for its application potential in bone deformation <italic>in vivo</italic> measurements</article-title>. <source>Proc Inst Mech Eng H</source> <volume>226</volume>: <fpage>838</fpage>–<lpage>847</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Ganse1"><label>47</label>
+<mixed-citation publication-type="other" xlink:type="simple">Ganse B, Yang PF, Bruggemann GP, Rittweger J, Mueller LP, et al. (2014) <italic>In-vivo</italic> measurements of human bone deformation using optical segment tracking: surgical approach and validation in a three-point bending test. J Musculoskelet Neuronal Interact: In press.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Grood1"><label>48</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Grood</surname><given-names>ES</given-names></name>, <name name-style="western"><surname>Suntay</surname><given-names>WJ</given-names></name> (<year>1983</year>) <article-title>A joint coordinate system for the clinical description of three-dimensional motions: application to the knee</article-title>. <source>J Biomech Eng</source> <volume>105</volume>: <fpage>136</fpage>–<lpage>144</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Soderkvist1"><label>49</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Soderkvist</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Wedin</surname><given-names>PA</given-names></name> (<year>1993</year>) <article-title>Determining the movements of the skeleton using well-configured markers</article-title>. <source>J Biomech</source> <volume>26</volume>: <fpage>1473</fpage>–<lpage>1477</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Lafortune1"><label>50</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lafortune</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Cavanagh</surname><given-names>PR</given-names></name>, <name name-style="western"><surname>Sommer</surname><given-names>HJ</given-names><suffix>3rd</suffix></name>, <name name-style="western"><surname>Kalenak</surname><given-names>A</given-names></name> (<year>1992</year>) <article-title>Three-dimensional kinematics of the human knee during walking</article-title>. <source>J Biomech</source> <volume>25</volume>: <fpage>347</fpage>–<lpage>357</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-UO1"><label>51</label>
+<mixed-citation publication-type="other" xlink:type="simple">UO Motor Control and Cognition Lab website. Available: <ext-link ext-link-type="uri" xlink:href="http://ganeshauoregonedu/images/c/c7/Force_Platform_Manual_20pdf" xlink:type="simple">http://ganeshauoregonedu/images/c/c7/Force_Platform_Manual_20pdf</ext-link>. Accessed 2014 March 26.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Gere1"><label>52</label>
+<mixed-citation publication-type="book" xlink:type="simple">Gere JM, Goodno BJ (2012) Machanics of Materials CL Engineering. 1152 p.</mixed-citation>
+</ref>
+<ref id="pone.0094525-HarisPhuah1"><label>53</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Haris Phuah</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Schache</surname><given-names>AG</given-names></name>, <name name-style="western"><surname>Crossley</surname><given-names>KM</given-names></name>, <name name-style="western"><surname>Wrigley</surname><given-names>TV</given-names></name>, <name name-style="western"><surname>Creaby</surname><given-names>MW</given-names></name> (<year>2010</year>) <article-title>Sagittal plane bending moments acting on the lower leg during running</article-title>. <source>Gait Posture</source> <volume>31</volume>: <fpage>218</fpage>–<lpage>222</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Rittweger1"><label>54</label>
+<mixed-citation publication-type="other" xlink:type="simple">Rittweger J (2007) Physiological targets of artificial gravity: adaptive processes in bone. In: Clement G, Bukley A, editors. Artificial Gravity.Berlin: Springer.pp. 191–231.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Biewener4"><label>55</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Biewener</surname><given-names>AA</given-names></name>, <name name-style="western"><surname>Taylor</surname><given-names>CR</given-names></name> (<year>1986</year>) <article-title>Bone strain: a determinant of gait and speed</article-title>? <source>J Exp Biol</source> <volume>123</volume>: <fpage>383</fpage>–<lpage>400</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Milgrom2"><label>56</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Milgrom</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Finestone</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Segev</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Olin</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Arndt</surname><given-names>T</given-names></name>, <etal>et al</etal>. (<year>2003</year>) <article-title>Are overground or treadmill runners more likely to sustain tibial stress fracture</article-title>? <source>Br J Sports Med</source> <volume>37</volume>: <fpage>160</fpage>–<lpage>163</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-White1"><label>57</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>White</surname><given-names>SC</given-names></name>, <name name-style="western"><surname>Yack</surname><given-names>HJ</given-names></name>, <name name-style="western"><surname>Tucker</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Lin</surname><given-names>HY</given-names></name> (<year>1998</year>) <article-title>Comparison of vertical ground reaction forces during overground and treadmill walking</article-title>. <source>Med Sci Sports Exerc</source> <volume>30</volume>: <fpage>1537</fpage>–<lpage>1542</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Milner1"><label>58</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Milner</surname><given-names>CE</given-names></name>, <name name-style="western"><surname>Davis</surname><given-names>IS</given-names></name>, <name name-style="western"><surname>Hamill</surname><given-names>J</given-names></name> (<year>2006</year>) <article-title>Free moment as a predictor of tibial stress fracture in distance runners</article-title>. <source>J Biomech</source> <volume>39</volume>: <fpage>2819</fpage>–<lpage>2825</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Milgrom3"><label>59</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Milgrom</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Finestone</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Levi</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Simkin</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Ekenman</surname><given-names>I</given-names></name>, <etal>et al</etal>. (<year>2000</year>) <article-title>Do high impact exercises produce higher tibial strains than running</article-title>? <source>Br J Sports Med</source> <volume>34</volume>: <fpage>195</fpage>–<lpage>199</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Burr1"><label>60</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Burr</surname><given-names>DB</given-names></name>, <name name-style="western"><surname>Milgrom</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Fyhrie</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Forwood</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Nyska</surname><given-names>M</given-names></name>, <etal>et al</etal>. (<year>1996</year>) <article-title><italic>In vivo</italic> measurement of human tibial strains during vigorous activity</article-title>. <source>Bone</source> <volume>18</volume>: <fpage>405</fpage>–<lpage>410</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Brubaker1"><label>61</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brubaker</surname><given-names>CE</given-names></name>, <name name-style="western"><surname>James</surname><given-names>SL</given-names></name> (<year>1974</year>) <article-title>Injuries to runners</article-title>. <source>J Sports Med</source> <volume>2</volume>: <fpage>189</fpage>–<lpage>198</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0094525-Sasimontonkul1"><label>62</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sasimontonkul</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Bay</surname><given-names>BK</given-names></name>, <name name-style="western"><surname>Pavol</surname><given-names>MJ</given-names></name> (<year>2007</year>) <article-title>Bone contact forces on the distal tibia during the stance phase of running</article-title>. <source>J Biomech</source> <volume>40</volume>: <fpage>3503</fpage>–<lpage>3509</lpage>.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>

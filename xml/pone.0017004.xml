@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="EN">
+  <front>
+    <journal-meta><journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><!--===== Grouping journal title elements =====--><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher></journal-meta>
+    <article-meta><article-id pub-id-type="publisher-id">PONE-D-10-03810</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0017004</article-id><article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Engineering</subject>
+          <subj-group>
+            <subject>Mechanical engineering</subject>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Materials science</subject>
+          <subj-group>
+            <subject>Biomaterials</subject>
+          </subj-group>
+          <subj-group>
+            <subject>Material properties</subject>
+            <subj-group>
+              <subject>Mechanical properties</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Biotechnology</subject>
+        </subj-group>
+      </article-categories><title-group><article-title>An Efficient Method of Modeling Material Properties Using a Thermal Diffusion Analogy: An Example Based on Craniofacial Bone</article-title><alt-title alt-title-type="running-head">Thermally Controlled Modulus</alt-title></title-group><contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Davis</surname>
+            <given-names>Julian L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Dumont</surname>
+            <given-names>Elizabeth R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Strait</surname>
+            <given-names>David S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Grosse</surname>
+            <given-names>Ian R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+      </contrib-group><aff id="aff1"><label>1</label><addr-line>Department of Engineering, University of Southern Indiana, Evansville, Indiana, United States of America</addr-line>       </aff><aff id="aff2"><label>2</label><addr-line>Department of Biology, University of Massachusetts Amherst, Amherst, Massachusetts, United States of America</addr-line>       </aff><aff id="aff3"><label>3</label><addr-line>Department of Anthropology, University at Albany, Albany, New York, United States of America</addr-line>       </aff><aff id="aff4"><label>4</label><addr-line>Department of Mechanical and Industrial Engineering, University of Massachusetts Amherst, Amherst, Massachusetts, United States of America</addr-line>       </aff><contrib-group>
+        <contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Farke</surname>
+            <given-names>Andrew</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group><aff id="edit1">Raymond M. Alf Museum of Paleontology, United States of America</aff><author-notes>
+        <corresp id="cor1">* E-mail: <email xlink:type="simple">jldavis2@usi.edu</email></corresp>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: JLD IRG. Performed the experiments: JLD DSS. Analyzed the data: JLD ERD DSS IRG. Wrote the paper: JLD ERD DSS IRG.</p>
+        </fn>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn></author-notes><pub-date pub-type="collection">
+        <year>2011</year>
+      </pub-date><pub-date pub-type="epub">
+        <day>11</day>
+        <month>2</month>
+        <year>2011</year>
+      </pub-date><volume>6</volume><issue>2</issue><elocation-id>e17004</elocation-id><history>
+        <date date-type="received">
+          <day>15</day>
+          <month>10</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>1</month>
+          <year>2011</year>
+        </date>
+      </history><!--===== Grouping copyright info into permissions =====--><permissions><copyright-year>2011</copyright-year><copyright-holder>Davis et al</copyright-holder><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><abstract>
+        <p>The ability to incorporate detailed geometry into finite element models has allowed researchers to investigate the influence of morphology on performance aspects of skeletal components. This advance has also allowed researchers to explore the effect of different material models, ranging from simple (e.g., isotropic) to complex (e.g., orthotropic), on the response of bone. However, bone's complicated geometry makes it difficult to incorporate complex material models into finite element models of bone. This difficulty is due to variation in the spatial orientation of material properties throughout bone. Our analysis addresses this problem by taking full advantage of a finite element program's ability to solve thermal-structural problems. Using a linear relationship between temperature and modulus, we seeded specific nodes of the finite element model with temperatures. We then used thermal diffusion to propagate the modulus throughout the finite element model. Finally, we solved for the mechanical response of the finite element model to the applied loads and constraints. We found that using the thermal diffusion analogy to control the modulus of bone throughout its structure provides a simple and effective method of spatially varying modulus. Results compare favorably against both experimental data and results from an FE model that incorporated a complex (orthotropic) material model. This method presented will allow researchers the ability to easily incorporate more material property data into their finite element models in an effort to improve the model's accuracy.</p>
+      </abstract><funding-group><funding-statement>This work was supported by the National Science Foundation (<ext-link ext-link-type="uri" xlink:href="http://www.nsf.gov" xlink:type="simple">www.nsf.gov</ext-link>) grants NSF-DBI 0743460 to ERD and IRG, NSF-BCS 0725078 to IRG, and NSF-BCS 0725126 to DSS. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts>
+        <page-count count="6"/>
+      </counts></article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>Technological advances in medical imaging and software have facilitated the construction of geometrically complicated three dimensional representations of organic structures that are used in applications ranging from prototyping to computer-based analysis. In particular, these technological advances have allowed for more detailed studies of the skeletal system and its components using finite element (FE) models <xref ref-type="bibr" rid="pone.0017004-Berthaume1">[1]</xref>–<xref ref-type="bibr" rid="pone.0017004-Wroe3">[28]</xref>. FE analysis (FEA) is a standard technique used by engineers to model the response of structures to applied boundary conditions (i.e. constraints and loads). For structural FEA, the material properties of the substances that comprise the structure are inputs for the model. By applying different material models (e.g., isotropic vs. orthotropic) to the same finite element model, investigators can study the effect of those material models on the response of geometrically complicated structures.</p>
+      <p>Previous methods for incorporating non-homogeneous moduli into FE models of biological structures have been developed <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref>, <xref ref-type="bibr" rid="pone.0017004-Helgason1">[29]</xref>. However, the collection of material property data and the precise application of those data to FE models of biological structures can be a time consuming and difficult process. To our knowledge, methods of easily including and controlling spatially variable material properties based on values measured from experiments in an FE model of a biological structure has not yet been presented.</p>
+      <p>Bone, for example, is often tested at discrete locations and has been modeled as a material ranging from isotropic to anisotropic depending on the length scale of observation <xref ref-type="bibr" rid="pone.0017004-Lakes1">[30]</xref>–<xref ref-type="bibr" rid="pone.0017004-Tai1">[33]</xref>. As is always the case in modeling, it is desirable to employ simplifying assumptions regarding model inputs that allow efficient model construction while simultaneously ensuring adequate model accuracy. Therefore, detailed material data may not always be appropriate, or even available, for studies that use FE models. However, some research questions require high fidelity FE models that may be improved by incorporating detailed material data.</p>
+      <p>Strait <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref> investigated the effect of material models on the performance of an FE model of a macaque cranium (<italic>Macaca fasicularis</italic>). They quantified performance by comparing three strain measures collected <italic>in vivo</italic> (maximum shear strain, principal strain ratio, and maximum principal strain orientations) to those predicted by the FE model at eight locations on the skull. The analysis compared the performance of the FE model in four analyses in which assumptions about bone material properties ranged from coarse (a single set of isotropic material properties derived from human limb bones applied to the entire cranium) to precise (i.e., regionally varying orthotropic properties derived from an analysis of several macaque crania <xref ref-type="bibr" rid="pone.0017004-Wang1">[34]</xref>). The results indicated that using an orthotropic material model whose properties were derived from and varied across the macaque cranium returned strain data that most closely approximated experimental data. While this study demonstrated the importance of using orthotropic material models to achieve results that most closely match experimental data, it came at the cost of painstaking and time consuming subdivision of the model into distinct material regions and creation of over thirty local coordinate systems representing the principal directions of the orthotropic material properties at various locations on the skull.</p>
+      <p>In an effort to minimize the time consuming process of applying orthotropic material models to FE models, Helgason <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Helgason1">[29]</xref> presented a novel method of applying spatially-varying (i.e., non-homogeneous) elastic modulus throughout an FE model by exploiting the coupled thermal-structural analysis feature typically found in commercial FEA tools. Helgason et al. <xref ref-type="bibr" rid="pone.0017004-Helgason1">[29]</xref> created a voxel-based finite element model of a femur from computed tomography (CT) data. A Young's modulus value for each node of the voxel-derived FE mesh was computed using a nonlinear relationship between Young's modulus and bone ash density. Young's modulus values were obtained via a calibrated linear relationship with bone ash density from the CT scan. Finally, nodal temperature values were used as a surrogate for Young's modulus by assigning an arbitrary linear relationship between temperature and Young's modulus. The net result was temperature values for all nodes and a temperature-dependent Young's modulus material behavior model. The FE code then solved the structural problem. This method allows for precise control of material properties throughout an FE model and has the potential to significantly simplify the process of assigning complex material properties to bones. However, the approach requires a voxel-based finite element mesh and relies on the relatively low correlation of cortical bone density to Young's modulus; <italic>r<sup>2</sup></italic> values range from a low of 0.24 <xref ref-type="bibr" rid="pone.0017004-Rho1">[35]</xref> to a high of 0.69 <xref ref-type="bibr" rid="pone.0017004-Wachter1">[36]</xref>.</p>
+      <p>In this paper we extend the method proposed by Helgason <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Helgason1">[29]</xref> to any finite element mesh for which material property values are known only at specific locations. We take full advantage of the coupled thermal-structural functionality in commercial codes by modeling the distribution of Young's modulus as a thermal diffusion phenomenon. Specifically, we apply temperature values (which are linearly correlated to experimentally-measured values of Young's modulus) at seed nodes, define isotropic thermal material behavior, and solve the steady-state heat conduction problem. Once the finite element temperature solution is obtained, the coupled thermal-structural analysis as described above is executed. This method differs from Helgason <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Helgason1">[29]</xref>, who fully specified Young's modulus at every node according to CT scan data and therefore did not need to solve a thermal FE model to obtain the temperature distribution used to functionally grade Young's modulus. Our extension of Helgason <italic>et al.</italic>'s <xref ref-type="bibr" rid="pone.0017004-Helgason1">[29]</xref> technique provides a modulus distribution throughout the model based on heat flow paths through the material.</p>
+      <p>The goal of this study is to determine whether modeling bone using our thermal-structural approach can either improve or equal the predictions of maximum shear strain derived from a model in which different orthotropic material properties are defined for different regions: Regionally Orthotropic FE model. We do this by applying our thermal analogy method to the macaque finite element model of Strait <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref> under identical loading and boundary conditions. We implement 3 FE models that differ only in the material properties applied to each model. The Uniform Isotropic (UI) finite element model uses the same isotropic material properties through-out each anatomical region of the skull distinguishing only cortical from trabecular bone. The Regionally Isotropic (RI) finite element model also uses isotropic material properties in each anatomical region of the skull, however, the modulus and Poisson's ratio varied discretely between anatomical regions. Finally, the Thermally Graded (TG) finite element model allows modulus vary smoothly according to seed values and propagate though the FE model using heat paths. For this analysis we focus on maximum shear strain; complete experimental data are not available for principal strain ratios and principal strain orientation comparisons are highly qualitative <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref>. Included with our results of maximum shear strain are the results obtained using the Regionally Orthotropic FE model by Strait <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref>. If our temperature dependent modulus method performs well, it will significantly reduce the time it takes to define and apply complex material properties to FE models.</p>
+    </sec>
+    <sec id="s2">
+      <title>Results</title>
+      <p>Shear strain from eight nodes that matched those used in Strait <italic>et al.</italic> in 2005 were identified on each of three finite element models: Uniform Isotropic, Regional Isotropic and Thermally Graded. Each material model is discussed further in the <xref ref-type="sec" rid="s4">materials and methods</xref> section. We compared the strain results with experimental data collected from the literature and the FE results from the regionally orthotropic FE model used in Strait et al. in 2005. With one exception, predicted shear strain from all of the material models fell within the range of the experimental data. The exception was location number 2 (the superior rim of the orbit on the working side) in the regional orthotropic material model, where shear strain fell just outside of the range of the experimental data (<xref ref-type="fig" rid="pone-0017004-g001">Fig. 1</xref>). The results from the Uniform Isotropic and Regional Isotropic analyses are in basic agreement with those of Strait <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref>, considering the slight over-estimation of shear modulus.</p>
+      <fig id="pone-0017004-g001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0017004.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Experimental and FE model maximum shear strains.</title>
+          <p>Maximum shear strains collected from each of the analyses are plotted against grand mean of experimental data. Also included in this figure are the shear strain results from the orthotropic material property FE model (Regional Orthotropic) used in the 2005 study of same model <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref>. All other data are derived from this study. Working and balancing side data are labeled with (W) and (B), respectively. Descriptions for each location shown on the macaque skull (upper right) are as follows: 1) dorsal interorbital; 2) working side dorsal orbital; 3) balancing side dorsal orbital; 4) working side infraorbital; 5) balancing side infraorbital; 6) working side zygomatic arch; 7) balancing side zygomatic arch; 8) working side postorbital bar.</p>
+        </caption>
+        <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0017004.g001" xlink:type="simple"/>
+      </fig>
+    </sec>
+    <sec id="s3">
+      <title>Discussion</title>
+      <p>As noted by Strait <italic>et al.</italic> in 2005, the need for accurate and detailed material properties within a model is largely based on what research questions are being asked. In this and the 2005 study, the criterion for model performance was whether the model predicted strain that fell in the range of <italic>in-vivo</italic> data collected from several individuals, which spanned over 1000 microstrain. Given this wide range of variation, all material models we examined performed equally well. Note, however, that all of the models used material properties derived directly from macaque crania. The authors also examined the FE model using material properties derived from a different species and skeletal part (i.e. human limb bone), and in that case found a weaker correspondence between FE and <italic>in vivo</italic> data. Given that relatively few FE analyses of vertebrate skeletal structures employ material properties derived directly from the species and/or skeletal part of interest, the cautions outlined by Strait <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref> remain salient. In reference to the present study, a more fine scaled determination of whether one material model is superior to the others will require more tightly controlled experimental data. Ideally, one would compare the performance of different material models using a complete set of data on regional material properties, experimentally measured strains, and strains from an FE model derived from a single individual.</p>
+      <p>In the absence of complete studies of single individuals, modeling bone as a functionally graded isotropic material is relatively easy and can be implemented in many commercial FE packages. In fact, most commercial FEA programs provide automated techniques for coupling the results of a thermal analysis to the subsequent structural analysis problem in which mechanical properties of the structure are temperature dependent. The method has the advantage that it does not require a voxel-based finite element model or rely on indirect measurements of Young's modulus. Instead, it applies a functionally graded material model based on known material values data collected from specific locations. Ideally, these data are gathered via direct physical tests, such as micro indentation or ultrasonic testing <xref ref-type="bibr" rid="pone.0017004-Rapoff1">[37]</xref>–<xref ref-type="bibr" rid="pone.0017004-Kim1">[38]</xref>. Another advantage of this method compared to an approach in which material properties are partitioned according to region (as in Strait <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Strait2">[22]</xref>–<xref ref-type="bibr" rid="pone.0017004-Strait5">[25]</xref>) is that it avoids sudden, unrealistic transitions in those properties across the boundaries between parts (<xref ref-type="fig" rid="pone-0017004-g002">Fig. 2</xref>). These transitions create artifacts in the strain field that would not be observed using the thermal diffusion approach described here.</p>
+      <fig id="pone-0017004-g002" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0017004.g002</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Steady state temperature distribution.</title>
+          <p>Steady state temperature distribution throughout the skull is determined by heat conduction based on temperatures at seed points (red squares) on the skull. High temperatures in regions of the skull indicate high moduli according to the linear relationship shown in <xref ref-type="fig" rid="pone-0017004-g003">Figure 3</xref>.</p>
+        </caption>
+        <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0017004.g002" xlink:type="simple"/>
+      </fig>
+      <p>An assumption behind the thermally graded material model we propose is that the non-homogeneous distribution of material stiffness in a bone can be approximated by the solution of a heat conduction problem using the temperature field as a surrogate for Young's modulus. Although bone has been shown to have spatially variable modulus on macroscopic <xref ref-type="bibr" rid="pone.0017004-Currey2">[32]</xref>, <xref ref-type="bibr" rid="pone.0017004-Kim1">[38]</xref> and microscopic scales <xref ref-type="bibr" rid="pone.0017004-Rapoff1">[37]</xref>, we are not claiming diffusion is the mechanism by which stiffness is propagated through bone, nor is it necessarily the appropriate descriptive model. We are simply using diffusion to spatially interpolate intermediate values between known values of measured modulus. We suggest that it is reasonable hypothesis to let the value of Young's modulus propagate throughout a specimen from values at specific points according to the physics of basic diffusion mechanics. Steady state heat conduction is governed by Laplace's equation, an equation encountered in mass transfer theory, fluid mechanics, elasticity, electrostatics and virtually all diffusion and potential field problems. Therefore it seems reasonable to apply here.</p>
+      <p>An inherent limitation to the proposed technique is the inability to functionally grade orthotropic material property values. While it might be possible to control spatially each of the nine independent orthotropic material constants using nine independent thermal analyses, the orientations of principal material axis must also be controlled spatially. Fundamentally, temperature is a scalar field (i.e. a zero<sup>th</sup> order tensor), has no directional information and therefore fails to provide an analogy for functionally grading a 2<sup>nd</sup> order tensor field (i.e. orthotropic material model) which requires specification of both values and directions throughout the domain. It should be noted that the Hounsfield's unit is also a scalar field in CT bone scans and therefore also lacks sufficient information for specifying non-homogeneous orthotropic material properties.</p>
+      <p>Temperature and static solution tools associated with the FE method can facilitate the incorporation of more experimental data into the FE models (i.e., local measurements of modulus from micro- or nano-indentation) and perhaps improve a model's performance. The thermal method we outline here provides a quick and reasonable means for modeling the spatial variation of isotropic material properties within geometrically complicated structures, such as bone. This type of material is called a functionally graded material. Based on available <italic>in-vivo</italic> data derived from several macaque crania (none of which represents the cranium that is the subject of the FE model), the method produces maximum shear strains that are not discernibly any less realistic than those produced by a regional orthotropic model, but at a significantly reduced cost in terms of time and effort. Because the thermally graded properties are isotropic whereas the true properties of craniofacial bone are orthotropic, the method developed here is not necessarily more precise than regional orthotropy (in particular, the shear modulus of craniofacial bone is being overestimated). However, the discrepancy in strain results produced by these models is sufficiently small that the benefit gained in terms of ease of modeling makes the thermally graded approach preferable with respect to many research questions.</p>
+    </sec>
+    <sec id="s4" sec-type="materials|methods">
+      <title>Materials and Methods</title>
+      <p>Details of FE model construction, loading and constraints are discussed in Strait <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref>. Briefly, the macaque skull FE model was constructed from over 300,000 polyhedron elements. The FE model was divided into 53 different sections to which 17 material properties were assigned independently. Masticatory muscle forces were estimated using muscle stress, physiological cross sectional areas and electromyography data collected from the literature. Muscle forces were applied to the skull and oriented to mimic static unilateral biting with the left upper first molar tooth. The FE model was constrained from rigid body motion at the temporomandibular joints and the left first molar.</p>
+      <p>We performed analyses using three material models ranging from simple to complex, applied to the same FE model: a Uniform Isotropic material model, a Regional Isotropic material model, and a Thermally Graded material model. In the UI model we modeled both cortical and trabecular bone as homogeneous isotropic materials (cortical: Young's Modulus (E)  = 17.3 GPa, Poisson's Ratio (ν)  = 0.28; trabecular: E = 0.64 GPa, ν = 0.28) <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref>. In the RI model, we applied varying isotropic material properties to each of the 53 sections of the cranium corresponding to regions listed in <xref ref-type="table" rid="pone-0017004-t001">Table 1</xref>. Homologous regions on the right and left sides of the cranium were assigned the same properties, and several neurocranial and basicranial regions were assigned the properties used in the UI analysis. Some of the regions have multiple parts, but all were assigned the same material property. For example, trabecular bone was modeled with the same uniform isotropic material everywhere it occurred.</p>
+      <table-wrap id="pone-0017004-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017004.t001</object-id><label>Table 1</label><caption>
+          <title>Regional isotropic material properties from Strait <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref>.</title>
+        </caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0017004-t001-1" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0017004.t001" xlink:type="simple"/><table>
+          <colgroup span="1">
+            <col align="left" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+          </colgroup>
+          <thead>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Region</td>
+              <td align="left" colspan="1" rowspan="1">Young's Modulus</td>
+              <td align="left" colspan="1" rowspan="1">Poisson's Ratio</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1"/>
+              <td align="left" colspan="1" rowspan="1">GPa</td>
+              <td align="left" colspan="1" rowspan="1"/>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Trabecular Bone</td>
+              <td align="left" colspan="1" rowspan="1">0.64</td>
+              <td align="left" colspan="1" rowspan="1">0.28</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Posterior Zygomatic Arch</td>
+              <td align="left" colspan="1" rowspan="1">12.5</td>
+              <td align="left" colspan="1" rowspan="1">0.28</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Frontal Torus</td>
+              <td align="left" colspan="1" rowspan="1">13.1</td>
+              <td align="left" colspan="1" rowspan="1">0.25</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Glabella</td>
+              <td align="left" colspan="1" rowspan="1">14.4</td>
+              <td align="left" colspan="1" rowspan="1">0.27</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Medial Orbital Wall</td>
+              <td align="left" colspan="1" rowspan="1">14.6</td>
+              <td align="left" colspan="1" rowspan="1">0.36</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Frontal Squama</td>
+              <td align="left" colspan="1" rowspan="1">14.9</td>
+              <td align="left" colspan="1" rowspan="1">0.31</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Anterior Palate</td>
+              <td align="left" colspan="1" rowspan="1">15.3</td>
+              <td align="left" colspan="1" rowspan="1">0.34</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">P3–M1 Alveolus</td>
+              <td align="left" colspan="1" rowspan="1">16.7</td>
+              <td align="left" colspan="1" rowspan="1">0.25</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Neuro- and Basi- crania</td>
+              <td align="left" colspan="1" rowspan="1">17.3</td>
+              <td align="left" colspan="1" rowspan="1">0.28</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Root of Zygoma</td>
+              <td align="left" colspan="1" rowspan="1">17.9</td>
+              <td align="left" colspan="1" rowspan="1">0.34</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Lateral Rostrum</td>
+              <td align="left" colspan="1" rowspan="1">18.1</td>
+              <td align="left" colspan="1" rowspan="1">0.25</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Premaxilla</td>
+              <td align="left" colspan="1" rowspan="1">18.5</td>
+              <td align="left" colspan="1" rowspan="1">0.21</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Posterior Palate</td>
+              <td align="left" colspan="1" rowspan="1">18.8</td>
+              <td align="left" colspan="1" rowspan="1">0.32</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Postorbital bar</td>
+              <td align="left" colspan="1" rowspan="1">19.8</td>
+              <td align="left" colspan="1" rowspan="1">0.27</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Dorsal Rostrum</td>
+              <td align="left" colspan="1" rowspan="1">19.9</td>
+              <td align="left" colspan="1" rowspan="1">0.22</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">M2–M3 Alveolus</td>
+              <td align="left" colspan="1" rowspan="1">20.6</td>
+              <td align="left" colspan="1" rowspan="1">0.27</td>
+            </tr>
+            <tr>
+              <td align="left" colspan="1" rowspan="1">Anterior Zygomatic Arch</td>
+              <td align="left" colspan="1" rowspan="1">20.8</td>
+              <td align="left" colspan="1" rowspan="1">0.26</td>
+            </tr>
+          </tbody>
+        </table></alternatives><table-wrap-foot>
+          <fn id="nt101">
+            <label/>
+            <p>Each FE model was divided into 17 different regions for which separate material properties could be assigned. Regions and corresponding material properties are listed here.</p>
+          </fn>
+        </table-wrap-foot></table-wrap>
+      <p>Note that the isotropic material properties employed here are not precisely the same as the properties employed by Strait <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref>. The authors erred in that the properties they employed were not truly isotropic. Rather, they used published values of Young's modulus, Poisson's ratio and shear modulus, but because bone is not an isotropic material, the values of these variables do not satisfy the conditions of isotropy. Nevertheless, the values used by the authors in 2005 are more precise than isotropic values, because isotropic values derived from Young's modulus and Poisson's ratio systematically overestimate the shear modulus of bone. Thus, the UI and RI analyses presented here are performed on models with a higher shear modulus than those in the corresponding analyses of Strait <italic>et al.</italic> published in 2005. Ultimately, however, the material properties used here did not result in maximum shear strains that differed meaningfully from those obtained by Strait <italic>et al.</italic> <xref ref-type="bibr" rid="pone.0017004-Strait3">[23]</xref>.</p>
+      <p>To implement the TG material model, we used the thermal analogy to functionally grade Young's modulus throughout the skull based on known values at specific points. This method was executed in several steps. The first step established a relationship between temperature and the moduli for all of the cortical bone used in the model (<xref ref-type="table" rid="pone-0017004-t001">Table 1</xref>). We assigned the mid-range modulus of 17.3 GPa to a temperature of 50 degrees centigrade and determined the linear scaling factor to account for all the moduli used in the model (<xref ref-type="fig" rid="pone-0017004-g002">Fig. 2</xref>). We then assigned a temperature to a surface node at the approximate center of each of the 53 sections of the skull (<xref ref-type="fig" rid="pone-0017004-g002">Fig. 2</xref>) according to the moduli listed in <xref ref-type="table" rid="pone-0017004-t001">Table 1</xref> and the modulus versus temperature relationship shown in <xref ref-type="fig" rid="pone-0017004-g003">Figure 3</xref>.</p>
+      <fig id="pone-0017004-g003" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0017004.g003</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <title>Modulus factor vs. temperature.</title>
+          <p>This figure illustrates the linear relationship between modulus and temperature used in the Thermally Graded material model we developed in this study.</p>
+        </caption>
+        <graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0017004.g003" xlink:type="simple"/>
+      </fig>
+      <p>In order to obtain the steady-state temperature distribution throughout the structure due to temperature values applied at specific points, thermal conductivities (k) were assigned to the materials used to model the structure. Thermal conductivity, measured in Watts per meter-Kelvin, is a measure of a material's ability to conduct heat through the material. Metals for example, have a relatively high thermal conductivity, between 10 and 400 W/(m-K) <xref ref-type="bibr" rid="pone.0017004-Incropera1">[39]</xref>. Bone tends to have lower thermal conductivity, between 0.2 and 0.5 W/(m-K) <xref ref-type="bibr" rid="pone.0017004-Clattenburg1">[40]</xref>–<xref ref-type="bibr" rid="pone.0017004-ElBrawany1">[42]</xref>. In this study the thermal material properties are simply a means by which modulus is propagated through the model via a finite element solution to the heat conduction equation. The steady-state temperature distribution within the structure, assuming constant thermal boundary conditions, is not affected by changes in the thermal conductivity value. Therefore, each material in the FE model was arbitrarily assigned a thermal conductivity of 1.0 W/(m-K). If one is interested in thermally induced strains as well as mechanical strains, a coefficient of thermal expansion (α), measured in strain per Kelvin, must be non-zero. However, we were only interested in mechanical strain, so assigned the coefficient of thermal expansion a value of zero.</p>
+      <p>We solved the steady state temperature problem using Strand7 finite element software (Strand7 Version 2.4, Sydney, Australia), by allowing temperature to propagate through the skull based on the temperatures we assigned to seed nodes (<xref ref-type="fig" rid="pone-0017004-g002">Fig. 2</xref>). Note that because temperature is the primary nodal variable solved for in a finite element thermal analysis, the resulting temperature field has <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0017004.e001" xlink:type="simple"/></inline-formula>continuity across all inter-element boundaries and will vary within each element based on each element's interpolating polynomials (i.e., shape functions). A function with <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0017004.e002" xlink:type="simple"/></inline-formula> continuity is continuous. A function that has <inline-formula><inline-graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0017004.e003" xlink:type="simple"/></inline-formula>continuity, where <italic>k</italic> is a positive integer, is continuous, as are all its derivatives up to and including its <italic>k<sup>th</sup></italic> derivative. For example, for a four-noded tetrahedral element the temperature field within an element is interpolated using linear polynomials in terms of coordinates x, y, and z from nodal values.</p>
+      <p>In the next step of the analysis, we imported the temperature solution back onto the solid model, thereby assigning temperatures (and modulus) to all of the nodes within the model. We then solved the structural temperature-dependent-modulus problem. The solution process employed by the solver required the computation of each element's stiffness matrix. The stiffness matrix for an element is related to both the shape and size of the element, as well as to its material stiffness. The element's non-uniform temperature field enables the elastic modulus within each element to vary continuously according to its prescribed temperature dependency. Finite element programs that support temperature-dependent elastic modulus and a corresponding initial temperature field take this into account when computing each element's stiffness matrix.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We also thank Thomas Eiting, Brandon Field, Dan Pulaski, Sharlene Santana and Jaime Tanner for their contributions to previous versions of this manuscript.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0017004-Berthaume1">
+        <label>1</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Berthaume</surname><given-names>M</given-names></name><name name-style="western"><surname>Grosse</surname><given-names>IR</given-names></name><name name-style="western"><surname>Patel</surname><given-names>ND</given-names></name><name name-style="western"><surname>Strait</surname><given-names>DS</given-names></name><name name-style="western"><surname>Wood</surname><given-names>S</given-names></name><etal/></person-group>             <year>2010</year>             <article-title>The effect of early hominin occlusal morphology on the fracturing of hard food items.</article-title>             <source>Anat Rec (Hoboken)</source>             <volume>293</volume>             <fpage>594</fpage>             <lpage>606</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Bourke1">
+        <label>2</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Bourke</surname><given-names>J</given-names></name><name name-style="western"><surname>Wroe</surname><given-names>S</given-names></name><name name-style="western"><surname>Moreno</surname><given-names>K</given-names></name><name name-style="western"><surname>McHenry</surname><given-names>C</given-names></name><name name-style="western"><surname>Clausen</surname><given-names>P</given-names></name></person-group>             <year>2008</year>             <article-title>Effects of gape and tooth position on bite force and skull stress in the dingo (<italic>Canis lupus dingo</italic>) using a 3-dimensional finite element approach.</article-title>             <source>PLoS ONE</source>             <volume>3</volume>             <fpage>e2200</fpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Dumont1">
+        <label>3</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Dumont</surname><given-names>ER</given-names></name><name name-style="western"><surname>Piccirillo</surname><given-names>J</given-names></name><name name-style="western"><surname>Grosse</surname><given-names>IR</given-names></name></person-group>             <year>2005</year>             <article-title>Finite-element analysis of biting behavior and bone stress in the facial skeletons of bats.</article-title>             <source>Anat Rec A Discov Mol Cell Evol Biol</source>             <volume>283</volume>             <fpage>319</fpage>             <lpage>330</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Kupczik1">
+        <label>4</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kupczik</surname><given-names>K</given-names></name><name name-style="western"><surname>Dobson</surname><given-names>CA</given-names></name><name name-style="western"><surname>Crompton</surname><given-names>RH</given-names></name><name name-style="western"><surname>Phillips</surname><given-names>R</given-names></name><name name-style="western"><surname>Oxnard</surname><given-names>CE</given-names></name><etal/></person-group>             <year>2009</year>             <article-title>Masticatory loading and bone adaptation in the supraorbital torus of developing macaques.</article-title>             <source>Am J Phys Anthropol</source>             <volume>139</volume>             <fpage>193</fpage>             <lpage>203</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Kupczik2">
+        <label>5</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kupczik</surname><given-names>K</given-names></name><name name-style="western"><surname>Dobson</surname><given-names>CA</given-names></name><name name-style="western"><surname>Fagan</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Crompton</surname><given-names>RH</given-names></name><name name-style="western"><surname>Oxnard</surname><given-names>CE</given-names></name><etal/></person-group>             <year>2007</year>             <article-title>Assessing mechanical function of the zygomatic region in macaques: validation and sensitivity testing of finite element models.</article-title>             <source>J Anat</source>             <volume>210</volume>             <fpage>41</fpage>             <lpage>53</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-McHenry1">
+        <label>6</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>McHenry</surname><given-names>CR</given-names></name><name name-style="western"><surname>Wroe</surname><given-names>S</given-names></name><name name-style="western"><surname>Clausen</surname><given-names>PD</given-names></name><name name-style="western"><surname>Moreno</surname><given-names>K</given-names></name><name name-style="western"><surname>Cunningham</surname><given-names>E</given-names></name></person-group>             <year>2007</year>             <article-title>Supermodeled sabercat, predatory behavior in <italic>Smilodon fatalis</italic> revealed by high-resolution 3D computer simulation.</article-title>             <source>Proc Natl Acad Sci U S A</source>             <volume>104</volume>             <fpage>16010</fpage>             <lpage>16015</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Moazen1">
+        <label>7</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Moazen</surname><given-names>M</given-names></name><name name-style="western"><surname>Curtis</surname><given-names>N</given-names></name><name name-style="western"><surname>Evans</surname><given-names>SE</given-names></name><name name-style="western"><surname>O'Higgins</surname><given-names>P</given-names></name><name name-style="western"><surname>Fagan</surname><given-names>MJ</given-names></name></person-group>             <year>2008</year>             <article-title>Combined finite element and multibody dynamics analysis of biting in a Uromastyx hardwickii lizard skull.</article-title>             <source>J Anat</source>             <volume>213</volume>             <fpage>499</fpage>             <lpage>508</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Moazen2">
+        <label>8</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Moazen</surname><given-names>M</given-names></name><name name-style="western"><surname>Curtis</surname><given-names>N</given-names></name><name name-style="western"><surname>Evans</surname><given-names>SE</given-names></name><name name-style="western"><surname>O'Higgins</surname><given-names>P</given-names></name><name name-style="western"><surname>Fagan</surname><given-names>MJ</given-names></name></person-group>             <year>2008</year>             <article-title>Rigid-body analysis of a lizard skull: modelling the skull of Uromastyx hardwickii.</article-title>             <source>J Biomech</source>             <volume>41</volume>             <fpage>1274</fpage>             <lpage>1280</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Moazen3">
+        <label>9</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Moazen</surname><given-names>M</given-names></name><name name-style="western"><surname>Curtis</surname><given-names>N</given-names></name><name name-style="western"><surname>O'Higgins</surname><given-names>P</given-names></name><name name-style="western"><surname>Evans</surname><given-names>SE</given-names></name><name name-style="western"><surname>Fagan</surname><given-names>MJ</given-names></name></person-group>             <year>2009</year>             <article-title>Biomechanical assessment of evolutionary changes in the lepidosaurian skull.</article-title>             <source>Proc Natl Acad Sci U S A</source>             <volume>106</volume>             <fpage>8273</fpage>             <lpage>8277</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Moazen4">
+        <label>10</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Moazen</surname><given-names>M</given-names></name><name name-style="western"><surname>Curtis</surname><given-names>N</given-names></name><name name-style="western"><surname>O'Higgins</surname><given-names>P</given-names></name><name name-style="western"><surname>Jones</surname><given-names>ME</given-names></name><name name-style="western"><surname>Evans</surname><given-names>SE</given-names></name><etal/></person-group>             <year>2009</year>             <article-title>Assessment of the role of sutures in a lizard skull: a computer modelling study.</article-title>             <source>Proc Biol Sci</source>             <volume>276</volume>             <fpage>39</fpage>             <lpage>46</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Moreno1">
+        <label>11</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Moreno</surname><given-names>K</given-names></name><name name-style="western"><surname>Wroe</surname><given-names>S</given-names></name><name name-style="western"><surname>Clausen</surname><given-names>P</given-names></name><name name-style="western"><surname>McHenry</surname><given-names>C</given-names></name><name name-style="western"><surname>D'Amore</surname><given-names>DC</given-names></name><etal/></person-group>             <year>2008</year>             <article-title>Cranial performance in the Komodo dragon (<italic>Varanus komodoensis</italic>) as revealed by high-resolution 3-D finite element analysis.</article-title>             <source>J Anat</source>             <volume>212</volume>             <fpage>736</fpage>             <lpage>746</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Rayfield1">
+        <label>12</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rayfield</surname><given-names>EJ</given-names></name></person-group>             <year>2004</year>             <article-title>Cranial mechanics and feeding in <italic>Tyrannosaurus rex</italic>.</article-title>             <source>Proc Biol Sci</source>             <volume>271</volume>             <fpage>1451</fpage>             <lpage>1459</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Rayfield2">
+        <label>13</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rayfield</surname><given-names>EJ</given-names></name></person-group>             <year>2005</year>             <article-title>Using finite-element analysis to investigate suture morphology: a case study using large carnivorous dinosaurs.</article-title>             <source>Anat Rec A Discov Mol Cell Evol Biol</source>             <volume>283</volume>             <fpage>349</fpage>             <lpage>365</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Rayfield3">
+        <label>14</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rayfield</surname><given-names>EJ</given-names></name></person-group>             <year>2005</year>             <article-title>Aspects of comparative cranial mechanics in the theropod dinosaurs <italic>Coelophysis</italic>, <italic>Allosaurus</italic> and <italic>Tyrannosaurus</italic>.</article-title>             <source>Zool J Linn Soc-Lond</source>             <volume>144</volume>             <fpage>309</fpage>             <lpage>316</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Rayfield4">
+        <label>15</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rayfield</surname><given-names>EJ</given-names></name></person-group>             <year>2007</year>             <article-title>Finite element analysis and understanding the biomechanics and evolution of living and fossil organisms.</article-title>             <source>Annu Rev Earth Pl Sc</source>             <volume>35</volume>             <fpage>541</fpage>             <lpage>576</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Rayfield5">
+        <label>16</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rayfield</surname><given-names>EJ</given-names></name><name name-style="western"><surname>Milner</surname><given-names>AC</given-names></name></person-group>             <year>2008</year>             <article-title>Establishing a framework for <italic>archosaur</italic> cranial mechanics.</article-title>             <source>Paleobiology</source>             <volume>34</volume>             <fpage>494</fpage>             <lpage>515</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Rayfield6">
+        <label>17</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rayfield</surname><given-names>EJ</given-names></name><name name-style="western"><surname>Milner</surname><given-names>AC</given-names></name><name name-style="western"><surname>Xuan</surname><given-names>VB</given-names></name><name name-style="western"><surname>Young</surname><given-names>PG</given-names></name></person-group>             <year>2007</year>             <article-title>Functional morphology of spinosaur 'crocodile-mimic' dinosaurs.</article-title>             <source>J Vertebr Paleontol</source>             <volume>27</volume>             <fpage>892</fpage>             <lpage>901</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Rayfield7">
+        <label>18</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rayfield</surname><given-names>EJ</given-names></name><name name-style="western"><surname>Norman</surname><given-names>DB</given-names></name><name name-style="western"><surname>Horner</surname><given-names>CC</given-names></name><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name><name name-style="western"><surname>Smith</surname><given-names>PM</given-names></name><etal/></person-group>             <year>2001</year>             <article-title>Cranial design and function in a large theropod dinosaur.</article-title>             <source>Nature</source>             <volume>409</volume>             <fpage>1033</fpage>             <lpage>1037</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Richmond1">
+        <label>19</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Richmond</surname><given-names>BG</given-names></name><name name-style="western"><surname>Wright</surname><given-names>BW</given-names></name><name name-style="western"><surname>Grosse</surname><given-names>I</given-names></name><name name-style="western"><surname>Dechow</surname><given-names>PC</given-names></name><name name-style="western"><surname>Ross</surname><given-names>CF</given-names></name><etal/></person-group>             <year>2005</year>             <article-title>Finite element analysis in functional morphology.</article-title>             <source>Anat Rec A Discov Mol Cell Evol Biol</source>             <volume>283</volume>             <fpage>259</fpage>             <lpage>274</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Slater1">
+        <label>20</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Slater</surname><given-names>GJ</given-names></name><name name-style="western"><surname>B</surname><given-names>VANV</given-names></name></person-group>             <year>2009</year>             <article-title>Allometry and performance: the evolution of skull form and function in felids.</article-title>             <source>J Evol Biol</source>             <volume>22</volume>             <fpage>2278</fpage>             <lpage>2287</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Strait1">
+        <label>21</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Strait</surname><given-names>DS</given-names></name><name name-style="western"><surname>Grosse</surname><given-names>IR</given-names></name><name name-style="western"><surname>Dechow</surname><given-names>PC</given-names></name><name name-style="western"><surname>Smith</surname><given-names>AL</given-names></name><name name-style="western"><surname>Wang</surname><given-names>Q</given-names></name><etal/></person-group>             <year>2010</year>             <article-title>The structural rigidity of the cranium of <italic>Australopithecus africanus</italic>: implications for diet, dietary adaptations, and the allometry of feeding biomechanics.</article-title>             <source>Anat Rec (Hoboken)</source>             <volume>293</volume>             <fpage>583</fpage>             <lpage>593</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Strait2">
+        <label>22</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Strait</surname><given-names>DS</given-names></name><name name-style="western"><surname>Richmond</surname><given-names>BG</given-names></name><name name-style="western"><surname>Spencer</surname><given-names>MA</given-names></name><name name-style="western"><surname>Ross</surname><given-names>CF</given-names></name><name name-style="western"><surname>Dechow</surname><given-names>PC</given-names></name><etal/></person-group>             <year>2007</year>             <article-title>Masticatory biomechanics and its relevance to early hominid phylogeny: an examination of palatal thickness using finite-element analysis.</article-title>             <source>J Hum Evol</source>             <volume>52</volume>             <fpage>585</fpage>             <lpage>599</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Strait3">
+        <label>23</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Strait</surname><given-names>DS</given-names></name><name name-style="western"><surname>Wang</surname><given-names>Q</given-names></name><name name-style="western"><surname>Dechow</surname><given-names>PC</given-names></name><name name-style="western"><surname>Ross</surname><given-names>CF</given-names></name><name name-style="western"><surname>Richmond</surname><given-names>BG</given-names></name><etal/></person-group>             <year>2005</year>             <article-title>Modeling elastic properties in finite element analysis: How much precision is needed to produce an accurate model?</article-title>             <source>Anat Rec Part A</source>             <volume>283A</volume>             <fpage>275</fpage>             <lpage>287</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Strait4">
+        <label>24</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Strait</surname><given-names>DS</given-names></name><name name-style="western"><surname>Weber</surname><given-names>GW</given-names></name><name name-style="western"><surname>Neubauer</surname><given-names>S</given-names></name><name name-style="western"><surname>Chalk</surname><given-names>J</given-names></name><name name-style="western"><surname>Richmond</surname><given-names>BG</given-names></name><etal/></person-group>             <year>2009</year>             <article-title>The feeding biomechanics and dietary ecology of <italic>Australopithecus africanus</italic>.</article-title>             <source>Proc Natl Acad Sci U S A</source>             <volume>106</volume>             <fpage>2124</fpage>             <lpage>2129</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Strait5">
+        <label>25</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Strait</surname><given-names>DS</given-names></name><name name-style="western"><surname>Wright</surname><given-names>BW</given-names></name><name name-style="western"><surname>Richmond</surname><given-names>BG</given-names></name><name name-style="western"><surname>Ross</surname><given-names>CF</given-names></name><name name-style="western"><surname>Dechow</surname><given-names>PC</given-names></name><etal/></person-group>             <year>2008</year>             <article-title>Craniofacial strain patterns during premolar loading: implications for human evolution.</article-title>             <person-group person-group-type="editor"><name name-style="western"><surname>Vinyard</surname><given-names>CJ</given-names></name><name name-style="western"><surname>Ravosa</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Wall</surname><given-names>CE</given-names></name></person-group>             <source>Primate craniofacial function and biology</source>             <publisher-loc>New York</publisher-loc>             <publisher-name>Springer</publisher-name>             <fpage>173</fpage>             <lpage>198</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Wroe1">
+        <label>26</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wroe</surname><given-names>S</given-names></name></person-group>             <year>2007</year>             <article-title>Cranial mechanics compared in extinct marsupial and extant African lions using a finite-element approach.</article-title>             <source>J Zool</source>             <volume>274</volume>             <fpage>332</fpage>             <lpage>339</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Wroe2">
+        <label>27</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wroe</surname><given-names>S</given-names></name><name name-style="western"><surname>Moreno</surname><given-names>K</given-names></name><name name-style="western"><surname>Clausen</surname><given-names>P</given-names></name><name name-style="western"><surname>McHenry</surname><given-names>C</given-names></name><name name-style="western"><surname>Curnoe</surname><given-names>D</given-names></name></person-group>             <year>2007</year>             <article-title>High-resolution three-dimensional computer simulation of hominid cranial mechanics.</article-title>             <source>Anat Rec (Hoboken)</source>             <volume>290</volume>             <fpage>1248</fpage>             <lpage>1255</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Wroe3">
+        <label>28</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wroe</surname><given-names>S</given-names></name><name name-style="western"><surname>Huber</surname><given-names>DR</given-names></name><name name-style="western"><surname>Lowry</surname><given-names>M</given-names></name><name name-style="western"><surname>McHenry</surname><given-names>C</given-names></name><name name-style="western"><surname>Moreno</surname><given-names>K</given-names></name><etal/></person-group>             <year>2008</year>             <article-title>Three-dimensional computer analysis of white shark jaw mechanics: how hard can a great white bite?</article-title>             <source>J Zool</source>             <volume>276</volume>             <fpage>336</fpage>             <lpage>342</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Helgason1">
+        <label>29</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Helgason</surname><given-names>B</given-names></name><name name-style="western"><surname>Taddei</surname><given-names>F</given-names></name><name name-style="western"><surname>Palsson</surname><given-names>H</given-names></name><name name-style="western"><surname>Schileo</surname><given-names>E</given-names></name><name name-style="western"><surname>Cristofolini</surname><given-names>L</given-names></name><etal/></person-group>             <year>2008</year>             <article-title>A modified method for assigning material properties to FE models of bones.</article-title>             <source>Med Eng Phys</source>             <volume>30</volume>             <fpage>444</fpage>             <lpage>453</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Lakes1">
+        <label>30</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Lakes</surname><given-names>R</given-names></name></person-group>             <year>1993</year>             <article-title>Materials with structural hierarchy.</article-title>             <source>Nature</source>             <volume>361</volume>             <fpage>511</fpage>             <lpage>515</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Currey1">
+        <label>31</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Currey</surname><given-names>J</given-names></name></person-group>             <year>2009</year>             <article-title>Measurement of the mechanical properties of bone: a recent history.</article-title>             <source>Clin Orthop Relat Res</source>             <volume>467</volume>             <fpage>1948</fpage>             <lpage>1954</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Currey2">
+        <label>32</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Currey</surname><given-names>JD</given-names></name></person-group>             <year>2002</year>             <article-title>Bones: Structure and Mechanics.</article-title>             <publisher-loc>Princeton, NJ</publisher-loc>             <publisher-name>Princeton University Press</publisher-name> <!--===== Restructure page-count as size[@units="page"] =====--><size units="page">436</size>           </element-citation>
+      </ref>
+      <ref id="pone.0017004-Tai1">
+        <label>33</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Tai</surname><given-names>K</given-names></name><name name-style="western"><surname>Dao</surname><given-names>M</given-names></name><name name-style="western"><surname>Suresh</surname><given-names>S</given-names></name><name name-style="western"><surname>Palazoglu</surname><given-names>A</given-names></name><name name-style="western"><surname>Ortiz</surname><given-names>C</given-names></name></person-group>             <year>2007</year>             <article-title>Nanoscale heterogeneity promotes energy dissipation in bone.</article-title>             <source>Nat Mater</source>             <volume>6</volume>             <fpage>454</fpage>             <lpage>462</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Wang1">
+        <label>34</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>Q</given-names></name><name name-style="western"><surname>Dechow</surname><given-names>PC</given-names></name></person-group>             <year>2006</year>             <article-title>Elastic properties of external cortical bone in the craniofacial skeleton of the rhesus monkey.</article-title>             <source>Am J Phys Anthropol</source>             <volume>131</volume>             <fpage>402</fpage>             <lpage>415</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Rho1">
+        <label>35</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rho</surname><given-names>JY</given-names></name><name name-style="western"><surname>Hobatho</surname><given-names>MC</given-names></name><name name-style="western"><surname>Ashman</surname><given-names>RB</given-names></name></person-group>             <year>1995</year>             <article-title>Relations of mechanical properties to density and CT numbers in human bone.</article-title>             <source>Med Eng Phys</source>             <volume>17</volume>             <fpage>347</fpage>             <lpage>355</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Wachter1">
+        <label>36</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Wachter</surname><given-names>NJ</given-names></name><name name-style="western"><surname>Krischak</surname><given-names>GD</given-names></name><name name-style="western"><surname>Mentzel</surname><given-names>M</given-names></name><name name-style="western"><surname>Sarkar</surname><given-names>MR</given-names></name><name name-style="western"><surname>Ebinger</surname><given-names>T</given-names></name><etal/></person-group>             <year>2002</year>             <article-title>Correlation of bone mineral density with strength and microstructural parameters of cortical bone in vitro.</article-title>             <source>Bone</source>             <volume>31</volume>             <fpage>90</fpage>             <lpage>95</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Rapoff1">
+        <label>37</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Rapoff</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Rinaldi</surname><given-names>RG</given-names></name><name name-style="western"><surname>Hotzman</surname><given-names>JL</given-names></name><name name-style="western"><surname>Daegling</surname><given-names>DJ</given-names></name></person-group>             <year>2008</year>             <article-title>Elastic modulus variation in mandibular bone: a microindentation study of <italic>Macaca fascicularis</italic>.</article-title>             <source>Am J Phys Anthropol</source>             <volume>135</volume>             <fpage>100</fpage>             <lpage>109</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Kim1">
+        <label>38</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Kim</surname><given-names>HD</given-names></name><name name-style="western"><surname>Walsh</surname><given-names>WR</given-names></name></person-group>             <year>1992</year>             <article-title>Mechanical and ultrasonic charaterization of cortical bone.</article-title>             <source>Biomimetics</source>             <volume>1</volume>             <fpage>293</fpage>             <lpage>310</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Incropera1">
+        <label>39</label>
+        <element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Incropera</surname><given-names>FP</given-names></name><name name-style="western"><surname>DeWitt</surname><given-names>DP</given-names></name></person-group>             <year>1996</year>             <article-title>Introduction to heat transfer.</article-title>             <publisher-loc>New York</publisher-loc>             <publisher-name>Wiley</publisher-name> <!--===== Restructure page-count as size[@units="page"] =====--><size units="page">801</size>           </element-citation>
+      </ref>
+      <ref id="pone.0017004-Clattenburg1">
+        <label>40</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Clattenburg</surname><given-names>R</given-names></name><name name-style="western"><surname>Cohen</surname><given-names>J</given-names></name><name name-style="western"><surname>Conner</surname><given-names>S</given-names></name><name name-style="western"><surname>Cook</surname><given-names>N</given-names></name></person-group>             <year>1975</year>             <article-title>Thermal properties of cancellous bone.</article-title>             <source>J Biomed Mater Res</source>             <volume>9</volume>             <fpage>169</fpage>             <lpage>182</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-Davidson1">
+        <label>41</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>Davidson</surname><given-names>S</given-names></name><name name-style="western"><surname>James</surname><given-names>D</given-names></name></person-group>             <year>2000</year>             <article-title>Measurement of thermal conductivity of bovine cortical bone.</article-title>             <source>Med Eng Phys</source>             <volume>10</volume>             <fpage>741</fpage>             <lpage>747</lpage>          </element-citation>
+      </ref>
+      <ref id="pone.0017004-ElBrawany1">
+        <label>42</label>
+        <element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author"><name name-style="western"><surname>El-Brawany</surname><given-names>MA</given-names></name><name name-style="western"><surname>Nassiri</surname><given-names>DK</given-names></name><name name-style="western"><surname>Terhaar</surname><given-names>G</given-names></name><name name-style="western"><surname>Shaw</surname><given-names>A</given-names></name><name name-style="western"><surname>Rivens</surname><given-names>I</given-names></name><etal/></person-group>             <year>2009</year>             <article-title>Measurement of thermal and ultrasonic properties of some biological tissues.</article-title>             <source>J Med Eng Technol</source>             <volume>33</volume>             <fpage>249</fpage>             <lpage>256</lpage>          </element-citation>
+      </ref>
+    </ref-list>
+    
+  </back>
+</article>

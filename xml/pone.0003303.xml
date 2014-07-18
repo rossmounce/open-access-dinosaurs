@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="EN">
+<front>
+<journal-meta><journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><!--===== Grouping journal title elements =====--><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="publisher-id">08-PONE-RA-06143R1</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0003303</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline"><subject>Evolutionary Biology</subject><subject>Respiratory Medicine</subject><subject>Evolutionary Biology/Paleontology</subject></subj-group></article-categories><title-group><article-title>Evidence for Avian Intrathoracic Air Sacs in a New Predatory Dinosaur from Argentina</article-title><alt-title alt-title-type="running-head">Dinosaur with Air Sacs</alt-title></title-group><contrib-group>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Sereno</surname><given-names>Paul C.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Martinez</surname><given-names>Ricardo N.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Wilson</surname><given-names>Jeffrey A.</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Varricchio</surname><given-names>David J.</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Alcober</surname><given-names>Oscar A.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Larsson</surname><given-names>Hans C. E.</given-names></name><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib>
+</contrib-group><aff id="aff1"><label>1</label><addr-line>Department of Organismal Biology and Anatomy, University of Chicago, Chicago, Illinois, United States of America</addr-line>       </aff><aff id="aff2"><label>2</label><addr-line>Museo de Ciencias Naturales, San Juan, Argentina</addr-line>       </aff><aff id="aff3"><label>3</label><addr-line>Museum of Paleontology and Department of Geological Sciences, University of Michigan, Ann Arbor, Michigan, United States of America</addr-line>       </aff><aff id="aff4"><label>4</label><addr-line>Department of Earth Sciences, Montana State University, Bozeman, Montana, United States of America</addr-line>       </aff><aff id="aff5"><label>5</label><addr-line>Redpath Museum, McGill University, Montreal, Quebec, Canada</addr-line>       </aff><contrib-group>
+<contrib contrib-type="editor" xlink:type="simple"><name name-style="western"><surname>Kemp</surname><given-names>Tom</given-names></name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group><aff id="edit1">University of Oxford, United Kingdom</aff><author-notes>
+<corresp id="cor1">* E-mail: <email xlink:type="simple">dinosaur@uchicago.edu</email></corresp>
+<fn fn-type="con"><p>Involved in writing sections of the paper: PCS, RNM, JAW, DJV, OAA, HCEL. Participants in the fieldwork: PCS, RNM, JAW, DJV, OAA, HCEL.</p></fn>
+<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn></author-notes><pub-date pub-type="collection"><year>2008</year></pub-date><pub-date pub-type="epub"><day>30</day><month>9</month><year>2008</year></pub-date><volume>3</volume><issue>9</issue><elocation-id>e3303</elocation-id><history>
+<date date-type="received"><day>28</day><month>8</month><year>2008</year></date>
+<date date-type="accepted"><day>9</day><month>9</month><year>2008</year></date>
+</history><!--===== Grouping copyright info into permissions =====--><permissions><copyright-year>2008</copyright-year><copyright-holder>Sereno et al</copyright-holder><license><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><abstract><sec>
+<title>Background</title>
+<p>Living birds possess a unique heterogeneous pulmonary system composed of a rigid, dorsally-anchored lung and several compliant air sacs that operate as bellows, driving inspired air through the lung. Evidence from the fossil record for the origin and evolution of this system is extremely limited, because lungs do not fossilize and because the bellow-like air sacs in living birds only rarely penetrate (pneumatize) skeletal bone and thus leave a record of their presence.</p>
+</sec><sec>
+<title>Methodology/Principal Findings</title>
+<p>We describe a new predatory dinosaur from Upper Cretaceous rocks in Argentina, <italic>Aerosteon riocoloradensis</italic> gen. et sp. nov., that exhibits extreme pneumatization of skeletal bone, including pneumatic hollowing of the furcula and ilium. In living birds, these two bones are pneumatized by diverticulae of air sacs (clavicular, abdominal) that are involved in pulmonary ventilation. We also describe several pneumatized gastralia (“stomach ribs”), which suggest that diverticulae of the air sac system were present in surface tissues of the thorax.</p>
+</sec><sec>
+<title>Conclusions/Significance</title>
+<p>We present a four-phase model for the evolution of avian air sacs and costosternal-driven lung ventilation based on the known fossil record of theropod dinosaurs and osteological correlates in extant birds:</p>
+<p>(1) Phase I—Elaboration of paraxial cervical air sacs in basal theropods no later than the earliest Late Triassic.</p>
+<p>(2) Phase II—Differentiation of avian ventilatory air sacs, including both cranial (clavicular air sac) and caudal (abdominal air sac) divisions, in basal tetanurans during the Jurassic. A heterogeneous respiratory tract with compliant air sacs, in turn, suggests the presence of rigid, dorsally attached lungs with flow-through ventilation.</p>
+<p>(3) Phase III—Evolution of a primitive costosternal pump in maniraptoriform theropods before the close of the Jurassic.</p>
+<p>(4) Phase IV—Evolution of an advanced costosternal pump in maniraptoran theropods before the close of the Jurassic.</p>
+<p>In addition, we conclude:</p>
+<p>(5) The advent of avian unidirectional lung ventilation is not possible to pinpoint, as osteological correlates have yet to be identified for uni- or bidirectional lung ventilation.</p>
+<p>(6) The origin and evolution of avian air sacs may have been driven by one or more of the following three factors: flow-through lung ventilation, locomotory balance, and/or thermal regulation.</p>
+</sec></abstract><funding-group><funding-statement>Fieldwork and lab work was funded by National Geographic Society, The David and Lucile Packard Foundation, and the Pritzker Foundation (to PCS).</funding-statement></funding-group><counts><page-count count="20"/></counts></article-meta>
+</front>
+<body><sec id="s1">
+<title>Introduction</title>
+<p>The respiratory tract of birds has an elaborate series of pneumatic (air-filled) outgrowths that include <italic>sinuses</italic> within the head and neck and <italic>air sacs</italic> within the thorax (<xref ref-type="fig" rid="pone-0003303-g001">Figure 1</xref>). Sinuses often invade the bones enclosing the nasal cavity (paranasal sinuses) and ear region (paratympanic sinuses), forming membrane-lined, air-filled internal spaces. Air sacs also invade bone in the postcranial skeleton, although many remain free of bone so they can function as compliant bellows, shunting inspired air along a path through a pair of rigid lungs <xref ref-type="bibr" rid="pone.0003303-King1">[1]</xref>–<xref ref-type="bibr" rid="pone.0003303-Powell1">[4]</xref>.</p>
+<fig id="pone-0003303-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g001</object-id><label>Figure 1</label><caption>
+<title>Cranial sinus and postcranial air sac systems in birds.</title>
+<p>All pneumatic spaces are paired except the clavicular air sac, and the lungs are shaded. <italic>Abbreviations: aas</italic>, abdominal air sac; <italic>atas</italic>, anterior thoracic air sac; <italic>cas</italic>, cervical air sac; <italic>clas</italic>, clavicular air sac; <italic>hd</italic>, humeral diverticulum of the clavicular air sac; <italic>lu</italic>, lung; <italic>pns</italic>, paranasal sinus; <italic>ptas</italic>, posterior thoracic air sac; <italic>pts</italic>, paratympanic sinus; <italic>t</italic>, trachea.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g001" xlink:type="simple"/></fig>
+<p>In this paper, we describe a new large-bodied theropod from the Late Cretaceous of Argentina, <italic>Aerosteon riocoloradensis</italic> gen. et sp. nov., characterized by cranial and postcranial bones that are exceptionally pneumatic. Some of its postcranial bones show pneumatic hollowing that can be linked to intrathoracic air sacs that are directly involved in lung ventilation. As a result of an extraordinary level of pneumatization, as well as the excellent state of preservation of much of the axial column and girdles, <italic>Aerosteon</italic> helps to constrain hypotheses for the evolution of avian-style respiration.</p>
+<p>The new theropod is particularly interesting for another reason; it represents a previously unrecorded lineage of large-bodied predator in the early Late Cretaceous (Santonian, ca. 84 Ma) of South America. Most large-bodied Cretaceous theropods on southern continents (South America, Africa, Madagascar, India) pertain to one of three distinctive and contemporary clades: abelisaurids <xref ref-type="bibr" rid="pone.0003303-Bonaparte1">[5]</xref>–<xref ref-type="bibr" rid="pone.0003303-Sampson1">[7]</xref>, spinosaurids <xref ref-type="bibr" rid="pone.0003303-Sereno1">[8]</xref>, <xref ref-type="bibr" rid="pone.0003303-Sues1">[9]</xref>, or carcharodontosaurids <xref ref-type="bibr" rid="pone.0003303-Coria2">[10]</xref>–<xref ref-type="bibr" rid="pone.0003303-Coria3">[12]</xref>. This predatory triumvirate persisted for millions of years on both South America and Africa <xref ref-type="bibr" rid="pone.0003303-Sereno3">[13]</xref>. Although initially thought to be a late-surviving carcharodontosaurid <xref ref-type="bibr" rid="pone.0003303-Alcober1">[14]</xref>, <italic>Aerosteon</italic> preserves cranial bones that bear none of the distinguishing features of carcharodontosaurids <xref ref-type="bibr" rid="pone.0003303-Sereno3">[13]</xref>, <xref ref-type="bibr" rid="pone.0003303-Currie1">[15]</xref>. Rather, <italic>Aerosteon</italic> represents a distinctive basal tetanuran lineage that has survived into the Late Cretaceous on South America and is possibly linked to the allosauroid radiation of the Jurassic.</p>
+<p>The purpose of the present paper is not to determine the precise phylogenetic position of <italic>Aerosteon</italic> but rather to describe its most salient features, outline the range of its remarkable pneumatic spaces, and discuss their relevance to understanding the early evolution of avian air sacs and lung ventilation.</p>
+<sec id="s1a">
+<title>Avian Air Sacs</title>
+<p>Avian air sacs arise directly from the lungs (<xref ref-type="fig" rid="pone-0003303-g001">Figure 1</xref>) and can be divided into <italic>cranial</italic> and <italic>caudal</italic> divisions <xref ref-type="bibr" rid="pone.0003303-King1">[1]</xref>–<xref ref-type="bibr" rid="pone.0003303-Powell1">[4]</xref>, <xref ref-type="bibr" rid="pone.0003303-Mller1">[16]</xref>–<xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>. Within the cranial division, the paired <italic>cervical</italic> air sacs are not ventilated during respiration and often invade the centrum and neural arches of cervical and anterior thoracic vertebrae. The primary role of the cervical air sacs seems to be the reduction of bone mass, as shown by quantitative comparison of the extent of pneumatic hollowing of skeletal bone in volant and nonvolant birds <xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>.</p>
+<p>The remaining air sacs are involved in lung ventilation and include the median <italic>clavicular</italic> air sac, the paired <italic>anterior</italic> and <italic>posterior thoracic</italic> air sacs, and the paired <italic>abdominal</italic> air sacs (<xref ref-type="fig" rid="pone-0003303-g001">Figure 1</xref>). In contrast to cervical air sacs, these operate as bellows, shunting inspired air along a unidirectional pathway through the lungs—a respiratory pattern unique to birds <xref ref-type="bibr" rid="pone.0003303-King1">[1]</xref>–<xref ref-type="bibr" rid="pone.0003303-Powell1">[4]</xref>. Whereas the anterior and posterior thoracic air sacs almost never invade bone in living birds, the clavicular and abdominal air sacs more commonly have diverticulae that invade axial or appendicular bone <xref ref-type="bibr" rid="pone.0003303-Mller1">[16]</xref>–<xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>. The intrathoracic location and form of these pneumatic invasions in living birds constitutes the available comparative evidence to allow their identification in fossils <xref ref-type="bibr" rid="pone.0003303-Britt1">[23]</xref>. With the exception of evidence presented below, however, pneumatic invasion of appendicular skeletal bone within the thorax has not been reported on conclusive evidence outside crown birds (Neornithes).</p>
+</sec><sec id="s1b">
+<title>Fossil Evidence</title>
+<sec id="s1b1">
+<title>Cervical Air Sacs</title>
+<p>The cervical air sacs lie alongside the vertebral column in living birds and sometimes invade the vertebrae and ribs via pneumatopores of variable size. Invaginated pneumatic spaces that enter the lateral aspect of the centra, called <italic>pleurocoels</italic>, have been traced back in the fossil record to the Late Jurassic bird <italic>Archaeopteryx</italic> <xref ref-type="bibr" rid="pone.0003303-Britt1">[23]</xref>–<xref ref-type="bibr" rid="pone.0003303-Christiansen1">[25]</xref>, to various saurischian dinosaurs <xref ref-type="bibr" rid="pone.0003303-Britt1">[23]</xref>, <xref ref-type="bibr" rid="pone.0003303-Wedel1">[26]</xref>, <xref ref-type="bibr" rid="pone.0003303-Wedel2">[27]</xref>, pterosaurs <xref ref-type="bibr" rid="pone.0003303-Britt1">[23]</xref>, <xref ref-type="bibr" rid="pone.0003303-Eaton1">[28]</xref>, <xref ref-type="bibr" rid="pone.0003303-Howse1">[29]</xref>, and possibly to even more primitive, crocodilian relatives in the Triassic <xref ref-type="bibr" rid="pone.0003303-Gower1">[30]</xref>. Although doubt was cast recently on the use of fossae as evidence of pneumaticity in basal archosaurs <xref ref-type="bibr" rid="pone.0003303-OConnor2">[31]</xref>, a new basal suchian (distant crocodilian relative) has just been described with cervical pleurocoels <xref ref-type="bibr" rid="pone.0003303-Nesbitt1">[32]</xref>.</p>
+<p>For more than a century, paleontologists have agreed on the existence of cervical air sacs, or some comparable pneumatic structure, in saurischian dinosaurs on the basis of pleurocoels which closely resemble those in some living birds. The longstanding question is the fossil record of noncervical air sacs—sacs that are involved in avian lung ventilation.</p>
+</sec><sec id="s1b2">
+<title>Ventilatory Air Sacs</title>
+<p>Ventilatory air sacs, unfortunately, are the least likely to leave evidence of their presence in skeletal bone. Paleontologists and comparative anatomists, as a result, have focused on axial pneumaticity, and opinion has split as to the meaning of observed patterns. In extant birds, pneumatic invasion by cervical air sacs is usually restricted to the cervical and anterior thoracic vertebrae and their respective ribs <xref ref-type="bibr" rid="pone.0003303-King1">[1]</xref>, <xref ref-type="bibr" rid="pone.0003303-Mller1">[16]</xref>–<xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>. The posterior thoracic, synsacral, and caudal vertebrae, in contrast, are pneumatized by diverticulae extending directly from the lung or from abdominal air sacs <xref ref-type="bibr" rid="pone.0003303-King1">[1]</xref>, <xref ref-type="bibr" rid="pone.0003303-Mller1">[16]</xref>, <xref ref-type="bibr" rid="pone.0003303-Duncker2">[19]</xref>, <xref ref-type="bibr" rid="pone.0003303-McLelland1">[21]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>. Some authors have concluded, therefore, that the lung and abdominal air sacs must also be responsible for pneumaticity in the posterior half of the axial column in nonavian dinosaurs and, on this basis, have packed the thoracic cavity of theropods with a full complement of avian ventilatory air sacs <xref ref-type="bibr" rid="pone.0003303-OConnor3">[33]</xref>. An opposing view is that the continuous series of pleurocoels observed in many nonavian dinosaurs suggests that the nonventilatory, paraxial cervical air sacs extended posteriorly along the column <xref ref-type="bibr" rid="pone.0003303-Wedel1">[26]</xref>, <xref ref-type="bibr" rid="pone.0003303-Chinsamy1">[34]</xref>.</p>
+<p>We are inclined to support the latter, more conservative interpretation that pleurocoels in nonavian dinosaurs are a product of paraxial cervical air sacs and provide, at best, ambiguous evidence for intrathoracic ventilatory air sacs. First, pleurocoels are rare in birds, and no living bird has an unbroken cervical-to-caudal series of pleurocoels as occurs in some nonavian dinosaurs, including the one we describe below <xref ref-type="bibr" rid="pone.0003303-OConnor2">[31]</xref>. As Wedel <xref ref-type="bibr" rid="pone.0003303-Wedel1">[26]</xref> has underscored, pleurocoels extend posteriorly in the axial column of saurischian dinosaurs to a variable extent, but neither adults nor juveniles of any species show an apneumatic gap. Allotting an unbroken series of pleurocoels of graded form, as in the case we describe below, to three different pneumatic sources (cervical air sacs, lung diverticulae, abdominal air sacs) is difficult to defend. Drawing a direct analogy based on birds for the source(s) of pneumaticity in the posterior axial column in nonavian dinosaurs <xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor2">[31]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor3">[33]</xref>, thus, is problematic.</p>
+<p>Second, cervical air sacs have been observed extending to the posterior end of the vertebral column in birds. Several authors have described cervical air sacs extending posteriorly beyond the abdominal air sacs in the ostrich (<italic>Struthio camelus</italic>) <xref ref-type="bibr" rid="pone.0003303-McLelland1">[21]</xref>, <xref ref-type="bibr" rid="pone.0003303-Bezuidenhout1">[36]</xref>. Ratites have relatively smaller abdominal sacs than in other birds and, as nonvolant basal avians, serve as better analogs for nonavian saurischians than volant neognaths <xref ref-type="bibr" rid="pone.0003303-Paul1">[37]</xref>.</p>
+<p>Finally, the posterior portion of the avian axial skeleton is completely transformed by extensive coossification of vertebrae and girdle bone and by posterolateral rotation of the pubes away from the midline, which allows unobstructed distal extension of the viscera and abdominal air sac under the synsacrum and caudal vertebrae. The pelvic space in nonavian saurischians, in contrast, is not nearly as open and continuous with the thoracic cavity, offering comparably less space for these air sacs <xref ref-type="bibr" rid="pone.0003303-Paul1">[37]</xref>.</p>
+<p>More conclusive evidence of intrathoracic ventilatory air sacs in fossils, in sum, will require an osteological signature of pneumatic structures in nonaxial (appendicular) bones, which that cannot be dismissed as an elaboration of the paraxial cervical air sacs. We now turn attention to previous reports of such pneumaticity in the appendicular skeleton of nonavian dinosaurs.</p>
+</sec><sec id="s1b3">
+<title>Previous Reports of Appendicular Pneumaticity</title>
+<p>Appendicular pneumaticity in nonavian dinosaurs is poorly documented. An ilium of the Middle Jurassic theropod <italic>Piatnitzkysaurus</italic> was shown with two small foramina, one above the pubic peduncle and another above the acetabulum <xref ref-type="bibr" rid="pone.0003303-Bonaparte2">[38: fig. 22]</xref>. These small foramina were described as pneumatic and associated with internal space and likened to other supposedly pneumatic foramina in the femur, tibia and metatarsals. The small foramen figured on the shaft of the tibia has elsewhere been described as a neurovascular foramen. Were such long bones also pneumatic, this would constitute an extraordinary condition, as none of the limb bones in <italic>Archaeopteryx</italic> nor those in other basal avians outside Ornithothoraces (Enantiornithes + Euornithes) has ever been shown to be pneumatic.</p>
+<p>A deep depression on the brevis shelf on an ilium of the Cretaceous carcharodontosaurid theropod <italic>Mapusaurus</italic>, likewise, was labeled “pneumatic diverticulae” of the ilium of <xref ref-type="bibr" rid="pone.0003303-Coria3">[12: fig 26]</xref>. The structure, however, was described in the text as a site of origin of powerful hind limb retractor musculature. Whether the ilium in <italic>Mapusaurus</italic> is actually pneumatized, however, cannot be determined on available information.</p>
+<p>Recently, the furcula in the Early Cretaceous dromaeosaurid <italic>Buitreraptor</italic> was described as “pneumatic” with “trabeculae spanning its interior” <xref ref-type="bibr" rid="pone.0003303-Makovicky1">[39:1008]</xref>. Most of the interior of the bone is hollowed, which does suggest pneumatic invasion, although the pair of potential pneumatopores near the midline are particularly small (P. Makovicky, pers. comm.).</p>
+<p>“Cancellous” bone was described in the ilia of the titanosaurs <italic>Epachthosaurus</italic> <xref ref-type="bibr" rid="pone.0003303-Martnez1">[40]</xref> and <italic>Lirainosaurus</italic> <xref ref-type="bibr" rid="pone.0003303-Sanz1">[41]</xref>, although no further claim was made regarding its pneumatic status. The titanosauriform <italic>Euhelopus</italic> also has a bone texture of larger cells that may be pneumatic (J. Wilson, personal observation). At present there are no reports of appendicular bones among sauropodomorphs with pneumatopores that lead to bone texture than is demonstrably pneumatic.</p>
+<p>In sum, the evidence currently documenting the presence of nonaxial pneumatic structures in nonavian dinosaurs is poorly established. Several years ago, we reported the pneumatic spaces in the furcula and ilium described below <xref ref-type="bibr" rid="pone.0003303-Alcober1">[14]</xref>. The pneumatic status of these and other structures we describe below is quite evident and will add important new evidence for the identity and distribution of air sacs in nonavian theropods.</p>
+</sec></sec></sec><sec id="s2">
+<title>Methods</title>
+<sec id="s2a">
+<title>Preparation</title>
+<p>The holotypic and referred specimens were prepared using pin vice, pneumatic air scribe, and air abrasive. The white-colored bones are embedded in a fine-grained, poorly sorted, hematitic siltstone matrix that in places was very hard. To reduce color distractions in photographic images between the white bone and red-brown matrix, some bones were molded and cast in matt grey-colored casting epoxy.</p>
+</sec><sec id="s2b">
+<title>Imaging</title>
+<p>Computed tomography of the furcula, gastral elements, and ilium was undertaken to observe internal pneumatic spaces using a Philips Brilliance 64-slice scanner at 80 Kv in the University of Chicago Hospitals.</p>
+</sec><sec id="s2c">
+<title>Terminology</title>
+<p>We employed traditional, or “Romerian,” anatomical and directional terms over veterinarian alternatives <xref ref-type="bibr" rid="pone.0003303-Wilson1">[42]</xref> and followed recent recommendations regarding the identification of vertebral laminae <xref ref-type="bibr" rid="pone.0003303-Wilson2">[43]</xref>. “Anterior” and “posterior,” for example, are used as directional terms rather than the veterinarian alternatives “rostral” or “cranial” and “caudal,” except when referring to cranial and caudal air sac divisions in birds.</p>
+<p><bold>Institutional abbreviations:</bold></p>
+<table-wrap position="float"><table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/></colgroup>
+<tbody>
+<tr>
+<td align="left" colspan="1" rowspan="1">FMNH</td>
+<td align="left" colspan="1" rowspan="1">Field Museum of Natural History, Chicago, Illinois, United States of America.</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">LH</td>
+<td align="left" colspan="1" rowspan="1">Las Hoyas collection, Museo de Cuenca, Cuenca, Spain.</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">MCNA</td>
+<td align="left" colspan="1" rowspan="1">Museo de Ciencias Naturales y Antropológicas (J. C. Moyano) de Mendoza, Mendoza, Argentina.</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">MNN</td>
+<td align="left" colspan="1" rowspan="1">Muséum National du Niger, Niamey, République de Niger.</td>
+</tr>
+</tbody>
+</table></table-wrap>
+</sec></sec><sec id="s3">
+<title>Results</title>
+<sec id="s3a">
+<title>Systematic Paleontology</title>
+<p><bold>Systematic hierarchy:</bold></p>
+<p>Dinosauria Owen, 1842</p>
+<p>Theropoda Marsh, 1881</p>
+<p>Tetanurae Gauthier, 1986</p>
+<p>Allosauroidea Marsh, 1878</p>
+<p><bold><italic>Aerosteon</italic></bold> <bold>gen. nov.</bold></p>
+<sec id="s3a1">
+<title>Etymology</title>
+<p><italic>Aeros</italic>, air (Greek); <italic>osteon</italic>, bone (Greek). Named for the extreme development of pneumatic spaces in skeletal bone.</p>
+</sec><sec id="s3a2">
+<title>Type Species</title>
+<p><italic>Aerosteon riocoloradensis.</italic></p>
+<p><bold><italic>Aerosteon riocoloradensis</italic></bold> <bold>sp. nov.</bold></p>
+<p><xref ref-type="fig" rid="pone-0003303-g002">Figures 2</xref>–<xref ref-type="fig" rid="pone-0003303-g003"/><xref ref-type="fig" rid="pone-0003303-g004"/><xref ref-type="fig" rid="pone-0003303-g005"/><xref ref-type="fig" rid="pone-0003303-g006"/><xref ref-type="fig" rid="pone-0003303-g007"/><xref ref-type="fig" rid="pone-0003303-g008"/><xref ref-type="fig" rid="pone-0003303-g009"/><xref ref-type="fig" rid="pone-0003303-g010"/><xref ref-type="fig" rid="pone-0003303-g011">11</xref>, <xref ref-type="fig" rid="pone-0003303-g012">12A</xref>, <xref ref-type="fig" rid="pone-0003303-g013">13</xref>–<xref ref-type="fig" rid="pone-0003303-g014"/><xref ref-type="fig" rid="pone-0003303-g015"/><xref ref-type="fig" rid="pone-0003303-g016">16</xref></p>
+<fig id="pone-0003303-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g002</object-id><label>Figure 2</label><caption>
+<title>Tooth of the theropod <italic>Aerosteon riocoloradensis</italic>.</title>
+<p>Isolated crown from the maxillary or dentary series (MCNA-PV-3137; cast). (A)-Side view of crown. (B)-Enlarged view of crown tip. Scale bars equal 1 cm.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g002" xlink:type="simple"/></fig><fig id="pone-0003303-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g003</object-id><label>Figure 3</label><caption>
+<title>Postorbital of the theropod <italic>Aerosteon riocoloradensis</italic>.</title>
+<p>Right postorbital (MCNA-PV-3137; cast) in right lateral (A), medial (B), anterior (C), posterior (D), and dorsal (E) views. Scale bar equals 5 cm. <italic>Abbreviations</italic>: <italic>af</italic>, articular surface for the frontal; <italic>aj</italic>, articular surface for the jugal; <italic>als</italic>, articular surface for the laterosphenoid; <italic>asq</italic>, articular surface for the squamosal; <italic>oru</italic>, orbital rugosity; <italic>stf</italic>, supratemporal fossa.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g003" xlink:type="simple"/></fig><fig id="pone-0003303-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g004</object-id><label>Figure 4</label><caption>
+<title>Quadrate of the theropod <italic>Aerosteon riocoloradensis</italic>.</title>
+<p>Left quadrate (MCNA-PV-3137; cast) in left lateral (A), medial (B), anterior (C), posterior (D), dorsal (E), and ventral (F) views. Scale bar equals 5 cm. <italic>Abbreviations</italic>: <italic>aqj</italic>, articular surface for the quadratojugal; <italic>asq</italic>, articular surface for the squamosal; <italic>co</italic>, condyle; <italic>he</italic>, head; <italic>pnec</italic>, pneumatocoel; <italic>qf</italic>, quadrate foramen.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g004" xlink:type="simple"/></fig><fig id="pone-0003303-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g005</object-id><label>Figure 5</label><caption>
+<title>Anterior cervical vertebrae of the theropod <italic>Aerosteon riocoloradensis</italic>.</title>
+<p>Atlas and cervical 3 centrum (MCNA-PV-3137; cast) in left lateral view. (A)-Atlas. (B)-Cervical 3 centrum. Scale bars equal 5 cm. <italic>Abbreviations</italic>: <italic>ic</italic>, intercentrum; <italic>na</italic>, neural arch; <italic>pa</italic>, parapophysis; <italic>pl</italic>, pleurocoel; <italic>pnec</italic>, pneumatocoel.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g005" xlink:type="simple"/></fig><fig id="pone-0003303-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g006</object-id><label>Figure 6</label><caption>
+<title>Mid cervical vertebrae of the theropod <italic>Aerosteon riocoloradensis</italic>.</title>
+<p>Cervical vertebrae 4 and 6 (MCNA-PV-3137; cast) in left lateral view. (A)-Cervical 4. (B)-Cervical 6. Scale bar equals 5 cm. <italic>Abbreviations</italic>: <italic>pa</italic>, parapophysis; <italic>pl</italic>, pleurocoel; <italic>se</italic>, septum.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g006" xlink:type="simple"/></fig><fig id="pone-0003303-g007" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g007</object-id><label>Figure 7</label><caption>
+<title>Anterior and mid dorsal vertebrae of the theropod <italic>Aerosteon riocoloradensis</italic>.</title>
+<p>Dorsal vertebrae 1, 4 and 8 (MCNA-PV-3137; cast) in left lateral view. (A)-Dorsal 1. (B)-Dorsal 4. (C)-Dorsal 8. Scale bar equals 10 cm. <italic>Abbreviations</italic>: <italic>pa</italic>, parapophysis; <italic>pl</italic>, pleurocoel.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g007" xlink:type="simple"/></fig><fig id="pone-0003303-g008" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g008</object-id><label>Figure 8</label><caption>
+<title>Posterior dorsal vertebrae of the theropod <italic>Aerosteon riocoloradensis</italic>.</title>
+<p>Dorsal vertebrae 11 and 14 (MCNA-PV-3137; cast) in left lateral view. (A)-Dorsal 11. (B)-Dorsal 14. Scale bar equals 10 cm. <italic>Abbreviations</italic>: <italic>dipc</italic>, diapophyseal canal; <italic>hpo</italic>, hyposphene; <italic>pa</italic>, parapophysis; <italic>pl</italic>, pleurocoel; <italic>poz</italic>, postzygapophysis; <italic>prz</italic>, prezygapophysis; <italic>se</italic>, septum; <italic>tp</italic>, transverse process.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g008" xlink:type="simple"/></fig><fig id="pone-0003303-g009" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g009</object-id><label>Figure 9</label><caption>
+<title>Caudal vertebrae of the theropod <italic>Aerosteon riocoloradensis</italic>.</title>
+<p>Anterior and mid caudal centra (MCNA-PV-3137; cast) in left lateral view. (A)-Anterior caudal centrum. (B)-Mid caudal centrum. Scale bar equals 10 cm. <italic>Abbreviations</italic>: <italic>ach</italic>, articular surface for a chevron; <italic>pl</italic>, pleurocoel; <italic>se</italic>, septum.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g009" xlink:type="simple"/></fig><fig id="pone-0003303-g010" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g010</object-id><label>Figure 10</label><caption>
+<title>Gastralia of the theropod <italic>Aerosteon riocoloradensis.</italic></title>
+<p>Coossified medial gastral elements from anterior end of cuirass (MCNA-PV-3137). (A)-Coossified gastralia (cast) in ventral view. (B)-Stereopairs of the medial portion of one gastralium showing the pneumatopore and lumen inside the shaft in ventrolateral view. Scale bars equal 10 cm in A and 5 cm in B. <italic>Abbreviations</italic>: <italic>afl</italic>, anterior flange; <italic>l</italic>, left; <italic>mge</italic>, medial gastral element; <italic>pfl</italic>, posterior flange; <italic>pnec</italic>, pneumatocoel; <italic>pnep</italic>, pneumatopore; <italic>r</italic>, right; <italic>su</italic>, suture.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g010" xlink:type="simple"/></fig><fig id="pone-0003303-g011" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g011</object-id><label>Figure 11</label><caption>
+<title>Furcula of the theropod <italic>Aerosteon riocoloradensis.</italic></title>
+<p>Furcula (MCNA-PV-3137; cast) in anterior (A) and posterior (B) views. Scale bar equals 10 cm. <italic>Abbreviations</italic>: <italic>ep</italic>, epicleideum; <italic>pnec</italic>, pneumatocoel.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g011" xlink:type="simple"/></fig><fig id="pone-0003303-g012" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g012</object-id><label>Figure 12</label><caption>
+<title>Furcula of the theropod <italic>Aerosteon riocoloradensis</italic> and magpie goose <italic>Anseranas semiplamata.</italic></title>
+<p>(A)-Stereopairs of the furcula of <italic>Aerosteon riocoloradensis</italic> (MCNA-PV-3137) in posterodorsal view. (B)-Stereopairs of the furcula of <italic>Anseranas semiplamata</italic> (FMNH 338808) in posterodorsal view. Scale bars equal 10 cm in A and 2 cm in B.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g012" xlink:type="simple"/></fig><fig id="pone-0003303-g013" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g013</object-id><label>Figure 13</label><caption>
+<title>Ilium of the theropod <italic>Aerosteon riocoloradensis.</italic></title>
+<p>Left ilium (MCNA-PV-3137; cast) in left lateral (A) and medial (B) views. Scale bar equals 20 cm. <italic>Abbreviations</italic>: <italic>bfo</italic>, brevis fossa; <italic>isped</italic>, ischial peduncle; <italic>poap</italic>, postacetabular process; <italic>pped</italic>, pubic peduncle; <italic>prap</italic>, preacetabular process.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g013" xlink:type="simple"/></fig><fig id="pone-0003303-g014" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g014</object-id><label>Figure 14</label><caption>
+<title>Pneumatopores on the left ilium of the theropod <italic>Aerosteon riocoloradensis.</italic></title>
+<p>Detail views of the left ilium (MCNA-PV-3137). (A)-Pneumatopores on the base of the preacetabular process in lateral view. (B)-Pneumatopores on the central iliac blade in medial view. (C)-Stereopairs of the pubic peduncle in lateral view showing pneumatopore complex. (D)-Pneumatopores on the brevis fossa of the postacetabular process in ventral view; largest pneumatopore (4 cm in transverse diameter) opens posteriorly (to the right) just posterior to five smaller ventrally-facing pneumatopores (marked). A, B, and D are from a cast of MCNA-PV-3137 to reduce color distraction. Scale bars equal 5 cm in A and 10 cm in B, C and D. Arrows point to pneumatopores.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g014" xlink:type="simple"/></fig><fig id="pone-0003303-g015" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g015</object-id><label>Figure 15</label><caption>
+<title>Pubes of the theropod <italic>Aerosteon riocoloradensis.</italic></title>
+<p>Pubes (MCNA-PV-3137; cast) in left lateral (A) and anterior (B) views. Scale bar equals 20 cm. <italic>Abbreviations</italic>: <italic>ac,</italic> acetabulum; <italic>f</italic>, foot; <italic>fe</italic>, fenestra; <italic>iped</italic>, iliac peduncle; <italic>isped</italic>, ischial peduncle; <italic>pvo</italic>, pelvic outlet.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g015" xlink:type="simple"/></fig><fig id="pone-0003303-g016" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g016</object-id><label>Figure 16</label><caption>
+<title>Summary of pneumatic features of the theropod <italic>Aerosteon riocoloradensis</italic>.</title>
+<p>(A)-Silhouette reconstruction in left lateral view showing preserved bones of the holotype and referred specimens (MCNA-PV-3137-3139); body length approximately 9-10 m. (B)-Left quadrate in posterior view. (C)-Dorsal 14 in left lateral view with enlarged cross-sections of the neural spine and transverse process. (D)-Furcula in anterior view with sagittal cross-section. (E)-Cross-section of medial gastral element from the anterior end of the cuirass showing pneumatocoel. (F)-Left ilium in lateral view with enlarged cross-section of pubic peduncle. Scale bars equal 5 cm in B, 10 cm (3 cm for cross-sections) in C, 10 cm (same for cross-section) in D, 2 cm in E, and 20 cm (6 cm for cross-section) in F. <italic>Abbreviations: aqj</italic>, articular surface for the quadratojugal; <italic>asq</italic>, articular surface for the squamosal; <italic>bfo</italic>, brevis fossa; <italic>ca</italic>, canal; <italic>dipc</italic>, diapophyseal canal; <italic>ep</italic>, epicleideum; <italic>hpo</italic>, hyposphene; <italic>ilb</italic>, iliac blade; <italic>isped</italic>, ischial peduncle; <italic>ns</italic>, neural spine; <italic>pa</italic>, parapophysis; <italic>pc</italic>, pleurocoel; <italic>pnec</italic>, pneumatocoel; <italic>pned</italic>, pneumatic depression; <italic>pnep</italic>, pneumatopore; <italic>poap</italic>, postacetabular process; <italic>poz</italic>, postzygapophysis; <italic>pped</italic>, pubic peduncle; <italic>prap</italic>, preacetabular process; <italic>prz</italic>, prezygapophysis; <italic>ptfl</italic>, pterygoid flange; <italic>qc</italic>, quadrate condyles; <italic>qf</italic>, quadrate foramen; <italic>qh</italic>, quadrate head; <italic>se</italic>, septum; <italic>tp</italic>, transverse process.</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g016" xlink:type="simple"/></fig></sec><sec id="s3a3">
+<title>Etymology</title>
+<p><italic>riocolorado</italic>, Río Colorado (Spanish); <italic>ensis</italic>, place (Latin). Named for the site of discovery of the holotype.</p>
+</sec><sec id="s3a4">
+<title>Holotype</title>
+<p>MCNA-PV-3137; one maxillary or dentary crown, left prefrontal, right postorbital, left quadrate, posterior portion of the left pterygoid, right prearticular, partial or complete vertebrae including C1, C3, C4, C6, C8, D1, D4–11, D14, S2–5, CA1, one mid and distal caudal centrum, several cervical and dorsal ribs, gastralia, furcula, left scapulocoracoid, left ilium, and right and left pubes. The bones were found disarticulated but in close association over an area of 11 m<sup>2</sup>. The specimen is an immature individual with many open neurocentral sutures. The specimen, however, may have been approaching maturation, as indicated by fusion of the centrum and neural arch of several vertebrae and fusion of the coracoid and scapula. Body length is approximately 9–10 m, or roughly equivalent to the larger body size range for <italic>Allosaurus</italic>.</p>
+</sec><sec id="s3a5">
+<title>Type Locality</title>
+<p>Cañadon Amarillo (S 37.5°, W 70.5°), north of Cerro Colorado, 1 km north of the Río Colorado near the southern border of Mendoza Province, Argentina.</p>
+</sec><sec id="s3a6">
+<title>Horizon</title>
+<p>Anacleto Formation, Neuquén Group; Santonian (ca. 84 Mya) <xref ref-type="bibr" rid="pone.0003303-Leanza1">[44]</xref>, <xref ref-type="bibr" rid="pone.0003303-Gradstein1">[45]</xref>. Titanosaurian sauropods are common in the formation.</p>
+</sec><sec id="s3a7">
+<title>Diagnosis</title>
+<p><italic>Aerosteon riocoloradensis</italic> is characterized by a prefrontal with a very short ventral process, an enlarged quadrate foramen located entirely within the quadrate, a large tympanic diverticulum into the quadrate shaft above the articular condyle, anterior dorsal vertebra with very large parapophyses, dorsal neural spines with central pneumatic space, posteriormost dorsal vertebra with anterodorsally inclined neural spine and a pneumatic canal within the transverse process, anterior caudal vertebrae with a large pleurocoel, medial gastral elements coossified with anterior and posterior flanges, and a furcula with median pneumatocoel.</p>
+<p>These features distinguish <italic>Aerosteon riocoloradensis</italic> from known South American abelisaurids, as represented by <italic>Carnotaurus sastrei</italic> <xref ref-type="bibr" rid="pone.0003303-Bonaparte1">[5]</xref> and <italic>Illokelesia aguadagrandensis</italic> <xref ref-type="bibr" rid="pone.0003303-Coria1">[6]</xref>, spinosaurids such as <italic>Irritator challengeri</italic> <xref ref-type="bibr" rid="pone.0003303-Sues1">[9]</xref>, and carcharodontosaurids such as <italic>Giganotosaurus carolinii</italic> <xref ref-type="bibr" rid="pone.0003303-Coria2">[10]</xref>, <italic>Mapusaurus rosae</italic> <xref ref-type="bibr" rid="pone.0003303-Coria3">[12]</xref> or <italic>Tyrannotitan chubutensis</italic> <xref ref-type="bibr" rid="pone.0003303-Novas1">[46]</xref>.</p>
+</sec><sec id="s3a8">
+<title>Referred Material</title>
+<p>MCNA-PV-3138, left metatarsal 2; MCNA-PV-3139, articulated left tibia, fibula, astragalus and calcaneum lacking only the proximal end of the fibula. This material is tentatively referred to <italic>A. coloradensis</italic> on the basis of its horizon and morphology, the latter impossible to overlap with the holotypic skeleton but consistent as pertaining to a basal tetanuran. Both referred specimens pertain to slightly smaller individuals that the holotype. MCNA-PV-3138 was found approximately 10 m away from the holotypic locality. MCNA-PV-3139 was found several kilometers distant.</p>
+</sec></sec><sec id="s3b">
+<title>Description</title>
+<p>We briefly comment below on the morphology of <italic>Aerosteon riocoloradensis</italic> and provide some basic cranial and postcranial measurements (<xref ref-type="table" rid="pone-0003303-t001">Tables 1</xref>–<xref ref-type="table" rid="pone-0003303-t002"/><xref ref-type="table" rid="pone-0003303-t003">3</xref>). An isolated crown of relatively small size was found at the site and has approximately three serrations per millimeter on both mesial and distal margins (<xref ref-type="fig" rid="pone-0003303-g002">Figure 2</xref>).</p>
+<table-wrap id="pone-0003303-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.t001</object-id><label>Table 1</label><caption>
+<title>Dimensions (cm) of isolated crown and select cranial bones of the holotypic specimen of <italic>Aerosteon riocoloradensis</italic> (MCNA-PV-3137).</title>
+</caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0003303-t001-1" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.t001" xlink:type="simple"/><table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" colspan="1" rowspan="1">Bone</td>
+<td align="left" colspan="1" rowspan="1">Measurement</td>
+<td align="left" colspan="1" rowspan="1">Length</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" colspan="1" rowspan="1">Crown</td>
+<td align="left" colspan="1" rowspan="1">Height Base, mesiodistal length Base, maximum labiolingual width</td>
+<td align="left" colspan="1" rowspan="1">3.8 1.7 1.0</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Prefrontal</td>
+<td align="left" colspan="1" rowspan="1">Maximum length Maximum width</td>
+<td align="left" colspan="1" rowspan="1">6.8 2.3</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Postorbital</td>
+<td align="left" colspan="1" rowspan="1">Maximum height Maximum anteroposterior length</td>
+<td align="left" colspan="1" rowspan="1">11.5 11.4</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Quadrate</td>
+<td align="left" colspan="1" rowspan="1">Maximum height Head, anteroposterior length Head, transverse width Quadrate foramen, maximum height Quadrate foramen, maximum width Transverse width across condyles</td>
+<td align="left" colspan="1" rowspan="1">16.3 2.6 2.4 2.7 1.7 7.9</td>
+</tr>
+</tbody>
+</table></alternatives></table-wrap><table-wrap id="pone-0003303-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.t002</object-id><label>Table 2</label><caption>
+<title>Dimensions (cm) of select vertebrae (<xref ref-type="fig" rid="pone-0003303-g005">Figures 5</xref>–<xref ref-type="fig" rid="pone-0003303-g006"/><xref ref-type="fig" rid="pone-0003303-g007"/><xref ref-type="fig" rid="pone-0003303-g008"/><xref ref-type="fig" rid="pone-0003303-g009">9</xref>) from the holotypic specimen of <italic>Aerosteon riocoloradensis</italic> (MCNA-PV-3137).</title>
+</caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0003303-t002-2" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.t002" xlink:type="simple"/><table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" colspan="1" rowspan="1">Vertebra</td>
+<td align="left" colspan="1" rowspan="1">Centrum Length<xref ref-type="table-fn" rid="nt102">1</xref></td>
+<td align="left" colspan="1" rowspan="1">Posterior Centrum Height</td>
+<td align="left" colspan="1" rowspan="1">Posterior Centrum Width</td>
+<td align="left" colspan="1" rowspan="1">Pleurocoel Morphology</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" colspan="1" rowspan="1">C1</td>
+<td align="left" colspan="1" rowspan="1">2.5<xref ref-type="table-fn" rid="nt103">2</xref></td>
+<td align="left" colspan="1" rowspan="1">3.3<xref ref-type="table-fn" rid="nt103">2</xref></td>
+<td align="left" colspan="1" rowspan="1">6.5<xref ref-type="table-fn" rid="nt103">2</xref></td>
+<td align="left" colspan="1" rowspan="1">—<xref ref-type="table-fn" rid="nt104">3</xref></td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">C3</td>
+<td align="left" colspan="1" rowspan="1">9.6</td>
+<td align="left" colspan="1" rowspan="1">8.4</td>
+<td align="left" colspan="1" rowspan="1">9.2</td>
+<td align="left" colspan="1" rowspan="1">Two; dorsal smaller, septum inclined anterodorsally</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">C4</td>
+<td align="left" colspan="1" rowspan="1">9.8</td>
+<td align="left" colspan="1" rowspan="1">8.4</td>
+<td align="left" colspan="1" rowspan="1">9.2</td>
+<td align="left" colspan="1" rowspan="1">Two; subequal, septum inclined anterodorsally</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">C6</td>
+<td align="left" colspan="1" rowspan="1">9.1</td>
+<td align="left" colspan="1" rowspan="1">8.1</td>
+<td align="left" colspan="1" rowspan="1">8.4</td>
+<td align="left" colspan="1" rowspan="1">Two; dorsal is rudimentary, septum inclined anterodorsally</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">D1</td>
+<td align="left" colspan="1" rowspan="1">8.5</td>
+<td align="left" colspan="1" rowspan="1">8.8</td>
+<td align="left" colspan="1" rowspan="1">9.4</td>
+<td align="left" colspan="1" rowspan="1">One; oval, large</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">D4</td>
+<td align="left" colspan="1" rowspan="1">7.1</td>
+<td align="left" colspan="1" rowspan="1">8.7</td>
+<td align="left" colspan="1" rowspan="1">8.8</td>
+<td align="left" colspan="1" rowspan="1">One; oval, medium-sized</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">D8</td>
+<td align="left" colspan="1" rowspan="1">8.8</td>
+<td align="left" colspan="1" rowspan="1">10.8</td>
+<td align="left" colspan="1" rowspan="1">9.8</td>
+<td align="left" colspan="1" rowspan="1">One; oval, medium-sized</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">D10</td>
+<td align="left" colspan="1" rowspan="1">8.4</td>
+<td align="left" colspan="1" rowspan="1">13.1</td>
+<td align="left" colspan="1" rowspan="1">11.3</td>
+<td align="left" colspan="1" rowspan="1">One; oval, medium-sized</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">D11</td>
+<td align="left" colspan="1" rowspan="1">8.4</td>
+<td align="left" colspan="1" rowspan="1">12.1</td>
+<td align="left" colspan="1" rowspan="1">11.1</td>
+<td align="left" colspan="1" rowspan="1">Two; posterior is rudimentary, septum inclined posterodorsally</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">D14</td>
+<td align="left" colspan="1" rowspan="1">10.2</td>
+<td align="left" colspan="1" rowspan="1">15.0</td>
+<td align="left" colspan="1" rowspan="1">13.5</td>
+<td align="left" colspan="1" rowspan="1">Two; subequal in size, septum inclined posterodorsally</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">CA1</td>
+<td align="left" colspan="1" rowspan="1">9.3</td>
+<td align="left" colspan="1" rowspan="1">11.8</td>
+<td align="left" colspan="1" rowspan="1">12.8</td>
+<td align="left" colspan="1" rowspan="1">One; large with recessed septae</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">mid CA</td>
+<td align="left" colspan="1" rowspan="1">10.0</td>
+<td align="left" colspan="1" rowspan="1">7.7</td>
+<td align="left" colspan="1" rowspan="1">7.7</td>
+<td align="left" colspan="1" rowspan="1">Two; posterior is rudimentary<xref ref-type="table-fn" rid="nt105">4</xref></td>
+</tr>
+</tbody>
+</table></alternatives><table-wrap-foot><fn id="nt101"><p><italic>Abbreviations</italic>: C, cervical; CA, caudal; D, dorsal.</p></fn><fn id="nt102"><label>1</label><p>Measured along ventral edge excluding anterior convexity of centrum when present.</p></fn><fn id="nt103"><label>2</label><p>Measurement pertains to intercentrum.</p></fn><fn id="nt104"><label>3</label><p>Intercentrum does not appear to be pneumatic; neural arch has single lateral pneumatocoel.</p></fn><fn id="nt105"><label>4</label><p>Right side has only one pleurocoel (left side shown in <xref ref-type="fig" rid="pone-0003303-g009">Figure 9B</xref>).</p></fn></table-wrap-foot></table-wrap><table-wrap id="pone-0003303-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.t003</object-id><label>Table 3</label><caption>
+<title>Dimensions (cm) of girdle bones (<xref ref-type="fig" rid="pone-0003303-g011">Figures 11</xref>–<xref ref-type="fig" rid="pone-0003303-g012"/><xref ref-type="fig" rid="pone-0003303-g013"/><xref ref-type="fig" rid="pone-0003303-g014"/><xref ref-type="fig" rid="pone-0003303-g015">15</xref>) of the holotypic specimen of <italic>Aerosteon riocoloradensis</italic> (MCNA-PV-3137).</title>
+</caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0003303-t003-3" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.t003" xlink:type="simple"/><table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" colspan="1" rowspan="1">Bone</td>
+<td align="left" colspan="1" rowspan="1">Measurement</td>
+<td align="left" colspan="1" rowspan="1">Length, Angle (cm, degrees)</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" colspan="1" rowspan="1">Scapulocoracoid</td>
+<td align="left" colspan="1" rowspan="1">Coracoid, maximum height Posterior process (glenoid to tip of process) Scapular length Scapular blade, minimum width Scapular blade, distal width Height (glenoid to acromion) Acromion width Glenoid, maximum length</td>
+<td align="left" colspan="1" rowspan="1">27.6 10.0 57.0 7.6 11.0 21.0 9.5 8.7</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Furcula</td>
+<td align="left" colspan="1" rowspan="1">Maximum transverse width Intrafurcular angle</td>
+<td align="left" colspan="1" rowspan="1">25.2 120°</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Ilium</td>
+<td align="left" colspan="1" rowspan="1">Iliac blade, maximum length Iliac blade, height above acetabulum Preacetabular process length Preacetabular process, height at base Preacetabular process, height at distal end Postacetabular process length Postacetabular process, height at mid length Pubic peduncle, anteroposterior length Pubic peduncle, maximum transverse width Acetabulum, maximum width</td>
+<td align="left" colspan="1" rowspan="1">76.8 30.0 16.8 24.4 33.5  28.5 25.0  16.9 8.1  10.3</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Pubis</td>
+<td align="left" colspan="1" rowspan="1">Length (acetabulum to foot) Iliac peduncle length Ischial peduncle length Pubic foot, maximum length Pubic foot, maximum width</td>
+<td align="left" colspan="1" rowspan="1">62.0 18.0 9.0 47.2 19.3</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Pelvic outlet (between pubes)</td>
+<td align="left" colspan="1" rowspan="1">Maximum width Minimum width between ischial peduncles Minimum width between iliac peduncles</td>
+<td align="left" colspan="1" rowspan="1">14.0 11.2  7.0</td>
+</tr>
+</tbody>
+</table></alternatives></table-wrap><sec id="s3b1">
+<title>Cranium</title>
+<p>Of the preserved cranial bones (prefrontal, postorbital, quadrate, posterior pterygoid part, prearticular), the prefrontal, postorbital and quadrate are the most informative. The prefrontal is complete and lacks a long ventral process along the orbital margin, unlike most basal tetanurans such as <italic>Allosaurus</italic> <xref ref-type="bibr" rid="pone.0003303-Madsen1">[47]</xref> and <italic>Sinraptor</italic> <xref ref-type="bibr" rid="pone.0003303-Currie2">[48]</xref>.</p>
+<p>The triradiate postorbital has a short posterior process, a subtriangular ventral process, and a blunt medial process (<xref ref-type="fig" rid="pone-0003303-g003">Figure 3</xref>). In lateral view, the orbit margin is only slightly raised and rugose (<xref ref-type="fig" rid="pone-0003303-g003">Figure 3A</xref>). It does not exhibit the expanded brow ridge common to <italic>Acrocanthosaurus</italic> <xref ref-type="bibr" rid="pone.0003303-Stovall1">[49]</xref>, <xref ref-type="bibr" rid="pone.0003303-Currie3">[50]</xref> and other carcharodontosaurids <xref ref-type="bibr" rid="pone.0003303-Sereno2">[11]</xref>, <xref ref-type="bibr" rid="pone.0003303-Currie1">[15]</xref>, and the medial socket for the head of the laterosphenoid is particularly shallow (<xref ref-type="fig" rid="pone-0003303-g003">Figure 3B</xref>), unlike either abelisaurids <xref ref-type="bibr" rid="pone.0003303-Sampson2">[51]</xref> or carcharodontosaurids <xref ref-type="bibr" rid="pone.0003303-Currie1">[15]</xref>.</p>
+<p>The quadrate (<xref ref-type="fig" rid="pone-0003303-g004">Figures 4</xref>, <xref ref-type="fig" rid="pone-0003303-g016">16B</xref>) has an enlarged fenestra bounded entirely by the shaft rather than shared by the quadrate and quadratojugal as in many other theropods <xref ref-type="bibr" rid="pone.0003303-Madsen1">[47]</xref>, <xref ref-type="bibr" rid="pone.0003303-Currie2">[48]</xref>. Just below that fenestra is a large pneumatocoel that extends as a blind fossa deep within the quadrate at the base of the pterygoid process. The fossa descends to the edge of the quadrate condyles, where it would likely have crossed the jaw joint and entered the lower jaw, as does the paratympanic sinus in many living birds and crocodilians <xref ref-type="bibr" rid="pone.0003303-Witmer1">[52]</xref>. This pneumatic fossa is much better developed than depressions on the quadrate shaft in the carcharodontosaurid <italic>Giganotosaurus</italic> <xref ref-type="bibr" rid="pone.0003303-Coria2">[10]</xref> or the abelisaurid <italic>Majungasaurus</italic> <xref ref-type="bibr" rid="pone.0003303-Sampson2">[51]</xref>. The distal condyles are very broad relative to the height of the quadrate (<xref ref-type="table" rid="pone-0003303-t001">Table 1</xref>), which contrasts strongly with the condition in abelisaurids <xref ref-type="bibr" rid="pone.0003303-Sampson2">[51]</xref>.</p>
+</sec><sec id="s3b2">
+<title>Axial Skeleton</title>
+<p>All of the vertebrae exhibit camellate (honeycomb) internal structure in both the centrum and neural arch. The expression of a “hyperpneumatic” condition in the vertebrae is matched elsewhere by the marked pneumatic invasion of the quadrate, appendicular elements and gastralia. The heightened state of pneumatic invasion across these skeletal divisions suggests genetic control of the degree or general extent of pneumaticity <xref ref-type="bibr" rid="pone.0003303-OConnor2">[31]</xref>, <xref ref-type="bibr" rid="pone.0003303-Witmer1">[52]</xref>. Such extensive camellate pneumaticity along the entire vertebral column has been reported previously in advanced coelurosaurs, such as <italic>Tyrannosaurus</italic> <xref ref-type="bibr" rid="pone.0003303-Britt1">[23]</xref>, <xref ref-type="bibr" rid="pone.0003303-Brochu1">[53]</xref>, and in titanosaurs <xref ref-type="bibr" rid="pone.0003303-Britt1">[23]</xref>, <xref ref-type="bibr" rid="pone.0003303-Wedel1">[26]</xref>, <xref ref-type="bibr" rid="pone.0003303-Wedel2">[27]</xref>.</p>
+<p>The atlas has a single slit-shaped pneumatopore in the center of the neural arch that opens dorsally (<xref ref-type="fig" rid="pone-0003303-g005">Figure 5A</xref>). The atlantal intercentrum does not appear to be pneumatic. Posterior to the atlas, the pleurocoels are paired in anterior cervical vertebrae with an anterodorsally inclined septum (<xref ref-type="fig" rid="pone-0003303-g005">Figure 5B</xref>). They grade into a single opening in the mid cervical and anterior dorsal vertebrae (<xref ref-type="fig" rid="pone-0003303-g006">Figures 6</xref>, <xref ref-type="fig" rid="pone-0003303-g007">7</xref>), and then grade again into paired openings with an posterodorsally inclined septum in the posteriormost dorsal and sacral vertebrae (<xref ref-type="fig" rid="pone-0003303-g008">Figures 8</xref>, <xref ref-type="fig" rid="pone-0003303-g016">16C</xref>) (<xref ref-type="table" rid="pone-0003303-t002">Table 2</xref>).</p>
+<p>The pneumatic features in dorsal 14 are extreme. The neural spine has a large central lumen (<xref ref-type="fig" rid="pone-0003303-g016">Figure 16C</xref>). Another lumen passes along the length of the transverse process, opening at its distal end into the rib (<xref ref-type="fig" rid="pone-0003303-g016">Figure 16C</xref>). Extensive intervertebral pneumatic communication exists via openings near the vertebral canal, between pre- and postzygapophyses, and between neural spines.</p>
+<p>There appear to be only five sacral vertebrae in <italic>Aerosteon</italic> as is the case in <italic>Allosaurus</italic> and many other theropods outside Coelurosauria. Only fragments of sacral 1 are preserved. The middle three sacrals (S2–4) are the most complete, their centra coossified. Sacral 5 is represented by a partial centrum and transverse process. The sacral vertebrae were found together in sequence but were truncated by erosion.</p>
+<p>Three caudal vertebrae are preserved including caudal 1, a mid caudal centrum, and a distal caudal centrum (<xref ref-type="fig" rid="pone-0003303-g009">Figure 9</xref>). A single opening is present in all vertebrae except the left side of the mid caudal, which has a second small posterior pneumatopore (<xref ref-type="fig" rid="pone-0003303-g009">Figure 9B</xref>). The internal structure of all caudal centra is camellate, as is the neural arch of caudal 1. The first caudal centrum has a large pleurocoel and a posteriorly deflected transverse process. Chevron facets are present along its posterior edge, whereas there is no indication of chevron facets anteriorly. Mid and distal caudal centra have short proportions and do not seem to exhibit the lengthening characteristic of tetanuran theropods (<xref ref-type="fig" rid="pone-0003303-g009">Figures 9B</xref>, <xref ref-type="fig" rid="pone-0003303-g016">16A</xref>).</p>
+<p>Cervical and dorsal ribs have pneumatic fossae or pneumatocoels opening near the junction of the capitulum and tuberculum on the anterior side of the rib head. The most extreme condition occurs in the last dorsal vertebra, in which a pneumatic canal extends within the transverse process to the rib (<xref ref-type="fig" rid="pone-0003303-g016">Figure 16C</xref>).</p>
+<p>Gastralia are composed of medial and lateral elements. The suture between the medial and lateral elements is sinuous and long and in many cases is fused. Medial elements, with rare exception, fuse in the midline (<xref ref-type="fig" rid="pone-0003303-g010">Figure 10</xref>). Isolated medial elements show a complex articulation with the contralateral medial element in the midline, where each element is expanded with anterior and posterior flanges. Successive rows of medial elements may have been in contact along their edges, however the usual criss-cross relationship between gastral rows in the midline does not appear to have been developed. Instead, coossification of medial elements and fusion of medial and lateral elements results in single, U-shaped units composed of an opposing pair of medial and lateral elements. In one case asymmetrical fusion has welded together two successive medial elements (<xref ref-type="fig" rid="pone-0003303-g010">Figure 10A</xref>). The gastral cuirass in <italic>Aerosteon</italic>, as a result, seems much less flexible than in many other theropods.</p>
+<p>Several pneumatopores open from the external side of the gastralia into the body of the element, passing internally along the gastral shaft without septae. In one case, an oval pneumatopore opens into a space within the gastralium approximately 1 cm in diameter (<xref ref-type="fig" rid="pone-0003303-g010">Figures 10B</xref>, <xref ref-type="fig" rid="pone-0003303-g016">16E</xref>). This pneumatic excavation enters and hollows the shaft of one of the medial elements (<xref ref-type="fig" rid="pone-0003303-g010">Figure 10B</xref>). Pneumaticity within gastralia, which form in dermal bone, has never been reported previously.</p>
+</sec><sec id="s3b3">
+<title>Appendicular Skeleton</title>
+<p>The scapulocoracoid has a subrectangular blade comparable in proportions to that in many allosauroids, such as <italic>Sinraptor</italic> <xref ref-type="bibr" rid="pone.0003303-Currie2">[48]</xref>. The junction between scapula and coracoid is particularly thick, measuring more than 6 cm. The coracoid is hook-shaped.</p>
+<p>The furcula (wishbone) is V-shaped with a broad intrafurcular angle of 120° and epicleideal processes that arch slightly to each side (<xref ref-type="table" rid="pone-0003303-t003">Table 3</xref>). The bone is nearly flat in anterior and posterior views (<xref ref-type="fig" rid="pone-0003303-g011">Figure 11</xref>). The slit-shaped pneumatopore opens dorsally on the posterior side of the bone and has rounded margins (<xref ref-type="fig" rid="pone-0003303-g011">Figures 11B</xref>, <xref ref-type="fig" rid="pone-0003303-g012">12A</xref>, <xref ref-type="fig" rid="pone-0003303-g016">16D</xref>). The undivided pneumatocoel has a crescentic shape, which extends into the proximal one-half of each epicleideal process.</p>
+<p>The ilium has a deep preacetabular process, a tapering postacetabular process, and an arched brevis fossa (<xref ref-type="fig" rid="pone-0003303-g013">Figures 13</xref>,<xref ref-type="fig" rid="pone-0003303-g014">14</xref>). The preacetabular process is weakly divided along its anterior margin into two lobes (<xref ref-type="fig" rid="pone-0003303-g013">Figure 13A</xref>). There are many small pneumatopores on each side of the blade (<xref ref-type="fig" rid="pone-0003303-g014">Figure 14</xref>). The largest of these occurs on the medial side between sacral attachment sites (<xref ref-type="fig" rid="pone-0003303-g014">Figure 14B</xref>). The pubic peduncle is robust, measuring about twice as long as broad at its distal end (<xref ref-type="fig" rid="pone-0003303-g013">Figures 13</xref>, <xref ref-type="fig" rid="pone-0003303-g016">16F</xref>; <xref ref-type="table" rid="pone-0003303-t003">Table 3</xref>). Several smaller pneumatocoels are grouped together on the lateral aspect of the pubic peduncle and vary in diameter from several millimeters to several centimeters (<xref ref-type="fig" rid="pone-0003303-g014">Figures 14C</xref>, <xref ref-type="fig" rid="pone-0003303-g016">16F</xref>). The rims of these openings are finished, and all internal canals have smooth surfaces that are indisputably pneumatic in origin and communicate with the honeycomb texture within the bone (<xref ref-type="fig" rid="pone-0003303-g016">Figure 16F, enlarged cross-section</xref>). Another large pneumatic opening is located at mid length along the brevis fossa and opens posteriorly. Just proximal to this opening are five additional irregular pneumatopores that open ventrally (<xref ref-type="fig" rid="pone-0003303-g014">Figure 14D</xref>).</p>
+<p>The articulated pubes, in contrast, do not show any external pneumatopores and are composed of dense or cancellous bone (<xref ref-type="fig" rid="pone-0003303-g015">Figure 15</xref>). A break at mid length along the pubic shafts shows they are composed of solid bone without any cancellous structure. The iliac peduncle is massive, and like the ischial peduncle is gently concave; there is no indication of a peg-in-socket articulation as occurs in some other theropods. The pubis bears a very large distal boot that is coossified with its opposite in the midline (<xref ref-type="fig" rid="pone-0003303-g015">Figure 15A</xref>). The boot measures approximately 70% the length of the pubis, which is proportionately among the largest known among theropods (<xref ref-type="table" rid="pone-0003303-t003">Table 3</xref>).</p>
+<p>The pelvic outlet is rather narrow dorsoventrally and transversely as in <italic>Alllosaurus</italic> (<xref ref-type="fig" rid="pone-0003303-g015">Figure 15B</xref>). The diameter of the posteriormost dorsal (<xref ref-type="table" rid="pone-0003303-t002">Table 2</xref>) equals the space between the pubes, which leaves only a narrow passage for communication from the abdominal cavity to areas under the sacrum.</p>
+</sec></sec></sec><sec id="s4">
+<title>Discussion</title>
+<sec id="s4a">
+<title>Phylogenetic Position</title>
+<p>The form of the pectoral and pelvic girdles in the holotypic skeleton clearly indicate that <italic>Aerosteon</italic> is a basal tetanuran (<xref ref-type="fig" rid="pone-0003303-g017">Figure 17</xref>). These features, which include the unexpanded crescentic coracoid, relatively broad scapular blade, relatively narrow brevis fossa and robust pubic peduncle of the ilium, and open obturator notch and large boot of the pubis, and sacrum limited to five vertebrae, closely resemble the condition in the allosauroids <italic>Allosaurus</italic> <xref ref-type="bibr" rid="pone.0003303-Madsen1">[47]</xref> and <italic>Acrocanthosaurus</italic> <xref ref-type="bibr" rid="pone.0003303-Stovall1">[49]</xref>, <xref ref-type="bibr" rid="pone.0003303-Currie3">[50]</xref>, <xref ref-type="bibr" rid="pone.0003303-Harris1">[54]</xref>. The small prefrontal and triradiate postorbital, which shows no development of a swollen brow or infraorbital flange, are closest to that in <italic>Allosaurus</italic> and very different from that in abelisaurids and carcharodontosaurids <xref ref-type="bibr" rid="pone.0003303-Currie1">[15]</xref>, <xref ref-type="bibr" rid="pone.0003303-Sampson2">[51]</xref>.</p>
+<fig id="pone-0003303-g017" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.g017</object-id><label>Figure 17</label><caption>
+<title>Cladogram of Dinosauria showing the four-phase model for evolution of avian air sacs and lung ventilation within Theropoda.</title>
+<p><italic>Phase I</italic> (Theropoda), variable posterior extension of paraxial cervical air sacs. <italic>Phase II</italic> (Tetanurae), elaboration of cranial (clavicular) and caudal (abdominal) intrathoracic air sac divisions and subcutaneous diverticulae. <italic>Phase III</italic> (Maniraptoriformes), primitive costosternal ventilatory pump. <italic>Phase IV</italic> (Maniraptora), advanced costosternal ventilatory pump. <italic>Abbreviations: aas</italic>, abdominal air sac; <italic>cas</italic>, cervical air sac; <italic>caas</italic>, caudal air sacs; <italic>clas</italic>, clavicular air sac; <italic>cor</italic>, coracoid; <italic>cras</italic>, cranial air sacs; <italic>lu</italic>, lung; <italic>sr</italic>, sternal rib; <italic>st</italic>, sternum; <italic>up</italic>, uncinate process; <italic>vr</italic>, vertebral rib. Bold arrow on lung indicates flow-through lung ventilation; question mark indicates uncertainty in the direction of air flow (uni- or bidirectional).</p>
+</caption><graphic mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.g017" xlink:type="simple"/></fig>
+<p>Placing <italic>Areosteon</italic> more precisely among basal tetanurans is not possible without further analysis. The foregoing suggests, however, that <italic>Areosteon</italic> represents a new and distinctive basal tetanuran lineage recorded for the first time in Upper Cretaceous rocks in South America.</p>
+</sec><sec id="s4b">
+<title>Source of Postcranial Pneumaticity</title>
+<sec id="s4b1">
+<title>Axial Pneumaticity</title>
+<p>Inferences about postcranial pneumaticity in <italic>Aerosteon</italic> are very dependent on the condition in extant birds (Neornithes), the only extant outgroup with comparable skeletal structures related to pneumatization. Because only a single outgroup is available, soft-tissue inferences are weaker <xref ref-type="bibr" rid="pone.0003303-Witmer2">[55: level–two inference]</xref>. Osteological correlates must establish a convincing link for soft-tissue inference.</p>
+<p>Anterior axial pneumaticity (cervical to anterior dorsal vertebrae plus their associated ribs) has long been attributed to cervical air sacs in saurischian dinosaurs like <italic>Aerosteon</italic>. Pleurocoels, pneumatic neural arches, and costal pneumatocoels closely match those in extant birds derived from diverticulae of the cervical air sacs. Posterior axial pneumaticity (posterior dorsal, sacral, and caudal vertebrae) occurs sporadically in nonavian saurischians and has been attributed either to cervical air sacs or to diverticulae extending directly from the lung and abdominal air sacs <xref ref-type="bibr" rid="pone.0003303-Britt1">[23]</xref>, <xref ref-type="bibr" rid="pone.0003303-Wedel1">[26]</xref>, <xref ref-type="bibr" rid="pone.0003303-Wedel2">[27]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor2">[31]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor3">[33]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor4">[35]</xref>, <xref ref-type="bibr" rid="pone.0003303-Paul1">[37]</xref>. In <italic>Aerosteon</italic> posterior axial pneumaticity has a similar form to that elsewhere among nonavian saurischians—a posterior extension without hiatus of the pneumatic pattern established in the anterior axial column.</p>
+<p>In living birds, anterior and posterior axial pneumaticity develops during growth as diverticulae invade the axial skeleton from cervical air sacs, lung diverticulae, and caudal (abdominal) air sacs. These separate sources for axial pneumaticity can leave a pneumatic hiatus in the thoracic vertebrae, where the approaching diverticulae fail to fully anastomose. In <italic>Gallus</italic>, for example, there is an apneumatic hiatus in the thoracic vertebrae that may persist in the adult <xref ref-type="bibr" rid="pone.0003303-Hogg1">[20]</xref>.</p>
+<p>Wedel <xref ref-type="bibr" rid="pone.0003303-Wedel1">[26]</xref> pointed out that such a pneumatic hiatus has never been reported in saurischian dinosaurs that exhibit axial pneumaticity in presacral and sacral regions of the vertebral column. A hiatus might be expected to occur in young individuals, if axial pneumatization is derived from multiple sources as in living birds. Immature individuals of the ornithomimid <italic>Sinornithomimus</italic> as young as one year in age <xref ref-type="bibr" rid="pone.0003303-Varricchio1">[56]</xref>, however, show the same continuous and gradational pattern of presacral pleurocoels as occurs in subadults of the same species or adults of other ornithomimid genera <xref ref-type="bibr" rid="pone.0003303-Osmlska1">[57]</xref>.</p>
+<p>Recently O'Connor proposed that axial pneumaticity in the abelisaurid theropod <italic>Majungasaurus</italic> can be used “to refine inferences related to pulmonary structure” <xref ref-type="bibr" rid="pone.0003303-OConnor4">[35: 159]</xref>, because “it shows a reduction in the pneumaticity in the last two dorsal neural arches, with enhanced pneumaticity in sacral aches <xref ref-type="bibr" rid="pone.0003303-OConnor2">[31: 22]</xref>. Specifically, the “size and number of neural arch foramina” are reduced in dorsal vertebrae 12 and 13, whereas the same are “enhanced” in sacral vertebrae, indicating “two different sources of pneumatization” <xref ref-type="bibr" rid="pone.0003303-OConnor3">[33: 253]</xref>. The actual differences, however, were not described, and dorsal vertebrae 12 and 13 were not figured until recently <xref ref-type="bibr" rid="pone.0003303-OConnor4">[35: figs. 3, 12, 13]</xref>.</p>
+<p>Review of the posterior dorsal-to-sacral vertebral series in <italic>Majungasaurus</italic> suggests an equally plausible alternative explanation. The two posteriormost dorsal vertebrae have narrower, shorter transverse processes with single-headed ribs <xref ref-type="bibr" rid="pone.0003303-OConnor4">[35]</xref>. In preceding dorsal vertebrae, a pair of pneumatic fossae open on either side of the parapophysis (infraprezygapophyseal and infradiapophyseal fossae) as well as one farther posteriorly (infrapostzygapophyseal fossa). The loss of a distinct parapophyseal process eliminates the ridge of bone that divided the two anterior fossae, leaving a more broadly open area. Although not mentioned in the description, a distinct small funnel-shaped fossa is maintained in this area in dorsal 12 [<xref ref-type="bibr" rid="pone.0003303-OConnor4">[35: fig. 12C]</xref>], and a more broadly open fossa still remains in dorsal 13 <xref ref-type="bibr" rid="pone.0003303-OConnor4">[35: fig. 13A]</xref>, representing the fusion of infraprezygapophyseal and infradiapophyseal fossae in both vertebrae. Counting the infrapostzygapophyseal fossa, two of the three fossae present in more anterior dorsal vertebrae appear in reduced form in these posteriormost dorsal vertebrae.</p>
+<p>The mid sacral vertebrae are preserved, and each has two fossae visible on the ventral aspect of the diapophysis <xref ref-type="bibr" rid="pone.0003303-OConnor4">[35: fig. 13A]</xref>. Unlike any of the infradiapophyseal fossae in the presacral column, these are invaginated with a sharp-rimmed opening. The likely explanation for this is the increase surrounding bone from massive sacral attachments and fusion of adjacent neural arches. The pneumatic diverticulae thus are better surrounded by bone, compared to the posteriormost dorsal vertebrae with their reduced transverse processes.</p>
+<p>It appears, in sum, that the “reduction” and “enhancement” of pneumatic fossae between posterior dorsal and sacral vertebrae in <italic>Majungasaurus</italic> is directly related to “reduction” and “enhancement” of vertebral structure. Regarding the reduced fossae in dorsal 12, O'Connor remarked, “Concomitant with the reduction in neural arch laminae, pneumatic foramina are only present immediately adjacent to the postzygapophyses” <xref ref-type="bibr" rid="pone.0003303-OConnor4">[35: 144]</xref>. This reduction of the size of the pneumatic fossae, nonetheless, was presented as prima facie evidence for separation of cervical and abdominal “focal centers” of pneumatic diverticulae <xref ref-type="bibr" rid="pone.0003303-OConnor2">[31: 22]</xref>.</p>
+<p>The situation in <italic>Aerosteon</italic> is instructive for the contrast that it provides across the same vertebral transition. In this case, pneumaticity appears to peak in the last dorsal, with a large pneumatic canal in the transverse process that is not present in sacral vertebrae (<xref ref-type="fig" rid="pone-0003303-g004">Figure 4C</xref>). The pleurocoels, in addition, develop a posterodorsally inclined partition in the posteriormost dorsal vertebrae that passes into the sacral series unchanged. The axial column of <italic>Aerosteon</italic> does not suggest a clean partitioning based on the number or size of pneumatic spaces, but rather a gradation in pleurocoel form that extends from the anterior cervical vertebrae through the distal caudal vertebrae. As in other saurischians, there is no pneumatic gap separating distinct zones.</p>
+<p>O'Connor and Claessens <xref ref-type="bibr" rid="pone.0003303-OConnor3">[33: 253]</xref> have argued that the “general pattern of pneumaticity in <italic>Majungasaurus</italic> is expressed throughout Theropoda … indicating a consistent and widespread pattern of pneumatic invasion by caudally located air sacs in non-avian theropods.” Their cited tabulation of theropod vertebral pneumaticity, however, does not include any examples of axial pneumaticity partitioned by an apneumatic gap. The data from <italic>Majungasaurus</italic>, although well preserved and described <xref ref-type="bibr" rid="pone.0003303-OConnor4">[35]</xref>, is not qualitatively different from information on saurischian vertebral pneumaticity that has been available for more than a century <xref ref-type="bibr" rid="pone.0003303-Gilmore1">[58]</xref>–<xref ref-type="bibr" rid="pone.0003303-Holland1">[60]</xref>. On this evidence alone, the source of posterior axial pneumaticity in nonavian saurischians is likely to remain controversial, even if posterior axial pneumaticity in most extant avians is derived from diverticulae of the lung and abdominal air sacs <xref ref-type="bibr" rid="pone.0003303-Wedel1">[26]</xref>.</p>
+</sec><sec id="s4b2">
+<title>Gastral Pneumaticity</title>
+<p>An extraordinary feature of <italic>Aerosteon</italic> is the pneumatic hollowing of several gastralia (<xref ref-type="fig" rid="pone-0003303-g010">Figures 10</xref>, <xref ref-type="fig" rid="pone-0003303-g016">16E</xref>), the first such example in the nonavian dinosaur record. Pneumatopores that vary in shape from oval to more elongate enter the external (ventral) surface and open into pneumatic spaces that hollow sections of the shaft of two medial gastral elements. In one medial gastral element (fused to its opposite in the midline), a shallow external trough leads to an oval pneumatopore, which opens into a subcylindrical space within the shaft (<xref ref-type="fig" rid="pone-0003303-g010">Figure 10</xref>). The internal pneumatic spaces do not have partitions when prepared or viewed in computed tomographic section (<xref ref-type="fig" rid="pone-0003303-g016">Figure 16E</xref>).</p>
+<p>The external (ventral) position of the pneumatopores suggests that the pneumatic diverticulae lay in superficial tracts outside the gastral cuirass. It seems unlikely that pneumatic diverticulae would penetrated the ventral thoracic wall to access external pneumatopores, when entering the gastralia directly from their internal (dorsal) surface would be much easier. A plausible explanation may be that these ventral pneumatic tracts are part of a subcutaneous system, which is present to varying degrees in birds and is composed of diverticulae from cervical, clavicular, and abdominal air sacs <xref ref-type="bibr" rid="pone.0003303-King1">[1]</xref>, <xref ref-type="bibr" rid="pone.0003303-McLelland1">[21]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>. Subcutaneous diverticulae usually exit the thoracic cavity and extend under the skin to distant body surfaces. In the brown pelican (<italic>Pelecanus occidentalis</italic>), for example, diverticulae of the clavicular air sac exit the thoracic cavity dorsally and extend under the skin to reach the entire ventral surface of the thorax <xref ref-type="bibr" rid="pone.0003303-Richardson1">[61]</xref>.</p>
+</sec><sec id="s4b3">
+<title>Appendicular Pneumaticity</title>
+<p>Pneumaticity in pectoral and pelvic girdles may provide a more straightforward signpost for ventilatory air sacs, because these bones are pneumatized exclusively by ventilatory sacs in living birds. The median pneumatocoel in the furcula (wishbone) of <italic>Aerosteon</italic> is very similar to that in some living anseriforms (screamers, ducks, geese) (<xref ref-type="fig" rid="pone-0003303-g012">Figure 12B</xref>). Pelicaniforms (boobies, pelicans) also have a pneumatic furcula, but the bone is aerated via contralateral pneumatocoels on each clavicular ramus. Furcular pneumaticity in birds always involves diverticulae of the clavicular air sac, the most anterior of the cranial air sacs, which is located between the rami of the furcula (<xref ref-type="fig" rid="pone-0003303-g001">Figure 1, clas</xref>) <xref ref-type="bibr" rid="pone.0003303-King1">[1]</xref>, <xref ref-type="bibr" rid="pone.0003303-Mller1">[16]</xref>, <xref ref-type="bibr" rid="pone.0003303-Duncker2">[19]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>, <xref ref-type="bibr" rid="pone.0003303-Bezuidenhout1">[36]</xref>.</p>
+<p>The pneumatic openings on lateral and ventral aspects of the ilium in <italic>Aerosteon</italic> may have been aerated by the abdominal air sac. These include pneumatic tracts and pneumatopores on the lateral aspect of the blade (<xref ref-type="fig" rid="pone-0003303-g014">Figure 14A</xref>), pubic peduncle (<xref ref-type="fig" rid="pone-0003303-g014">Figure 14C</xref>), and ventral aspect of the brevis fossa (<xref ref-type="fig" rid="pone-0003303-g014">Figure 14D</xref>). They provide entry into the honeycomb (camellate) internal structure of the ilium (<xref ref-type="fig" rid="pone-0003303-g016">Figure 16F</xref>). Iliac pneumaticity in birds is developed exclusively by diverticulae of the abdominal air sac, which is located under the synsacrum as the most posterior of the caudal air sacs (<xref ref-type="fig" rid="pone-0003303-g001">Figure 1</xref>, aas). The openings on the lateral aspect of the iliac blade, given their external, superficial location, may be derived from subcutaneous diverticulae of the abdominal air sac <xref ref-type="bibr" rid="pone.0003303-King1">[1]</xref>, <xref ref-type="bibr" rid="pone.0003303-Mller1">[16]</xref>, <xref ref-type="bibr" rid="pone.0003303-Duncker2">[19]</xref>, <xref ref-type="bibr" rid="pone.0003303-McLelland1">[21]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>, <xref ref-type="bibr" rid="pone.0003303-Bezuidenhout1">[36]</xref>.</p>
+<p>Some of the iliac pneumatic sculpting, nevertheless, may have been associated with posterior extension of the cervical air sac system. In particular, the pneumatopores on the medial aspect of the iliac blade (<xref ref-type="fig" rid="pone-0003303-g014">Figure 14B</xref>) and brevis fossa (<xref ref-type="fig" rid="pone-0003303-g014">Figure 14D</xref>) are adjacent to the sacral axial column and may have been pneumatized from the same source. As with posterior axial pneumaticity, the absence of extant analogs with similar pelvic and pneumatic structures weakens the case that all of the pneumatic features of the ilium originate exclusively from the abdominal air sac.</p>
+</sec></sec><sec id="s4c">
+<title>Evolution of Avian Air Sacs and Lung Ventilation</title>
+<sec id="s4c1">
+<title>Structural Phases</title>
+<p>Tracking pneumatic patterns in the fossil record is complicated by the one-sided nature of outgroup comparison, which is restricted to birds among extant vertebrates, and the ambiguous meaning of the absence of a soft structure that only sometimes leaves an osteological imprint <xref ref-type="bibr" rid="pone.0003303-Witmer2">[55]</xref>. What we can sketch is the most probable minimal distribution of these soft structures and how they might have changed.</p>
+<p>Pneumatic sculpting (fossae, pneumatocoels) of the cervical and anterior dorsal vertebrae in saurischians is widely understood as evidence of the presence of paraxial cervical air sacs, given the close correspondence with pneumatic structures observed in extant avians <xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>, <xref ref-type="bibr" rid="pone.0003303-Britt1">[23]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor2">[31]</xref>, <xref ref-type="bibr" rid="pone.0003303-Paul1">[37]</xref> (<xref ref-type="table" rid="pone-0003303-t004">Table 4</xref>). Fossils pertaining to a new basal theropod close to <italic>Eoraptor</italic> shows the presence of true pleurocoels in mid cervical vertebrae at the base of Theropoda <xref ref-type="bibr" rid="pone.0003303-Martinez1">[62]</xref>, and it seems increasingly likely that a heterogeneously partitioned lung with air sacs were present in basal saurischian dinosaurs (<xref ref-type="fig" rid="pone-0003303-g017">Figure 17, bottom</xref>). The capacity of the cervical air sacs to invade centra to form invaginated pleurocoels may have evolved independently in sauropodomorphs (sauropods) and basal theropods and appears to have been lost several times within theropods.</p>
+<table-wrap id="pone-0003303-t004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003303.t004</object-id><label>Table 4</label><caption>
+<title>Osteological correlates of pneumatic features in the postcranial skeleton of nonavian dinosaurs based on observed pneumaticity in birds.</title>
+</caption><!--===== Grouping alternate versions of objects =====--><alternatives><graphic id="pone-0003303-t004-4" mimetype="image" position="float" xlink:href="info:doi/10.1371/journal.pone.0003303.t004" xlink:type="simple"/><table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" colspan="1" rowspan="1">Soft Anatomy or Functional Capacity</td>
+<td align="left" colspan="1" rowspan="1">Osteological Correlates</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" colspan="1" rowspan="1">Pneumatic diverticulum</td>
+<td align="left" colspan="1" rowspan="1">Pneumatic sculpting, preferably with a pneumatopore characterized by a smooth rim and an invaginated space with smooth walls and interconnected cells that are considerably larger than those in cancellous bone</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Cervical air sac</td>
+<td align="left" colspan="1" rowspan="1">Pneumatic invasion of cervical and dorsal (thoracic) vertebrae (centrum, neural arch) and ribs</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Clavicular air sac</td>
+<td align="left" colspan="1" rowspan="1">Pneumatic invasion of the furcula, coracoid, sternal ribs or humerus; furcular invasion preferably median on central body or parasagittal on epicleideal processes</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Abdominal air sac</td>
+<td align="left" colspan="1" rowspan="1">Pneumatic invasion of the pelvic girdle, preferably in areas removed from its contact with the sacrum (to avoid potential confusion with axial invasion by cervical air sacs)</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Subcutaneous pneumaticity</td>
+<td align="left" colspan="1" rowspan="1">Pneumatic invasion on an external bone surface at some distance from an air sac that would require superficial transmission</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Costosternal pump</td>
+<td align="left" colspan="1" rowspan="1">Ossification of sternal ribs and sternum; joints (synovial) between vertebral ribs, sternal ribs and sternum</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Advanced costosternal pump</td>
+<td align="left" colspan="1" rowspan="1">Concavoconvex joint (synovial) between coracoid and sternum; uncinate processes; dorsal (thoracic) column shortened</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Flow-through ventilation (rigid lung)</td>
+<td align="left" colspan="1" rowspan="1">Evidence of pneumatic invasion by at least one avian ventilatory air sac (clavicular, anterior or posterior thoracic, abdominal)</td>
+</tr>
+<tr>
+<td align="left" colspan="1" rowspan="1">Uni- or bidirectional lung ventilation</td>
+<td align="left" colspan="1" rowspan="1">None</td>
+</tr>
+</tbody>
+</table></alternatives></table-wrap>
+<p><italic>Phase I</italic> of our model of the evolution of air sacs highlights the variable expression of the cervical air sac system in posterior portions of the axial column in theropods (<xref ref-type="fig" rid="pone-0003303-g017">Figure 17</xref>). Pneumatic sculpting of posterior dorsal, sacral and caudal vertebrae varies widely between taxa and sometimes between individuals of the same species. Such variation could parallel variation in the posterior extension of the cervical are sacs, or it may only indicate variation in the capacity of the posterior portion of the cervical air sac system for pneumatic sculpting of bone. Pneumatic fossae appear to be present on the centra along much of the axial column in the new basal theropod <xref ref-type="bibr" rid="pone.0003303-Martinez1">[62]</xref>.</p>
+<p>In <italic>Phase II</italic> additional air sacs are present in tetanuran theropods within the thorax, at least some with extrathoracic subcutaneous diverticulae (<xref ref-type="fig" rid="pone-0003303-g017">Figure 17</xref>). Reduction of skeletal weight, as a consequence, is no longer the only purpose served by air sacs. These additional air sacs include both cranial and caudal divisions of avian intrathoracic air sacs involved in lung ventilation (<xref ref-type="table" rid="pone-0003303-t004">Table 4</xref>). The presence of compliant intrathoracic air sacs confirms deep-seated heterogeneous partitioning of the respiratory system in these theropods into mechanical areas involved in respiratory flow (ventilatory air sacs) from those involved in gas exchange (lung). The presence of ventilatory air sacs, in turn, suggests that the lung was rigid and most likely attached dorsally to the ribcage as in birds. Dorsal attachment of the lung has been inferred from stiffening of the dorsal vertebrae with extra (hyposphene-hypantrum) articulations, deeper dorsal rib attachments, and the presence of pleurocoels in dorsal vertebrae <xref ref-type="bibr" rid="pone.0003303-OConnor3">[33]</xref>, <xref ref-type="bibr" rid="pone.0003303-Paul1">[37]</xref>, although the correlation between these osteological features and lung attachment seems poorly established. Although phase II theropods like <italic>Aerosteon</italic> display pneumatic sculpting consistent with cranial and caudal air sac divisions in birds, we do not claim they had unidirectional lung ventilation. Osteological correlates for directional lung ventilation, in our opinion, have yet to be established (<xref ref-type="table" rid="pone-0003303-t004">Table 4</xref>).</p>
+<p><italic>Aerosteon</italic> currently provides the best evidence for intra- and extrathoracic air sacs and diverticulae, based on pneumatic invasion of the furcula, ilium and gastralia (<xref ref-type="fig" rid="pone-0003303-g016">Figure 16</xref>). As discussed above, we and others <xref ref-type="bibr" rid="pone.0003303-Wedel1">[26]</xref>, <xref ref-type="bibr" rid="pone.0003303-Chinsamy1">[34]</xref> regard the relatively continuous pneumatic sculpting in the posterior axial column of nonavian dinosaurs as ambiguous evidence for abdominal air sacs [contra 22,31,33]. We anticipate that evidence from appendicular bones for these additional air sacs will be discovered in other species, and that this distribution may eventually encompass most theropods.</p>
+<p>In <italic>Phase III</italic> a primitive costosternal pump is present, the evidence for which is best preserved in the basal ornithomimid <italic>Pelecanimimus</italic> <xref ref-type="bibr" rid="pone.0003303-PerezMoreno1">[63]</xref>, <xref ref-type="bibr" rid="pone.0003303-PerezMoreno2">[64]</xref>. The holotype and only known specimen (LH 7777) has a pair of elongate ossified sternal plates and several pairs of ossified sternal ribs. The coracoid remains hook-shaped as in other ornithomimids and lacks the square distal end that characterizes the coracoid in maniraptorans. Unlike maniraptorans, the coracoid does not contact the sternum, and there is no trace of ossified uncinate processes.</p>
+<p>Complete, articulated skeletons of other ornithomimids show no trace of sternal ossifications <xref ref-type="bibr" rid="pone.0003303-Varricchio1">[56]</xref>, <xref ref-type="bibr" rid="pone.0003303-Osmlska1">[57]</xref>, except for a pair of rod-shaped “xiphisternal” elements in <italic>Struthiomimus</italic> <xref ref-type="bibr" rid="pone.0003303-Nicholls1">[65]</xref>. Sternal ossifications are also absent in another toothed basal ornithomimid that preserves most of the skeleton <xref ref-type="bibr" rid="pone.0003303-Ji1">[66]</xref>. The rare ossification of sternal structures in ornithomimids, when their existence in cartilage was correctly inferred <xref ref-type="bibr" rid="pone.0003303-Nicholls1">[65]</xref>, highlights the problematic nature of trying to establish accurate distributions for characters related to respiratory function. Retention of dorsal ribs posterior to those attached to the sternum as well as a full gastral cuirass with mobile median articulations suggests that, in spite of the presence of a large ossified or cartilaginous sternum, the costal and gastral skeleton continued to play a role in aspiration breathing.</p>
+<p>In <italic>Phase IV</italic> the costosternal pump is more birdlike still (<xref ref-type="fig" rid="pone-0003303-g017">Figure 17</xref>), as seen in the basal oviraptorosaur <italic>Caudipteryx</italic> <xref ref-type="bibr" rid="pone.0003303-Zhou1">[67]</xref> and in several dromaeosaurids <xref ref-type="bibr" rid="pone.0003303-Norell1">[68]</xref>–<xref ref-type="bibr" rid="pone.0003303-Codd1">[70]</xref>. The ribcage is proportionately shorter anteroposteriorly and is crossed by a series of ossified uncinate processes, which have been linked to respiratory mechanics in living birds <xref ref-type="bibr" rid="pone.0003303-Codd2">[71]</xref>. The large paired sternal plate articulates with ossifed sternal ribs laterally and has a thickened anterior end marked by a groove to receive the ventral edge of the coracoid <xref ref-type="bibr" rid="pone.0003303-Norell1">[68]</xref>, <xref ref-type="bibr" rid="pone.0003303-Codd1">[70]</xref>. Synovial joints thus appear to be well formed between the sternum and the sternal ribs and coracoid. Although the sternal ribs have not been shown to have transversely expanded distal ends for articulation with the sternum as occurs in birds <xref ref-type="bibr" rid="pone.0003303-Chinsamy1">[34]</xref>, it is difficult to deny that the ribcage and pectoral girdle are mechanically united in a manner very similar to that in birds <xref ref-type="bibr" rid="pone.0003303-Codd1">[70]</xref>. The primary respiratory role played by uncinate processes in living birds <xref ref-type="bibr" rid="pone.0003303-Codd2">[71]</xref> suggests that the derived form of the ribcage and pectoral girdle in phase IV theropods served a ventilatory role as a costosternal pump. Again, whether that ventilation was uni- or bidirectional we regard as impossible to ascertain from current evidence.</p>
+</sec><sec id="s4c2">
+<title>Lung Ventilation, Air Sacs</title>
+<p>Two general models have been proposed for lung ventilation in nonavian dinosaurs. The first infers the presence of compliant lungs with crocodile-like diaphragmatic ventilation, based in part on stained areas in two theropod skeletons purported to represent a diaphragm separating thoracic and abdominal cavities <xref ref-type="bibr" rid="pone.0003303-Ruben1">[72]</xref>, <xref ref-type="bibr" rid="pone.0003303-Ruben2">[73]</xref>. The stains and their interpretations have been contested, and the evidence for their arguments refuted by several authors <xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>, <xref ref-type="bibr" rid="pone.0003303-Christiansen1">[25]</xref>–<xref ref-type="bibr" rid="pone.0003303-Wedel2">[27]</xref>, <xref ref-type="bibr" rid="pone.0003303-Paul1">[37]</xref>. A second model infers avianlike flow-through lung ventilation with a rigid dorsally-attached lung and compliant air sacs. This hypothesis is based mainly on the morphology of the ribcage and on pneumatic sculpting in the axial column attributable to air sacs <xref ref-type="bibr" rid="pone.0003303-Britt2">[24]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor3">[33]</xref>, <xref ref-type="bibr" rid="pone.0003303-PerezMoreno2">[64]</xref>, <xref ref-type="bibr" rid="pone.0003303-Codd1">[70]</xref>. Although more plausible, the second hypothesis actually consists of a collection of inferences about (1) pulmonary morphology and function and (2) the mechanics of aspiration respiration in nonavian dinosaurs. The osteological or logical correlates needed to support some of these inferences have been poorly articulated, which may explain the wide range of opinions on when intrathoracic air sacs like those in birds first evolved and how these relate to ventilatory patterns. We assemble the osteological correlates we used as a guide in assembling the four-phase model outlined above (<xref ref-type="table" rid="pone-0003303-t004">Table 4</xref>). Below we first consider inferences about air sacs and later those involving the ribcage and gastral cuirass.</p>
+<p>Some of the initial reconstructions of the pulmonary condition in nonavian dinosaurs were characterized as the “stepwise transformation of a crocodilian-like lung into an avian airsac system” <xref ref-type="bibr" rid="pone.0003303-Perry1">[74: 132]</xref>. Such a transformational approach presumes that the crocodilian lung is primitive for archosaurs, which may not be the case. For nonavian dinosaurs, avians are the first and only outgroup for many of the pneumatic structures of interest, and so identifying osteological correlates and their probable functional associations is the best available approach <xref ref-type="bibr" rid="pone.0003303-Witmer2">[55]</xref>.</p>
+<p>Perry <xref ref-type="bibr" rid="pone.0003303-Perry2">[75: 58]</xref> outlined a “dinosaur grade” pulmonary system that involved a dorsally attached lung, avian-like air sacs, bi-directional air flow, and costal-driven aspiration. Later <xref ref-type="bibr" rid="pone.0003303-Perry1">[74]</xref>, <xref ref-type="bibr" rid="pone.0003303-Perry3">[76: 134]</xref> it was postulated that the “dynamic gastralia” of theropods suggests there were abdominal air sacs, which in turn are “crucial for unidirectional flow in the paleopulmo of birds.” On this basis, anterior and posterior air “chambers” were inferred to have evolved at the base of Dinosauria and “true airsacs” to have evolved at the base of Theropoda <xref ref-type="bibr" rid="pone.0003303-Perry3">[76: fig. 1]</xref>.</p>
+<p>Based on the osteological correlates we have assembled (<xref ref-type="table" rid="pone-0003303-t004">Table 4</xref>), we would argue, first, that until we can show evidence of the presence of at least one avian ventilatory air sac (besides the non-ventilatory cervical air sac), it is problematic to infer the presence of flow-through ventilation or a rigid, dorsally-attached lung. Second, we know of no osteological correlates in the gastral cuirass that would justify the inference of abdominal air sacs. Potential kinesis of the gastral cuirass and an accessory role in aspiration breathing potentially characterizes many amniotes besides nonavian dinosaurs <xref ref-type="bibr" rid="pone.0003303-Kuethe1">[77]</xref>–<xref ref-type="bibr" rid="pone.0003303-Duncker3">[79]</xref>. The absence of gastralia in crown birds or in any extant bipeds also hinders functional inferences. And third, it is not well established that abdominal air sacs were either first to evolve or are functionally critical to unidirectional ventilation.</p>
+<p>Experimental studies on ventilation in birds have shown slight changes in the orientation of air sacs relative to the connecting air passages can convert bidirectional to unidirectional flow in a poorly valved respiratory tract <xref ref-type="bibr" rid="pone.0003303-Scheid1">[2]</xref>, <xref ref-type="bibr" rid="pone.0003303-Kuethe1">[77]</xref>, <xref ref-type="bibr" rid="pone.0003303-Brown1">[78]</xref>. The slight pressure differences driving the particular ventilatory pattern have no known osteological correlates. A heterogeneous pulmonary system composed of a rigid lung and single air sac effectively separates the exchanger and pump, respectively, and would suffice to drive bidirectional or even unidirectional lung ventilation, given appropriate valving. The cranial-caudal air sac divisions and two-breath respiratory cycle of extant avians, thus, may have evolved from a simpler flow-through system.</p>
+<p>Only the abdominal air sac in birds extends into the abdominal cavity, the other air sacs occupying more anterior spaces separated by septae <xref ref-type="bibr" rid="pone.0003303-Duncker3">[79]</xref>. Although the abdominal air sac may be more favorably located to play a ventilatory role <xref ref-type="bibr" rid="pone.0003303-Duncker4">[80]</xref>, this has not been demonstrated in experimental systems or in living birds. All ventilatory air sacs are operative during lung ventilation in birds, with cranial and caudal divisions closely approximating each other in volume <xref ref-type="bibr" rid="pone.0003303-Scheid1">[2]</xref>.</p>
+</sec><sec id="s4c3">
+<title>Lung Ventilation, Ribcage Function</title>
+<p>Research on the gastral cuirass in archosaurs led to the suggestion that it may have functioned as an accessory aspiration pump in nonavian dinosaurs <xref ref-type="bibr" rid="pone.0003303-Carrier1">[81]</xref>–<xref ref-type="bibr" rid="pone.0003303-Claessens1">[83]</xref>. Although Claessens drew attention to the relationship between the gastral cuirass and abdominal air sacs, he concluded that “it appears impossible to ascertain exactly when lung diverticula stretching throughout the whole body cavity or unidirectional airflow originated” <xref ref-type="bibr" rid="pone.0003303-Claessens1">[83:102]</xref>. Later a “caudal origin model” for air sacs and flow-through lung ventilation (either uni- or bidirectional) was proposed <xref ref-type="bibr" rid="pone.0003303-OConnor3">[33: 255]</xref> based on (1) the presence of abdominal air sacs (inferred from posterior dorsal and sacral pneumaticity), (2) a dynamic gastral cuirass, and (3) vertebrocostal articulations in the posterior ribcage that allow greater excursion during aspiration (inferred from the more horizontal arrangement of posterior rib articulations). An independent study of rib morphology, in contrast, concluded that nonavian dinosaurs were characterized by an “anteriorly ventilated bellows lung” <xref ref-type="bibr" rid="pone.0003303-Hengst1">[84: 47]</xref>.</p>
+<p>In <italic>Aerosteon</italic> the dorsal rib articulations (especially the parapophysis) are quite large, and the diapophysis is always located dorsal to the parapophysis (<xref ref-type="fig" rid="pone-0003303-g007">Figures 7</xref>, <xref ref-type="fig" rid="pone-0003303-g008">8</xref>) as in <italic>Allosaurus</italic> <xref ref-type="bibr" rid="pone.0003303-Madsen1">[47]</xref> and <italic>Tyrannosaurus</italic> <xref ref-type="bibr" rid="pone.0003303-Brochu1">[53]</xref>. An axis through these two rib articulations is canted anteroventrally from the vertical at about 5–10° in anterior dorsal vertebrae (<xref ref-type="fig" rid="pone-0003303-g007">Figure 7A, B</xref>) and increases to a maximum of about 25° in dorsal 11 (<xref ref-type="fig" rid="pone-0003303-g008">Figure 8A</xref>) before decreasing in the posteriormost dorsal vertebra (<xref ref-type="fig" rid="pone-0003303-g008">Figure 8B</xref>). In no part of the column does the does this costal articular axis approach the horizontal like that in abelisauroids <xref ref-type="bibr" rid="pone.0003303-Bonaparte1">[5]</xref>, <xref ref-type="bibr" rid="pone.0003303-OConnor4">[35]</xref>, <xref ref-type="bibr" rid="pone.0003303-Sereno4">[85]</xref> and some allosauroids <xref ref-type="bibr" rid="pone.0003303-Currie2">[48]</xref>.</p>
+<p>Most or all of the gastral cuirass, in addition, is either fused or solidly articulated in the midline, which would prevent expansion of the cuirass as an accessory aspiration pump as proposed <xref ref-type="bibr" rid="pone.0003303-OConnor3">[33]</xref>, <xref ref-type="bibr" rid="pone.0003303-Norell1">[68]</xref>, <xref ref-type="bibr" rid="pone.0003303-Carrier1">[81]</xref>–<xref ref-type="bibr" rid="pone.0003303-Claessens1">[83]</xref>. Although many nonavian dinosaurs may have employed costal- or gastral-driven aspiration, the condition in <italic>Aerosteon</italic> suggests that a more detailed comparative assessment of ribcage morphology and function is required. Currently we know of no osteological correlates in dorsal ribs or gastralia that would allow inference of either the presence of intrathoracic air sacs or a particular pattern of lung ventilation (<xref ref-type="table" rid="pone-0003303-t004">Table 4</xref>) <xref ref-type="bibr" rid="pone.0003303-Chinsamy1">[34]</xref>.</p>
+<p>Avian lung ventilation is driven by muscles that expand and contract thoracic volume by deforming the ribcage and rocking a large bony sternum <xref ref-type="bibr" rid="pone.0003303-Powell1">[4]</xref>, <xref ref-type="bibr" rid="pone.0003303-Codd2">[71]</xref>. Basal maniraptorans have many of the features associated with this ventilatory mechanism including a large ossified sternum, ossified sternal ribs, uncinate processes a deepened coracoid that contacts the sternum along a synovial hinge joint <xref ref-type="bibr" rid="pone.0003303-Norell1">[68]</xref>–<xref ref-type="bibr" rid="pone.0003303-Codd1">[70]</xref>. By contrast <italic>Aerosteon</italic> and the abelisaurid <italic>Majungasaurus</italic> lack these features. Does that mean that maniraptorans had evolved unidirectional lung ventilation? Or does it indicate only that the maniraptoran ribcage functioned in aspiration breathing more like that in avians? We do not know of any osteological correlates that are specifically tied to uni- or bidirectional lung ventilation (<xref ref-type="table" rid="pone-0003303-t004">Table 4</xref>), which may explain the range of opinion as to how and when avian unidirectional lung ventilation first evolved.</p>
+</sec><sec id="s4c4">
+<title>Driving Factors</title>
+<p>The factors driving the origin and evolution of the functional capacity of avian air sacs and lung ventilation remain poorly known and tested. We briefly mention these in the light of the new evidence from <italic>Aerostoen</italic>. Currently three factors have been proposed: (1) more efficient flow-through respiration, (2) locomotor balance in bipeds, and (3) thermoregulation. The first, perhaps the most common, is to construct intermediate morphologies between extant crocodilians and birds and presume that avian air sacs and unidirectional lung ventilation originated gradually for the respiratory functions they now perform <xref ref-type="bibr" rid="pone.0003303-Perry1">[74]</xref>–<xref ref-type="bibr" rid="pone.0003303-Perry3">[76]</xref>, <xref ref-type="bibr" rid="pone.0003303-Larson1">[86]</xref>. Given that many dinosaurs probably had elevated metabolic rates, more efficient lung ventilation may have been required <xref ref-type="bibr" rid="pone.0003303-Ruben1">[72]</xref>, <xref ref-type="bibr" rid="pone.0003303-Ruben2">[73]</xref>, although others have argued that gas exchange was not a limiting factor <xref ref-type="bibr" rid="pone.0003303-Hicks1">[87]</xref>. This hypothesis is difficult to test without better data from the fossil record and reliable osteological correlates for soft tissues and specific functions.</p>
+<p>The second is that air sacs may have arisen originally for locomotory control in bipeds as a means to lower the center of mass and reduce rotational inertia <xref ref-type="bibr" rid="pone.0003303-Carrier3">[88]</xref>, <xref ref-type="bibr" rid="pone.0003303-Farmer1">[89]</xref>. Evidence of air sacs, however, does not seem strongly correlated with the advent of bipedalism among dinosaurian precursors and its maintenance among descendants. Besides bipedal theropods, four-legged sauropods provide the best evidence among nonavian saurischian dinosaurs of air sacs, which do not seem to have been present in the broad array of bipedal ornithischians. Bipedalism, moreover, may have arisen as an upright posture that reduced mechanical conflict between locomotion and breathing <xref ref-type="bibr" rid="pone.0003303-Carrier4">[90]</xref>, <xref ref-type="bibr" rid="pone.0003303-Brainerd1">[91]</xref> rather than as a catalyst for air sacs.</p>
+<p>Finally thermoregulatory control may have played a role in the origin of air sacs <xref ref-type="bibr" rid="pone.0003303-Wedel1">[26]</xref>. Living birds lack sweat glands, which in mammals reduce excess body heat by evaporative loss from highly vascularized surface tissues. Could air sacs or their intermuscular and subcutaneous diverticulae initially have played a similar role in heat transfer? <italic>Aerosteon</italic> may have had a fairly extensive system of subcutaneous air sacs enveloping the thoracic cavity. The fossil evidence for intrathoracic air sacs now closely overlaps that for feathers, which had evolved in coelurosaurian theropods most likely for heat retention <xref ref-type="bibr" rid="pone.0003303-Xu1">[92]</xref>. Air sacs may have initially been employed as an antagonist to feathers in theropod thermoregulation. Although this hypothesis has been criticized for lack of empirical evidence in living birds <xref ref-type="bibr" rid="pone.0003303-OConnor1">[22]</xref>, air sacs have been implicated in avian heat transfer and/or evaporative heat loss <xref ref-type="bibr" rid="pone.0003303-SchmidtNielsen1">[93]</xref>–<xref ref-type="bibr" rid="pone.0003303-Pennycuick1">[95]</xref>, and <italic>Aerosteon</italic> and many other theropods had a body weight more than an order of magnitude greater than that for any living bird. A thermoregulatory role for the early evolution of air sacs in nonavian dinosaurs should not be ruled out without further evidence from nonvolant ratites.</p>
+<p>In sum, although we may never be able to sort out the most important factors behind the origin and evolution of the unique avian pulmonary system, discoveries such as <italic>Aerosteon</italic> provide clues that help to constrain the timing and circumstances when many of the fundamental features of avian respiration arose.</p>
+</sec></sec><sec id="s4d">
+<title>Conclusions</title>
+<p>We present a four-phase model for the evolution of avian air sacs and costosternal-driven lung ventilation based on the known fossil record of theropod dinosaurs and osteological correlates in extant birds:</p>
+<list list-type="order"><list-item>
+<p>Phase I—Elaboration of paraxial cervical air sacs in basal theropods no later than the earliest Late Triassic.</p>
+</list-item><list-item>
+<p>Phase II—Differentiation of avian ventilatory air sacs, including both cranial (clavicular air sac) and caudal (abdominal air sac) divisions, in basal tetanurans during the Jurassic. A heterogeneous respiratory tract with compliant air sacs, in turn, suggests the presence of rigid, dorsally attached lungs with flow-through ventilation.</p>
+</list-item><list-item>
+<p>Phase III—Evolution of a primitive costosternal pump in maniraptoriform theropods before the close of the Jurassic.</p>
+</list-item><list-item>
+<p>Phase IV—Evolution of an advanced costosternal pump in maniraptoran theropods before the close of the Jurassic.</p>
+<p>In addition, we conclude:</p></list-item>
+<list-item>
+<p>The advent of avian unidirectional lung ventilation is not possible to pinpoint, as there are no known osteological correlates for uni- or bidirectional lung ventilation.</p>
+</list-item><list-item>
+<p>The origin and evolution of avian air sacs may have been driven by one or more of the following three factors: flow-through lung ventilation, locomotory balance, and/or thermal regulation.</p>
+</list-item></list>
+</sec></sec></body>
+<back>
+<ack>
+<p>We thank members of the 1996 expedition for discovery of the material, Q. Cao and R. Masek for fossil preparation, E. Fitzgerald and T. Keillor for molding and casting, C. Straus for CT-scanning of fossil bones, and C. Abraczinskas for specimen drawings and executing final drafts of reconstructions. We thank B. Britt for comments on an earlier version of this paper. We are indebted to the Museo de Ciencias Naturales y Antropológicas (J. C. Moyano) de Mendoza (Argentina) for permission to conduct fieldwork and to the Field Museum of Natural History for loan of avian skeletal material.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0003303-King1"><label>1</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>King</surname><given-names>AS</given-names></name>
+</person-group>             <year>1966</year>             <article-title>Structural and functional aspects of the avian lungs and air sacs.</article-title>             <source>Int Rev Gen Exp Zool</source>             <volume>2</volume>             <fpage>171</fpage>             <lpage>267</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Scheid1"><label>2</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Scheid</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Piiper</surname><given-names>J</given-names></name>
+</person-group>             <year>1989</year>             <article-title>Respiratory mechanics and air flow in birds.</article-title>             <person-group person-group-type="editor">
+<name name-style="western"><surname>King</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>McLelland</surname><given-names>J</given-names></name>
+</person-group>             <source>Form and Function in Birds</source>             <publisher-loc>London</publisher-loc>             <publisher-name>Academic Press</publisher-name>             <fpage>369</fpage>             <lpage>391</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Duncker1"><label>3</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Duncker</surname><given-names>H-R</given-names></name>
+</person-group>             <year>1989</year>             <article-title>Structural and functional integration across the reptile-bird transition: locomotor and respiratory systems.</article-title>             <person-group person-group-type="editor">
+<name name-style="western"><surname>Wake</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Roth</surname><given-names>G</given-names></name>
+</person-group>             <source>Complex Organismal Functions: Integration and Evolution in Vertebrates</source>             <publisher-loc>Hoboken</publisher-loc>             <publisher-name>John Wiley &amp; Sons</publisher-name>             <fpage>147</fpage>             <lpage>169</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Powell1"><label>4</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Powell</surname><given-names>FL</given-names></name>
+</person-group>             <year>2000</year>             <article-title>Respiration.</article-title>             <person-group person-group-type="editor">
+<name name-style="western"><surname>Whittow</surname><given-names>GC</given-names></name>
+</person-group>             <source>Sturkie's Avian Physiology. 5th ed</source>             <publisher-loc>San Diego</publisher-loc>             <publisher-name>Academic Press</publisher-name>             <fpage>233</fpage>             <lpage>265</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Bonaparte1"><label>5</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Bonaparte</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Novas</surname><given-names>FE</given-names></name>
+<name name-style="western"><surname>Coria</surname><given-names>RA</given-names></name>
+</person-group>             <year>1990</year>             <article-title><italic>Carnotaurus sastrei</italic> Bonaparte, the horned, lightly built carnosaur from the Middle Cretaceous of Patagonia.</article-title>             <source>Contrib Sci, Nat Hist Mus Los Angeles County</source>             <volume>416</volume>             <fpage>1</fpage>             <lpage>42</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Coria1"><label>6</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Coria</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Salgado</surname><given-names>L</given-names></name>
+</person-group>             <year>2000</year>             <article-title>A basal Abelisauria Novas, 1992 (Theropoda-Ceratosauria) from the Cretaceous of Patagonia, Argentina.</article-title>             <source>GAIA</source>             <volume>15</volume>             <fpage>89</fpage>             <lpage>102</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Sampson1"><label>7</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="editor">
+<name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Krause</surname><given-names>DW</given-names></name>
+</person-group>             <year>2007</year>             <article-title><italic>Majungasaurus crenatissimus</italic> (Theropoda: Abelisauridae) from the Late Cretaceous of Madagascar.</article-title>             <source>J Vert Paleontol Mem 8</source>             <volume>27</volume>             <fpage>1</fpage>             <lpage>184</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Sereno1"><label>8</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Beck</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Dutheil</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Gado</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Larsson</surname><given-names>HCE</given-names></name>
+<etal/></person-group>             <year>1998</year>             <article-title>A long-snouted predatory dinosaur from Africa and the evolution of spinosaurids.</article-title>             <source>Science</source>             <volume>282</volume>             <fpage>1298</fpage>             <lpage>1302</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Sues1"><label>9</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Sues</surname><given-names>HD</given-names></name>
+<name name-style="western"><surname>Frey</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Martill</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Scott</surname><given-names>DM</given-names></name>
+</person-group>             <article-title><italic>Irritator challengeri</italic>, a spinosaurid (Dinosauria: Theropoda) from the Lower Cretaceous of Brazil.</article-title>             <source>J Vert Paleontol</source>             <volume>22</volume>             <fpage>535</fpage>             <lpage>547</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Coria2"><label>10</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Coria</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Salgado</surname><given-names>L</given-names></name>
+</person-group>             <year>1995</year>             <article-title>A new giant carnivorous dinosaur from the Cretaceous of Patagonia.</article-title>             <source>Nature</source>             <volume>277</volume>             <fpage>224</fpage>             <lpage>226</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Sereno2"><label>11</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Dutheil</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Iarochene</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Larsson</surname><given-names>HCE</given-names></name>
+<name name-style="western"><surname>Lyon</surname><given-names>GH</given-names></name>
+<etal/></person-group>             <year>1996</year>             <article-title>Predatory dinosaurs from the Sahara and Late Cretaceous faunal differentiation.</article-title>             <source>Science</source>             <volume>272</volume>             <fpage>986</fpage>             <lpage>991</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Coria3"><label>12</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Coria</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>
+</person-group>             <year>2006</year>             <article-title>A new carcharodontosaurid (Dinosauria, Theropoda) from the Upper Cretaceous of Argentina.</article-title>             <source>Geodiversitas</source>             <volume>28</volume>             <fpage>71</fpage>             <lpage>118</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Sereno3"><label>13</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Brusatte</surname><given-names>SL</given-names></name>
+</person-group>             <year>2008</year>             <article-title>Basal abelisaurid and carcharodontosaurid theropods from the Lower Cretaceous Elrhaz Formation of Niger.</article-title>             <source>Acta Palaeontol Pol</source>             <volume>53</volume>             <fpage>15</fpage>             <lpage>46</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Alcober1"><label>14</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Alcober</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Larsson</surname><given-names>HCE</given-names></name>
+<name name-style="western"><surname>Martinez</surname><given-names>RN</given-names></name>
+<name name-style="western"><surname>Varricchio</surname><given-names>DJ</given-names></name>
+</person-group>             <year>1998</year>             <article-title>A Late Cretaceous carcharodontosaurid (Theropoda: Allosauroidea) from Argentina.</article-title>             <source>J Vert Paleontol</source>             <volume>18</volume>             <fpage>23A</fpage>          </element-citation></ref>
+<ref id="pone.0003303-Currie1"><label>15</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Carpenter</surname><given-names>K</given-names></name>
+</person-group>             <year>2000</year>             <article-title>A new specimen of <italic>Acrocanthosaurus atokensis</italic> (Theropoda, Dinosauria) from the Lower Cretaceous Antlers Formation (Lower Cretaceous, Aptian) of Oklahoma, USA.</article-title>             <source>Geodiversitas</source>             <volume>22</volume>             <fpage>207</fpage>             <lpage>246</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Mller1"><label>16</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Müller</surname><given-names>B</given-names></name>
+</person-group>             <year>1908</year>             <article-title>The air-sacs of the pigeon.</article-title>             <source>Smith Misc Coll</source>             <volume>50</volume>             <fpage>365</fpage>             <lpage>414</lpage>          </element-citation></ref>
+<ref id="pone.0003303-King2"><label>17</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>King</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Kelly</surname><given-names>DF</given-names></name>
+</person-group>             <year>1956</year>             <article-title>The aerated bones of <italic>Gallus domesticus</italic>: the fifth thoracic vertebra and sternal ribs.</article-title>             <source>Brit Veter J</source>             <volume>112</volume>             <fpage>279</fpage>             <lpage>283</lpage>          </element-citation></ref>
+<ref id="pone.0003303-King3"><label>18</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>King</surname><given-names>AS</given-names></name>
+</person-group>             <year>1957</year>             <article-title>The aerated bones of <italic>Gallus domesticus</italic>.</article-title>             <source>Acta Anat</source>             <volume>31</volume>             <fpage>220</fpage>             <lpage>230</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Duncker2"><label>19</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Duncker</surname><given-names>H-R</given-names></name>
+</person-group>             <year>1971</year>             <article-title>The lung air sac system of birds.</article-title>             <source>Adv Anat Embryol Cell Biol</source>             <volume>45</volume>             <fpage>1</fpage>             <lpage>171</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Hogg1"><label>20</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Hogg</surname><given-names>DA</given-names></name>
+</person-group>             <year>1984</year>             <article-title>The distribution of pneumatization in the skeleton of the adult domestic fowl.</article-title>             <source>J Anat</source>             <volume>138</volume>             <fpage>617</fpage>             <lpage>629</lpage>          </element-citation></ref>
+<ref id="pone.0003303-McLelland1"><label>21</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>McLelland</surname><given-names>J</given-names></name>
+</person-group>             <year>1989</year>             <article-title>Anatomy of the lungs and air sacs.</article-title>             <person-group person-group-type="editor">
+<name name-style="western"><surname>King</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>McLelland</surname><given-names>J</given-names></name>
+</person-group>             <source>Form and Function in Birds</source>             <publisher-loc>London</publisher-loc>             <publisher-name>Academic Press</publisher-name>             <fpage>221</fpage>             <lpage>279</lpage>          </element-citation></ref>
+<ref id="pone.0003303-OConnor1"><label>22</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>O'Connor</surname><given-names>PM</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Pulmonary pneumaticity in the postcranial skeleton of extant Aves: A case study examining Anseriformes.</article-title>             <source>J Morph</source>             <volume>261</volume>             <fpage>141</fpage>             <lpage>161</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Britt1"><label>23</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Britt</surname><given-names>BB</given-names></name>
+</person-group>             <year>1993</year>             <source>Pneumatic postcranial bones in dinosaurs and other archosaurs [PhD thesis]</source>             <publisher-loc>Calgary</publisher-loc>             <publisher-name>University of Calgary</publisher-name>             <fpage>383</fpage>          </element-citation></ref>
+<ref id="pone.0003303-Britt2"><label>24</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Britt</surname><given-names>BB</given-names></name>
+<name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Gauthier</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Bonde</surname><given-names>N</given-names></name>
+</person-group>             <year>1998</year>             <article-title>Postcranial pneumatization in <italic>Archaeopteryx</italic>.</article-title>             <source>Nature</source>             <volume>395</volume>             <fpage>374</fpage>             <lpage>376</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Christiansen1"><label>25</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Christiansen</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bonde</surname><given-names>N</given-names></name>
+</person-group>             <year>2000</year>             <article-title>Axial and appendicular pneumaticity in <italic>Archaeopteryx</italic>.</article-title>             <source>Proc Roy Soc London B</source>             <volume>267</volume>             <fpage>2501</fpage>             <lpage>2505</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Wedel1"><label>26</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Wedel</surname><given-names>MJ</given-names></name>
+</person-group>             <year>2003a</year>             <article-title>Vertebral pneumaticity, air sacs, and the physiology of sauropod dinosaurs.</article-title>             <source>Paleobiol</source>             <volume>29</volume>             <fpage>243</fpage>             <lpage>255</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Wedel2"><label>27</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Wedel</surname><given-names>MJ</given-names></name>
+</person-group>             <year>2003b</year>             <article-title>The evolution of vertebral pneumaticity in sauropod dinosaurs.</article-title>             <source>J Vert Paleontol</source>             <volume>23</volume>             <fpage>344</fpage>             <lpage>357</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Eaton1"><label>28</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Eaton</surname><given-names>GF</given-names></name>
+</person-group>             <year>1910</year>             <article-title>Osteology of <italic>Pteranodon</italic>.</article-title>             <source>Mem Connecticut Acad Arts Sci</source>             <volume>2</volume>             <fpage>1</fpage>             <lpage>38</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Howse1"><label>29</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Howse</surname><given-names>SCB</given-names></name>
+</person-group>             <year>1986</year>             <article-title>On the cervical vertebrae of the Pterodactyloidea (Reptilia: Archosauria).</article-title>             <source>Zool J Linn Soc</source>             <volume>88</volume>             <fpage>307</fpage>             <lpage>328</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Gower1"><label>30</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Gower</surname><given-names>DJ</given-names></name>
+</person-group>             <year>2001</year>             <article-title>Possible postcranial pneumaticity in the last common ancestor of birds and crocodilians: evidence from <italic>Erythrosuchus</italic> and other Mesozoic archosaurs.</article-title>             <source>Naturwissenschaften</source>             <volume>88</volume>             <fpage>119</fpage>             <lpage>122</lpage>          </element-citation></ref>
+<ref id="pone.0003303-OConnor2"><label>31</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>O'Connor</surname><given-names>PM</given-names></name>
+</person-group>             <year>2006</year>             <article-title>Postcranial pneumaticity: An evaluation of soft-tissue influences on the postcranial skeleton and the reconstruction of pulmonary anatomy in archosaurs.</article-title>             <source>J Morph</source>             <volume>267</volume>             <fpage>1199</fpage>             <lpage>1226</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Nesbitt1"><label>32</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Nesbitt</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>
+</person-group>             <year>2006</year>             <article-title>Extreme convergence in the body plans of an early suchian (Archosauria) and ornithomimid dinosaurs (Theropoda).</article-title>             <source>Proc R Soc B: Biol Sci</source>             <volume>273</volume>             <fpage>1045</fpage>             <lpage>1048</lpage>          </element-citation></ref>
+<ref id="pone.0003303-OConnor3"><label>33</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>O'Connor</surname><given-names>PM</given-names></name>
+<name name-style="western"><surname>Claessens</surname><given-names>LPAM</given-names></name>
+</person-group>             <year>2005</year>             <article-title>Basic avian pulmonary design and flow-through ventilation in non-avian theropod dinosaurs.</article-title>             <source>Nature</source>             <volume>436</volume>             <fpage>253</fpage>             <lpage>256</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Chinsamy1"><label>34</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Chinsamy</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hillenius</surname><given-names>WJ</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Physiology of nonavian dinosaurs.</article-title>             <person-group person-group-type="editor">
+<name name-style="western"><surname>Weishampel</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Osmólska</surname><given-names>H</given-names></name>
+</person-group>             <source>The Dinosauria. 2nd ed</source>             <publisher-loc>Berkeley</publisher-loc>             <publisher-name>University of California Press</publisher-name>             <fpage>643</fpage>             <lpage>659</lpage>          </element-citation></ref>
+<ref id="pone.0003303-OConnor4"><label>35</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>O'Connor</surname><given-names>PM</given-names></name>
+</person-group>             <year>2007</year>             <article-title>The postcranial axial skeleton of <italic>Majungasaurus crenatissimus</italic> (Theropoda: Abelisauridae) from the Late Cretaceous of Madagascar.</article-title>             <source>J Vert Paleontol Mem 8</source>             <volume>27</volume>             <fpage>127</fpage>             <lpage>162</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Bezuidenhout1"><label>36</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Bezuidenhout</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Groenewald</surname><given-names>HB</given-names></name>
+<name name-style="western"><surname>Soley</surname><given-names>JT</given-names></name>
+</person-group>             <year>1999</year>             <article-title>An anatomical study of the respiratory air sacs in ostriches.</article-title>             <source>Onderstepoort J Veter Res</source>             <volume>66</volume>             <fpage>317</fpage>             <lpage>325</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Paul1"><label>37</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Paul</surname><given-names>GS</given-names></name>
+</person-group>             <year>2001</year>             <article-title>Were the respiratory complexes of predatory dinosaurs like crocodilians or birds?</article-title>             <person-group person-group-type="editor">
+<name name-style="western"><surname>Gauthier</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gall</surname><given-names>LF</given-names></name>
+</person-group>             <source>Proceedings of the International Symposium in Honor of John H Ostrom (February 13–14, 1999): New Perspectives on the Origins and Evolution of Birds</source>             <publisher-loc>New Haven</publisher-loc>             <publisher-name>Peabody Museum of Natural History, Yale University</publisher-name>             <fpage>463</fpage>             <lpage>482</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Bonaparte2"><label>38</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Bonaparte</surname><given-names>JF</given-names></name>
+</person-group>             <year>1986</year>             <article-title>Les Dinosaures (Carnosaures, Allosauridés, Sauropodes, Cétiosauridés) du Jurassique moyen de Cerro Condor (Chubut, Argentine).</article-title>             <source>Ann Paléontol</source>             <volume>72</volume>             <fpage>325</fpage>             <lpage>386</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Makovicky1"><label>39</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Apesteguia</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Agnolin</surname><given-names>FL</given-names></name>
+</person-group>             <year>2005</year>             <article-title>The earliest dromaeosaurid theropod from South America.</article-title>             <source>Nature</source>             <volume>437</volume>             <fpage>1007</fpage>             <lpage>1011</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Martnez1"><label>40</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>MartÍnez</surname><given-names>RD</given-names></name>
+<name name-style="western"><surname>Giménez</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Rodríguez</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Luna</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lamanna</surname><given-names>MC</given-names></name>
+</person-group>             <year>2004</year>             <article-title>An articulated specimen of the basal titanosaurian (Dinosauria: Saurropoda) <italic>Epachthosaurus sciuttoi</italic> from the early Late Cretaceous Bajo Barreal Formation of Chubut Province, Argentina.</article-title>             <source>J Vert Paleontol</source>             <volume>24</volume>             <fpage>107</fpage>             <lpage>120</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Sanz1"><label>41</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Sanz</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Powell</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Le Loeuff</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Martinez</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Pereda Suberbiola</surname><given-names>X</given-names></name>
+</person-group>             <year>1999</year>             <article-title>Sauropod remains from the Upper Cretaceous of Laño (northcentral Spain). Titanosaur phylogenetic relationships.</article-title>             <source>Estud Museo Ciencias Natur de Alava</source>             <volume>14</volume>             <fpage>235</fpage>             <lpage>255</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Wilson1"><label>42</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Wilson</surname><given-names>JA</given-names></name>
+</person-group>             <year>2006</year>             <article-title>Anatomical nomenclature of fossil vertebrates: standardized terms or 'lingua franca'?</article-title>             <source>J Vert Paleontol</source>             <volume>26</volume>             <fpage>511</fpage>             <lpage>518</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Wilson2"><label>43</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Wilson</surname><given-names>JA</given-names></name>
+</person-group>             <year>1999</year>             <article-title>A nomenclature for vertebral laminae in sauropods and other saurischian dinosaurs.</article-title>             <source>J Vert Paleontol</source>             <volume>19</volume>             <fpage>639</fpage>             <lpage>653</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Leanza1"><label>44</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Leanza</surname><given-names>HA</given-names></name>
+<name name-style="western"><surname>Apestiguía</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Novas</surname><given-names>FE</given-names></name>
+<name name-style="western"><surname>de la Fuente</surname><given-names>MS</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Cretaceous terrestrial beds from the Neuquén Basin (Argentina) and their tetrapod assemblages.</article-title>             <source>Cretaceous Res</source>             <volume>25</volume>             <fpage>61</fpage>             <lpage>87</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Gradstein1"><label>45</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="editor">
+<name name-style="western"><surname>Gradstein</surname><given-names>FM</given-names></name>
+<name name-style="western"><surname>Ogg</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>AG</given-names></name>
+</person-group>             <year>2004</year>             <source>A Geologic Time Scale 2004</source>             <publisher-loc>Cambridge</publisher-loc>             <publisher-name>Cambridge University Press</publisher-name>             <fpage>589</fpage>          </element-citation></ref>
+<ref id="pone.0003303-Novas1"><label>46</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Novas</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Valais</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Vickers-Rich</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Rich</surname><given-names>T</given-names></name>
+</person-group>             <year>2005</year>             <article-title>A large Cretaceous theropod from Patagonia, Argentina, and the evolution of carcharodontosaurids.</article-title>             <source>Naturwissen</source>             <volume>92</volume>             <fpage>226</fpage>             <lpage>230</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Madsen1"><label>47</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Madsen</surname><given-names>JH</given-names><suffix>Jr</suffix></name>
+</person-group>             <year>1976</year>             <article-title><italic>Allosaurus fragilis</italic>: a revised osteology.</article-title>             <source>Bull Utah Geol Min Surv</source>             <volume>109</volume>             <fpage>1</fpage>             <lpage>163</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Currie2"><label>48</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>X</given-names></name>
+</person-group>             <year>1993</year>             <article-title>A new carnosaur (Dinosauria, Theropoda) from the Upper Jurassic of Xinjiang, People's Republic of China.</article-title>             <source>Can J Earth Sci</source>             <volume>30</volume>             <fpage>2037</fpage>             <lpage>2081</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Stovall1"><label>49</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Stovall</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Langston</surname><given-names>W</given-names><suffix>Jr</suffix></name>
+</person-group>             <year>1950</year>             <article-title><italic>Acrocanthosaurus atokensis</italic>, a new genus and species of Lower Cretaceous Theropoda from Oklahoma.</article-title>             <source>Am Mid Nat</source>             <volume>43</volume>             <fpage>696</fpage>             <lpage>728</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Currie3"><label>50</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Carpenter</surname><given-names>K</given-names></name>
+</person-group>             <year>2000</year>             <article-title>A new specimen of <italic>Acrocanthosaurus atokensis</italic> (Theropoda, Dinosauria) from the Lower Cretaceous Antlers Formation (Lower Cretaceous, Aptian) of Oklahoma, USA.</article-title>             <source>Geodiversitas</source>             <volume>22</volume>             <fpage>207</fpage>             <lpage>246</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Sampson2"><label>51</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name>
+</person-group>             <year>2007</year>             <article-title>Craniofacial anatomy of <italic>Majungasaurus crenatissimus</italic> (Theropoda: Abelisauridae) from the Late Cretaceous of Madagascar.</article-title>             <source>J Vert Paleontol Mem 8</source>             <volume>27</volume>             <fpage>32</fpage>             <lpage>102</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Witmer1"><label>52</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name>
+</person-group>             <year>1997</year>             <article-title>The evolution of the antorbital cavity of archosaurs: A study in soft-tissue reconstruction in the fossil record with an analysis of the function of pneumaticity.</article-title>             <source>J Vert Paleontol Mem 3</source>             <volume>17</volume>             <fpage>1</fpage>             <lpage>73</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Brochu1"><label>53</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Brochu</surname><given-names>CA</given-names></name>
+</person-group>             <year>2002</year>             <article-title>Osteology of <italic>Tyrannosaurus rex</italic>: insights from a nearly complete skeleton and high-resolution computed tomographic analysis of the skull.</article-title>             <source>J Vert Paleontol Mem 7</source>             <volume>22</volume>             <fpage>1</fpage>             <lpage>138</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Harris1"><label>54</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Harris</surname><given-names>JD</given-names></name>
+</person-group>             <year>1998</year>             <article-title>A reanalysis of <italic>Acrocanthosaurus atokensis</italic>, its phylogenetic status, and paleobiogeographic implications, based on a new specimen from Texas.</article-title>             <source>New Mexico Mus Nat Hist Sci, Bull</source>             <volume>13</volume>             <fpage>1</fpage>             <lpage>75</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Witmer2"><label>55</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name>
+</person-group>             <year>1995</year>             <article-title>The extant phylogenetic bracket and the importance of reconstructing soft tissues in fossils.</article-title>             <person-group person-group-type="editor">
+<name name-style="western"><surname>Thomason</surname><given-names>J</given-names></name>
+</person-group>             <source>Functional Morphology in Vertebrate Paleontology</source>             <publisher-loc>Cambridge</publisher-loc>             <publisher-name>University of Cambridge Press</publisher-name>             <fpage>19</fpage>             <lpage>33</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Varricchio1"><label>56</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Varricchio</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Tan</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Wilson</surname><given-names>JA</given-names></name>
+<etal/></person-group>             <year>2008</year>             <article-title>Mud-trapped dinosaur herd captures evidence of sociality.</article-title>             <source>Acta Palaeontol Pol</source>             <comment>(in press)</comment>          </element-citation></ref>
+<ref id="pone.0003303-Osmlska1"><label>57</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Osmólska</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Roniewicz</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Barsbold</surname><given-names>R</given-names></name>
+</person-group>             <year>1972</year>             <article-title>A new dinosaur, <italic>Gallimimus bullatus</italic> n. gen., n. sp. (Ornithomimidae) from the Uppermost Cretaceous of Mongolia. Results of the Polish-Mongolian Palaeontological Expedition, Part IV.</article-title>             <source>Palaeontol Pol</source>             <volume>27</volume>             <fpage>103</fpage>             <lpage>143</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Gilmore1"><label>58</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Gilmore</surname><given-names>CW</given-names></name>
+</person-group>             <year>1920</year>             <article-title>Osteology of the carnivorous Dinosauria in the United States National Museum, with special reference to the genera <italic>Antrodemus</italic> (<italic>Allosaurus</italic>) and <italic>Ceratosaurus</italic>.</article-title>             <source>Bulletin of the United States Natural Museum</source>             <volume>110</volume>             <fpage>1</fpage>             <lpage>159</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Gilmore2"><label>59</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Gilmore</surname><given-names>CW</given-names></name>
+</person-group>             <year>1925</year>             <article-title>A nearly complete articulated skeleton of <italic>Camarasaurus,</italic> a saurischian dinosaur from the Dinosaur National Monument, Utah.</article-title>             <source>Memoirs of the Carnegie Museum</source>             <volume>10</volume>             <fpage>347</fpage>             <lpage>384</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Holland1"><label>60</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Holland</surname><given-names>WJ</given-names></name>
+</person-group>             <year>1906</year>             <article-title>The osteology of <italic>Diplodocus</italic> Marsh.</article-title>             <source>Memoirs of the Carnegie Museum</source>             <volume>2</volume>             <fpage>225</fpage>             <lpage>278</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Richardson1"><label>61</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Richardson</surname><given-names>F</given-names></name>
+</person-group>             <year>1939</year>             <article-title>Functional aspects of the California brown pelican.</article-title>             <source>The Condor</source>             <volume>41</volume>             <fpage>13</fpage>             <lpage>17</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Martinez1"><label>62</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Martinez</surname><given-names>RN</given-names></name>
+<name name-style="western"><surname>Alcober</surname><given-names>OA</given-names></name>
+<name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>
+</person-group>             <year>in review</year>             <article-title>New primitive theropod dinosaur from the Carnian Ischigualasto Formation, northwestern Argentina.</article-title>             <source>PLoS ONE</source>          </element-citation></ref>
+<ref id="pone.0003303-PerezMoreno1"><label>63</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Perez-Moreno</surname><given-names>BP</given-names></name>
+<name name-style="western"><surname>Sanz</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Buscalioni</surname><given-names>AD</given-names></name>
+<name name-style="western"><surname>Moratalla</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Ortega</surname><given-names>F</given-names></name>
+<etal/></person-group>             <year>1994</year>             <article-title>A unique multitoothed ornithomimosaur from the Lower Cretaceous of Spain.</article-title>             <source>Nature</source>             <volume>30</volume>             <fpage>363</fpage>             <lpage>367</lpage>          </element-citation></ref>
+<ref id="pone.0003303-PerezMoreno2"><label>64</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Perez-Moreno</surname><given-names>BP</given-names></name>
+<name name-style="western"><surname>Sanz</surname><given-names>JL</given-names></name>
+</person-group>             <year>1999</year>             <article-title>Theropod breathing mechanism.</article-title>             <source>Riv Mus civ Sc Nat “E Caffi” Bergamo</source>             <volume>20</volume>             <fpage>121</fpage>             <lpage>122</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Nicholls1"><label>65</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Nicholls</surname><given-names>EL</given-names></name>
+<name name-style="western"><surname>Russell</surname><given-names>AP</given-names></name>
+</person-group>             <year>1981</year>             <article-title>A new specimen of <italic>Struthiomimus altus</italic> from Alberta, with comments on the classificatory characters of the Upper Cretaceous ornithomimids.</article-title>             <source>Can J Earth Sci</source>             <volume>18</volume>             <fpage>518</fpage>             <lpage>536</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Ji1"><label>66</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Ji</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Makovicky</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>K-Q</given-names></name>
+<name name-style="western"><surname>Ji</surname><given-names>S</given-names></name>
+<etal/></person-group>             <year>2003</year>             <article-title>An early ostrich dinosaur and implications for ornithomimosaur phylogeny.</article-title>             <source>Am Mus Novitates</source>             <volume>3420</volume>             <fpage>1</fpage>             <lpage>19</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Zhou1"><label>67</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>Z-H</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X-L</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>F-C</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>
+</person-group>             <year>2000</year>             <article-title>Important features of <italic>Caudipteryx</italic>—evidence from two nearly complete skeletons.</article-title>             <source>Vert Palasiatica</source>             <volume>10</volume>             <fpage>241</fpage>             <lpage>254</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Norell1"><label>68</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>
+</person-group>             <year>1997</year>             <article-title>Important features of the dromaeosaur skeleton: Information from a new specimen.</article-title>             <source>Amer Mus Novitates</source>             <volume>3215</volume>             <fpage>1</fpage>             <lpage>28</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Burnham1"><label>69</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Burnham</surname><given-names>DA</given-names></name>
+</person-group>             <year>2004</year>             <article-title>New Information on <italic>Bambiraptor feinbergi</italic> (Theropoda: Dromaeosauridae from the Late Cretaceous of Montana.</article-title>             <person-group person-group-type="editor">
+<name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Koppelhus</surname><given-names>EB</given-names></name>
+<name name-style="western"><surname>Shugar</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Wright</surname><given-names>JL</given-names></name>
+</person-group>             <source>Feathered Dragons: Studies on the Transition from Dinosaurs to Birds</source>             <publisher-loc>Bloomington</publisher-loc>             <publisher-name>Indiana University Press</publisher-name>             <fpage>67</fpage>             <lpage>111</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Codd1"><label>70</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Codd</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Manning</surname><given-names>PL</given-names></name>
+<name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Perry</surname><given-names>SF</given-names></name>
+</person-group>             <year>2008</year>             <article-title>Avian-like breathing mechanics in maniraptoran dinosaurs.</article-title>             <source>Proc R Soc B: Biological Sciences</source>             <volume>275</volume>             <fpage>157</fpage>             <lpage>161</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Codd2"><label>71</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Codd</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Boggs</surname><given-names>DF</given-names></name>
+<name name-style="western"><surname>Perry</surname><given-names>SF</given-names></name>
+<name name-style="western"><surname>Carrier</surname><given-names>DR</given-names></name>
+</person-group>             <year>2005</year>             <article-title>Activity of three muscles associated with the uncinate process of the giant Canada goose <italic>Branta canadensis maximus</italic>.</article-title>             <source>J Exp Biol</source>             <volume>208</volume>             <fpage>849</fpage>             <lpage>857</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Ruben1"><label>72</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Ruben</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Jones</surname><given-names>TD</given-names></name>
+<name name-style="western"><surname>Geist</surname><given-names>NR</given-names></name>
+<name name-style="western"><surname>Hillenius</surname><given-names>WJ</given-names></name>
+</person-group>             <year>1997</year>             <article-title>Lung structure and ventilation in theropod dinosaurs and early birds.</article-title>             <source>Science</source>             <volume>278</volume>             <fpage>1267</fpage>             <lpage>1270</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Ruben2"><label>73</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Ruben</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Dal Sasso</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Geist</surname><given-names>NR</given-names></name>
+<name name-style="western"><surname>Hillenius</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Jones</surname><given-names>TD</given-names></name>
+<etal/></person-group>             <year>1999</year>             <article-title>Pulmonary function and metabolic physiology of theropod dinosaurs.</article-title>             <source>Science</source>             <volume>283</volume>             <fpage>514</fpage>             <lpage>516</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Perry1"><label>74</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Perry</surname><given-names>SF</given-names></name>
+</person-group>             <year>2001</year>             <article-title>Functional morphology of the reptilian and avian respiratory systems and its implications for theropod dinosaurs.</article-title>             <person-group person-group-type="editor">
+<name name-style="western"><surname>Gauthier</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gall</surname><given-names>LF</given-names></name>
+</person-group>             <source>Proceedings of the International Symposium in Honor of John H Ostrom (February 13–14, 1999): New Perspectives on the Origins and Evolution of Birds</source>             <publisher-loc>New Haven</publisher-loc>             <publisher-name>Yale Peabody Museum</publisher-name>             <fpage>429</fpage>             <lpage>441</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Perry2"><label>75</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Perry</surname><given-names>SF</given-names></name>
+</person-group>             <year>1998</year>             <article-title>Lungs: comparative anatomy, functional morphology, and evolution.</article-title>             <source>Biol Reptilia</source>             <volume>19</volume>             <fpage>1</fpage>             <lpage>92</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Perry3"><label>76</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Perry</surname><given-names>SF</given-names></name>
+<name name-style="western"><surname>Sander</surname><given-names>M</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Reconstructing the evolution of the respiratory apparatus in tetrapods.</article-title>             <source>Respirat Physiol Neurobiol</source>             <volume>144</volume>             <fpage>125</fpage>             <lpage>139</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Kuethe1"><label>77</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Kuethe</surname><given-names>DO</given-names></name>
+</person-group>             <year>1988</year>             <article-title>Fluid mechanical valving of air flow in bird lungs.</article-title>             <source>J Exp Biol</source>             <volume>136</volume>             <fpage>1</fpage>             <lpage>12</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Brown1"><label>78</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Brown</surname><given-names>R</given-names></name>
+</person-group>             <year>1995</year>             <article-title>The avian lung: is there an aerodynamic expiratory valve?</article-title>             <source>J Exp Biol</source>             <volume>198</volume>             <fpage>2349</fpage>             <lpage>2357</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Duncker3"><label>79</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Duncker</surname><given-names>HR</given-names></name>
+</person-group>             <year>1978</year>             <article-title>General morphological principles of amniotic lungs.</article-title>             <person-group person-group-type="editor">
+<name name-style="western"><surname>Piiper</surname><given-names>J</given-names></name>
+</person-group>             <source>Respiratory Function in Birds, Adult and Embryonic</source>             <publisher-loc>Berlin</publisher-loc>             <publisher-name>Springer Verlag</publisher-name>             <fpage>2</fpage>             <lpage>15</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Duncker4"><label>80</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Duncker</surname><given-names>HR</given-names></name>
+</person-group>             <year>1972</year>             <article-title>Structure of avian lungs.</article-title>             <source>Respir Physiol</source>             <volume>14</volume>             <fpage>44</fpage>             <lpage>63</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Carrier1"><label>81</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Carrier</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Farmer</surname><given-names>CG</given-names></name>
+</person-group>             <year>2000</year>             <article-title>The Integration of ventilation and locomotion in archosaurs.</article-title>             <source>Amer Zool</source>             <volume>40</volume>             <fpage>87</fpage>             <lpage>100</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Carrier2"><label>82</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Carrier</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Farmer</surname><given-names>CG</given-names></name>
+</person-group>             <year>2000</year>             <article-title>The evolution of pelvic aspiration in archosaurs.</article-title>             <source>Paleobiol</source>             <volume>26</volume>             <fpage>271</fpage>             <lpage>293</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Claessens1"><label>83</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Claessens</surname><given-names>LPAM</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Dinosaur gastralia: Origin, morphology, and function.</article-title>             <source>J Vert Paleontol</source>             <volume>24</volume>             <fpage>89</fpage>             <lpage>106</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Hengst1"><label>84</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Hengst</surname><given-names>R26]</given-names></name>
+</person-group>             <year>1998</year>             <article-title>Lung ventilation and gas exchange in dinosaurs.</article-title>             <source>Science</source>             <volume>281</volume>             <fpage>47</fpage>          </element-citation></ref>
+<ref id="pone.0003303-Sereno4"><label>85</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Wilson</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Conrad</surname><given-names>JL</given-names></name>
+</person-group>             <year>2004</year>             <article-title>New dinosaurs link southern landmasses in the Mid-Cretaceous.</article-title>             <source>Proc Roy Soc London B</source>             <volume>271</volume>             <fpage>1325</fpage>             <lpage>1330</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Larson1"><label>86</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Larson</surname><given-names>PL</given-names></name>
+</person-group>             <year>1997</year>             <article-title>The king's new clothes: a fresh look at <italic>Tyrannosaurus rex</italic>.</article-title>             <person-group person-group-type="editor">
+<name name-style="western"><surname>Wolberg</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Stump</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Rosenberg</surname><given-names>GD</given-names></name>
+</person-group>             <source>Dinofest International: Proceedings of a Symposium Sponsored by Arizona State University</source>             <publisher-loc>Philadelphia</publisher-loc>             <publisher-name>The Academy of Natural Sciences</publisher-name>             <fpage>65</fpage>             <lpage>71</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Hicks1"><label>87</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Hicks</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Farmer</surname><given-names>CG</given-names></name>
+</person-group>             <year>1999</year>             <article-title>Gas exchange potential in reptilian lungs: implications for the dinosaur-avian connection.</article-title>             <source>Resp Physiol</source>             <volume>117</volume>             <fpage>73</fpage>             <lpage>83</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Carrier3"><label>88</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Carrier</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Walter</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>DV</given-names></name>
+</person-group>             <year>2001</year>             <article-title>Influence of rotational inertia on turning performance of theropod dinosaurs: clues from humans with increased rotational inertia.</article-title>             <source>J Exp Biol</source>             <volume>204</volume>             <fpage>3917</fpage>             <lpage>3926</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Farmer1"><label>89</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Farmer</surname><given-names>CG</given-names></name>
+</person-group>             <year>2006</year>             <article-title>On the origin of avian air sacs.</article-title>             <source>Resp Phys Neurobiol</source>             <volume>154</volume>             <fpage>89</fpage>             <lpage>106</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Carrier4"><label>90</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Carrier</surname><given-names>DR</given-names></name>
+</person-group>             <year>1987</year>             <article-title>The evolution of locomotor stamina in tetrapods: circumventing a mechanical constraint.</article-title>             <source>Paleobiol</source>             <volume>13</volume>             <fpage>326</fpage>             <lpage>341</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Brainerd1"><label>91</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Brainerd</surname><given-names>EL</given-names></name>
+<name name-style="western"><surname>Owerkowicz</surname><given-names>T</given-names></name>
+</person-group>             <year>2006</year>             <article-title>Functional morphology and evolution of aspiration breathing in tetrapods.</article-title>             <source>Resp Physiol Neurobiol</source>             <volume>154</volume>             <fpage>73</fpage>             <lpage>88</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Xu1"><label>92</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>Z-H</given-names></name>
+<name name-style="western"><surname>Prum</surname><given-names>RO</given-names></name>
+</person-group>             <year>2001</year>             <article-title>Branched integumentary structures in <italic>Sinornithosaurus</italic> and the origin of feathers.</article-title>             <source>Nature</source>             <volume>410</volume>             <fpage>200</fpage>             <lpage>204</lpage>          </element-citation></ref>
+<ref id="pone.0003303-SchmidtNielsen1"><label>93</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Schmidt-Nielsen</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kanwisher</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lasiewski</surname><given-names>RC</given-names></name>
+<name name-style="western"><surname>Cohn</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Bretz</surname><given-names>WL</given-names></name>
+</person-group>             <year>1969</year>             <article-title>Temperature regulation and respiration in the ostrich.</article-title>             <source>Condor</source>             <volume>71</volume>             <fpage>341</fpage>             <lpage>352</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Bernstein1"><label>94</label><element-citation publication-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Bernstein</surname><given-names>MH</given-names></name>
+</person-group>             <year>1976</year>             <article-title>Ventilation and respiratory evaporation in the flying crow, <italic>Corvus ossifragus</italic>.</article-title>             <source>Resp Physiol</source>             <volume>26</volume>             <fpage>371</fpage>             <lpage>382</lpage>          </element-citation></ref>
+<ref id="pone.0003303-Pennycuick1"><label>95</label><element-citation publication-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Pennycuick</surname><given-names>CJ</given-names></name>
+</person-group>             <year>1986</year>             <article-title>Mechanical constraints on the evolution of flight.</article-title>             <person-group person-group-type="editor">
+<name name-style="western"><surname>Padian</surname><given-names>K</given-names></name>
+</person-group>             <source>The Origin of Birds and the Evolution of Flight</source>             <publisher-loc>San Francisco</publisher-loc>             <publisher-name>California Academy of Sciences</publisher-name>             <fpage>83</fpage>             <lpage>98</lpage>          </element-citation></ref>
+</ref-list>
+
+</back>
+</article>

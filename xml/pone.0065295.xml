@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group>
+<journal-title>PLoS ONE</journal-title></journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">PONE-D-12-01120</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pone.0065295</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Anatomy and physiology</subject><subj-group><subject>Musculoskeletal system</subject><subj-group><subject>Biomechanics</subject></subj-group></subj-group></subj-group><subj-group><subject>Evolutionary biology</subject><subj-group><subject>Forms of evolution</subject><subj-group><subject>Convergent evolution</subject></subj-group></subj-group></subj-group><subj-group><subject>Zoology</subject><subj-group><subject>Animal physiology</subject><subject>Herpetology</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Earth sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Paleoecology</subject><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>Feeding Mechanics in Spinosaurid Theropods and Extant Crocodilians</article-title>
+<alt-title alt-title-type="running-head">Feeding Mechanics of Spinosaurs and Crocodiles</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Cuff</surname><given-names>Andrew R.</given-names></name><xref ref-type="aff" rid="aff1"/><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Rayfield</surname><given-names>Emily J.</given-names></name><xref ref-type="aff" rid="aff1"/></contrib>
+</contrib-group>
+<aff id="aff1"><addr-line>School of Earth Sciences, University of Bristol, Bristol, United Kingdom</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple"><name name-style="western"><surname>Farke</surname><given-names>Andrew A.</given-names></name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>Raymond M. Alf Museum of Paleontology, United States of America</addr-line></aff>
+<author-notes>
+<corresp id="cor1">* E-mail: <email xlink:type="simple">Andrew.Cuff@bristol.ac.uk</email></corresp>
+<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn>
+<fn fn-type="con"><p>Conceived and designed the experiments: EJR. Performed the experiments: ARC. Analyzed the data: ARC. Contributed reagents/materials/analysis tools: ARC EJR. Wrote the paper: ARC EJR.</p></fn>
+</author-notes>
+<pub-date pub-type="collection"><year>2013</year></pub-date>
+<pub-date pub-type="epub"><day>28</day><month>5</month><year>2013</year></pub-date>
+<volume>8</volume>
+<issue>5</issue>
+<elocation-id>e65295</elocation-id>
+<history>
+<date date-type="received"><day>12</day><month>1</month><year>2012</year></date>
+<date date-type="accepted"><day>28</day><month>4</month><year>2013</year></date>
+</history>
+<permissions>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Cuff, Rayfield</copyright-holder><license xlink:type="simple"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions>
+<abstract>
+<p>A number of extant and extinct archosaurs evolved an elongate, narrow rostrum. This longirostrine condition has been associated with a diet comprising a higher proportion of fish and smaller prey items compared to taxa with broader, more robust snouts. The evolution of longirostrine morphology and a bulbous anterior rosette of premaxillary teeth also occurs in the spinosaurid theropod dinosaurs, leading to suggestions that at least some members of this clade also had a diet comprising a notable proportion of fish or other small vertebrates. Here we compare the rostral biomechanics of the spinosaurs <italic>Baryonyx walkeri</italic> and <italic>Spinosaurus</italic> c.f. <italic>S</italic>. <italic>aegyptiacus</italic> to three extant crocodilians: two longistrine taxa, the African slender-snouted crocodile <italic>Mecistops cataphractus</italic> and the Indian gharial <italic>Gavialis gangeticus</italic>; and the American alligator <italic>Alligator mississippiensis</italic>.</p>
+<p>Using computed tomography (CT) data, the second moments of area and moments of inertia at successive transverse slices along the rostrum were calculated for each of the species. Size-independent results tested the biomechanical benefits of material distribution within the rostra. The two spinosaur rostra were both digitally reconstructed from CT data and compared against all three crocodilians. Results show that African slender-snouted crocodile skulls are more resistant to bending than an equivalent sized gharial. The alligator has the highest resistances to bending and torsion of the crocodiles for its size and greater than that of the spinosaurs. The spinosaur rostra possess similar resistance to bending and torsion despite their different morphologies. When size is accounted for, <italic>B. walkeri</italic> performs mechanically differently from the gharial, contradicting previous studies whereas <italic>Spinosaurus</italic> does not. Biomechanical data support known feeding ecology for both African slender-snouted crocodile and alligator, and suggest that the spinosaurs were not obligate piscivores with diet being determined by individual animal size.</p>
+</abstract>
+<funding-group><funding-statement>These authors have no support or funding to report.</funding-statement></funding-group><counts><page-count count="11"/></counts></article-meta>
+</front>
+<body><sec id="s1">
+<title>Introduction</title>
+<p>Extant crocodilian rostral morphology has often been used as an indicator of feeding ecology due to a link between head-shape and prey type or feeding behaviour <xref ref-type="bibr" rid="pone.0065295-Busbey1">[1]</xref>–<xref ref-type="bibr" rid="pone.0065295-Pierce2">[7]</xref>. These principles have been extended to various fossils forms with similar rostral morphologies in an attempt to determine diets <xref ref-type="bibr" rid="pone.0065295-Busbey2">[8]</xref>–<xref ref-type="bibr" rid="pone.0065295-Young2">[11]</xref>. Large, flattened skull morphologies tend to utilise lunge/ambush methods to capture food, with ‘death roll’ inertial feeding being used to break down terrestrial prey whilst narrower rostra often using slashing behaviours to capture fish <xref ref-type="bibr" rid="pone.0065295-Busbey1">[1]</xref>–<xref ref-type="bibr" rid="pone.0065295-Young2">[11]</xref>. Testing these correlations biomechanically has become important in attempting to understand not only extant crocodilians, but also reptilian feeding ecology in general <xref ref-type="bibr" rid="pone.0065295-Massare1">[12]</xref>–<xref ref-type="bibr" rid="pone.0065295-Taylor2">[17]</xref>. Two distinct snout morphologies occur within archosaurs. Oreinirostral morphologies are high, tall domed snouts (as found in dinosaurs, pterosaurs, and many extinct archosaurs), and platyrostral morphologies are broad and flat snouts (common to most extant crocodilians and some extinct crurotarsans <xref ref-type="bibr" rid="pone.0065295-Rayfield1">[18]</xref>). Most research shows that the oreinirostral snouts are stronger (or equivalent to platyrostral snouts) under tensile, compressive and rotational forces <xref ref-type="bibr" rid="pone.0065295-Rayfield1">[18]</xref>. Crocodilians appear to have evolved a snout that was less tolerant to feeding related loads but potentially more suited to specialised hunting methods such as ambush <xref ref-type="bibr" rid="pone.0065295-Busbey3">[9]</xref> and hydrodynamic efficiency <xref ref-type="bibr" rid="pone.0065295-McHenry1">[5]</xref>, <xref ref-type="bibr" rid="pone.0065295-Pierce1">[6]</xref>.</p>
+<p>Within platyrostral morphologies, there is a spectrum of morphological forms. At one extreme, the Gavialoidea (gharials and relatives) develop narrow and tubular longirostral snouts, whilst Alligatoroidea develop broad blunt snouts <xref ref-type="bibr" rid="pone.0065295-Brochu1">[19]</xref>, <xref ref-type="bibr" rid="pone.0065295-Brochu2">[20]</xref>. The longirostral snout has long been associated with piscivory, with the gharial (<italic>Gavialis gangeticus</italic>) being the most highly derived and almost exclusively piscivorous <xref ref-type="bibr" rid="pone.0065295-Whitaker1">[21]</xref>, using rapid, swiping lateral strikes of the head to capture prey <xref ref-type="bibr" rid="pone.0065295-Thorbjarnson1">[22]</xref>. At the other extreme, the American alligator (<italic>Alligator mississippiensis</italic>) has the broadest snout of extant crocodilians, and mature individuals are able to feed on mammals (81.4% of the diet, with fish comprising 15.1%) and crush large turtles <xref ref-type="bibr" rid="pone.0065295-Wolfe1">[23]</xref>, <xref ref-type="bibr" rid="pone.0065295-Pooley1">[24]</xref>.</p>
+<p><italic>Mecistops cataphractus</italic> (also known as <italic>Crocodylus cataphractus</italic>, commonly known as the African slender-snouted crocodile) is perhaps the most basal of extant crocodylid species <xref ref-type="bibr" rid="pone.0065295-McAliley1">[25]</xref>, <xref ref-type="bibr" rid="pone.0065295-Gatesy1">[26]</xref>. It lives in freshwater habitats in central and western Africa and possesses a longirostral snout with terminal rosette, bearing some resemblance to the gharial. Unlike gharials, the nasals are not separated from the premaxillae by the maxillae (similar to that of other extant crocodilians and spinosaur rostra), and the rostrum tapers from the posterior skull to the terminal rosette (contrary to the gharial rostrum, which is a fairly uniform width along the entire length from the orbits to the terminal rosette). The diet of <italic>M. cataphractus</italic> varies widely throughout the crocodiles’ range. Reports vary from exclusively piscivorous in some geographical areas, to a highly diverse diet including crabs, snakes, and even a small artiodactyl taken by a large individual <xref ref-type="bibr" rid="pone.0065295-Pauwels1">[27]</xref>.</p>
+<p>The spinosaurids are a group of large theropod dinosaurs <xref ref-type="bibr" rid="pone.0065295-DalSasso1">[28]</xref> that have been found in Africa, Asia, Europe and South America <xref ref-type="bibr" rid="pone.0065295-Stromer1">[29]</xref>–<xref ref-type="bibr" rid="pone.0065295-Martill1">[32]</xref>. These “crocodile-mimic” dinosaurs possess an elongate, mediolaterally compressed ‘oreinirostral’ skull with a terminal rosette of subconical teeth, and posteriorly displaced internal and external nares <xref ref-type="bibr" rid="pone.0065295-Sereno1">[14]</xref>. The spinosaurid rostrum is distinct from that of other theropod dinosaurs and has been compared to that of modern crocodiles, especially that of the gharial. Such similarities in skull form have led to suggestions of piscivorous feeding behaviour in spinosaurs <xref ref-type="bibr" rid="pone.0065295-Sereno1">[14]</xref>, <xref ref-type="bibr" rid="pone.0065295-Rayfield2">[33]</xref>–<xref ref-type="bibr" rid="pone.0065295-Kitchener1">[35]</xref>. Other evidence for piscivory includes a large claw on manual digit I in <italic>B. walkeri</italic> that may have functioned as a gaff for catching fish <xref ref-type="bibr" rid="pone.0065295-Kitchener1">[35]</xref> and gastric acid etched <italic>Lepidotes</italic> fish scales in the rib cage of <italic>B. walkeri</italic> <xref ref-type="bibr" rid="pone.0065295-Martill1">[32]</xref>, <xref ref-type="bibr" rid="pone.0065295-Charig2">[36]</xref>. Evidence suggests that spinosaurs were not exclusively piscivorous <xref ref-type="bibr" rid="pone.0065295-Gatesy1">[26]</xref>. Juvenile <italic>Iguanodon</italic> bones were also found in the stomach region of <italic>B. walkeri</italic> <xref ref-type="bibr" rid="pone.0065295-Charig2">[36]</xref>, <xref ref-type="bibr" rid="pone.0065295-Buffetaut2">[37]</xref>, and a South American spinosaur (likely <italic>Irritator</italic>) tooth has been found embedded within a pterosaur cervical vertebra <xref ref-type="bibr" rid="pone.0065295-Holtz1">[38]</xref>.</p>
+<p>Using a biomechanical approach, Rayfield et al. <xref ref-type="bibr" rid="pone.0065295-Rayfield2">[33]</xref> tested the cranial biomechanics of <italic>B. walkeri</italic>, gharial and alligator specimens using finite element (FE) models. A hypothetical theropod (based on <italic>Allosaurus</italic>) was also modelled. Each of the models were loaded with equal bite forces (both bilateral and unilateral), and tensile and compressive stresses were calculated. The results showed that torsional stress was significantly higher than bending stress in the theropod and alligator, but there was no significant difference in the gharial and <italic>B. walkeri</italic> <xref ref-type="bibr" rid="pone.0065295-Rayfield2">[33]</xref>. From this the authors inferred that <italic>B. walkeri</italic> and other spinosaurids were partially (if not completely) piscivorous. Therrien et al. <xref ref-type="bibr" rid="pone.0065295-Therrien1">[39]</xref> applied beam theory to the hemimandibles of extant species of monitor lizards and crocodiles as well as several theropods including <italic>Suchomimus</italic> (a spinosaur from North Africa). The ability of <italic>Suchomimus</italic> jaws to resist bending and torsion suggested that these animals also fed on fish and small terrestrial prey, using the anterior-most jaws to capture and manipulate prey.</p>
+<p>In the present study we supplement the computed tomography (CT) data used to create the FE-models of Rayfield et al. <xref ref-type="bibr" rid="pone.0065295-Rayfield2">[33]</xref> with CT data from additional taxa. We use beam theory to determine the relative resistances to bending and torsion in the rostra and mandibles of three extant crocodilians (<xref ref-type="fig" rid="pone-0065295-g001">Figure 1</xref>) and rostra of two extinct spinosaurid dinosaurs (<xref ref-type="fig" rid="pone-0065295-g002">Figures 2</xref> and <xref ref-type="fig" rid="pone-0065295-g003">3</xref>). The aims of this study were (1) to test the comparative biomechanical properties of the rostra of <italic>M. cataphractus</italic>, gharial and American alligator; (2) to test the biomechanical properties of spinosaur rostra (<italic>Spinosaurus indet.</italic> cf. <italic>Spinosaurus aegyptiacus</italic> and <italic>B. walkeri</italic>) relative to all three crocodilians; and (3) to gain insight into the functional mechanics of piscivorous archosaurs. The results of the study will help understand the relationship between form, biomechanical properties and feeding ecology within crocodylians, and has the potential to be extended to extinct archosaurs. This may help further understand the structural integrity of the spinosaur rostrum, and whether spinosaurs converged mechanically upon a gharial-like piscivorous snout, or maintained a more generalist rostrum.</p>
+<fig id="pone-0065295-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065295.g001</object-id><label>Figure 1</label><caption>
+<title>Species tested for second moments of area and moments of inertia.</title>
+<p>(A) <italic>G. gangeticus</italic> (gharial) – NHMUK 2005.1605 (specimen used here), (B) <italic>M. cataphractus</italic> – NHMUK 1924.5.10.1 (specimen used here), (C) <italic>A. mississippiensis</italic> (American alligator) for reference – Chicago Zoological Society 31321. Scale bars  =  5 cm.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065295.g001" position="float" xlink:type="simple"/></fig><fig id="pone-0065295-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065295.g002</object-id><label>Figure 2</label><caption>
+<title>Lateral and ventral views of <italic>Baryonyx walkeri</italic> (NHMUK VP R9951) through the stages of digital preparation.</title>
+<p>(A) The original specimen in left lateral view, (B) the original specimen in ventral view, (C) the digitally prepared original in left lateral view, (D) the digitally prepared original in ventral view, (E) final specimen with teeth removed and alveoli levelled, (F) final specimen with teeth removed and alveoli levelled showing cloned right maxilla. See <xref ref-type="supplementary-material" rid="pone.0065295.s005">Video S1</xref> and <xref ref-type="supplementary-material" rid="pone.0065295.s006">S2</xref> for more detailed visualisations of the preparation and reconstruction. Scale bar  = 5 cm.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065295.g002" position="float" xlink:type="simple"/></fig><fig id="pone-0065295-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065295.g003</object-id><label>Figure 3</label><caption>
+<title>The digital preparation of <italic>Spinosaurus</italic> indet.</title>
+<p><bold>(NHMUK 16665) in lateral and ventral views</bold>. The original specimen – lateral view (A), and ventral view (B). The digitally prepared specimen with no matrix – lateral view (C), and ventral view (D). The rostral reconstruction is based on other specimens of <italic>Spinosaurus</italic> (e.g. <xref ref-type="bibr" rid="pone.0065295-DalSasso1">[28]</xref>) and the <italic>B. walkeri</italic> rostra - lateral view (E) and ventral view (F). <xref ref-type="supplementary-material" rid="pone.0065295.s007">Video S3</xref> and <xref ref-type="supplementary-material" rid="pone.0065295.s008">S4</xref> for more detailed visualisations of preparation and reconstruction. Scale bar  = 5 cm.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065295.g003" position="float" xlink:type="simple"/></fig></sec><sec id="s2" sec-type="methods">
+<title>Methods</title>
+<sec id="s2a">
+<title>Imaging</title>
+<p>Computed tomography (CT) data was obtained for each of the five species. The American alligator data (from a juvenile, Texas Memorial Museum, University of Texas at Austin, Austin, Texas, USA (TMM) TMM m-983, skull length 21.7 cm) were obtained from ‘Digital Atlas of the Alligator’ (available in <xref ref-type="bibr" rid="pone.0065295-Rowe1">[40]</xref>), scanned at a slice thickness of 480μm. The gharial skull (The Natural History Museum, London, United Kingdom (NHMUK) NHMUK 2005.1605 – a very large adult with a skull total length of 86 cm) was scanned at the Royal Veterinary College, Potters Bar, UK 120 kV, 200 mA, Field of View (FOV) = 320×320 pixels, 5 mm slice thickness, and <italic>M. cataphractus</italic> (NHMUK 1924.5.10.1 – an adult skull of 62 cm) 120k V, 150 mA, FOV  = 280×280 pixels, 5 mm slice thickness. <italic>B. walkeri</italic> (NHMUK PV R9951 – probably subadult) co-joined premaxillae and left maxilla were scanned at University of Ohio O’Bleness Memorial Hospital; FOV  = 151×151 mm (premaxilla); 188×188 mm (maxilla) at a slice thickness of 1.25 mm. The <italic>Spinosaurus</italic> rostra (NHMUK 16665) was scanned at Royal Veterinary College, Potters Bar, UK, 120 kV, 150 mA, FOV  = 200×200 mm with a slice thickness of 5 mm.</p>
+</sec><sec id="s2b">
+<title>Digital preparation of spinosaurs</title>
+<p>The CT scans of <italic>B. walkeri</italic> and <italic>Spinosaurus</italic> were visualised using <italic>AVIZO</italic> 6.1.1 (VSG SAS, Bordeaux, France). Using the labelling function, the matrix was virtually removed from the scans, leaving only bone. The <italic>B. walkeri</italic> rostrum is missing the anterior portion of the right maxilla (<xref ref-type="fig" rid="pone-0065295-g002">Figure 2</xref>, <xref ref-type="supplementary-material" rid="pone.0065295.s005">Video S1</xref>), so this was reproduced by creating a mirror clone of the equivalent portion of left maxilla (<xref ref-type="fig" rid="pone-0065295-g002">Figure 2</xref>, <xref ref-type="supplementary-material" rid="pone.0065295.s006">Video S2</xref>). The <italic>Spinosaurus</italic> rostrum is heavily damaged, and the premaxilla is especially fragmented (<xref ref-type="fig" rid="pone-0065295-g003">Figure 3</xref>, <xref ref-type="supplementary-material" rid="pone.0065295.s007">Video S3</xref>). To compensate for this damage, the skull was digitally reconstructed (<xref ref-type="fig" rid="pone-0065295-g003">Figure 3</xref>, <xref ref-type="supplementary-material" rid="pone.0065295.s008">Video S4</xref>) as accurately as possible, using the existing material and images from other known specimens (e.g. Museo Civico di Storia Naturale di Milano, Milan, Italy (MSNM) MSNM V4047, <xref ref-type="bibr" rid="pone.0065295-DalSasso1">[28]</xref>).</p>
+</sec><sec id="s2c">
+<title>Application of Beam Theory</title>
+<p>Beam theory is an engineering method that allows for the study of simple cantilever beams, those fixed at one end. A number of studies have approximated the rostra of tetrapods as cantilever beam in order to calculate rostral resistance to dorsoventral and mediolateral bending, and torsion about the longitudinal axis <xref ref-type="bibr" rid="pone.0065295-Daniel1">[3]</xref>, <xref ref-type="bibr" rid="pone.0065295-Metzger1">[41]</xref>–<xref ref-type="bibr" rid="pone.0065295-Weishampel1">[44]</xref> . In these instances it is assumed that rostra meet the criteria for deflection of a cantilever beam under load, namely that load is applied to the free end of the beam, the structure is longer than it is thick or wide, and material properties are constant (isotropic and heterogeneous) along the length of the beam. It is assumed here (as has been the case in previous studies) that these criteria are met; however, the implications of such assumptions are considered further in the discussion. Here we calculate the second moment of area and the polar moment of inertia of successive slices through the rostra of our selected taxa, from the tip of the snout to just anterior to the orbital margin. Using this method, it is possible to quantify how the distribution of bony material within a rostral cross-section affects its resistance to bending and torsion. For example, if two cylinders with the same amount of material are compared, the one with the greatest overall radius will withstand larger forces before buckling (<xref ref-type="fig" rid="pone-0065295-g004">Figure 4</xref>).</p>
+<fig id="pone-0065295-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065295.g004</object-id><label>Figure 4</label><caption>
+<title>Simple illustrations of beam theory</title>
+<p>. (A) When a load is applied to a beam with one fixed end (a cantilever beam), the effect of the beam is a deflection in the direction of the force. This results in the most extreme tension on one side of the beam, and the most extreme tension on the opposite side. In the middle, there is a point where there is no tension or compression, called the neutral axis. B) Two circular cross sections of equal cortical area (black). Beam theory states the solid tube (hollow circle) will have higher resistance to bending and torsion than the solid circle due to the material being distributed further from any neutral axis.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065295.g004" position="float" xlink:type="simple"/></fig>
+<p>Second moments of area are calculated using the equation:<disp-formula id="pone.0065295.e001"><graphic position="anchor" xlink:href="info:doi/10.1371/journal.pone.0065295.e001" xlink:type="simple"/></disp-formula>where I  =  second moment of area, d  =  distance from neutral or centroidal axis (where there is no compressive or tensile load), and ΔA  =  strip of material within the structure. If I is multiplied by the Young’s modulus of the material the result is the flexural stiffness of the structure. The sum of the second moments of area in the dorsoventral (Ix) and mediolateral (Iy) directions give the polar moment of inertia (J). When J is multiplied by the shear modulus, the result is the torsional stiffness of the structure, also known as the resistance to torsion. Where structures share the same material properties, the relative values of I and J indicate relative flexural and torsional stiffness.</p>
+<sec id="s2c1">
+<title>(1) Testing comparative biomechanical properties of the crocodilian rostrum</title>
+<p>For each of the species (<italic>A. mississippiensis</italic>, <italic>G. gangeticus</italic>, <italic>M. cataphractus</italic>), we analysed Ix, Iy and J for 25 equally spaced CT slices from the anterior portion of the premaxillae to the slice immediately anterior to the orbits (<xref ref-type="fig" rid="pone-0065295-g005">Figure 5</xref>). CT images were first converted to black and white images. Teeth influence second moment calculations by changing the apparent area of cortical bone in any cross section, which can lead to an increase in I and J values in any given CT slice. Thus, to standardize the effects of teeth and their alveoli, all teeth were removed and alveoli filled to the level of the alveolar socket to create a closed section <xref ref-type="bibr" rid="pone.0065295-Daegling1">[45]</xref>.</p>
+<fig id="pone-0065295-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065295.g005</object-id><label>Figure 5</label><caption>
+<title>Dorsal and lateral views of skulls/reconstructed rostra of the species tested showing slice locations.</title>
+<p>(A) <italic>A. mississippiensis</italic>, (B) <italic>G. gangeticus</italic>, (C) <italic>M. cataphractus</italic>, (D) <italic>Spinosaurus</italic> indet. and (E) <italic>B. walkeri.</italic> All skulls have had their teeth removed and alveoli leveled. Blue lines indicate first (1) and last (25) slices of the crocodilian study, red lines mark on the spinosaurs (or equivalent for the crocodilians): 1<sup>st</sup> slice located at the rostral tip; 8th slice located at 18.5% of total rostral length.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065295.g005" position="float" xlink:type="simple"/></fig></sec><sec id="s2c2">
+<title>(2) Comparing spinosaur and crocodilian rostra</title>
+<p>Both spinosaurs have only a small portion of the rostrum intact in the specimens. Only the premaxillae and the anterior portion of the maxilla encircling the anterior border of the external naris are preserved and the nasals are missing in both taxa. We estimated the total length of the skull (rostral tip of premaxilla to posterior edge of quadrate) for <italic>B. walkeri</italic> from the reconstruction in <xref ref-type="bibr" rid="pone.0065295-Charig1">[31]</xref> and for <italic>S</italic>. cf. <italic>S. aegyptiacus</italic> from the composite reconstruction of <xref ref-type="bibr" rid="pone.0065295-DalSasso1">[28]</xref>. The lack of nasals in <italic>B. walkeri</italic> meant we were limited to using useful comparative CT slice data from only the anterior portion of the <italic>B. walkeri</italic> skull, equivalent to 18.5% of total skull length (red line, <xref ref-type="fig" rid="pone-0065295-g005">Figure 5I, J</xref>). We therefore calculated Ix, Iy and J values for eight equally spaced CT slices from the anterior 18.5% of total skull length for each crocodilian and spinosaur. Because the spinosaur CT data was restored, and for <italic>B. walkeri</italic>, reflected, the spinosaur CT cross sections were created from thresholded labels, produced after digital preparation and restoration in <italic>AVIZO</italic>. Again, the teeth were removed and alveoli were filled to prevent bias.</p>
+</sec></sec><sec id="s2d">
+<title>Data acquisition and manipulation</title>
+<p>The prepared image files were opened in <italic>ImageJ</italic>, free and open source software downloadable from <ext-link ext-link-type="uri" xlink:href="http://rsb.info.nih.gov/ij/" xlink:type="simple">http://rsb.info.nih.gov/ij/</ext-link> <xref ref-type="bibr" rid="pone.0065295-Abramoff1">[46]</xref>. <italic>MomentMacroJ</italic> v1.3, a free macro available from <ext-link ext-link-type="uri" xlink:href="http://www.hopkinsmedicine.org/FAE/MMacro.htm" xlink:type="simple">http://www.hopkinsmedicine.org/FAE/MMacro.htm</ext-link> <xref ref-type="bibr" rid="pone.0065295-Warfel1">[47]</xref>, was used to calculate Ix and Iy. <italic>MomentMacro</italic> calculates second moment of area for all pixels within a user-defined greyscale threshold (rostral bone in this case). Ix and Iy were summed to calculate J.</p>
+<p>To then correct for size discrepancy between our chosen specimens, we used data manipulation tools in <italic>AVIZO</italic> to scale all CT data to the length of the skull of <italic>G. gangeticus</italic>. The aspect ratio of each slice was maintained. This resulted in a modified scan dataset representing the three crocodilian and two spinosaur skulls scaled to equal length dimensions (rostral tip of premaxilla to posterior edge of quadrate, as before).</p>
+</sec><sec id="s2e">
+<title>Tests</title>
+<p>To test if any of the crocodilian or dinosaurian species are similar in their resistances to bending or torsion, paired comparisons of Ix, Iy and J were carried out between the crocodilian rostra and the dinosaur rostra. For all crocodilians, no combinations of pairings both passed normality tests, so the data were tested with a non-parametric Wilcoxon paired test (in <italic>STATISTICA</italic> v.6, StatSoft Inc. 2003), to test for similarities in resistances to bending and torsion along the rostra lengths at equivalent locations. Only the tests for both absolute and size-corrected data with the <italic>B. walkeri</italic> Iy were not normal and pairings containing these data were tested as before with Wilcoxon paired tests. The other pairings were tested using a two-tailed T test. Due to the number of tests carried out, the p values for significance were adjusted for each test using a Šidàk correction <xref ref-type="bibr" rid="pone.0065295-idk1">[48]</xref>. This is the equation from which the Bonferroni correction is derived and is more accurate. The new probability for each test is calculated by:<disp-formula id="pone.0065295.e002"><graphic position="anchor" xlink:href="info:doi/10.1371/journal.pone.0065295.e002" xlink:type="simple"/></disp-formula>where α is the original probability (in this case 0.05) and n is the number of tests carried out.</p>
+</sec></sec><sec id="s3">
+<title>Results</title>
+<sec id="s3a">
+<title>Crocodilians</title>
+<p>Resistance to dorsoventral bending (Ix) for raw (<xref ref-type="supplementary-material" rid="pone.0065295.s001">Table S1</xref>) and size-corrected (<xref ref-type="supplementary-material" rid="pone.0065295.s002">Table S2</xref>) data shows the same trends for all species; all taxa show a minor peak at slice 4 (16% of the rostra) and then a slight increase in Ix values towards the posterior of the rostrum (<xref ref-type="fig" rid="pone-0065295-g006">Figures 6a and 6b</xref>). The raw values for the gharial are generally highest, with the alligator approximately 100 times smaller (<xref ref-type="fig" rid="pone-0065295-g006">Figure 6a</xref>), reflecting the actual size of the specimens. When size-corrected, the order is flipped with the alligator having the highest Ix values by a factor of 10, whilst the gharial has the lowest values (<xref ref-type="fig" rid="pone-0065295-g006">Figure 6b</xref>).</p>
+<fig id="pone-0065295-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065295.g006</object-id><label>Figure 6</label><caption>
+<title>Log of absolute and size-corrected second moments of area and moments of inertia for crocodilians.</title>
+<p>(A) log absolute Ix , (B) log size-corrected Ix (C) log absolute Iy , (D) log size-corrected Iy, (E) log absolute J , (F) log size-corrected J. Blue  =  alligator, red  =  gharial, black  =  <italic>M. cataphractus</italic>. Squares  =  upper jaw.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065295.g006" position="float" xlink:type="simple"/></fig>
+<p>Values of Iy, mediolateral resistance, are greater than those of Ix, dorsoventral bending (<xref ref-type="fig" rid="pone-0065295-g006">Figures 6c and 6d</xref>). All species exhibit peaks between slices 2 and 6 (8 and 24% of skull length) before exhibiting steady rises to the posterior of the rostra. Unlike the resistances to dorsoventral bending, the mediolateral results between the gharial and <italic>M. cataphractus</italic> are much similar, with <italic>M. cataphractus</italic> having several locations where the resistances to bending are greater than that of the gharial. When size-corrected, the alligator again has the largest Iy values by a factor of 10 to 100 (<xref ref-type="fig" rid="pone-0065295-g006">Figure 6d</xref>). The gharial has greater Ix values than <italic>M. cataphractus</italic> for the anterior 24% of the skull, but further posterior <italic>M. cataphractus</italic> exhibits greater Iy values.</p>
+<p>As the J values (resistance to torsion) are the sum of Ix and Iy, trends in the magnitude of J tend to follow those of the largest resistances, in this case the Iy values (<xref ref-type="fig" rid="pone-0065295-g006">Figure 6e</xref>). This is also true for the size-corrected values (<xref ref-type="fig" rid="pone-0065295-g006">Figure 6f</xref>). Hence when size-corrected, material distribution in the alligator reflects the greatest resistance to torsion.</p>
+<p>After carrying out pair tests, the raw data for the gharial Iy vs. <italic>M. cataphractus</italic> Iy are not significantly different, as are gharial J vs. <italic>M. cataphractus</italic> J (although only after the Šidàk correction for multiple tests). All other raw data pairings for Ix, Iy and J are not significantly different showing no statistical differences between the taxa (<xref ref-type="table" rid="pone-0065295-t001">Table 1</xref>). When corrected for size, all data pairings are significantly different (<xref ref-type="table" rid="pone-0065295-t001">Table 1</xref>).</p>
+<table-wrap id="pone-0065295-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065295.t001</object-id><label>Table 1</label><caption>
+<title>Wilcoxon tests for the upper jaw pairings of the crocodilian species for both size-corrected data and residuals.</title>
+</caption><alternatives><graphic id="pone-0065295-t001-1" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065295.t001" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Taxon 1</td>
+<td align="left" rowspan="1" colspan="1">Taxon 2</td>
+<td colspan="2" align="left" rowspan="1">Raw</td>
+<td colspan="2" align="left" rowspan="1">Size-corrected</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">z</td>
+<td align="left" rowspan="1" colspan="1">p value</td>
+<td align="left" rowspan="1" colspan="1">z</td>
+<td align="left" rowspan="1" colspan="1">p value</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Ix</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alligator</td>
+<td align="left" rowspan="1" colspan="1">Gharial</td>
+<td align="left" rowspan="1" colspan="1">4.37</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">4.37</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alligator</td>
+<td align="left" rowspan="1" colspan="1"><italic>M. cataphractus</italic></td>
+<td align="left" rowspan="1" colspan="1">4.37</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">4.35</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Gharial</td>
+<td align="left" rowspan="1" colspan="1"><italic>M. cataphractus</italic></td>
+<td align="left" rowspan="1" colspan="1">4.35</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">4.37</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Iy</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alligator</td>
+<td align="left" rowspan="1" colspan="1">Gharial</td>
+<td align="left" rowspan="1" colspan="1">4.37</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">4.35</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alligator</td>
+<td align="left" rowspan="1" colspan="1"><italic>M. cataphractus</italic></td>
+<td align="left" rowspan="1" colspan="1">4.37</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">4.35</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Gharial</td>
+<td align="left" rowspan="1" colspan="1"><italic>M. cataphractus</italic></td>
+<td align="left" rowspan="1" colspan="1">1.76</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">3.57</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">J</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alligator</td>
+<td align="left" rowspan="1" colspan="1">Gharial</td>
+<td align="left" rowspan="1" colspan="1">4.37</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">4.37</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Alligator</td>
+<td align="left" rowspan="1" colspan="1"><italic>M. cataphractus</italic></td>
+<td align="left" rowspan="1" colspan="1">4.37</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">4.35</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Gharial</td>
+<td align="left" rowspan="1" colspan="1"><italic>M. cataphractus</italic></td>
+<td align="left" rowspan="1" colspan="1">2.70</td>
+<td align="left" rowspan="1" colspan="1">0.00685*</td>
+<td align="left" rowspan="1" colspan="1">3.78</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt101"><label/><p>Results that shift from significant to non significant after Šidàk test are marked with an asterisk (*).</p></fn></table-wrap-foot></table-wrap></sec><sec id="s3b">
+<title>Spinosaurs</title>
+<p>For the raw Ix data, both the spinosaurs have similar values and have resistances to dorsoventral bending that are higher than all of the crocodilian species (<xref ref-type="fig" rid="pone-0065295-g007">Figure 7a</xref>, <xref ref-type="supplementary-material" rid="pone.0065295.s003">Table S3</xref>). When size-corrected, the <italic>B. walkeri</italic> resistances to dorsoventral bending remain higher than all other species, but the <italic>Spinosaurus</italic> falls between the alligator and the gharial (<xref ref-type="fig" rid="pone-0065295-g007">Figure 7b</xref>, <xref ref-type="supplementary-material" rid="pone.0065295.s004">Table S4</xref>).</p>
+<fig id="pone-0065295-g007" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065295.g007</object-id><label>Figure 7</label><caption>
+<title>Log of absolute and log of size-corrected second moments of area and moments of inertia for crocodilians and spinosaurid rostra.</title>
+<p>(A) log absolute Ix , (B) log size-corrected Ix (C) log absolute Iy , (D) log size-corrected Iy, (E) log absolute J , (F) log size-corrected J. Blue  =  alligator, red  =  gharial, black  =  <italic>M. cataphractus</italic>, green  =  <italic>Spinosaurus</italic>, orange  =  <italic>B. walkeri</italic>.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065295.g007" position="float" xlink:type="simple"/></fig>
+<p>When raw data are considered, <italic>B. walkeri</italic> still has greater Iy (mediolateral bending resistance) values than all other taxa, yet <italic>Spinosaurus</italic> has similar and in some cases lower resistance than the large gharial skull used in this study (<xref ref-type="fig" rid="pone-0065295-g007">Figure 7c</xref>). For both spinosaurs, values of Iy are closer in value to those of the crocodile species than are values for Ix (<xref ref-type="fig" rid="pone-0065295-g007">Figure 7c</xref>). The size-corrected values show that an alligator of the same skull length as a spinosaur has a greater Iy values and therefore a greater resistance to mediolateral bending. <italic>Spinosaurus</italic> values are lower than those for all crocodilians, whilst the <italic>B. walkeri</italic> resistance to bending falls between the alligator and the gharial (<xref ref-type="fig" rid="pone-0065295-g007">Figure 7d</xref>).</p>
+<p>The raw data for resistance to torsion show higher values for the spinosaurs compared to the crocodilian species, except at 11% along the jaw for the <italic>Spinosaurus</italic> when compared to the gharial. The higher values of J are due to the much higher resistance to dorsoventral bending in spinosaurs compared to crocodilians (<xref ref-type="fig" rid="pone-0065295-g007">Figure 7e</xref>). When corrected for size, the <italic>Spinosaurus</italic> rostra performs equal to, or slightly worse than both the gharial and <italic>M. cataphractus</italic>. <italic>B. walkeri</italic>, however, is intermediate between the alligator and the other crocodilians (<xref ref-type="fig" rid="pone-0065295-g007">Figure 7f</xref>).</p>
+<p>After Šidàk correction only the <italic>Spinosaurus</italic> Ix vs gharial Ix, alligator Ix and <italic>M. cataphractus</italic> Ix are significantly different. For size corrected data all pairing p-values become non-significant after correcting for multiple tests (<xref ref-type="table" rid="pone-0065295-t002">Table 2</xref>).</p>
+<table-wrap id="pone-0065295-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065295.t002</object-id><label>Table 2</label><caption>
+<title>Two tailed t-tests and Mann Whitney tests between the spinosaurids and the crocodilian species for both size-corrected data and residuals.</title>
+</caption><alternatives><graphic id="pone-0065295-t002-2" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065295.t002" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Taxon 1</td>
+<td align="left" rowspan="1" colspan="1">Taxon 2</td>
+<td colspan="2" align="left" rowspan="1">Raw</td>
+<td colspan="2" align="left" rowspan="1">Size-corrected</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Ix</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">t</td>
+<td align="left" rowspan="1" colspan="1">p value</td>
+<td align="left" rowspan="1" colspan="1">t</td>
+<td align="left" rowspan="1" colspan="1">p value</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Spinosaurus</italic></td>
+<td align="left" rowspan="1" colspan="1"><italic>B. walkeri</italic></td>
+<td align="left" rowspan="1" colspan="1">–2.76</td>
+<td align="left" rowspan="1" colspan="1">0.0281*</td>
+<td align="left" rowspan="1" colspan="1">4.04</td>
+<td align="left" rowspan="1" colspan="1">0.00494*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Spinosaurus</italic></td>
+<td align="left" rowspan="1" colspan="1">Gharial</td>
+<td align="left" rowspan="1" colspan="1">5.73</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">–4.23</td>
+<td align="left" rowspan="1" colspan="1">0.00387*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Spinosaurus</italic></td>
+<td align="left" rowspan="1" colspan="1">Alligator</td>
+<td align="left" rowspan="1" colspan="1">6.03</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">3.42</td>
+<td align="left" rowspan="1" colspan="1">0.0111*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Spinosaurus</italic></td>
+<td align="left" rowspan="1" colspan="1"><italic>M. cataphractus</italic></td>
+<td align="left" rowspan="1" colspan="1">5.90</td>
+<td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+<td align="left" rowspan="1" colspan="1">–2.92</td>
+<td align="left" rowspan="1" colspan="1">0.0222*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>B. walkeri</italic></td>
+<td align="left" rowspan="1" colspan="1">Gharial</td>
+<td align="left" rowspan="1" colspan="1">4.09</td>
+<td align="left" rowspan="1" colspan="1">0.00463</td>
+<td align="left" rowspan="1" colspan="1">4.14</td>
+<td align="left" rowspan="1" colspan="1">0.00437*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>B. walkeri</italic></td>
+<td align="left" rowspan="1" colspan="1">Alligator</td>
+<td align="left" rowspan="1" colspan="1">4.31</td>
+<td align="left" rowspan="1" colspan="1">0.00354</td>
+<td align="left" rowspan="1" colspan="1">3.46</td>
+<td align="left" rowspan="1" colspan="1">0.0105*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>B. walkeri</italic></td>
+<td align="left" rowspan="1" colspan="1"><italic>M. cataphractus</italic></td>
+<td align="left" rowspan="1" colspan="1">4.23</td>
+<td align="left" rowspan="1" colspan="1">0.00389</td>
+<td align="left" rowspan="1" colspan="1">4.06</td>
+<td align="left" rowspan="1" colspan="1">0.00481*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Iy</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Spinosaurus</italic></td>
+<td align="left" rowspan="1" colspan="1"><italic>B. walkeri</italic></td>
+<td align="left" rowspan="1" colspan="1">z = 2.52</td>
+<td align="left" rowspan="1" colspan="1">0.0117*</td>
+<td align="left" rowspan="1" colspan="1">z = 2.52</td>
+<td align="left" rowspan="1" colspan="1">0.0117*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Spinosaurus</italic></td>
+<td align="left" rowspan="1" colspan="1">Gharial</td>
+<td align="left" rowspan="1" colspan="1">0.139</td>
+<td align="left" rowspan="1" colspan="1">0.893</td>
+<td align="left" rowspan="1" colspan="1">2.51</td>
+<td align="left" rowspan="1" colspan="1">0.0402*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Spinosaurus</italic></td>
+<td align="left" rowspan="1" colspan="1">Alligator</td>
+<td align="left" rowspan="1" colspan="1">–3.68</td>
+<td align="left" rowspan="1" colspan="1">0.00781*</td>
+<td align="left" rowspan="1" colspan="1">3.37</td>
+<td align="left" rowspan="1" colspan="1">0.012*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Spinosaurus</italic></td>
+<td align="left" rowspan="1" colspan="1"><italic>M. cataphractus</italic></td>
+<td align="left" rowspan="1" colspan="1">–3.65</td>
+<td align="left" rowspan="1" colspan="1">0.00816*</td>
+<td align="left" rowspan="1" colspan="1">2.42</td>
+<td align="left" rowspan="1" colspan="1">0.0460*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>B. walkeri</italic></td>
+<td align="left" rowspan="1" colspan="1">Gharial</td>
+<td align="left" rowspan="1" colspan="1">z = 2.52</td>
+<td align="left" rowspan="1" colspan="1">0.0117*</td>
+<td align="left" rowspan="1" colspan="1">z = 2.52</td>
+<td align="left" rowspan="1" colspan="1">0.0117*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>B. walkeri</italic></td>
+<td align="left" rowspan="1" colspan="1">Alligator</td>
+<td align="left" rowspan="1" colspan="1">z = 2.52</td>
+<td align="left" rowspan="1" colspan="1">0.0117*</td>
+<td align="left" rowspan="1" colspan="1">z = 2.38</td>
+<td align="left" rowspan="1" colspan="1">0.0173*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>B. walkeri</italic></td>
+<td align="left" rowspan="1" colspan="1"><italic>M. cataphractus</italic></td>
+<td align="left" rowspan="1" colspan="1">z = 2.52</td>
+<td align="left" rowspan="1" colspan="1">0.0117*</td>
+<td align="left" rowspan="1" colspan="1">z = 2.52</td>
+<td align="left" rowspan="1" colspan="1">0.0117*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">J</td>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Spinosaurus</italic></td>
+<td align="left" rowspan="1" colspan="1"><italic>B. walkeri</italic></td>
+<td align="left" rowspan="1" colspan="1">2.50</td>
+<td align="left" rowspan="1" colspan="1">0.0408*</td>
+<td align="left" rowspan="1" colspan="1">3.24</td>
+<td align="left" rowspan="1" colspan="1">0.0143*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Spinosaurus</italic></td>
+<td align="left" rowspan="1" colspan="1">Gharial</td>
+<td align="left" rowspan="1" colspan="1">–2.93</td>
+<td align="left" rowspan="1" colspan="1">0.0220*</td>
+<td align="left" rowspan="1" colspan="1">1.71</td>
+<td align="left" rowspan="1" colspan="1">0.130</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Spinosaurus</italic></td>
+<td align="left" rowspan="1" colspan="1">Alligator</td>
+<td align="left" rowspan="1" colspan="1">–5.05</td>
+<td align="left" rowspan="1" colspan="1">0.00149*</td>
+<td align="left" rowspan="1" colspan="1">3.37</td>
+<td align="left" rowspan="1" colspan="1">0.0119*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>Spinosaurus</italic></td>
+<td align="left" rowspan="1" colspan="1"><italic>M. cataphractus</italic></td>
+<td align="left" rowspan="1" colspan="1">–5.02</td>
+<td align="left" rowspan="1" colspan="1">0.00152*</td>
+<td align="left" rowspan="1" colspan="1">1.34</td>
+<td align="left" rowspan="1" colspan="1">0.222</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>B. walkeri</italic></td>
+<td align="left" rowspan="1" colspan="1">Gharial</td>
+<td align="left" rowspan="1" colspan="1">–2.81</td>
+<td align="left" rowspan="1" colspan="1">0.0261*</td>
+<td align="left" rowspan="1" colspan="1">–2.94</td>
+<td align="left" rowspan="1" colspan="1">0.0217*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>B. walkeri</italic></td>
+<td align="left" rowspan="1" colspan="1">Alligator</td>
+<td align="left" rowspan="1" colspan="1">–3.43</td>
+<td align="left" rowspan="1" colspan="1">0.0110*</td>
+<td align="left" rowspan="1" colspan="1">3.10</td>
+<td align="left" rowspan="1" colspan="1">0.0172*</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><italic>B. walkeri</italic></td>
+<td align="left" rowspan="1" colspan="1"><italic>M. cataphractus</italic></td>
+<td align="left" rowspan="1" colspan="1">–3.30</td>
+<td align="left" rowspan="1" colspan="1">0.0130*</td>
+<td align="left" rowspan="1" colspan="1">–3.02</td>
+<td align="left" rowspan="1" colspan="1">0.0193*</td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt102"><label/><p>Results that shift from significant to non significant after Šidàk test are marked with an asterisk (*).</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="s4">
+<title>Discussion</title>
+<p>Results for the raw uncorrected data tend to reflect the differences in skull sizes. The alligator skull was the smallest at 21.7 cm length, <italic>M. cataphractus</italic> measured 62 cm and the gharial was the longest skull at 86 cm. The size order is reflected in the relative resistance to bending and torsion in the absolute raw data. Even the platyrostral alligator skull has lower Iy values than the tubular gharial and <italic>M. cataphractus</italic>, due to its small size. Thus, inferences for the functional morphology of crocodilians and spinosaurs are best interpreted from the size-corrected data. The gharial specimen represents an extremely large mature individual, and the <italic>M. cataphractus</italic> skull is interpreted as belonging to an adult based on its large size. In a comparison of ontogenetic trajectories in four crocodilian taxa, the gharial and <italic>M. cataphractus</italic> had the lowest covariation between rostrum shape and size (when considered alongside <italic>Tomistoma</italic> and <italic>Crocodylus acutus</italic>) <xref ref-type="bibr" rid="pone.0065295-Piras1">[49]</xref>. Hence the size-corrected <italic>M. cataphractus</italic> may be a reasonable interpretation of the outline shape of a 80-plus centimetre long specimen. <italic>A. missippiensis</italic>, however, shows snout elongation and narrowing through ontogeny <xref ref-type="bibr" rid="pone.0065295-Dodson1">[50]</xref> yet scaling of bite force to head and jaw length reveals positive allometry <xref ref-type="bibr" rid="pone.0065295-Erickson1">[51]</xref>. These data suggest that our scaling of a sub-adult alligator to very large adult size probably does not fully reflect the morphological changes that occur during ontogeny. One further issue is that the length-scaling method, although retaining the aspect ratio of the transverse slices, will not account for increases in cortical bone thickness and increased ornamentation that may occur in older, larger specimens. These issues should be borne in mind. However, our analysis will still capture the main differences in morphology between the crocodilian taxa.</p>
+<p>The wider, more robust alligator skull possesses higher Iy and J values that increase to the broadest part of the skull, whilst the gharial results reflect its regular, tubular rostrum. <italic>M. cataphractus</italic> results show fairly regular values (close to that of the gharial) for the anterior 40% of the snout. By standardizing the datasets, it can be inferred that the alligator has the most biomechanically efficient rostra for resisting bending and torsion, the gharial the least, and <italic>M. cataphractus</italic> intermediate between the two extremes, but closer to the gharial than the alligator.</p>
+<p>Busbey <xref ref-type="bibr" rid="pone.0065295-Busbey3">[9]</xref> recognised three behaviours that have the potential to exert the greatest stresses on the rostrum of platyrostral crocodilians. These were (1) biting down on prey in the mouth; (2) rolling; (3) pitching (up/down) or yawing (side-to-side) of the head. Biting and pitching generate dorsoventral bending and stresses along the dorsal and ventral aspects of the rostrum. Rolling generates axial torsion along the rostrum, whilst yawing results in mediolateral bending. As well as being an adaptation for feeding behaviour, rostral shape may be influenced by mechanical constraints to minimize feeding-induced stress, developmental and phylogenetic constraints, and hydrodynamic demands <xref ref-type="bibr" rid="pone.0065295-Cleuren1">[2]</xref>, <xref ref-type="bibr" rid="pone.0065295-McHenry1">[5]</xref>, <xref ref-type="bibr" rid="pone.0065295-Pierce1">[6]</xref>, <xref ref-type="bibr" rid="pone.0065295-Busbey3">[9]</xref>, <xref ref-type="bibr" rid="pone.0065295-Preuschoft1">[13]</xref>. Our study shows that for similar sized specimens, alligators have a greater second moment of area and moment of inertia than gharials and <italic>M. cataphractus</italic> along the length of their skull. Our results are consistent with those of Busbey <xref ref-type="bibr" rid="pone.0065295-Busbey3">[9]</xref> who found the largest second moment of area in <italic>A. mississippiensis</italic> compared to other crocodilians of similar skull length, including <italic>M. cataphractus</italic>. The higher resistance to torsional loading in alligator may be related to their feeding strategy. The alligator is well known for its twist feeding strategy, the so called “death roll”, of which even young alligators are capable <xref ref-type="bibr" rid="pone.0065295-Fish1">[52]</xref>, <xref ref-type="bibr" rid="pone.0065295-McIlhenny1">[53]</xref>. Such spinning behaviour reduces large or tough prey into manageable pieces, and imparts a shear force to enable dismemberment or breakdown of the prey item. In turn, the rostrum is subject to large torsional loading and our results are consistent with resistance to such loads. The alligator in our study has a skull length of 21.7 cm, so the total length of the animal was approximately 140 cm−160 cm <xref ref-type="bibr" rid="pone.0065295-Woodward1">[54]</xref>. For an individual of this size, the primary food source varies depending on location, from fish to birds and small mammals, although it is possible that medium-sized mammals and turtles may be taken <xref ref-type="bibr" rid="pone.0065295-Thorbjarnson1">[22]</xref>, <xref ref-type="bibr" rid="pone.0065295-Wolfe1">[23]</xref>. Hence, twist feeding is a possibility for an animal of this size. A broader comparison using finite element modelling of the mechanical performance of <italic>A. mississippiensis</italic> and other short, broad crocodilian taxa suggests that the platyrostral morphology of alligator is far from optimal at torsion resistance <xref ref-type="bibr" rid="pone.0065295-McHenry1">[5]</xref> but performs reasonably well in comparison to all extant crocodilian species <xref ref-type="bibr" rid="pone.0065295-Pierce1">[6]</xref>. Our results support the suggestion that alligator cranial morphology may represent a compromise between feeding behaviour and hydrodynamic efficiency <xref ref-type="bibr" rid="pone.0065295-McHenry1">[5]</xref>, <xref ref-type="bibr" rid="pone.0065295-Pierce1">[6]</xref>.</p>
+<p>The gharial uses a slashing motion through the water to stun and capture fish <xref ref-type="bibr" rid="pone.0065295-Whitaker1">[21]</xref>. Its longirostrine morphology leads to greater angular acceleration and therefore greater speed at the end of the rostrum <xref ref-type="bibr" rid="pone.0065295-McHenry1">[5]</xref>, <xref ref-type="bibr" rid="pone.0065295-Thorbjarnson1">[22]</xref>, and a narrow tubular morphology reduces surface drag <xref ref-type="bibr" rid="pone.0065295-Pierce1">[6]</xref>. Gharials are morphologically distinct <xref ref-type="bibr" rid="pone.0065295-Pierce1">[6]</xref>, <xref ref-type="bibr" rid="pone.0065295-Piras1">[49]</xref> and have a diet consisting almost entirely of fish <xref ref-type="bibr" rid="pone.0065295-Thorbjarnson1">[22]</xref>. Prey capture may be expected to impart mediolateral and dorsoventral loads on the rostrum during prey capture and inertial feeding. This is reflected in the tubular rostral morphology. The large size of our gharial specimen leads to large second moment and moment of inertia values. However, when size-corrected, the gharial is the poorest performing of the three crocodilian taxa.</p>
+<p>In comparison <italic>M. cataphractus</italic> performs slightly better than the gharial when size-corrected. Evidence of prey choice and feeding behaviour in this latter taxon is sparse. All six of the individuals from Lake Divangui (Gabon) were between 200 cm and 235 cm in total length (smaller than the individual used in this test) and contained exclusively fish in their stomachs <xref ref-type="bibr" rid="pone.0065295-Pauwels1">[27]</xref>. However, a larger individual from another region of Gabon had the remains of a small artiodactyl in its stomach <xref ref-type="bibr" rid="pone.0065295-Pauwels1">[27]</xref>. In the absence of known methods of prey capture, it appears that <italic>M. cataphractus</italic> prey selection may, as in alligators, be determined by the size of the individual, which in turn affects the size of the rostrum and overall absolute resistance to bending and torsion. The slight increase in bending and torsion resistance in the rostrum of <italic>M. cataphractus</italic> may reflect this fact.</p>
+<p>Despite the differences in the size and morphology of the tested regions between the <italic>Spinosaurus</italic> (estimate skull length 117.6 cm; longer, more gracile and a small terminal rosette relative to length) and <italic>B. walkeri</italic> rostra (97.1 cm estimated length; therefore shorter, relatively more robust with a larger terminal rosette), both spinosaur rostra perform in a similar manner, and due to their large size absolutely outperform all crocodilian taxa. This points to spinosaurid feeding methods potentially being very similar, at least between these two species. When size is accounted for, the larger spinosaur, <italic>Spinosaurus</italic>, performs worse than <italic>B. walkeri</italic>. Relative to the crocodilians, the spinosaurs generally both have higher absolute resistances to bending and torsion. In terms of absolute resistance to torsion and mediolateral bending, the large gharial is the closest functional analogue of the living crocodilians studied here. However, when the effects of size are removed, the pattern changes somewhat. The large dorsoventral second moment values for <italic>B. walkeri</italic> are consistent with previous studies documenting greater dorsoventral bending resistance in orienirostral taxa such as the extinct crocodylomorph <italic>Sebecus ichaeorhinus</italic>, and the extant caiman <italic>Melanosuchus niger</italic> and <italic>Paleosuchus palpebrosus</italic> <xref ref-type="bibr" rid="pone.0065295-Cleuren1">[2]</xref>, <xref ref-type="bibr" rid="pone.0065295-McHenry1">[5]</xref>, <xref ref-type="bibr" rid="pone.0065295-Busbey3">[9]</xref>. This is also true of the poor performance of both spinosaurs in mediolateral bending and torsion resistance. Interestingly, the rostral shape of <italic>Spinosaurus</italic> is less resistant to dorsoventral bending than an alligator of similar size, and performs worse than all crocodilians in mediolateral bending, including tubular gharial morphotypes. The trends in second moment and torsional resistance are similar along the rostrum, yet <italic>B. walkeri</italic> rostra are more robust. However, this study was only able to compare performances of the anterior rostrum and the results should be considered in this context.</p>
+<p>These results differ from those found by Rayfield et al. <xref ref-type="bibr" rid="pone.0065295-Rayfield2">[33]</xref>, which suggested that the <italic>B. walkeri</italic> and gharial rostra are functionally convergent in terms of their resistance to bending and torsional feeding loads <xref ref-type="bibr" rid="pone.0065295-Rayfield2">[33]</xref>. Only the size-corrected resistances to torsion of <italic>Spinosaurus</italic> are similar to those of the gharial.</p>
+<p>Consideration of the functional anatomy of spinosaurs in a further study using second moments of area and moments of inertia attempted to understand theropod feeding<xref ref-type="bibr" rid="pone.0065295-Therrien1">[39]</xref>. Based on the dentary results, similarities to Orinoco crocodiles (<italic>Crocodylus intermedius</italic>), and length of the mandibular symphysis, the authors concluded that the spinosaurs probably fed on smaller prey, capturing them in their rosette of teeth and holding the prey or shaking their heads dorsoventrally, because their skulls were not very resistant to mediolateral bending <xref ref-type="bibr" rid="pone.0065295-Therrien1">[39]</xref>, <xref ref-type="bibr" rid="pone.0065295-Sues1">[55]</xref>. Here we find the same trend in the rostrum: the values obtained for <italic>Suchomimus</italic> dentaries in this previous study <xref ref-type="bibr" rid="pone.0065295-Therrien1">[39]</xref> are very similar to those calculated for the rostra of the spinosaurs in this study. Spinosaurs possess deep rooted teeth and near vertical-sided teeth rows, ideal for resisting large dorsoventrally orientated biting forces and dissipation of forces through the skull <xref ref-type="bibr" rid="pone.0065295-Sues1">[55]</xref>. Calculations of bite force in <italic>Suchomimus</italic> <xref ref-type="bibr" rid="pone.0065295-Therrien1">[39]</xref> suggest that the bite may have been comparable to an alligator with a mandibular length of 50 cm suggesting that spinosaurs were capable of capturing terrestrial prey <xref ref-type="bibr" rid="pone.0065295-Therrien1">[39]</xref>.</p>
+<p>The results of this study must be taken in the context of the assumptions of beam theory, concerning the shape, loading regime and homogenous material composition of the rostrum. The results also assume that second moment of area and moment of inertia are useful proxies for bone strength and resistance to loads. Calculation of flexural and torsional stiffness rely on multiplication of I and J values by the Young’s modulus and shear modulus respectively. For the purpose of this study we have assumed that crocodilians and spinosaur theropod dinosaurs possess equivalent stiffness and shear values, and hence can be compared directly without consideration of potential differences in material properties. We will never know the exact material properties of extinct animal bone; however studies have shown that many taxonomically distinct vertebrates have similar moduli <xref ref-type="bibr" rid="pone.0065295-Erickson2">[56]</xref>, and indeed there are similarities in the cranial material properties of crocodilian and mammalian bone <xref ref-type="bibr" rid="pone.0065295-Zapata1">[57]</xref>.</p>
+</sec><sec id="s5">
+<title>Conclusion</title>
+<p>It appears that the spinosaur theropod dinosaurs studied here achieved superiority in resistance to bending and torsion over representative crocodilians by nature of their large size. When size is corrected for, <italic>Spinosaurus</italic> performs relatively poorly compared to the other taxa. In comparison, <italic>B. walkeri</italic> performs surprisingly well, its oreinirostral morphology conferring greater resistance to dorsoventral bending and torsion than <italic>Spinosaurus</italic> and the gharial, to which <italic>B. walkeri</italic> has been compared in the past. Whether influenced by hydrodynamic or feeding related constraints, a combination of both, or other factors, the size-corrected alligator rostrum is well-equipped to deal with mediolateral and torsional loads, compared to our other study taxa. Our results only consider the portion of the skull anterior to the external naris, and a consideration of a larger portion of the rostrum is desired before a more complete understanding of rostral function can be obtained.</p>
+<p>In conclusion, the unusual rostral morphology of spinosaurs conferred some advantage in dorsoventral bending resistance, particularly in <italic>B. walkeri</italic>, yet both species studied here were poorly equipped to resist mediolateral and torsional loads. <italic>Spinosaurus</italic> represents one of the biggest, if not the biggest theropod dinosaur <xref ref-type="bibr" rid="pone.0065295-Thierren1">[58]</xref>, yet scaled to the size of an alligator, gharial or slender-snouted crocodilian, it performs poorly, especially in resistance to torsion. For a taxon such as <italic>Spinosaurus</italic>, the ability to feed on larger, struggling prey was not conferred by the possession of a snout that was relatively well equipped to deal with associated feeding loads, but may have been achieved by simple size-related advantages.</p>
+</sec><sec id="s6">
+<title>Supporting Information</title>
+<supplementary-material id="pone.0065295.s001" mimetype="application/msword" xlink:href="info:doi/10.1371/journal.pone.0065295.s001" position="float" xlink:type="simple"><label>Table S1</label><caption>
+<p><bold>Resistances to bending and torsion in absolute values for crocodilian upper jaws.</bold> All values are metres ×10<sup>−07</sup>.</p>
+<p>(DOC)</p>
+</caption></supplementary-material><supplementary-material id="pone.0065295.s002" mimetype="application/msword" xlink:href="info:doi/10.1371/journal.pone.0065295.s002" position="float" xlink:type="simple"><label>Table S2</label><caption>
+<p><bold>Resistances to bending and torsion in size-corrected, crocodilian upper jaws.</bold> All values are metres ×10<sup>−07</sup>.</p>
+<p>(DOC)</p>
+</caption></supplementary-material><supplementary-material id="pone.0065295.s003" mimetype="application/msword" xlink:href="info:doi/10.1371/journal.pone.0065295.s003" position="float" xlink:type="simple"><label>Table S3</label><caption>
+<p><bold>Absolute values for resistances to bending and torsion in dinosaurian and crocodilian rostra.</bold> All values are metres ×10<sup>−07</sup>.</p>
+<p>(DOC)</p>
+</caption></supplementary-material><supplementary-material id="pone.0065295.s004" mimetype="application/msword" xlink:href="info:doi/10.1371/journal.pone.0065295.s004" position="float" xlink:type="simple"><label>Table S4</label><caption>
+<p><bold>Resistances to bending and torsion in size-corrected dinosaurian and crocodilian rostra.</bold> All values are metres ×10<sup>−07</sup>.</p>
+<p>(DOC)</p>
+</caption></supplementary-material><supplementary-material id="pone.0065295.s005" mimetype="video/x-ms-wmv" xlink:href="info:doi/10.1371/journal.pone.0065295.s005" position="float" xlink:type="simple"><label>Video S1</label><caption>
+<p><bold>The original </bold><bold><italic>Baryonyx walkeri</italic></bold><bold> specimen digitally prepared from the CT data</bold>. The broken rostromedial processes of the maxillae can be seen as a bone shard extending anteriorly from the premaxilla-maxilla suture.</p>
+<p>(WMV)</p>
+</caption></supplementary-material><supplementary-material id="pone.0065295.s006" mimetype="video/x-ms-wmv" xlink:href="info:doi/10.1371/journal.pone.0065295.s006" position="float" xlink:type="simple"><label>Video S2</label><caption>
+<p><bold>The final </bold><bold><italic>Baryonyx walkeri</italic></bold><bold> specimen</bold>. The right maxilla is cloned and mirrored to the left side, teeth removed and alveoli levelled. The expected positions of the rostromedial processes can be seen. The broken portion of the premaxilla above the external nares was not corrected as it did not affect the area being studied.</p>
+<p>(WMV)</p>
+</caption></supplementary-material><supplementary-material id="pone.0065295.s007" mimetype="video/x-ms-wmv" xlink:href="info:doi/10.1371/journal.pone.0065295.s007" position="float" xlink:type="simple"><label>Video S3</label><caption>
+<p><bold>The digital prepared specimen of </bold><bold><italic>Spinosaurus indet.</italic></bold> The highly fragmented and distorted nature of the specimen can be seen.</p>
+<p>(WMV)</p>
+</caption></supplementary-material><supplementary-material id="pone.0065295.s008" mimetype="video/x-ms-wmv" xlink:href="info:doi/10.1371/journal.pone.0065295.s008" position="float" xlink:type="simple"><label>Video S4</label><caption>
+<p><bold>The rostral reconstruction of </bold><bold><italic>Spinosaurus indet.</italic></bold> This was based on the existing material, other specimens of <italic>Spinosaurus</italic> (e.g. <xref ref-type="bibr" rid="pone.0065295-DalSasso1">[28]</xref>) and the <italic>B. walkeri</italic> rostra.</p>
+<p>(WMV)</p>
+</caption></supplementary-material></sec></body>
+<back>
+<ack>
+<p>Special thanks go to Chris Lamb at the Royal Veterinary College for scanning several of the crocodilian specimens and the <italic>Spinosaurus</italic> snout, Lawrence Witmer for scanning <italic>B. walkeri</italic>, and to Angela Milner who provided the scan datasets for use in the project. Thanks go to Phil Crabb of the Natural History Museum Photographic Unit for photographs of the spinosaur specimens. I also thank Phil Anderson and two anonymous reviewers for comments and feedback on earlier drafts.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0065295-Busbey1"><label>1</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Busbey</surname><given-names>AB</given-names></name> (<year>1989</year>) <article-title>Form and function of the feeding apparatus of <italic>Alligator mississippiensis</italic></article-title>. <source>Journal of Morphology</source> <volume>202</volume>: <fpage>99</fpage>–<lpage>127</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Cleuren1"><label>2</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Cleuren</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Aerts</surname><given-names>P</given-names></name>, <name name-style="western"><surname>De Vree</surname><given-names>F</given-names></name> (<year>1995</year>) <article-title>Bite force analysis in <italic>Caiman crocodilus</italic></article-title>. <source>Belgian Journal of Zoology</source> <volume>125</volume>: <fpage>79</fpage>–<lpage>94</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Daniel1"><label>3</label>
+<mixed-citation publication-type="other" xlink:type="simple">Daniel WJT, McHenry CR (2001) Bite force to skull stress correlation: modelling the skull of <italic>Alligator mississippiensis</italic>. In: Grigg GC, Seebacher F, Franklin CE, editors. Crocodilian biology and evolution. Chipping Norton: Surrey Beatty pp. 135–143.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Langston1"><label>4</label>
+<mixed-citation publication-type="other" xlink:type="simple">Langston W Jr (1973) The crocodilian skull in historical perspective. In: Gans C, editor. The biology of the reptilia, pt. 4D. New York: Academic Press. p 263–289.</mixed-citation>
+</ref>
+<ref id="pone.0065295-McHenry1"><label>5</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>McHenry</surname><given-names>CR</given-names></name>, <name name-style="western"><surname>Clausen</surname><given-names>PD</given-names></name>, <name name-style="western"><surname>Daniel</surname><given-names>WJT</given-names></name>, <name name-style="western"><surname>Meers</surname><given-names>MB</given-names></name>, <name name-style="western"><surname>Pendharkar</surname><given-names>A</given-names></name> (<year>2006</year>) <article-title>Biomechanics of the rostrum of crocodilians: a comparative analysis using finite-element modeling</article-title>. <source>The Anatomical Record</source> <volume>288</volume>: <fpage>827</fpage>–<lpage>849</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Pierce1"><label>6</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pierce</surname><given-names>SE</given-names></name>, <name name-style="western"><surname>Angielczyk</surname><given-names>KD</given-names></name>, <name name-style="western"><surname>Rayfield</surname><given-names>EJ</given-names></name> (<year>2008</year>) <article-title>Patterns of morphospace occupation and mechanical performance in extant crocodilian skulls: a combined geometric morphometric and finite element modeling approach</article-title>. <source>Journal of Morphology</source> <volume>269</volume>: <fpage>840</fpage>–<lpage>864</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Pierce2"><label>7</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pierce</surname><given-names>SE</given-names></name>, <name name-style="western"><surname>Angielczyk</surname><given-names>KD</given-names></name>, <name name-style="western"><surname>Rayfield</surname><given-names>EJ</given-names></name> (<year>2009</year>) <article-title>Shape and mechanics in thalattosuchian (Crocodylomorpha) skulls: implications for feeding behaviour and niche partitioning</article-title>. <source>Journal of Anatomy</source> <volume>215</volume>: <fpage>555</fpage>–<lpage>576</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Busbey2"><label>8</label>
+<mixed-citation publication-type="other" xlink:type="simple">Busbey AB (1977) Functional morphology of the head of <italic>Pristichampsus vorax</italic> (Crocodilia, Eusuchia) from the Eocene of North America. Unpublished M.A. Thesis, University of Texas at Austin.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Busbey3"><label>9</label>
+<mixed-citation publication-type="other" xlink:type="simple">Busbey AB (1995) The structural consequences of skull flattening in crocodilians mammals. In: Thomason J.J. editor. Functional morphology in vertebrate paleontology. Cambridge University Press, Cambridge, UK. pp 173–192.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Young1"><label>10</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Young</surname><given-names>MT</given-names></name>, <name name-style="western"><surname>Brusatte</surname><given-names>SL</given-names></name>, <name name-style="western"><surname>Ruta</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Andrade</surname><given-names>MB</given-names></name> (<year>2010</year>) <article-title>The evolution of Metriorhynchoidea (Mesoeucrocodylia, Thalattosuchia): an integrated approach using geometric morphometrics analysis of disparity and biomechanics</article-title>. <source>Zoological Journal of the Linnean Society</source> <volume>158</volume>: <fpage>801</fpage>–<lpage>859</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Young2"><label>11</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Young</surname><given-names>MT</given-names></name>, <name name-style="western"><surname>Bell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>De Andrade</surname><given-names>MB</given-names></name>, <name name-style="western"><surname>Brusatte</surname><given-names>SL</given-names></name> (<year>2011</year>) <article-title>Body size estimation and evolution in metriorhynchid crocodylomorphs: implications for species diversification and niche partitioning</article-title>. <source>Zoological Journal of the Linnean Society</source> <volume>163</volume>: <fpage>1199</fpage>–<lpage>1216</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Massare1"><label>12</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Massare</surname><given-names>JA</given-names></name> (<year>1987</year>) <article-title>Tooth morphology and prey preference of Mesozoic marine reptiles</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>7</volume>: <fpage>121</fpage>–<lpage>137</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Preuschoft1"><label>13</label>
+<mixed-citation publication-type="other" xlink:type="simple">Preuschoft H, Demes B, Meyere H, Bar HF (1986) The biomechanical principle realized in the upper jaw of long-snouted primates. In Else JG and Lee PC (eds), Primate Evolution, Cambridge University Press, Cambridge pp249–264.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Sereno1"><label>14</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>, <name name-style="western"><surname>Beck</surname><given-names>AL</given-names></name>, <name name-style="western"><surname>Duther</surname><given-names>DB</given-names></name>, <name name-style="western"><surname>Gabo</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Larsson</surname><given-names>HCE</given-names></name>, <etal>et al</etal>. (<year>1998</year>) <article-title>A long snouted predatory dinosaur from Africa and the evolution of spinosaurids</article-title>. <source>Science</source> <volume>282</volume>: <fpage>1298</fpage>–<lpage>1302</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Sereno2"><label>15</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>, <name name-style="western"><surname>Larsson</surname><given-names>HCE</given-names></name>, <name name-style="western"><surname>Sidor</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Gado</surname><given-names>B</given-names></name> (<year>2001</year>) <article-title>The giant crocodyliform <italic>Sarcosuchus</italic> from the Cretaceous of Africa</article-title>. <source>Science</source> <volume>294</volume>: <fpage>1516</fpage>–<lpage>1519</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Taylor1"><label>16</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Taylor</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Cruickshank</surname><given-names>ARI</given-names></name> (<year>1993</year>) <article-title>Cranial anatomy and functional morphology of <italic>Pliosaurus brachyspondylus</italic> (Reptilia: Plesiosauria) from the Upper Jurassic of Westbury, Wiltshire</article-title>. <source>Philosophical Transactions of the Royal Society of London B</source> <volume>341</volume>: <fpage>399</fpage>–<lpage>418</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Taylor2"><label>17</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Taylor</surname><given-names>MA</given-names></name> (<year>1987</year>) <article-title>How tetrapods feed in water: functional analysis by paradigm</article-title>. <source>Zoological Journal of the Linnean Society of London</source> <volume>91</volume>: <fpage>171</fpage>–<lpage>195</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Rayfield1"><label>18</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rayfield</surname><given-names>EJ</given-names></name>, <name name-style="western"><surname>Milner</surname><given-names>AC</given-names></name> (<year>2008</year>) <article-title>Establishing a framework for archosaur cranial mechanics</article-title>. <source>Paleobiology</source> <volume>34</volume>: <fpage>494</fpage>–<lpage>515</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Brochu1"><label>19</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brochu</surname><given-names>CA</given-names></name> (<year>2001</year>) <article-title>Crocodylian snouts in space and time: phylogenetic approaches towards adaptive radiation</article-title>. <source>American Zoologist</source> <volume>41</volume>: <fpage>564</fpage>–<lpage>585</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Brochu2"><label>20</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brochu</surname><given-names>CA</given-names></name> (<year>2003</year>) <article-title>Phylogenetic approaches towards crocodylian history</article-title>. <source>Annual Review of Earth and Planetary Sciences</source> <volume>31</volume>: <fpage>357</fpage>–<lpage>397</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Whitaker1"><label>21</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Whitaker</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Basu</surname><given-names>D</given-names></name> (<year>1982</year>) <article-title>The gharial (<italic>Gavialis gangeticus</italic>): a review</article-title>. <source>Journal of the Bombay Natural History Society</source> <volume>79</volume>: <fpage>531</fpage>–<lpage>548</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Thorbjarnson1"><label>22</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Thorbjarnson</surname><given-names>JB</given-names></name> (<year>1990</year>) <article-title>Notes on the feeding behaviour of the gharial (<italic>Gavialis gangeticus</italic>) under semi-natural conditions</article-title>. <source>Journal of Herpetology</source> <volume>24</volume>: <fpage>99</fpage>–<lpage>100</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Wolfe1"><label>23</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wolfe</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Bradshaw</surname><given-names>DK</given-names></name>, <name name-style="western"><surname>Chabreck</surname><given-names>RH</given-names></name> (<year>1987</year>) <article-title>Alligator feeding habits: New data and a review</article-title>. <source>Northeast Gulf Science</source> <volume>9</volume>: <fpage>1</fpage>–<lpage>8</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Pooley1"><label>24</label>
+<mixed-citation publication-type="other" xlink:type="simple">Pooley AC (1989) Food and feeding habits. In: Ross CA. Editor. Crocodiles and alligators, Facts on File, New York, pp. 76–91.</mixed-citation>
+</ref>
+<ref id="pone.0065295-McAliley1"><label>25</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>McAliley</surname><given-names>LR</given-names></name>, <name name-style="western"><surname>Willis</surname><given-names>RE</given-names></name>, <name name-style="western"><surname>Ray</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>White</surname><given-names>PS</given-names></name>, <name name-style="western"><surname>Brochu</surname><given-names>CA</given-names></name>, <etal>et al</etal>. (<year>2006</year>) <article-title>Are crocodiles really monophyletic? – Evidence for subdivisions from sequence and morphological data</article-title>. <source>Molecular Phylogenetics and Evolution</source> <volume>39</volume>: <fpage>16</fpage>–<lpage>32</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Gatesy1"><label>26</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gatesy</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Amato</surname><given-names>G</given-names></name> (<year>2008</year>) <article-title>The rapid accumulation of consistent molecular support for the intergeneric crocodilian relationships</article-title>. <source>Molecular Phylogenetics and Evolution</source> <volume>48</volume>: <fpage>1232</fpage>–<lpage>1237</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Pauwels1"><label>27</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pauwels</surname><given-names>OSG</given-names></name>, <name name-style="western"><surname>Mamonekene</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Dumont</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Branch</surname><given-names>WR</given-names></name>, <name name-style="western"><surname>Burger</surname><given-names>M</given-names></name>, <etal>et al</etal>. (<year>2003</year>) <article-title>Diet records for <italic>Crocodylus cataphractus</italic> (Reptilia: Crocodylidae) at Lake Divangui, Ogooué-Maritime Province, southwestern Gabon</article-title>. <source>Hamadryad</source> <volume>27</volume>: <fpage>200</fpage>–<lpage>204</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-DalSasso1"><label>28</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dal Sasso</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Maganuco</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Buffetaut</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Mendez</surname><given-names>MA</given-names></name> (<year>2005</year>) <article-title>New information on the skull of the enigmatic theropod <italic>Spinosaurus</italic>, with remarks on its size and affinities</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>25</volume>: <fpage>888</fpage>–<lpage>896</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Stromer1"><label>29</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Stromer</surname><given-names>E</given-names></name> (<year>1915</year>) <article-title>Ergebnisse der Forschungsreisen Prof. E. Stromers in den Wüsten Ægyptens. II. Wirbeltier-Reste der Baharije-Stufe (unterstes Cenoman). 3. Das Original des Theropoden <italic>Spinosaurus aegyptiacus</italic> nov. gen., nov. spec</article-title>. <source>Abhandlungen der Königlich Bayerischen Akademie der Wissenschaften, Mathematisch-physikalische Classe</source> <volume>28</volume>: <fpage>1</fpage>–<lpage>32</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Buffetaut1"><label>30</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Buffetaut</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Ingavat</surname><given-names>R</given-names></name> (<year>1986</year>) <article-title>Unusual theropod dinosaur teeth from the Upper Jurassic of Phu Wiang, northeastern Thailand</article-title>. <source>Revue de Paléobiologie</source> <volume>5</volume>: <fpage>217</fpage>–<lpage>20</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Charig1"><label>31</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Charig</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Milner</surname><given-names>AC</given-names></name> (<year>1986</year>) <article-title><italic>Baryonyx</italic>, a remarkable new theropod dinosaur</article-title>. <source>Nature</source> <volume>324</volume>: <fpage>259</fpage>–<lpage>361</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Martill1"><label>32</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Martill</surname><given-names>DM</given-names></name>, <name name-style="western"><surname>Cruickshank</surname><given-names>ARI</given-names></name>, <name name-style="western"><surname>Frey</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Small</surname><given-names>PG</given-names></name>, <name name-style="western"><surname>Clarke</surname><given-names>M</given-names></name> (<year>1996</year>) <article-title>A new crested maniraptoran dinosaur from the Santana Formation (Lower Cretaceous) of Brazil</article-title>. <source>Journal of the Geological Society</source> <volume>153</volume>: <fpage>5</fpage>–<lpage>8</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Rayfield2"><label>33</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rayfield</surname><given-names>EJ</given-names></name>, <name name-style="western"><surname>Milner</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Xuan</surname><given-names>VB</given-names></name>, <name name-style="western"><surname>Young</surname><given-names>PG</given-names></name> (<year>2007</year>) <article-title>Functional morphology of spinosaur ‘crocodile-mimic’ dinosaurs</article-title>. <source>Journal of Vertebrate Palaeontology</source> <volume>27</volume>: <fpage>892</fpage>–<lpage>901</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Milner1"><label>34</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Milner</surname><given-names>AC</given-names></name> (<year>2003</year>) <article-title>Fish-eating theropods: a short review of the systematics, biology and palaeobiology of spinosaurs</article-title>. <source>Journadas Internacionales sobre paleontologiá de Dinosaurios y su Entoro</source> <volume>2</volume>: <fpage>129</fpage>–<lpage>138</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Kitchener1"><label>35</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kitchener</surname><given-names>A</given-names></name> (<year>1987</year>) <article-title>Function of Claws’ claws</article-title>. <source>Nature</source> <volume>325</volume>: <fpage>114</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Charig2"><label>36</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Charig</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Milner</surname><given-names>AC</given-names></name> (<year>1997</year>) <article-title><italic>Baryonyx walkeri</italic>, a fish-eating dinosaur from the Wealden of Surrey</article-title>. <source>Bulletin of the Natural History Museum of London</source> <volume>53</volume>: <fpage>11</fpage>–<lpage>70</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Buffetaut2"><label>37</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Buffetaut</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Martill</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Escuillié</surname><given-names>F</given-names></name> (<year>2004</year>) <article-title>Pterosaurs as part of a spinosaur diet</article-title>. <source>Nature</source> <volume>430</volume>: <fpage>33</fpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Holtz1"><label>38</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Holtz</surname><given-names>TR</given-names></name> (<year>1998</year>) <article-title>Spinosaurs as crocodile mimics</article-title>. <source>Science</source> <volume>282</volume>: <fpage>1276</fpage>–<lpage>1277</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Therrien1"><label>39</label>
+<mixed-citation publication-type="other" xlink:type="simple">Therrien F, Henderson DM, Ruff CB (2005) Bite me: Biomechanical models of theropod mandibles and implications for feeding behavior. In: Carpenter K. Editor. The carnivorous dinosaurs, Indiana University Press, Bloomington, pp. 179–237.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Rowe1"><label>40</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rowe</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Brochu</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Kishi</surname><given-names>K</given-names></name> (<year>1999</year>) <article-title>Cranial morphology of <italic>Alligator mississippiensis</italic> and phylogeny of Alligatoroidea</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>19</volume>: <fpage>1</fpage>–<lpage>100</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Metzger1"><label>41</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Metzger</surname><given-names>KA</given-names></name>, <name name-style="western"><surname>Daniel</surname><given-names>WJT</given-names></name>, <name name-style="western"><surname>Ross</surname><given-names>C</given-names></name> (<year>2005</year>) <article-title>Comparison of beam theory and finite element analysis to in vivo bone strain in the alligator cranium. </article-title>. <source>The Anatomical Record, Part A</source>. <volume>283A(2)</volume>: <fpage>331</fpage>–<lpage>348</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Thomason1"><label>42</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Thomason</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Russell</surname><given-names>AP</given-names></name> (<year>1986</year>) <article-title>Mechanical factors in the evolution of the mammalian secondary palate: A theoretical analysis</article-title>. <source>Journal of Morphology</source> <volume>189</volume>: <fpage>199</fpage>–<lpage>213</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Thomason2"><label>43</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Thomason</surname><given-names>JJ</given-names></name> (<year>1991</year>) <article-title>Cranial strength in relation to estimated biting forces in some mammals</article-title>. <source>Canadian Journal of Zoology</source> <volume>69</volume>: <fpage>2326</fpage>–<lpage>2333</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Weishampel1"><label>44</label>
+<mixed-citation publication-type="other" xlink:type="simple">Weishampel DB (1993) Beams and machines: modeling approaches to analysis of skull form and function. In: Hanken J and Hall BK editors. The vertebrate skull. University of Chicago Press, Chicago pp 303–344.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Daegling1"><label>45</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Daegling</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Ravosa</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Johnson</surname><given-names>KR</given-names></name>, <name name-style="western"><surname>Hylander</surname><given-names>WL</given-names></name> (<year>1992</year>) <article-title>Influence of teeth, alveoli, and periodontal ligaments on torsional rigidity in human mandibles</article-title>. <source>American Journal of Physical Anthropology</source> <volume>89</volume>: <fpage>59</fpage>–<lpage>72</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Abramoff1"><label>46</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Abramoff</surname><given-names>MD</given-names></name>, <name name-style="western"><surname>Magalhaes</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Ram</surname><given-names>SJ</given-names></name> (<year>2004</year>) <article-title>Image Processing with ImageJ</article-title>. <source>Biophotonics International</source> <volume>11</volume>: <fpage>36</fpage>–<lpage>42</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Warfel1"><label>47</label>
+<mixed-citation publication-type="other" xlink:type="simple">Warfel M, Serafin S, DeLeon VB (2005) MomentMacroJ. Version 1.3.</mixed-citation>
+</ref>
+<ref id="pone.0065295-idk1"><label>48</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Šidàk</surname><given-names>Z</given-names></name> (<year>1967</year>) <article-title>Rectangular confidence region for the means of multivariate normal distributions</article-title>. <source>Journal of American Statistical Association</source> <volume>62</volume>: <fpage>626</fpage>–<lpage>633</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Piras1"><label>49</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Piras</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Colangelo</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Adams</surname><given-names>DC</given-names></name>, <name name-style="western"><surname>Buscalioni</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Cubo</surname><given-names>J</given-names></name>, <etal>et al</etal>. (<year>2010</year>) <article-title>The Gavialis-Tomistoma debate: the contribution of skull ontogenetic allomety and growth trajectories to the study of crocodylian relationships</article-title>. <source>Evolution &amp; Development</source> <volume>12</volume>: <fpage>568</fpage>–<lpage>579</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Dodson1"><label>50</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name> (<year>1975</year>) <article-title>Functional and ecological significance of relative growth in <italic>Alligator</italic></article-title>. <source>Journal of Zoology</source> <volume>175</volume>: <fpage>315</fpage>–<lpage>355</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Erickson1"><label>51</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name>, <name name-style="western"><surname>Lappin</surname><given-names>AK</given-names></name>, <name name-style="western"><surname>Vliet</surname><given-names>KA</given-names></name> (<year>2003</year>) <article-title>The ontogeny of bite-force performance in American alligator (<italic>Alligator mississippiensis</italic>)</article-title>. <source>Journal of Zoology</source> <volume>260</volume>: <fpage>317</fpage>–<lpage>327</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Fish1"><label>52</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fish</surname><given-names>FE</given-names></name>, <name name-style="western"><surname>Bostic</surname><given-names>SA</given-names></name>, <name name-style="western"><surname>Nicastro</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Beneski</surname><given-names>JT</given-names></name> (<year>2007</year>) <article-title>Death roll of the alligator: mechanics of twist feeding in water</article-title>. <source>Journal of Experimental Biology</source> <volume>210</volume>: <fpage>2811</fpage>–<lpage>2818</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-McIlhenny1"><label>53</label>
+<mixed-citation publication-type="other" xlink:type="simple">McIlhenny EA (1935) The alligator's life history. Christopher Publishing House, Boston, USA.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Woodward1"><label>54</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Woodward</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>White</surname><given-names>JH</given-names></name>, <name name-style="western"><surname>Linda</surname><given-names>SB</given-names></name> (<year>1995</year>) <article-title>Maximum size of the alligator (<italic>Alligator mississippiensis</italic>)</article-title>. <source>Journal of Herpetology</source> <volume>29</volume>: <fpage>507</fpage>–<lpage>513</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Sues1"><label>55</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sues</surname><given-names>HD</given-names></name>, <name name-style="western"><surname>Frey</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Martill</surname><given-names>DM</given-names></name>, <name name-style="western"><surname>Scott</surname><given-names>DM</given-names></name> (<year>2002</year>) <article-title><italic>Irritator challengeri</italic>, a spinosaurid (Dinosauria: Theropoda) from the Lower Cretaceous of Brazil</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>22</volume>: <fpage>535</fpage>–<lpage>547</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Erickson2"><label>56</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name>, <name name-style="western"><surname>Catanese</surname><given-names>J</given-names><suffix>III</suffix></name>, <name name-style="western"><surname>Keaveny</surname><given-names>T</given-names></name> (<year>2002</year>) <article-title>Evolution of the biomechanical material properties of the femur</article-title>. <source>Anatomical Record</source> <volume>268</volume>: <fpage>115</fpage>–<lpage>124</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Zapata1"><label>57</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zapata</surname><given-names>U</given-names></name>, <name name-style="western"><surname>Metzger</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Elsey</surname><given-names>RM</given-names></name>, <name name-style="western"><surname>Ross</surname><given-names>CF</given-names></name>, <etal>et al</etal>. (<year>2010</year>) <article-title>Material properties of mandibular cortical bone in the American alligator, <italic>Alligator mississippiensis</italic></article-title>. <source>Bone</source> <volume>46</volume>: <fpage>860</fpage>–<lpage>867</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065295-Thierren1"><label>58</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Thierren</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Henderson</surname><given-names>DM</given-names></name> (<year>2007</year>) <article-title>My theropod is bigger than yours... or not: estimating body size from skull length in theropods</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>27</volume>: <fpage>108</fpage>–<lpage>115</lpage>.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>

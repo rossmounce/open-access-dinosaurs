@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="3.0" xml:lang="en">
+  <front>
+    <journal-meta><journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><issn pub-type="epub">1932-6203</issn><publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher></journal-meta>
+    <article-meta><article-id pub-id-type="publisher-id">PONE-D-12-01726</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0045203</article-id><article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Evolutionary biology</subject>
+            <subj-group>
+              <subject>Paleontology</subject>
+              <subj-group>
+                <subject>Paleobiology</subject>
+                <subject>Taphonomy</subject>
+                <subject>Vertebrate paleontology</subject>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Evolutionary systematics</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Paleontology</subject>
+            <subj-group>
+              <subject>Paleobiology</subject>
+              <subject>Taphonomy</subject>
+              <subject>Vertebrate paleontology</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Zoology</subject>
+            <subj-group>
+              <subject>Comparative anatomy</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Earth sciences</subject>
+          <subj-group>
+            <subject>Paleontology</subject>
+            <subj-group>
+              <subject>Paleobiology</subject>
+              <subject>Taphonomy</subject>
+              <subject>Vertebrate paleontology</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Physiology</subject>
+          <subject>Evolutionary Biology</subject>
+        </subj-group>
+      </article-categories><title-group><article-title>A Second Soundly Sleeping Dragon: New Anatomical Details of the Chinese Troodontid <italic>Mei long</italic> with Implications for Phylogeny and Taphonomy</article-title><alt-title alt-title-type="running-head">Chinese Troodontid Anatomy, Phylogeny, Taphonomy</alt-title></title-group><contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Gao</surname>
+            <given-names>Chunling</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Morschhauser</surname>
+            <given-names>Eric M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Varricchio</surname>
+            <given-names>David J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Liu</surname>
+            <given-names>Jinyuan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Zhao</surname>
+            <given-names>Bo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group><aff id="aff1">
+        <label>1</label>
+        <addr-line>Dalian Natural History Museum, Dalian, Liaoning, China</addr-line>
+      </aff><aff id="aff2">
+        <label>2</label>
+        <addr-line>Department of Earth and Environmental Sciences, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America</addr-line>
+      </aff><aff id="aff3">
+        <label>3</label>
+        <addr-line>Earth Sciences Department, Montana State University, Bozeman, Montana, United States of America</addr-line>
+      </aff><contrib-group>
+        <contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Farke</surname>
+            <given-names>Andrew A.</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group><aff id="edit1">
+        <addr-line>Raymond M. Alf Museum of Paleontology, United States of America</addr-line>
+      </aff><author-notes>
+        <corresp id="cor1">* E-mail: <email xlink:type="simple">mors@sas.upenn.edu</email></corresp>
+        <fn fn-type="conflict">
+          <p>The authors have declared that no competing interests exist.</p>
+        </fn>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: CG EMM DJV JL BZ. Performed the experiments: EMM DJV. Analyzed the data: EMM DJV. Contributed reagents/materials/analysis tools: CG EMM DJV JL BZ. Wrote the paper: EMM DJV.</p>
+        </fn>
+      </author-notes><pub-date pub-type="collection">
+        <year>2012</year>
+      </pub-date><pub-date pub-type="epub">
+        <day>27</day>
+        <month>9</month>
+        <year>2012</year>
+      </pub-date><volume>7</volume><issue>9</issue><elocation-id>e45203</elocation-id><history>
+        <date date-type="received">
+          <day>10</day>
+          <month>1</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>17</day>
+          <month>8</month>
+          <year>2012</year>
+        </date>
+      </history><permissions>
+        
+        <copyright-holder>Gao et al</copyright-holder>
+        <license xlink:type="simple">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions><abstract>
+        <p>A second nearly complete, articulated specimen of the basal troodontid <italic>Mei long</italic> (DNHM D2154) is reported from the Early Cretaceous (Hauterivian-Valanginian) lower Yixian Formation, Liaoning Province, China. New diagnostic features of <italic>Mei long</italic> are identified, including: a uniquely shaped maxilla, low with small, low maxillary fenestra; sacrum with an extremely wide caudal portion and elongate 4<sup>th</sup> and 5<sup>th</sup> sacral processes; and a large distal articular surface on the tibiotarsus which continues caudally on the tibia. A phylogenetic analysis including new data from the second specimen recovered <italic>Mei</italic> as a basal troodontid, in keeping with previous analyses. Although the skeleton exhibits several juvenile-like features including free cervical ribs, unfused frontals and nasals, and a short snouted skull, other attributes, full fusion of all neurocentral synostoses and the sacrum, and dense exteriors to cortical bone, suggest a small, mature individual. Microscopic examination of tibia and fibula histology confirms maturity and suggests an individual greater than two years old with slowed growth. Despite being one of the smallest dinosaurs, <italic>Mei long</italic> exhibits multi-year growth and cortical bone consisting largely of fibro-lamellar tissue marked by lines of arrested growth as in much larger and more basal theropods. This <italic>Mei long</italic> specimen lies in a similar but mirrored sleeping position to that of the holotype, strengthening the hypothesis that both specimens were preserved in a stereotypical life position. Like many Liaoning specimens, the new specimen also lacks extensive taphonomic and stratigraphic data, making further behavioral inference problematic.</p>
+      </abstract><funding-group>
+        <funding-statement>Funding was provided by the Montana State University Department of Earth Sciences. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group><counts>
+        <page-count count="17"/>
+      </counts></article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>The Jehol Group is composed of the stratigraphically conformable Yixian and Jiufotang Formations and is exposed in western portions of Liaoning Province, China. These formations are dominated by laminated and finely bedded siliciclastic sediments interspersed with extrusive basalts and tuffs <xref ref-type="bibr" rid="pone.0045203-Zhou1">[1]</xref>. They have produced a widely acclaimed fossilized fauna that includes a wide diversity of fish, invertebrates, plants <xref ref-type="bibr" rid="pone.0045203-Zhou1">[1]</xref>, mammals <xref ref-type="bibr" rid="pone.0045203-Rougier1">[2]</xref>, <xref ref-type="bibr" rid="pone.0045203-Hu1">[3]</xref>, diapsids <xref ref-type="bibr" rid="pone.0045203-Smith1">[4]</xref>, <xref ref-type="bibr" rid="pone.0045203-Ji1">[5]</xref> including dinosaurs <xref ref-type="bibr" rid="pone.0045203-Xu1">[6]</xref>–<xref ref-type="bibr" rid="pone.0045203-Zhou2">[8]</xref> with many specimens displaying exceptional soft-tissue and integument preservation <xref ref-type="bibr" rid="pone.0045203-Ji2">[9]</xref>–<xref ref-type="bibr" rid="pone.0045203-Xu3">[11]</xref>. These spectacular fossils are predominantly strongly compressed <xref ref-type="bibr" rid="pone.0045203-Chang1">[12]</xref> and come from the siliciclastic sediments thought to have been deposited by a series of inland, freshwater lacustrine environments <xref ref-type="bibr" rid="pone.0045203-Zhou1">[1]</xref>. In the lower Yixian Formation, a fossiliferous tuff layer, the Lujiatun beds, crops out near Beipiao City <xref ref-type="bibr" rid="pone.0045203-Zhou1">[1]</xref>. The Lujiatun beds lack obvious bedding planes <xref ref-type="bibr" rid="pone.0045203-Zhou1">[1]</xref>, and have been interpreted as volcaniclastic in origin, possibly representing volcanic mudflow events <xref ref-type="bibr" rid="pone.0045203-Zhao1">[13]</xref>. This results in beautiful three-dimensional preservation <xref ref-type="bibr" rid="pone.0045203-Zhao1">[13]</xref>, <xref ref-type="bibr" rid="pone.0045203-Xu4">[14]</xref>. However, see Meng et al. <xref ref-type="bibr" rid="pone.0045203-Meng1">[15]</xref> for alternative scenarios. Several specimens have emerged from the lower beds with three-dimensional preservation provides the opportunity for behavioral inferences <xref ref-type="bibr" rid="pone.0045203-Zhao1">[13]</xref>, <xref ref-type="bibr" rid="pone.0045203-Meng1">[15]</xref>, <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>.</p>
+      <p>One of these three-dimensionally preserved specimens is a small troodontid, named <italic>Mei long</italic> by Xu and Norell <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>. It was preserved in a position that closely matched the stereotypical sleeping posture of modern birds <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>. Here we report on a second specimen of <italic>Mei long</italic>, found in a nearly identical sleeping position (<xref ref-type="fig" rid="pone-0045203-g001">Figure 1</xref>), detailing its anatomy and aspects of its histology.</p>
+      <fig id="pone-0045203-g001" orientation="portrait" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0045203.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title><italic>Mei long</italic> (DNHM D2514) in dorsal view.</title>
+          <p><bold>A</bold>, interpretive line drawing; <bold>B</bold>, photograph. <bold>Abbreviations</bold>: <bold>aofe</bold>, antorbital fenestra; <bold>c</bold>, cervical vertebra(e), unnumbered; <bold>c6</bold>, sixth cervical vertebra; <bold>c7</bold>, seventh cervical vertebra; <bold>ca1–ca18</bold>, caudal vertebrae (one through eighteen); <bold>co</bold>, coracoid; <bold>d</bold>, dentary; <bold>dv</bold>, dorsal vertebra(e); <bold>f</bold>, frontal; <bold>fm</bold>, femur; <bold>fl</bold>, fibula; <bold>h</bold>, humerus; <bold>il</bold>, ilium; <bold>l</bold>, lacrimal; <bold>mt-II</bold>, <bold>mt-III</bold>, second metatarsal, third metatarsal etc.; <bold>mx</bold>, maxilla; <bold>mxfl?</bold>, maxillary fenestra; <bold>n?</bold>, nasal; <bold>nc</bold>, neural canal; <bold>ns</bold>, neural spine; <bold>o</bold>, orbit; <bold>p</bold>, parietal; <bold>pu</bold>, pubis; <bold>pmx</bold>, premaxilla; <bold>q</bold>, quadrate; <bold>r</bold>, radius; <bold>s1</bold>, <bold>s2</bold>, etc., first sacral vertebra, second sacral vertebra etc.; <bold>sa</bold>, surangular; <bold>sc</bold>,scapula; <bold>sp</bold>, fused neural spine of sacrum; <bold>t</bold>, tibia; <bold>u?</bold>, possible manual ungual; <bold>ul</bold>, ulna; <bold>II-2</bold>, second phalanx of digit II of pes; <bold>II-3</bold>, third phalanx of digit II of pes; <bold>III-1</bold>, first phalanx of digit III of pes; <bold>IV-1</bold>–<bold>IV-4</bold>, first through fourth phalanges of digit IV. Note: Abbreviations follow the convention of Weishampel et al., 2004. Scale bar equals 1 cm.</p>
+        </caption>
+        <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0045203.g001" xlink:type="simple"/>
+      </fig>
+      <sec id="s1a">
+        <title>Institutional Abbreviations</title>
+        <p><bold>DNHM</bold>, Dalian Natural History Museum, Dalian, China; <bold>IGM</bold>, Institute of Geology, Mongolia, Ulaan Battar; <bold>IVPP</bold>, Institute of Vertebrate Paleontology and Paleoanthropology, Beijing, China; <bold>MOR</bold>, Museum of the Rockies, Bozeman, Montana, U.S.A.</p>
+      </sec>
+    </sec>
+    <sec id="s2" sec-type="materials|methods">
+      <title>Materials and Methods</title>
+      <sec id="s2a">
+        <title>Anatomical Terminology</title>
+        <p>For anatomical positioning, the terminology will follow the conventions of the Nomina Anatomica Avium <xref ref-type="bibr" rid="pone.0045203-Baumel1">[17]</xref> where feasible. In describing the orientation of the elements relative to each other as preserved, the terms “front” and “back” or “behind” are used to define directions along an axis roughly parallel to the dorsal series of the vertebral column, where moving from the sacrum towards the sharp curvature in the neck is defined as “forward” or the front. Consequently, moving from the neck towards the sacrum in any line roughly parallel to the dorsal vertebral column is defined as the rear, with terms indicating that direction including “rearward,” “back” or “behind.”</p>
+      </sec>
+      <sec id="s2b">
+        <title>Histology</title>
+        <p>To assess the ontogenetic age of DNHM D2154, we removed, molded and cast a section of the mid-diaphysis of the right tibia and fibula. A cast of the removed section was then inserted into the original specimen to retain the overall morphology. Cross-sections were prepared for each element using standard paleohistologic techniques <xref ref-type="bibr" rid="pone.0045203-Wilson1">[18]</xref>–<xref ref-type="bibr" rid="pone.0045203-Lamm2">[20]</xref>, and examined with light microscopy. Descriptive terminology follows Francilion-Vieillot et al. <xref ref-type="bibr" rid="pone.0045203-FrancillonVieillot1">[21]</xref>, and age at death was assessed from annual lines of arrested growth (LAGs) <xref ref-type="bibr" rid="pone.0045203-Erickson1">[22]</xref>.</p>
+      </sec>
+      <sec id="s2c">
+        <title>Phylogenetic Protocol</title>
+        <p>Our analysis used the matrix from Xu et al. <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref> with coding modifications to <italic>Mei</italic> based on new information available from this specimen. The coding modifications can be found in the phylogenetic analysis section. Two troodontids published after Xu et al. <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref> were added to the matrix. The coding for <italic>Philovenator curriei</italic> was obtained from Xu et al <xref ref-type="bibr" rid="pone.0045203-Xu7">[24]</xref>. <italic>Talos sampsoni</italic> was conservatively coded from the literature <xref ref-type="bibr" rid="pone.0045203-Zanno1">[25]</xref>. This matrix was chosen because, while far more extensive matrices exist for understanding interrelationships across Coelurosauria (e.g. <xref ref-type="bibr" rid="pone.0045203-Choiniere1">[26]</xref>) or the interrelationships of dromeosaurids <xref ref-type="bibr" rid="pone.0045203-Turner1">[27]</xref>, these matrices do not have as wide a sampling of published troodontid species as the Xu et al. <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref> matrix.</p>
+        <p>The analysis was run in T.N.T. 1.1 <xref ref-type="bibr" rid="pone.0045203-Goloboff1">[28]</xref>, <xref ref-type="bibr" rid="pone.0045203-Goloboff2">[29]</xref>. A seed of ten Wagner trees was used with 10000 replications of a traditional Tree-Bisection-Reconnection (TBR) search. A second round of TBR searching was conducted beginning with trees held in memory. There was no overflow with the second round of searching. Bremer support was calculated by sequentially increasing the suboptimal trees retained and examining the resulting strict consensus trees.</p>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>Results</title>
+      <sec id="s3a">
+        <title>Systematic Paleontology</title>
+        <p>Theropoda Marsh, 1881 <xref ref-type="bibr" rid="pone.0045203-Marsh1">[30]</xref>.</p>
+        <p>Maniraptora Gauthier, 1986 <xref ref-type="bibr" rid="pone.0045203-Gauthier1">[31]</xref>.</p>
+        <p>Troodontidae Gilmore, 1924 <xref ref-type="bibr" rid="pone.0045203-Gilmore1">[32]</xref> (Currie, 1987 <xref ref-type="bibr" rid="pone.0045203-Currie1">[33]</xref>).</p>
+        <p><italic>Mei long</italic> Xu and Norell, 2004 <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>.</p>
+        <sec id="s3a1">
+          <title>Holotype</title>
+          <p>IVPP V12733, a nearly complete, fully articulated skeleton.</p>
+        </sec>
+        <sec id="s3a2">
+          <title>Locality and horizon</title>
+          <p>Lujiatun, Shangyuan, Beipiao City, western Liaoning, China; lowest more fluvial and volcaniclastic beds of Yixian Formation, older than 128 and younger than 139 Ma <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>.</p>
+        </sec>
+        <sec id="s3a3">
+          <title>Referred Specimen</title>
+          <p>DNHM D2154, a nearly complete, articulated skeleton including skull, complete cervical series, partial dorsal series, complete sacrum and ilium, a partial pubis, complete hind limbs, fairly complete caudal series and complete forelimbs, except for the furculum and much of the left manus. The missing forelimb elements may still be present in the matrix, but are not currently exposed.</p>
+        </sec>
+        <sec id="s3a4">
+          <title>Locality and horizon</title>
+          <p>Lujiatun beds, Kaoshangtun, Shangyuan, Beipiao City, western Liaoning, China.</p>
+        </sec>
+        <sec id="s3a5">
+          <title>Revised Diagnosis</title>
+          <p><italic>Mei long</italic> is a troodontid with the following autapomorphies: Extremely large naris extending caudally over one-half of the maxillary tooth row <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>; closely packed middle maxillary teeth <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>; maxillary tooth row extending caudally to the level of the preorbital bar <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>; caudal portion of sacrum extremely wide with elongate 4<sup>th</sup> and 5<sup>th</sup> sacral processes; ilium strongly sigmoid in dorsal view, with a stronger lateral curve than in <italic>Velociraptor</italic> and <italic>Anchiornis</italic>; presence of a caudolateral flange on the midshaft of metatarsal IV <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>; the most proximal end of the pubic shaft significantly craniocaudally compressed relative to other troodontids <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>.</p>
+          <p>Additionally, <italic>Mei long</italic> possesses the following combination of characters with a wider distribution: a bulbous and fully convex caudal portion of frontal and a short and steeply angled snout, features shared with <italic>Anchiornis</italic> and the Ukhaa Tolgod perinates (IGM 100/972 and 100/974) described as <italic>Byronosaurus</italic> <xref ref-type="bibr" rid="pone.0045203-Bever1">[34]</xref>, but perhaps representing a new taxon <xref ref-type="bibr" rid="pone.0045203-Pei1">[35]</xref>; premaxilla with steeply inclined front and long maxillary process (shared with Ukhaa Tolgod perinates); maxilla, low with small, low maxillary fenestra and dorsoventrally short rostral process but thinner than in the Ukhaa Tolgod perinates; unserrated teeth as in <italic>Anchiornis</italic> and Ukhaa Tolgod perinates with straight distal margins as in Ukhaa Tolgod perinates, and <italic>Sinovenator</italic> but not <italic>Anchiornis</italic>; robust, sub-‘U’-shaped furculum more similar to those of oviraptorids; long ulna and radius approximately equal to or &gt;90% of humeral length; metacarpal III longer than metacarpal II; unguals only moderately recurved compared to other maniraptorans; and distal articular surface of tibiotarsus large, continuing caudally on the tibia.</p>
+        </sec>
+      </sec>
+      <sec id="s3b">
+        <title>Anatomical Description</title>
+        <p>The specimen (DNHM D2154) is encased in green mudstone with up to fine sand-size clasts. The individual is small, with a total length of approximately 325 mm and not more than 400 mm. This is some 130 to 200 mm shorter than the type specimen of <italic>Mei long</italic> (IVPP V12733). However, individual elements may provide a better estimate of the comparative size of these two specimens (<xref ref-type="supplementary-material" rid="pone.0045203.s002">Table S1</xref>). DNHM D2154 is consistently smaller than the original <italic>Mei long</italic> with individual linear measurements averaging 83% those of the holotype.</p>
+        <p>The skeleton is oriented dorsal side up from the base of the neck through the first caudals. The hind limbs are folded on either side of the torso (<xref ref-type="fig" rid="pone-0045203-g001">Figure 1</xref>). The forelimbs are both oriented with the elbows pointing up and slightly rearwards with the hands ventral, lying horizontally and directed rearwards. The only elements visible from the left manus are a large ungual, possibly phalanx I-2, and an elongate element. The latter cannot be clearly identified and may not be part of the manus. The right manus is better exposed, running rearward just beneath the skull. All elements are visible and in place except for metacarpal-I and possibly phalanx III-1. Although missing, an outline remains for metacarpal-I and an estimate can be made of its size and shape. No carpals are observable. The neck arches up and back so that the skull lies on the right side of the body, above the right knee and hand, behind the right elbow (<xref ref-type="fig" rid="pone-0045203-g001">Figure 1</xref>). The skull is resting on its right side and facing rearward. The tail also curls to the right and travels forward under the skull. Most of the tail is lying on its left side. Lying in this position the greatest front-rear and transverse dimensions of the specimen are 120 mm and 83 mm respectively. This posture is nearly identical to the avian sleeping posture of the type specimen of <italic>Mei long</italic> <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref> and also bears some similarities to the curled pose seen in the type specimen of <italic>Sinornithoides youngi</italic>, IVPP V9612 <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref>. Further basic measurements of the specimen are provided in <xref ref-type="supplementary-material" rid="pone.0045203.s002">Table S1</xref>.</p>
+      </sec>
+      <sec id="s3c">
+        <title>Skull</title>
+        <p>The skull (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2A</xref>) is an estimated 5.0 cm long and has a steep anterior profile more reminiscent of <italic>Archaeopteryx</italic> <xref ref-type="bibr" rid="pone.0045203-Wellnhofer1">[37]</xref>–<xref ref-type="bibr" rid="pone.0045203-Mayr1">[39]</xref> than other troodontids <xref ref-type="bibr" rid="pone.0045203-Osborn1">[40]</xref>–<xref ref-type="bibr" rid="pone.0045203-Makovicky1">[42]</xref>. The skull to femur length ratio of <italic>Mei long</italic> is approximately 0.75, which is similar to the condition in <italic>Sinusonasus magnodens</italic> <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref> and some other basal troodontids and dromeosaurs <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref>, <xref ref-type="bibr" rid="pone.0045203-Xu8">[43]</xref>, <xref ref-type="bibr" rid="pone.0045203-Xu9">[44]</xref>.</p>
+        <fig id="pone-0045203-g002" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0045203.g002</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Photos and interpretive drawings for <italic>Mei long</italic>, DNHM D2514.</title>
+            <p><bold>A.</bold> Skull of <italic>Mei long</italic> in left lateral to left dorsolateral view. <bold>B</bold>, sacrum and ilia in dorsal view. <bold>C</bold>, pelvis in right lateral view. Abbreviations as in <xref ref-type="fig" rid="pone-0045203-g001">Figure 1</xref>. Scale bars equal 0.5 cm.</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0045203.g002" xlink:type="simple"/>
+        </fig>
+        <p>The relatively small premaxilla possesses a dorsal border that angles steeply back and a fairly stout caudal process that extends over the rostral most portion of the maxilla. It is impossible to determine whether this process excludes the maxilla from contributing to the nares or not. This subnarial process to the premaxilla is shared with <italic>Sinusonasus</italic> <xref ref-type="bibr" rid="pone.0045203-Xu9">[44]</xref>; DNHM D2154 lacks the slit-like premaxillary fenestra seen in this taxon. The external naris cannot be delineated in DNHM D2154, however, it is elongate in the holotype. <italic>Byronosaurus</italic> is referred to as having a similarly extensive naris <xref ref-type="bibr" rid="pone.0045203-Bever1">[34]</xref>, but the left side of the skull appears to clearly show the naris ending at approximately 1/3 the total length of the toothrow <xref ref-type="bibr" rid="pone.0045203-Makovicky1">[42]</xref>. The maxilla is 16.5 mm long and unusually low (approximately 1.4 mm deep), particularly over its rostral portion. The rostral process is lower relative to its length than any other troodontid. The maxillary fenestra is small and narrow dorsoventrally. The antorbital fenestra is larger than the maxillary fenestra and appears to be broadly triangular (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2A</xref>). The interfenestral bar sits flush with the rim of the antorbital fossa in a condition reminiscent of <italic>Byronosaurus jaffei</italic> <xref ref-type="bibr" rid="pone.0045203-Makovicky1">[42]</xref> and <italic>Linhevenator</italic> <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref>. On the caudoventral portion of the bone a prominent slit-like groove occurs. A similar feature occurs in <italic>Troodon formosus</italic> and may accommodate the jugal.</p>
+        <p>The T-shaped lacrimal has a slightly concave dorsal surface. The full length of the rostral process is obscured by matrix. A small lateral extension sits just above the mediolaterally broad descending process. A matrix-filled recess occurs on the rostral face of this process, suggesting the possibility of a pneumatic fossa (recessus pneumaticus lacrimalis, Witmer <xref ref-type="bibr" rid="pone.0045203-Witmer1">[45]</xref>), as in most troodontids <xref ref-type="bibr" rid="pone.0045203-Bever1">[34]</xref>, <xref ref-type="bibr" rid="pone.0045203-Currie2">[41]</xref>, <xref ref-type="bibr" rid="pone.0045203-Currie3">[46]</xref>, or the opening of the lacrimal duct <xref ref-type="bibr" rid="pone.0045203-Makovicky1">[42]</xref>. The nasals are unfused thin broad plates of bone. Both left and right frontals are nearly fully exposed in dorsal view (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2A</xref>). They appear to be completely unfused along their entire lengths, as is the condition of the holotype. The caudal margin of each frontal is relatively straight, with a slight triangular enlargement at the midline where the frontals meet. The frontal is unusually broad and convex over its posterior half. This convexity continues to the lateral margin of the bone, unlike the condition seen in other troodontids (e.g. <italic>Troodon</italic>, <italic>Zanabazar</italic>) <xref ref-type="bibr" rid="pone.0045203-Norell1">[47]</xref> and extends forward to the beginning of the rostral extensions of the frontal. In dorsal view, the frontal narrows rapidly at the level of the orbit. The lateral margin of the rostral portion of the frontal is dorsally upturned and thickened, presenting a slim vertical lateral face abutting the lacrimal. The rostral portion of each frontal is dorsally concave across a transverse transect. The frontal lamina on DNHM D2154 is similar to that reported for <italic>Sinovenator</italic> <xref ref-type="bibr" rid="pone.0045203-Xu4">[14]</xref>.</p>
+        <p>The caudal portion of the skull is not well preserved. Remnants of the parietal suggest it was broadly convex, confluent with the convexity of the frontals. A small portion of the supraoccipital is visible and suggests a broad central raised portion with shallow, caudal-facing depressions located laterally. The left quadrate is displaced rearwards revealing the moderately concave caudal aspect of the element. A sizable pneumatic foramen opens caudally at midheight (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2B</xref>). The proximal portion tapers dorsally to a presumably narrow head, while the distal end flares for the articular surface. A slight ridge marks the caudomedial aspect of the element.</p>
+        <p>The dentary is long and narrows dorsoventrally toward the rostral end. It is 27.7 mm long along the ventral margin. At its caudal end, it is 3.6 mm tall, and it is about 1.5 mm tall at its rostral end. The dentary conforms to that of other troodontids in tapering rostrally and possessing a groove containing nutrient foramina along much of its length <xref ref-type="bibr" rid="pone.0045203-Currie1">[33]</xref>, <xref ref-type="bibr" rid="pone.0045203-Makovicky1">[42]</xref>, <xref ref-type="bibr" rid="pone.0045203-Currie3">[46]</xref>, <xref ref-type="bibr" rid="pone.0045203-Norell1">[47]</xref>, <xref ref-type="bibr" rid="pone.0045203-Barsbold1">[48]</xref>, <xref ref-type="bibr" rid="pone.0045203-Makovicky2">[49]</xref>. The ramus of the dentary appears straight in ventral view, not curving towards the midline. This character is plesiomorphic for Troodontidae <xref ref-type="bibr" rid="pone.0045203-Makovicky1">[42]</xref> being found in basal taxa <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref>, <xref ref-type="bibr" rid="pone.0045203-Makovicky1">[42]</xref> and in the fragmentary <italic>Urbacodon itemirensis</italic> <xref ref-type="bibr" rid="pone.0045203-Averianov1">[50]</xref>.</p>
+        <p>Middle and caudal maxillary teeth are laterally compressed and recurved. Teeth reach the greatest mesial-distal basal length (∼0.5 mm) near the mid length of the maxilla. Smaller teeth sit rostral and caudal. The teeth of the rostral dentary are narrow and tightly spaced. They appear similar to embryonic <italic>Troodon</italic> teeth <xref ref-type="bibr" rid="pone.0045203-Varricchio1">[51]</xref> and are reminiscent of small, unidentified teeth of the Jurassic of Utah <xref ref-type="bibr" rid="pone.0045203-Young1">[52]</xref>. The first alveolus on the dentary is not exposed, so it cannot be determined if this specimen shares the small, rounded rostral dentary alveolus of <italic>Archaeornithoides</italic> <xref ref-type="bibr" rid="pone.0045203-Elzanowski2">[53]</xref>. DNHM D2154 appears to lack denticles on the teeth, as does <italic>Byronosaurus</italic> <xref ref-type="bibr" rid="pone.0045203-Makovicky1">[42]</xref> and <italic>Urbacodon</italic> <xref ref-type="bibr" rid="pone.0045203-Averianov1">[50]</xref>.</p>
+      </sec>
+      <sec id="s3d">
+        <title>Axial Skeleton</title>
+        <p>Although portions of eight cervicals are visible, few provide good details (<xref ref-type="fig" rid="pone-0045203-g001">Figure 1</xref>). The following description is largely based upon cervicals 4, 5, and 6 (<xref ref-type="fig" rid="pone-0045203-g003">Figure 3A</xref>). The elongate, slightly keeled centra are far narrower than the broad, platform-like neural arches. Intercentrum articulations slope craniodorsally. The cranial articular surface is saddle-shaped and strongly concave in ventral view. The caudal articular surface appears to be broadly circular in outline and craniodorsally sloped. The parapophyses extend ventrolaterally from the sides of the centra near their cranial end (<xref ref-type="fig" rid="pone-0045203-g003">Figure 3A</xref>). Based on a few broken areas, the centra appear to be largely hollow with an undivided internal space.</p>
+        <fig id="pone-0045203-g003" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0045203.g003</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Details of the vertebrae of <italic>Mei long</italic>, DNHM D2514.</title>
+            <p><bold>A</bold>, Cervical no. 6 vertebra in left lateral view, scale bar equals 1 mm; <bold>B</bold>, the caudal end of ca 11, ca12–14 and the cranial end of ca15, in right lateral view (cranial to the right of the picture). Abbreviations as in <xref ref-type="fig" rid="pone-0045203-g001">Figure 1</xref>. Scale bar equals 5 mm.</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0045203.g003" xlink:type="simple"/>
+        </fig>
+        <p>At least two vertebrae show post-depositional fractures running through the centra, with some minor (∼5 mm) displacement between the respective ends. This is significant because there is no displacement between the centra and the neural arches. Further, these vertebrae lack obvious synostoses. Thus, arches and centra appear to be solidly fused. This is in contrast to the holotype, where faint synostoses are visible on the dorsal <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref> and cervical vertebrae between the neural arches and the centra.</p>
+        <p>The neural arches are flat in horizontal view (<xref ref-type="fig" rid="pone-0045203-g003">Fig. 3A</xref>) and roughly rectangular in dorsal view. In ventral view, they extend laterally beyond the centrum. Overall form is very similar to that of other troodontids with relatively low neural spines (not well preserved in this specimen, clearer on the holotype); prezygapophyses that extend craniolaterally bearing broad, oval, cranioventrally angled articular surfaces; epipophyses small; and diapophyses located ventral to the cranial extensions for the prezygapophyses <xref ref-type="bibr" rid="pone.0045203-Barsbold2">[54]</xref>. The diapophyses are also craniocaudally elongate. The low neural spines are located towards the caudal end of the arches. Two pairs of pleuorcoels exist on the neural arches. The first are oriented dorsolaterally and sit at mid-length on the dorsolateral aspect of the arch where the beginnings of pre- and postzygapophyses cross. This pair is apparently not found on a fragmentary troodontid specimen referred to <italic>Saurornithoides mongoliensis</italic> <xref ref-type="bibr" rid="pone.0045203-Norell2">[55]</xref>. A second possible pleurocoel pair appears on cervical 6 (c6) as a matrix-filled pocket medial to the diapophysis on the ventral side (<xref ref-type="fig" rid="pone-0045203-g003">Figure 3A</xref>). The postzygapophyses are concave with the main portion of the articular surface oriented ventrally, but with a medioventral extension facing laterally. This extension is not as strongly angled relative to the postzygapophyseal articulation as in the typical hyposphene condition (e.g. <italic>Sinraptor dongi</italic> <xref ref-type="bibr" rid="pone.0045203-Currrie1">[56]</xref>). Concave postzygapophyses occur in <italic>Troodon</italic> and elsewhere. The cervical ribs appear to be unfused (<xref ref-type="fig" rid="pone-0045203-g003">Fig. 3A</xref>).</p>
+        <p>Although portions of nearly all the dorsal vertebrae are visible, few provide good details (<xref ref-type="fig" rid="pone-0045203-g001">Figure 1B</xref>). The visible portions include partial dorsal views of the neural arches of dorsals (D) 1–5 and lateral views of D8–13, but the latter are damaged.</p>
+        <p>The dorsal view of D2 exhibits a low neural spine that is craniocaudally short and sits near the caudal margin of the arch. The arch is wider than long. The long transverse process is caudolaterally swept. The articular facets on the prezygapophyses are large and face dorsomedially. The postzygapophyses sit closer to the midline than the prezygapophyses and project caudolaterally from near the base of the neural spine. The width of D2 across the transverse process is 10.5 mm and its length is 5.7 mm from the pre- to the postzygapophyses. The neural spine of D3 is taller and craniocaudally longer than that of D2, and the transverse processes project laterally, lacking the caudal sweep seen in the latter.</p>
+        <p>The centra of D8–13 are spool-shaped, with somewhat concave sides that become increasingly so as one moves toward the sacrum. No pleurocoels are evident. The neural spines of these vertebrae are rectangular in outline. The most complete neural spine (from D8) measures 4.2 mm above the rest of the neural arch. On D11 the craniocaudal length of the neural spine is about 64% the length of the centrum. Although few troodontid dorsal vertebrae are known, those figured for <italic>Sinovenator</italic> <xref ref-type="bibr" rid="pone.0045203-Xu4">[14]</xref> and <italic>Anchiornis</italic> (<xref ref-type="bibr" rid="pone.0045203-Hu2">[57]</xref> Figure S3C) are strongly similar to <italic>Mei long</italic>.</p>
+        <p>The sacrum is visible in dorsal view, where it is both well-preserved and well-exposed (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2B</xref>). It has a total length of 22.2 mm. The sacral count of 5 matches that of the holotype of <italic>Mei</italic> <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>, <italic>Sinusonasus</italic> <xref ref-type="bibr" rid="pone.0045203-Xu9">[44]</xref>, and <italic>Sinovenator</italic> <xref ref-type="bibr" rid="pone.0045203-Xu4">[14]</xref>, but is lower than that of <italic>Saurornithoides</italic> <xref ref-type="bibr" rid="pone.0045203-Barsbold1">[48]</xref> and <italic>Troodon</italic>. The neural canal is particularly broad at S1, nearly 5.5 mm across, approaching the width of the D12 centrum (6.4 mm). Overall, the sacrum widens caudally with a maximum width at sacral processes 4 and 5 (<xref ref-type="fig" rid="pone-0045203-g002">Fig. 2B</xref>). This is in contrast to the significantly more modest caudal widening known for <italic>Sinovenator</italic> and basal dromeosaurs <xref ref-type="bibr" rid="pone.0045203-Xu4">[14]</xref>. The width of the sacral centra in these other taxa and DNHM D2514 is greatest across the third centrum. The preserved portions of the sacral processes of the holotype are consistent with the pattern seen in DNHM D2154. The sacrum appears to have a slight dorsal arc to it (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2C</xref>), although this may be accentuated by slight dorsal tilting of the cranial end. The neural arches of the five sacrals appear fully fused, forming a broad, slightly irregular platform (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2B</xref>) at the base of the fused, plate-like neural spine (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2C</xref>). This condition is also seen in <italic>Zanabazar</italic> <xref ref-type="bibr" rid="pone.0045203-Norell1">[47]</xref>, <xref ref-type="bibr" rid="pone.0045203-Barsbold1">[48]</xref>.</p>
+        <p>Five sacral processes extend from each side of the sacrum (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2B</xref>). All of the sacral processes have a slight distal upturn. The two cranial most pairs extend slightly craniolaterally and are attached cranially to the lateral surface of their respective vertebrae. They have ovate cross-sections. The third, slightly longer pair attaches to S3 at mid length on S3 and extends directly laterally. The third pair also has a ventral process that extends laterally beyond the dorsal portion. The cross-section of this pair of processes is hourglass- or dumbbell-shaped. The first three pairs of sacral processes maintain fairly constant widths throughout their length.</p>
+        <p>The caudal-most two pairs of sacral processes are significantly longer and broader in dorsal view (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2B</xref>). The fourth sacral process begins to expand at mid-length, terminating in a roundish form. Throughout its length, the fourth process has a T-shaped cross-section resulting from a deep, cranioventral process. The fifth and most caudal process is more fan-shaped in dorsal view, expanding in width beginning near its base. This process angles slightly caudally and appears to also have a T-shaped cross-section. Narrowly spaced, postzygapophyses extend from the caudal end of the sacrum.</p>
+        <p>The caudal series changes dramatically throughout the first nine vertebrae (<xref ref-type="fig" rid="pone-0045203-g001">Figure 1</xref>), whereas caudals (ca)10–18 retain a fairly uniform morphology (<xref ref-type="fig" rid="pone-0045203-g003">Figure 3B</xref>). The first few caudals are craniocaudally short, with modest neural spines. The transverse processes project laterally in a frontal plane. From ca3 or ca4 through ca8 the neural spines and transverse processes diminish in size, pre- and postzygapophyses shift closer to the midline of the centra and the centra elongate slightly. By ca7, zygapophyseal surfaces are close to the midline and nearly vertical in orientation. A craniocaudal sulcus develops dorsally in this region, so that in ca7, ca8 and ca9, the base of the neural spine sits in a shallow depression.</p>
+        <p>Vertebrae caudal to ca9 exhibit a fairly consistent shape (<xref ref-type="fig" rid="pone-0045203-g003">Figure 3B</xref>). The centra are elongate (the longest centra in the tail being ca11 and ca13) with flat to slightly concave sides and a slight lateral ridge running craniocaudally at the junction of the centrum and neural arch. All the caudal vertebrae in this section lack neural spines and transverse processes, but they do possess a dorsal sulcus running craniocaudally from the pre- to the postzygapophyses. This sulcus is also seen on the distal caudals of <italic>Saurornithoides mongoliensis</italic> <xref ref-type="bibr" rid="pone.0045203-Norell2">[55]</xref>, <italic>Byronosaurus</italic> <xref ref-type="bibr" rid="pone.0045203-Norell3">[58]</xref>, <italic>Sinornithoides</italic> <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref>, <xref ref-type="bibr" rid="pone.0045203-Currie3">[46]</xref>, <italic>Sinusonasus</italic> <xref ref-type="bibr" rid="pone.0045203-Xu9">[44]</xref>, and <italic>Troodon formosus</italic>. The sulcus on ca10–ca13 shallows at mid-length, partially interrupting the groove. Pre- and postzygapophyses are elongate and low, overlapping the centra of preceding and succeeding vertebrae (<xref ref-type="fig" rid="pone-0045203-g003">Figure 3B</xref>). The slightly longer prezygapophyses diverge slightly laterally. The postzygapophyses, running nearly parallel to the midline, then fit into the slight pocket created by the diverging prezygapophyses. Although the last neural spine and transverse processes occur on ca9 of the visible 18, this represents a small portion of the overall tail length. The total length of caudal vertebrae 1–17 is roughly 130 mm, but the first nine vertebrae make up only 43 mm, or 33%, of the preserved tail length.</p>
+        <p>At least eleven chevrons are exposed on the specimen. The chevrons following ca5, ca7 and ca8 are poorly exposed, and a single disarticulated chevron may follow ca4. The putative chevron following ca4 is an elongate chevron with the long axis perpendicular to the articular surface. It is tall and narrow, with a maximum dorsoventral dimension much greater than its maximum craniocaudal dimension. The articulation consists of two conjoined nearly circular and slightly convex articular facets that face slightly mediodorsally. The overall outline of the articulation is barbell-shaped. This is in contrast to the chevrons of <italic>Saurornithoides</italic>, whose articulations do not meet at the midline <xref ref-type="bibr" rid="pone.0045203-Barsbold1">[48]</xref>. The somewhat laterally compressed shaft bears two cranial and two caudal projections slightly distal to the articular facet. The cranial projections extend craniodorsally, reaching or slightly surpassing the level of the articulation. Overall these proportions are very similar to cranial chevrons of <italic>Troodon formosus</italic>.</p>
+        <p>Chevrons of both ca7 and ca8 have a much broader-based appearance, with a dorsoventral height only slightly greater than their craniocaudal length. They are also significantly craniocaudally broader in the shaft near the proximal articulation than chevron ca4. Oddly, both shafts appear to angle cranioventrally rather than caudoventrally as would be expected. The hatchet-shaped morphology of a mid-caudal chevron for <italic>Anchiornis</italic> (<xref ref-type="bibr" rid="pone.0045203-Hu2">[57]</xref>, Figure S3f) is not represented in this specimen of <italic>Mei</italic>. It is possible that the chevrons for ca7 and ca8 simply represent hatchet-shaped chevrons whose caudal processes have broken.</p>
+        <p>The chevrons following vertebrae ca9–ca16 have a flat morphology, having a maximum craniocaudal dimension that vastly exceeds their maximum dorsoventral dimension by many times (<xref ref-type="fig" rid="pone-0045203-g003">Figure 3B</xref>). The articular facets, located at mid-length, represent the dorsal-most point of the element. Dorsoventrally flattened extensions run both cranially and caudally from the articular facets. These bifurcate near their ends and may have overlapped with succeeding chevrons. The ventral aspect of these chevrons is flat.</p>
+        <p>Many of the features of the caudal series of <italic>Mei long</italic> (DNHM D2154) compare favorably to the well-preserved tail in <italic>Sinornithoides</italic> <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref>, <xref ref-type="bibr" rid="pone.0045203-Barsbold1">[48]</xref>. The neural spines in both individuals are absent by ca10. The transverse processes become faint ridges after ca9. The chevrons become flat with a similar morphology beginning with ca8 <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref> or ca9 <xref ref-type="bibr" rid="pone.0045203-Barsbold1">[48]</xref>. The transition point in the tail is between ca9 and ca10. The centrum length jumps sharply at this transition point, and the longest caudal centrum is ca13.</p>
+        <p>None of the dorsal ribs of DNHM D2514 are preserved in sufficient detail to warrant description.</p>
+      </sec>
+      <sec id="s3e">
+        <title>Forelimb and Pectoral Girdle</title>
+        <p>The shoulder girdle is preserved in situ (<xref ref-type="fig" rid="pone-0045203-g004">Figure 4</xref>), with the scapula extending caudodorsally from the glenohumeral joint and the coracoids extending towards the midline in a transverse plane. The left and right humeri project caudodorsally and laterodorsally, respectively. The elbow is sharply bent so that the ulna and radius on both sides extend forward and down. Both mani, folded at a 90° angle to the ulna/radius, extend rearward.</p>
+        <fig id="pone-0045203-g004" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0045203.g004</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Detail of left forelimb of <italic>Mei long</italic> DNHM D2514 in articulation.</title>
+            <p>Photograph showing scapula and coracoid (caudolateral view), humerus (mediolateral view), and partial ulna and radius (lateral view), as well as a portion of the right scapula (dorsal view). Lines on the left scapula demarcate border with the coracoid. <bold>Abbreviations</bold>: <bold>co</bold>, coracoid; <bold>h</bold>, humerus; <bold>lsc</bold>, left scapula; <bold>r</bold>, radius; <bold>rsc</bold>, right scapula; <bold>ul</bold>, ulna. Scale bar equals 0.5 cm. [planned for 2/3 page width].</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0045203.g004" xlink:type="simple"/>
+        </fig>
+        <p>The elongate scapular blades run near parallel to the dorsal vertebral column (<xref ref-type="fig" rid="pone-0045203-g001">Figure 1</xref>). The scapula is much shorter relative to the femur in <italic>Mei</italic> than in <italic>Linhevenator</italic> <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref>. The scapular blade is mediolaterally thin and dorsoventrally narrow. It shows a slight but distinct expansion at its caudal end. The cranial end shows no dorsal expansion for a pronounced acromion as in most other theropods. This is similar to the condition seen in <italic>Troodon formosus</italic>. There is also a moderate cranial extension along the line of the dorsal edge of the blade. Just ventral to this expansion is a lateral concavity. The glenoid appears to open ventrally, and the position of the left humerus is consistent with this interpretation (<xref ref-type="fig" rid="pone-0045203-g004">Figure 4</xref>). This is in contrast to the early troodontids, <italic>Sinornithoides</italic> and <italic>Sinovenator,</italic> whose glenoid cavities face mostly caudally <xref ref-type="bibr" rid="pone.0045203-Currie3">[46]</xref> and laterally <xref ref-type="bibr" rid="pone.0045203-Xu4">[14]</xref> respectively. The glenoid opens ventrally in the derived troodontid <italic>Linhevenator</italic> <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref>. The scapula and coracoid on the left side may be fused. When viewed dorsally, the coracoid meets the scapula at an angle of 90° to the long axis of the scapular blade. The coracoid also bears a prominent coracoid tubercle near its ventrolateral border. A slender element, seen only in cross section, near the acromion of the scapula appears to be a clavicle, but must be a rib, as the furcula of <italic>Mei</italic> is thin, but broad <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>. In its breadth, the furcula of <italic>Mei</italic> is more like that of oviraptorids than dromeosaurids <xref ref-type="bibr" rid="pone.0045203-Nesbitt1">[59]</xref>.</p>
+        <p>The humerus has a narrow proximal end terminating in a rounded articulation. The slender shaft arcs slightly craniolaterally resulting in a concave medial edge when viewed distally and a concave caudal edge when viewed laterally. The triangular deltopectoral crest projects craniolaterally. Caudally, a rounded ridge forms its lateral edge, demarking a shallow caudal depression. Overall the deltopectoral crest in <italic>Mei</italic> is relatively short and extends 22% of the length of the humerus (<xref ref-type="fig" rid="pone-0045203-g004">Figure 4</xref>). The deltopectoral crests of other basal troodontids, such as <italic>Sinornithoides</italic> (19 mm and 23% of the humeral length), are similarly short <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref> in contrast to the proportionally long deltopectoral crest seen in <italic>Linhevenator</italic> <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref>. The shaft of the humerus of DNHM D2154 is ∼2.5 mm in diameter at midshaft, but expands mediolaterally at the distal end. The humerus is much more slender compared to its length in <italic>Mei</italic> than in <italic>Linhevenator</italic> <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref>. The humerus is much longer relative to the femur, being 55% of the femur length, than is seen in <italic>Linhevenator</italic> <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref>. A well-developed, groove-like olecranon fossa separates the two distal condyles caudally. The medial condyle has a simple rounded form, while the lateral condyle is slightly divided. The coronoid fossa is a shallow, laterally facing circular depression that sits just proximal to the latter. A small rugose area occupies the lateral edge of the humerus just proximal to this concavity. The geometry of the right elbow does not match that of the left. Furthermore, the distal end of the humerus and proximal ends of the ulna and radius are paler, with a more fibrous bone texture. These features suggest that the right elbow was reconstructed. All descriptions in the preceding paragraph come from the left forelimb.</p>
+        <p>The distal most portions of the left ulna and radius are lost, but comparable portions are preserved on the right side. The ulna has a roughly triangular proximal articulation and an expanded distal end (<xref ref-type="fig" rid="pone-0045203-g004">Figure 4</xref>). This distal articulation remains laterally compressed but is strongly rounded in lateral view. The shaft is laterally compressed, yet nonetheless bowed as in other maniraptorans <xref ref-type="bibr" rid="pone.0045203-Gauthier1">[31]</xref> and compares well to the condition in <italic>Microraptor</italic> (Hwang et al, <xref ref-type="bibr" rid="pone.0045203-Hwang1">[60]</xref> Fig. 20). This is in contrast to <italic>Anchiornis</italic> and <italic>Talos</italic>, which possesses a straight ulna <xref ref-type="bibr" rid="pone.0045203-Hu2">[57]</xref>, <xref ref-type="bibr" rid="pone.0045203-Zanno1">[25]</xref>. The ulna is at least 86% the length of the humerus and more likely greater than 90% of that length (due to estimates of humerus length). In <italic>Sinornithoides</italic>, the ulna is 80% the length of the humerus <xref ref-type="bibr" rid="pone.0045203-Currie3">[46]</xref>.</p>
+        <p>Neither radius is well preserved. The element has a straight, slender shaft with a circular cross-section (<xref ref-type="fig" rid="pone-0045203-g004">Figure 4</xref>). The midshaft diameter measures 1.4 to 1.5 mm. The distal radius is lunate, as in <italic>Sinornithoides</italic> <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref> and <italic>Troodon formosus</italic>.</p>
+        <p>Due to encasing matrix, carpals are not observable in this specimen. The metacarpals are of distinct proportions (<xref ref-type="fig" rid="pone-0045203-g005">Figure 5</xref>). Metacarpal-I appears to have been quite short, with a ginglymoid distal articulation. Total length likely measured about 3.7 mm and about 28% the length of metacarpal-II. As preserved, the orientation of digit-I suggests that neither metacarpal-I nor its digit diverged from digit-II. Thus metacarpal-I many have had a straight rather than divergent morphology, unlike most theropods <xref ref-type="bibr" rid="pone.0045203-Barsbold2">[54]</xref>, <xref ref-type="bibr" rid="pone.0045203-Gilmore2">[61]</xref>–<xref ref-type="bibr" rid="pone.0045203-Carpenter1">[67]</xref>. The elongate and slender metacarpal-II ends with a ginglymoid distal articulation. Metacarpal III is the most unusual, in being nearly as mediolaterally wide (at 0.9 mm) as metacarpal II (at 1.1 mm) and longer. Metacarpal III is 14.3 mm long relative to metacarpal II at 13 mm (<xref ref-type="fig" rid="pone-0045203-g005">Figure 5</xref>). These lengths are estimations, as the proximal end of the metacarpals remain obscured by matrix and the distal ulna. Bone is present lateral to metacarpal II to its proximal end, but whether this is the broken proximal end of metacarpal III or a distal carpal is unclear. In both regards this is unusual for theropods, which typically have a very slender metacarpal III shorter or subequal in length to metacarpal II <xref ref-type="bibr" rid="pone.0045203-Madsen1">[63]</xref>, <xref ref-type="bibr" rid="pone.0045203-Ostrom1">[68]</xref>–<xref ref-type="bibr" rid="pone.0045203-Chiappe1">[70]</xref>. A more robust metacarpal III is seen in <italic>Xiaotingia</italic> <xref ref-type="bibr" rid="pone.0045203-Xu10">[71]</xref>. A slightly longer metacarpal III is seen in <italic>Scansoriopteryx heilmanni</italic> <xref ref-type="bibr" rid="pone.0045203-Czerkas1">[72]</xref>, <italic>Epidendrosaurus ningchengensis</italic> <xref ref-type="bibr" rid="pone.0045203-Zhang1">[73]</xref>, and the ornithomimids <italic>Harpymimus okladnikovi</italic> and <italic>Anserimimus planinychus</italic> <xref ref-type="bibr" rid="pone.0045203-Kobayashi1">[74]</xref>. It is also possible that metacarpal III is simply distally displaced, as is seen in many deinonychosaur specimens <xref ref-type="bibr" rid="pone.0045203-Xu8">[43]</xref>. The shaft of metacarpal III bows out laterally (<xref ref-type="fig" rid="pone-0045203-g005">Figure 5</xref>), and it has a convex extensor surface; the shaft is deeper than broad. Metacarpal III has a rounded, apparently undivided distal articulation.</p>
+        <fig id="pone-0045203-g005" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0045203.g005</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Details of the right manus in lateral view and skull in left lateroventral view.</title>
+            <p>Manus shows the unusual features of reduced divergence in digit I and metacarpal III longer than metacarpal II. <bold>Abbreviations: I-1</bold>, <bold>II-1</bold>, and <bold>II-2</bold>, corresponding manus digit and phalanx; <bold>mcI</bold>, <bold>mcII</bold>, and <bold>mcIII</bold>, metacarpals for digits I–III; and other abbreviations as in <xref ref-type="fig" rid="pone-0045203-g001">Figure 1</xref>. Scale bar equals 0.5 cm.</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0045203.g005" xlink:type="simple"/>
+        </fig>
+        <p>The phalanges of the manus are all narrow and elongate with ginglymoid articulations (<xref ref-type="fig" rid="pone-0045203-g005">Figure 5</xref>). The longest phalanx is I-1 at 14 mm, followed by II-2 (∼13 mm) and III-3 at 10.7 mm. The long penultimate phalanges suggest a well-developed grasping action to the manus <xref ref-type="bibr" rid="pone.0045203-Barsbold3">[65]</xref>. The narrow unguals are typical in form, but only moderately recurved, with pronounced blood grooves and robust flexor tubercles. The ungual of digit I is the largest at 7.3 mm, followed by that of digit II. The unguals lack the dorsoproximal ‘lip’ seen in <italic>Chirostenotes pergracilis</italic> and some other small theropods <xref ref-type="bibr" rid="pone.0045203-Currie4">[75]</xref>.</p>
+      </sec>
+      <sec id="s3f">
+        <title>Hind Limb and Pelvic Girdle</title>
+        <p>Both ilia are exposed in lateral and dorsal views (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2B, C</xref>). The left ilium is slightly crushed, and the dorsal portion of the blade is eroded (<xref ref-type="fig" rid="pone-0045203-g006">Figure 6A</xref>). Only the proximal portions of the pubes are visible (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2C</xref>). Neither ischium is visible.</p>
+        <fig id="pone-0045203-g006" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0045203.g006</object-id>
+          <label>Figure 6</label>
+          <caption>
+            <title>Hindlimb details of <italic>Mei long</italic> DNHM D2514.</title>
+            <p><bold>A</bold>, articulated left hindlimb in lateral view; <bold>B</bold>, distal tibia and metatarsals IV and V of left hindlimb. Arrow and dashed line indicate caudodorsal edge of articular surface; <bold>C</bold>, distal end of tibia in caudodistal view. Dashed line as in <bold>B</bold>. Abbreviations as in <xref ref-type="fig" rid="pone-0045203-g001">Figure 1</xref>. Scale bars equal 0.5 cm.</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0045203.g006" xlink:type="simple"/>
+        </fig>
+        <p>The ilium has a total length of 34.4 mm, which is relatively small (54%) compared to the total length of the femur (64.4 mm). A relatively small ilium is a common paravian feature <xref ref-type="bibr" rid="pone.0045203-Xu4">[14]</xref>, <xref ref-type="bibr" rid="pone.0045203-Hu2">[57]</xref>. The craniocaudally long acetabulum (9.8 mm) is centrally-placed relative to the iliac blade. The articular surface is strongly arched and relatively wide (3.4 mm at mid-length). The relatively small pubic peduncle marks its cranial limit. The supraacetabular rim overhangs the anterior two-thirds of the acetabulum laterally. The caudal most portion of the acetabular surface expands to a sub-circular, craniolaterally everted face. The pubic peduncle is longer and deeper than the ischial peduncle, as seen in many maniraptorans <xref ref-type="bibr" rid="pone.0045203-Currie3">[46]</xref>, <xref ref-type="bibr" rid="pone.0045203-Zanno2">[76]</xref>, <xref ref-type="bibr" rid="pone.0045203-Zhou3">[77]</xref>. The ischial peduncle lacks a distinct articular facet for the ischium.</p>
+        <p>The iliac blade appears both low and short relative to the length of the acetabulum. Although the iliac blade is equally long, both cranial and caudal to the acetabulum, the cranial portion is significantly deeper dorsoventrally (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2C</xref>). Cranial to the pubic pedicel, the blade consists of a vertically oriented, flat to slightly laterally concave lamina with straight cranial and dorsal margins. The ventral border is emarginated. Caudal to the pubic pedicel, the blade changes drastically. The upper edge of the blade angles caudoventrally and, caudal to the ischial pedicel, the blade tapers sharply. The upper edge also flares laterally, slightly overhanging the more ventral portions. Consequently, this dorsoventrally narrowing portion of the iliac blade has a concave lateral aspect.</p>
+        <p>As the blade narrows dorsoventrally, it also flares laterally, accommodating the much longer 4<sup>th</sup> and 5<sup>th</sup> sacral processes (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2B</xref>). Thus the caudal half of the pelvis is significantly wider than the cranial. Though caudal widening of the ilium is known for deinonychosaurs <xref ref-type="bibr" rid="pone.0045203-Hu2">[57]</xref>, <xref ref-type="bibr" rid="pone.0045203-Hwang1">[60]</xref>, <xref ref-type="bibr" rid="pone.0045203-Norell4">[69]</xref>, such marked sinuous structure of the ilia has not been demonstrated in this group (though it may be present in <italic>Microraptor</italic>, the crushing of the specimens prevents evaluation). The preserved sacrum of <italic>Anchiornis</italic> <xref ref-type="bibr" rid="pone.0045203-Hu2">[57]</xref> does not support such dramatic caudal flaring. Dramatic caudal flaring of the ilium is a derived characteristic of therizinosaurs (e.g. <italic>Segnosaurus</italic> <xref ref-type="bibr" rid="pone.0045203-Clark1">[78]</xref>, <italic>Nothronychus</italic> <xref ref-type="bibr" rid="pone.0045203-Zanno3">[79]</xref>), but is ambiguous in the basal therizinosauroid <italic>Falcarius</italic> <xref ref-type="bibr" rid="pone.0045203-Zanno2">[76]</xref>. Despite having similar degrees of caudal flaring to <italic>Mei</italic>, the dorsal margins of these thereizinosauroids are not as markedly sigmoid, due to the greater lateral flaring of the preacetabular ilium <xref ref-type="bibr" rid="pone.0045203-Clark1">[78]</xref>. The caudal termination of the ilium of <italic>Mei</italic> is relatively flat ventrally (<xref ref-type="fig" rid="pone-0045203-g002">Fig. 2C</xref>) but rounded in dorsal view (<xref ref-type="fig" rid="pone-0045203-g002">Fig. 2B</xref>). The depth of the cranial portion of the blade is 8.3 mm. The depth of the pelvis at the pubic pedicel is 12.3 mm and the depth of the pelvis at the ischial pedicel is 7.7 mm. The interior length of the acetabulum is 7.8 mm. The sacrum obscures much of the medial aspect of the ilium. The caudal portion of the ilium is inclined ventromedially from just behind the 3<sup>rd</sup> sacral process to the caudal limit of the bone. The postacetabular blade of the ilium is longer than the preacetabular blade. This makes the ilium dolichoiliac. The preacetabular blade of the ilium is 11.2 mm long. The postacetabular blade of the ilium is 12.5 mm long.</p>
+        <p>The proximal ends of both pubes are preserved angling cranioventrally and towards the midline (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2C</xref>), suggesting that the pelvis of DNHM D2154 has a forward-facing pubis. This is in contrast to the basal troodontid <italic>Sinovenator</italic>, which has a retroverted pubis <xref ref-type="bibr" rid="pone.0045203-Xu4">[14]</xref>. However, other basal troodontids (<italic>Sinusonasus</italic>, <italic>Sinornithoides</italic>) also have a cranioventrally directed pubis <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref>, <xref ref-type="bibr" rid="pone.0045203-Xu8">[43]</xref>. The pubis has a vertically oriented contact for the ischium, a fairly broad (3.6 mm wide) slightly laterally facing contribution to the acetabulum and a small, flat articular facet for the ilium in a dorsal plane. A distinct depression marks the lateral side of the proximal end, just before it tapers to the narrow shaft. The proximal end of the pubis is similarly concave in medial aspect.</p>
+        <p>Neither the left nor the right femur is well exposed, with the pelvic bones and matrix obscuring portions on both sides (<xref ref-type="fig" rid="pone-0045203-g002">Figure 2C</xref>, <xref ref-type="fig" rid="pone-0045203-g006">6A</xref>). In contrast to the gently craniocaudally arched femur of the type, the shaft in this specimen appears straight (<xref ref-type="fig" rid="pone-0045203-g006">Figure 6A</xref>). This may reflect lithostatic crushing in the referred specimen. The total femur length is estimated at 65 mm (80% the length of the type specimen). This length is small, even for the smallest troodontids: that of <italic>Anchiornis</italic> measures 66.2 mm <xref ref-type="bibr" rid="pone.0045203-Hu2">[57]</xref>; <italic>Sinusonasus</italic>, 141 mm <xref ref-type="bibr" rid="pone.0045203-Xu8">[43]</xref>; and <italic>Sinornithoides,</italic> 140 mm <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref>. The left femur is undistorted and largely circular in cross-section, the right femur is craniocaudally flattened. A ridge extends distally off the lesser trochanter and marks the craniolateral margin of the proximal shaft.</p>
+        <p>As with the femur, much of the tibia is obscured (<xref ref-type="fig" rid="pone-0045203-g006">Figure 6A</xref>). The estimated total length of the tibia and the astragalus is 86.1 mm. The shaft of the tibia is straight. It is subtriangular in cross-section proximally, becoming a flattened oval distally. The body of the astragalus appears to be fused to the tibia forming a tibiotarsus similar to that seen in <italic>Sinusonasus</italic> <xref ref-type="bibr" rid="pone.0045203-Xu8">[43]</xref>. However, a broken corner suggests that the ascending process was not fused. There is no indication of a free calcaneum, so that element is either fully fused to the astragalus or not ossified in this taxon. The calcaneum is completely fused to the astragalus in <italic>Sinornithoides</italic> <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref> and large individuals of <italic>Troodon formosus</italic> <xref ref-type="bibr" rid="pone.0045203-Zanno1">[25]</xref>. In contrast, the calcaneum and astragalus are unfused in <italic>Talos</italic> <xref ref-type="bibr" rid="pone.0045203-Zanno1">[25]</xref>. The articular surface is a smooth roller-like structure with raised lips both medially and laterally (<xref ref-type="fig" rid="pone-0045203-g006">Fig. 6B, C</xref>). These ridges have their beginnings on the distal portion of the tibial shaft. The articular surface sweeps through a large angle of around 270°, continuing on to the posterior surface of the astragalus and tibia. The tibia and astragalus of <italic>Zanabazar junior</italic> match the condition seen in DNHM D2154, except for lacking the articular surface extending onto the caudal face <xref ref-type="bibr" rid="pone.0045203-Norell1">[47]</xref>. A juvenile specimen of <italic>Philovenator curriei</italic> possesses an astragalus that covers the entire distal end of the tibia, but does not extend on to the caudal surface of the tibia <xref ref-type="bibr" rid="pone.0045203-Currie5">[80]</xref>.</p>
+        <p>The fibula is a very slender element, whose proximal end remains buried in matrix. It bears a small, but distinct iliofibularis tubercle about 20% down its length from the proximal end. The tubercle measures about 2.5 mm in length and faces craniolaterally. This is similar to the laterally projecting process of <italic>Sinornithoides</italic> <xref ref-type="bibr" rid="pone.0045203-Currie3">[46]</xref>. The remainder of the fibular shaft is slender, extends onto the cranial aspect of the tibia, and appears to reach the proximal tarsals. The shaft diameter at mid-length is only 0.7 mm and significantly narrower than that of the tibia. As in most Asian troodontids, the fibula and the tibia are not fused to each other <xref ref-type="bibr" rid="pone.0045203-Xu8">[43]</xref>, <xref ref-type="bibr" rid="pone.0045203-Currie3">[46]</xref>, <xref ref-type="bibr" rid="pone.0045203-Norell1">[47]</xref>, <xref ref-type="bibr" rid="pone.0045203-Osmlska1">[81]</xref>.</p>
+        <p>The pes is only partially exposed. Visible portions of the right pes include distal metatarsal III, distal metatarsal IV, phalanx II-2, unguals II-3, and III-1 (<xref ref-type="fig" rid="pone-0045203-g001">Figure 1</xref>). Visible portions of the left pes include metatarsal IV, metatarsal V, phalanx III-3, phalanges IV-1, IV-2, IV-3 and IV-4 (<xref ref-type="fig" rid="pone-0045203-g006">Fig. 6A</xref>).</p>
+        <p>The metatarsals are very long relative to the femur, as is seen in <italic>Sinornithoides</italic> <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref> and in contrast to <italic>Linhevenator</italic> <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref>. Metatarsal III is observable in cranial view only. The shaft of metatarsal III appears wedged between those of II and IV distally. The flat to slightly concave cranial aspect of the shaft expands distally, reaching a maximum width of about 3.5 mm at a point 11 mm proximal to the distal end. The shaft then narrows, particularly emarginating on the medial side where it creates a gap between metatarsals II and III, before it expands slightly at the distal articular surface. The distal articulation is smoothly rounded and undivided. The total length of metatarsal III and the overall metatarsus is estimated to be 49 mm. Metatarsal II appears shorter than both III and IV. Metatarsal IV is elongate but slightly shorter than metatarsal III, mediolaterally compressed with a narrow distal condyle and a lateral flange extending caudally from its shaft. A small collateral ligament pit sits on the lateral surface just proximal to the distal articulation. Metatarsal IV appears more slender than metatarsal III. This is in contrast to the relatively robust metatarsal IV found in the more derived troodontids <italic>Sinusonasus</italic> <xref ref-type="bibr" rid="pone.0045203-Xu9">[44]</xref>, <italic>Tochisaurus nemgetensis</italic> <xref ref-type="bibr" rid="pone.0045203-Kurzanov1">[82]</xref>, <italic>Borogovia gracilis</italic> <xref ref-type="bibr" rid="pone.0045203-Osmlska1">[81]</xref>, <italic>Sinornithoides</italic> <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref>, <xref ref-type="bibr" rid="pone.0045203-Currie3">[46]</xref>, the unidentified troodontid IGM 100/44 (elsewhere SPS 100/44) <xref ref-type="bibr" rid="pone.0045203-Barsbold2">[54]</xref>, <italic>Saurornithoides mongoliensis</italic> <xref ref-type="bibr" rid="pone.0045203-Norell2">[55]</xref>, <italic>Talos</italic> <xref ref-type="bibr" rid="pone.0045203-Zanno1">[25]</xref> and <italic>Troodon formosus</italic> <xref ref-type="bibr" rid="pone.0045203-Russell2">[83]</xref>, <xref ref-type="bibr" rid="pone.0045203-Wilson2">[84]</xref>. The other Liaoning troodontid, <italic>Sinovenator</italic>, appears to have a third condition where metatarsal IV is significantly more robust than metatarsal III, but only slightly more robust than metatarsal II <xref ref-type="bibr" rid="pone.0045203-Xu4">[14]</xref>. Metatarsal V is a narrow splint-like bone located at the caudolateral corner of metatarsal IV <xref ref-type="bibr" rid="pone.0045203-Xu4">[14]</xref>, <xref ref-type="bibr" rid="pone.0045203-Currie3">[46]</xref>. It appears to extend and re-contact metatarsal IV just prior to the beginning of the posterior flange of the latter’s shaft, as in the juvenile troodontid described by Currie and Peng <xref ref-type="bibr" rid="pone.0045203-Currie5">[80]</xref>.</p>
+        <p>Just enough of digit II is visible to indicate a retracted phalanx II-2 supporting the ungual. Phalanx III-1 appears to have an undivided proximal articulation but a ginglymoid distal articulation. Remaining phalanges III-3, IV-1, IV-2, IV-3 and IV-4 have rounded distal articulations and concave proximal articulations with well-developed collateral ligament pits distally, at least on the lateral side, and shafts that arch slightly dorsally. Digit III is likely significantly longer than digit IV, in contrast to some other more derived troodontids <xref ref-type="bibr" rid="pone.0045203-Currie3">[46]</xref>, <xref ref-type="bibr" rid="pone.0045203-Osmlska1">[81]</xref>, <xref ref-type="bibr" rid="pone.0045203-Russell2">[83]</xref>.</p>
+      </sec>
+      <sec id="s3g">
+        <title>Histology</title>
+        <p>We removed a mid-length section of the right tibia and fibula of DNHM D2154 for histologic sampling. The small size of the individual and its articulated nature allowed for the tibia and fibula to be thin-sectioned together (<xref ref-type="fig" rid="pone-0045203-g007">Figure 7</xref>). The fibula cross-section measures 0.86 by 0.63 mm and lacks an open medullary cavity (<xref ref-type="fig" rid="pone-0045203-g007">Fig. 7B</xref>). Instead, the cross-section possesses two distinct histologic regions: an interior, elliptical region of fibro-lamellar bone with approximately 20 longitudinally oriented primary osteons; and multiple exterior chevron-shaped zones with diffuse banding and only a few, more circumferentially arranged osteons. The latter zones narrow both anteriorly and posteriorly and show a parallel extinction pattern under crossed-polars indicative of lamellar bone.</p>
+        <fig id="pone-0045203-g007" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0045203.g007</object-id>
+          <label>Figure 7</label>
+          <caption>
+            <title>Histology of the right tibia and fibula of <italic>Mei long</italic>, DNHM D2514.</title>
+            <p><bold>A</bold>, cross-section of tibia and fibula in articulation. <bold>B</bold>, partial cross-section of fibula. <bold>C</bold>, partial cross-section of tibia. Note two zones of fibro-lamellar bone separated by a LAG in the tibia and the largely avascular lamellar bone that marks the periphery of both elements. The latter can be interpreted as an external fundamental system. Abbrevaitions: <bold>el</bold>, endosteal lamellar bone; <bold>fl</bold>, fibro-lamellar bone; <bold>fl1</bold>, first and interior zone of fibro-lamellar bone; <bold>fl2</bold>, second and more exterior zone of fibro-lamellar bone; <bold>LAG</bold>, line of arrested growth; <bold>mc</bold>, medullary cavity; <bold>pl</bold>, peripheral lamellar bone. Scale bars equal 0.5 mm in <bold>A</bold> and 0.2 mm in <bold>B</bold> and <bold>C</bold>.</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0045203.g007" xlink:type="simple"/>
+        </fig>
+        <p>The elliptical cross-section of the tibia measures 3.4 deep by 4.85 mm medio-laterally and has a straighter anterior face and a more convex posterior face (<xref ref-type="fig" rid="pone-0045203-g007">Fig. 7C</xref>). The well-developed medullary cavity mirrors the overall cross-section in shape. The cavity lacks any cross-cutting trabeculae. Permineralization consists of orange to opaque mineral growth along the interior of the cortical bone from which emerge small lath-like crystals. Sparry calcite fills the central and a majority portion of the medullary cavity.</p>
+        <p>Cortical bone thickness ranges from 0.54 to 0.93 mm. A thin, 0.001–0.05 mm thick band of circumferential lamellar bone, devoid of osteons marks the endosteal portion of the cortex. The orientation of the long axes of lacunae and of the crystals as visible under crossed polars concurs with a circumferential arrangement.</p>
+        <p>The majority of the cortex consists of two zones of fibrolamellar tissue separated by a band of circumferential and largely avascular bone with a single line of arrested growth (LAG) (<xref ref-type="fig" rid="pone-0045203-g007">Fig. 7</xref>). The interior zone of fibrolamellar bone is 0.32 to 0.50 mm thick and possesses longitudinally aligned osteons. These osteons are regularly spaced but do not form discrete circumferential bands. The band separating the two zones possesses circumferentially oriented lacunae and crystals. The latter are evidenced by parallel extinction patterns under crossed polars. This band also bears a distinct LAG visible through the entire circumference and only a few osteons occur in proximity to the LAG. The second, more external zone of fibrolamellar tissue is largely similar to the interior one and measures 0.30–0.50 mm in thickness. It differs in that not all the osteons are longitudinally oriented and instead include some circumferentially arranged osteons primarily close to the separating band and others radially oriented.</p>
+        <p>The periphery of the bone along the posterior aspect shows a decrease in osteon and vessel density vessels by as much as 0.2 mm. Additionally, there is a partial realignment of osteon orientation. In contrast, a circumferentially oriented band of avascular lamellar bone with circumferentially oriented lacunae and crystals comprises the remaining two-thirds of the periphery. This tissue reaches a maximum thickness of 0.15 mm on the anterior aspect of the cross-section and then tapers around the lateral and medial edges. LAGs or bands within this tissue are consequently not traceable through the entire bone’s circumference.</p>
+      </sec>
+      <sec id="s3h">
+        <title>Phylogenetic Analysis</title>
+        <p>A total of 21 characters had coding changes, most of these due to better preservation or exposure of several regions of the skeleton (dentary, metacarpals, proximal phalanges, ilium) in DMNH D2154 compared to the holotype. The specific coding changes to the matrix can be found in <xref ref-type="table" rid="pone-0045203-t001">Table 1</xref>. Seventeen characters were changed from “?” to “0.” Characters 214, 229, and 337 were changed because the better preservation of the ilium of DMNH D2154 provided new information. Characters 224, 231, 253 and 261 were changed because the orientation of the skull in DMNH D2154 provides a different view of the dentary, displaying details that were more obscured in the holotype’s skull. Better exposure of the maxillary teeth permitted coding of character 259. Characters 284, 285, 288, 292, 293, 294, 302, 328 and 344 were recoded because the left manus of DMNH D2154 is more openly preserved than the mani of the holotype and permits all of the requisite measurements to be made. Two characters were changed from “?” to “1.” Character 226 was originally not coded because the cranial surfaces of the distal ends of both holotype humeri face into matrix or other skeletal elements. These areas are exposed in DMNH D2154. Character 303 was originally coded as “?” because of the aforementioned poor preservation of the holotype ilia.</p>
+        <table-wrap id="pone-0045203-t001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0045203.t001</object-id><label>Table 1</label><caption>
+            <title>Character changes to the coding for <italic>Mei long</italic> from Xu et al. (2011).</title>
+          </caption><alternatives>
+            <graphic id="pone-0045203-t001-1" mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0045203.t001" xlink:type="simple"/>
+            <table>
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Coding changed from “?” to “0″</td>
+                  <td align="left" colspan="2" rowspan="1">Coding changed from “?” to “1″</td>
+                  <td align="left" colspan="2" rowspan="1">Characters which are polymorphic for <italic>Mei long</italic></td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">214</td>
+                  <td align="left" colspan="1" rowspan="1">226</td>
+                  <td align="left" colspan="3" rowspan="1">139</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">224</td>
+                  <td align="left" colspan="1" rowspan="1">303</td>
+                  <td align="left" colspan="3" rowspan="1">199</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">229</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">231</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">253</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">259</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">261</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">284</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">285</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">288</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">292</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">293</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">294</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">302</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">328</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">337</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">344</td>
+                  <td align="left" colspan="1" rowspan="1"/>
+                  <td align="left" colspan="3" rowspan="1"/>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives></table-wrap>
+        <p>Two characters were found to be polymorphic between the two specimens of <italic>Me</italic>i. Character 139, “Scapula longer than humerus (0) or humerus longer than scapula (1),” was coded as “1” for the holotype and “0” in the Dalian specimen. The proportions from the two specimens closely straddle the demarking line. Character 199, “Distal end of metatarsal III smooth, not ginglymoid (0) or with developed ginglymus (1),” was coded as “1” for the holotype and “0” for the Dalian specimen. The complete matrix can be found in the attached nexus file (<xref ref-type="supplementary-material" rid="pone.0045203.s003">Analysis S1</xref>). We follow Makovicky et al. <xref ref-type="bibr" rid="pone.0045203-Makovicky3">[85]</xref> and Turner et al. <xref ref-type="bibr" rid="pone.0045203-Turner2">[86]</xref> in treating <italic>Nequenraptor argentinius</italic> <xref ref-type="bibr" rid="pone.0045203-Novas1">[87]</xref> as a junior synonym of <italic>Unenlagia comahuensis</italic> <xref ref-type="bibr" rid="pone.0045203-Calvo1">[88]</xref>.</p>
+        <p>The analysis yielded 36 shortest trees with a length of 1,321 steps. The CI and RI of these trees is 0.336 and 0.743 respectively. The resulting strict consensus tree (<xref ref-type="fig" rid="pone-0045203-g008">Figure 8</xref>) is generally similar in overall topology of the clade Troodontidae to <xref ref-type="fig" rid="pone-0045203-g008">Figure 8</xref> of Xu et al. <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref>. The position of <italic>Mei</italic> is recovered as a basal troodontid (<xref ref-type="fig" rid="pone-0045203-g008">Figure 8</xref>), as occurs in Xu et al. <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref> and is consistent with other recent analyses of the group <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref>–<xref ref-type="bibr" rid="pone.0045203-Turner1">[27]</xref>. <italic>Mei</italic> is in a polytomy with <italic>Byronosaurus</italic> and <italic>Talos</italic>. There is reduced resolution between <italic>Sinornithoides</italic> and IGM 100/44. The relationships among the more derived troodontids show an increased resolution, with <italic>Philovenator</italic> recovered as the sister taxon to <italic>Linhevenator</italic>, and <italic>Zanabazar</italic> and <italic>Saurornithoides</italic> being recovered in a small clade. The relationships between <italic>Troodon</italic> and these other parings remain unresolved. As mentioned by Zanno et al. <xref ref-type="bibr" rid="pone.0045203-Zanno1">[25]</xref>, a complete reevaluation of North American troodontid specimens is necessary to improve resolution in the crown of Troodontidae.</p>
+        <fig id="pone-0045203-g008" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0045203.g008</object-id>
+          <label>Figure 8</label>
+          <caption>
+            <title>Phylogenetic relationships of <italic>Mei long</italic> within paravian portion of the fuller analysis of Coelurosauria.</title>
+            <p>See <xref ref-type="supplementary-material" rid="pone.0045203.s001">Figure S1</xref> for the remainder of the tree. Strict (Nelson’s) Consensus of 36 most parsimonious trees with a length of 1321 steps resulting from the analysis of the matrix from Xu et al. <xref ref-type="bibr" rid="pone.0045203-Xu7">[24]</xref> with <italic>Talos sampsoni</italic> added. Numbers below branches represent Bremer decay indices greater than one. Protocol in text.</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0045203.g008" xlink:type="simple"/>
+        </fig>
+        <p><italic>Talos</italic> is recovered in a polytomy with <italic>Mei</italic>, <italic>Byronosaurus</italic>, and a clade including all more crownward troodontids. A previous analysis has recovered <italic>Talos</italic> closer to <italic>Zanabazar</italic>, <italic>Troodon</italic>, and <italic>Saurornithoides</italic> <xref ref-type="bibr" rid="pone.0045203-Zanno1">[25]</xref>, though the same study also recovered <italic>Talos</italic> close to <italic>Bryonosaurus</italic> in one alternate configuration. It is interesting that these two genera are again closely recovered, especially since they have very little overlapping material <xref ref-type="bibr" rid="pone.0045203-Zanno1">[25]</xref>, <xref ref-type="bibr" rid="pone.0045203-Makovicky1">[42]</xref>. Given the incomplete nature of <italic>Talos</italic>, the lack of cranial material, and the coding of this taxon from the literature, we would strongly caution that this result is preliminary. We agree with others that more complete material for several troodontid species is necessary to better resolve troodontid phylogeny <xref ref-type="bibr" rid="pone.0045203-Zanno1">[25]</xref>. This analysis demonstrates that the new morphological findings from the Dalian specimen do not significantly alter the position of <italic>Mei long</italic>.</p>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <title>Discussion</title>
+      <p>Using the diagnosis of Makovicky and Norell <xref ref-type="bibr" rid="pone.0045203-Makovicky2">[49]</xref>, several unambiguous characters diagnose specimen DNHM D2154 to Troodontidae. The labial face of the dentary bears a groove that contains exits for neurovascular foramina. The quadrate bears a pneumatic foramen on its caudal aspect. There are a large number of teeth and the teeth of the anterior dentary and maxilla are closely packed. The distal caudal vertebrae lack a neural spine but instead bear a sulcus on the dorsal midline.</p>
+      <p>Specimen DNHM D2154 is referable to <italic>Mei long</italic> <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref> on the basis of sharing the following diagnostic traits: a troodontid possessing and extremely large nares extending caudally over one half of the maxillary tooth row <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>; closely packed middle maxillary teeth; maxillary tooth row extending caudally to the level of the preorbital bar <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>; and the most proximal end of the pubic shaft is significantly compressed craniocaudally and extends laterally just ventral to the articulation with the ilium <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>.</p>
+      <p>The cervical vertebrae are similar in overall form to those known from other troodontids <xref ref-type="bibr" rid="pone.0045203-Young1">[52]</xref>, <xref ref-type="bibr" rid="pone.0045203-Bever1">[34]</xref>, <xref ref-type="bibr" rid="pone.0045203-Osborn1">[40]</xref>, <xref ref-type="bibr" rid="pone.0045203-Elzanowski2">[53]</xref>. The low neural spines and a ventral keel of DMNH D2154 are diagnostic for troodontids <xref ref-type="bibr" rid="pone.0045203-Barsbold1">[48]</xref>. The specimen shares the following characteristics with <italic>Saurornithoides mongoliensis</italic> <xref ref-type="bibr" rid="pone.0045203-Norell2">[55]</xref>: (1) the position of the parapophyses, (2) the concave cranial articular surface of the centrum, (3) the position of pneumatic openings, (4) long prezygapophyses that diverge from the midline, and (5) round and concave postzygapophyseal articular surface. As in <italic>Sinornithoides</italic> <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref>, the centra are parallelogram-shaped in lateral view (<xref ref-type="fig" rid="pone-0045203-g003">Fig. 3A</xref>), and the ventral surface of the centra are flat anteriorly and slightly keeled posteriorly.</p>
+      <p>Two features with potentially important functional implications are the lengthening of metacarpal III beyond that of II and the broad and posterioly expanded pelvis. An elongate digit III has been linked with arboreality <xref ref-type="bibr" rid="pone.0045203-Czerkas1">[72]</xref>. Although some posterior flaring may occur in the pelvis of dromaeosaurids including <italic>Microraptor</italic> <xref ref-type="bibr" rid="pone.0045203-Hwang1">[60]</xref>, <xref ref-type="bibr" rid="pone.0045203-Norell5">[89]</xref>, the sacrum of <italic>Mei long</italic> is noteworthy for its breadth, particularly in one of the smallest troodontids.</p>
+      <p>Despite the wealth of anatomical detail preserved in this nearly complete specimen, a recoding of the species for the characters in the phylogenetic matrix of Xu et al. <xref ref-type="bibr" rid="pone.0045203-Xu6">[23]</xref> yielded few changes in its position in Troodontidae. The most significant changes were a small loss of resolution between <italic>Sinornithoides</italic> and IGM 100/44, and a loss of resolution around <italic>Mei</italic> relating to the position of <italic>Talos</italic> and <italic>Byronosaurus</italic>. The relative position of <italic>Mei long</italic> is not significantly affected, however.</p>
+      <sec id="s4a">
+        <title>Maturity</title>
+        <p>Although DNHM D2154 exhibits several juvenile attributes, the degree of axial fusion, limb proportions, bone surface texture, and bone histology argue for a mature individual. Several of the features of the vertebral column indicate the specimen is somatically mature. As assessed on cervicals 4 and 6, the cervical arches and centra are fully fused. The dorsal arches also appear to be fully fused to the centra. The arches and spines of the sacral vertebrae are fused into a single neural platform bearing one blade-like spine. All of the caudal neural arches that are visible are fully fused. The fusion of neural arches to centra has been shown to be a good proxy of maturity in crocodyliform archosaurs <xref ref-type="bibr" rid="pone.0045203-Brochu1">[90]</xref> and suggested to be useful in theropod dinosaurs <xref ref-type="bibr" rid="pone.0045203-Makovicky4">[91]</xref>. Brochu <xref ref-type="bibr" rid="pone.0045203-Brochu1">[90]</xref> observed a sequence of fusion beginning with the caudal vertebrae and progressing cranially with increasing maturity. In <italic>Troodon formosus</italic> specimens from Montana, fusion of vertebrae to form the sacrum occurs after neurocentral fusion is completed throughout the vertebral column and in a presumably reproductively active adult (MOR 748) associated with eggs <xref ref-type="bibr" rid="pone.0045203-Varricchio2">[92]</xref>. That all of the observed neural arches, including those of the cervical series as well as the sacrum, are fused in DNHM D2154, suggests that the animal was sexually mature and approaching full maturity at the time of death. This conclusion is further supported by the bone surface texture.</p>
+        <p>The surfaces of the long bones are smooth and the bone appears dense. This is in contrast to the porous texture noted in embryonic bird bones <xref ref-type="bibr" rid="pone.0045203-Sanz1">[93]</xref> and the grooved textures seen in more mature, but still young birds <xref ref-type="bibr" rid="pone.0045203-TumarkinDeratzian1">[94]</xref>. These observations are deemed relevant in light of the theropod ancestry of birds <xref ref-type="bibr" rid="pone.0045203-Ostrom2">[95]</xref>–<xref ref-type="bibr" rid="pone.0045203-Padian1">[98]</xref>.</p>
+        <p>Several histologic features argue that DNHM D2154 represents a mature individual probably more than two years old. First, the periphery of both elements lacks any developing primary osteons. Instead, circumferentially oriented lamellar tissue comprises the bulk of the exterior bone. The thickness of this slow-growing tissue along the cranial aspect of the tibia far exceeds that separating the two zones of fibrolamellar tissue, suggesting a longer and more protracted period of slow growth than that associated with the preserved LAG. This peripheral tissue has the appearance of an external fundamental system, and its presence is consistent with the finished appearance of bone surfaces throughout the skeleton noted above. Additionally, the presence of inwardly growing endosteal lamellar bone in the tibia indicates that the medullary cavity was not expanding. Consequently, growth appears to have been minimal at the time of death in this individual. The two similarly sized zones of fibro-lamellar tissue separated by a LAG in the tibia show that earlier and otherwise rapid growth had experienced a single slowdown. Because earlier expansion of the medullary cavity may have erased earlier LAGs, we retrocalculated the presence of LAGs using the thickness of the second zone of fibro-lamellar bone and the bone diameter represented by the preserved LAG. Potentially, remodeling of the relatively large medullary cavity of the tibia could have removed one or possibly two earlier LAGs. Thus, interpreting the preserved LAG and the exterior lamellar bone as annual in origin would imply an age of minimally over two and possibly over four years old.</p>
+        <p>In contrast to the above, a few features of the specimen are typically associated with immaturity. The cervical ribs are unfused. The paired frontals and possibly the nasals are not fused. While typically indicating immaturity <xref ref-type="bibr" rid="pone.0045203-Balanoff1">[99]</xref>, unfused frontals are also seen in some large individuals of <italic>Troodon</italic>, e.g. MOR 553 <xref ref-type="bibr" rid="pone.0045203-Zanno1">[25]</xref>, indicating that they may not be good indicators of immaturity in troodontids. The shape of the skull may also be typical of immature individuals <xref ref-type="bibr" rid="pone.0045203-Bever1">[34]</xref>, <xref ref-type="bibr" rid="pone.0045203-TumarkinDeratzian1">[94]</xref>, <xref ref-type="bibr" rid="pone.0045203-Horner1">[100]</xref>. The type of <italic>Mei long</italic> also exhibits unfused nasals and frontals, and has a skull with a steep rostral profile <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>. One possible conclusion is that <italic>Mei long</italic> is a paedomorphically small troodontid and these features are typically juvenile theropod features retained into adulthood. This might explain the juxtaposition of juvenile and adult features seen in these specimens.</p>
+        <p>This <italic>Mei long</italic> specimen is similar in size to <italic>Anchiornis</italic>, with a slightly longer femur but shorter tibiotarsus and metatarsals. The equation of Anderson et al. <xref ref-type="bibr" rid="pone.0045203-Anderson1">[101]</xref> estimates a mass for DNHM D2154 of approximately 420 g. Thus, <italic>Mei long</italic>, including the type, is one of the smallest species among non-avian dinosaurs <xref ref-type="bibr" rid="pone.0045203-Turner2">[86]</xref>.</p>
+        <p>Turner et al. <xref ref-type="bibr" rid="pone.0045203-Turner2">[86]</xref> argued that small body size was primitive for all Paraves, as well as both the Troodontidae and Dromaeaosauridae. Additional description and phylogenetic reconsideration of a second <italic>Mei long</italic> specimen, which is mature and relatively basally positioned within Troodontidae, lends further support to the Turner et al. <xref ref-type="bibr" rid="pone.0045203-Turner2">[86]</xref> hypothesis.</p>
+        <p>As evidenced by <italic>Mei long</italic>, the size reduction of paravians relative to more primitive theropods was apparently not accomplished by a major change in growth. <italic>Mei long</italic>, despite a body size orders of magnitude smaller, exhibits multi-year growth and cortical bone with zones of fibro-lamellar bone separated by LAGs as found in more basal theropods like <italic>Megapnosaurus</italic> (formerly <italic>Syntarsus</italic>), <italic>Allosaurus</italic>, and tyrannosaurids <xref ref-type="bibr" rid="pone.0045203-Chinsamy1">[102]</xref>–<xref ref-type="bibr" rid="pone.0045203-Horner2">[105]</xref>. This primitive growth pattern was then maintained through troodontids <xref ref-type="bibr" rid="pone.0045203-Zanno1">[25]</xref>, <xref ref-type="bibr" rid="pone.0045203-Sanz1">[93]</xref>, <xref ref-type="bibr" rid="pone.0045203-Chinsamy1">[102]</xref>, <xref ref-type="bibr" rid="pone.0045203-Varricchio3">[106]</xref>, <xref ref-type="bibr" rid="pone.0045203-Erickson3">[107]</xref>.</p>
+      </sec>
+      <sec id="s4b">
+        <title>Behavioral and Taphonomic Implications</title>
+        <p>A major portion of the original description of <italic>Mei long</italic> involves discussion of the significance of the articulated position of the skeleton and the mode of preservation of the specimen <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>. Subsequent studies have provided alternative processes that could have produced the posture of the specimen, requiring a more detailed treatment of the position of the specimen <xref ref-type="bibr" rid="pone.0045203-Zhao1">[13]</xref>, <xref ref-type="bibr" rid="pone.0045203-Meng1">[15]</xref>. Specimen DNHM D2154 retains a nearly identical posture in comparison to the type specimen of <italic>Mei long</italic>. In both, the tail curls forward and under the neck, hind and fore limbs lie folded beneath the body, and the neck and head curve back between the shoulder and folded elbow toward the hindlimb (<xref ref-type="fig" rid="pone-0045203-g001">Fig. 1</xref>). They differ primarily in that in DNHM D2154 the neck arches to the left rather than to the right as in the holotype <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>.</p>
+        <p>The position of these <italic>Mei long</italic> specimens also matches that of the holotype of <italic>Sinornithoides</italic> <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref>, <xref ref-type="bibr" rid="pone.0045203-Currie3">[46]</xref>. While much of the dorsal half of that specimen had been eroded before discovery, what remains is consistent with the specimens of <italic>Mei long</italic>. The legs are folded and the tail is curled in front of the feet. Further, the skull is preserved behind the left elbow, above the manus. The arms are folded at the sides, with the elbows pointing laterally to dorsolaterallym and the manual digits are folded under the body towards the feet, with digit I closest to the hypothesized ground. The <italic>Sinorntihoides</italic> specimen comes from a sandstone of the largely aeolian Eiginhelue (Yiginholo) Formation of the Ordos Basin, Inner Mongolia, China <xref ref-type="bibr" rid="pone.0045203-Russell1">[36]</xref>, <xref ref-type="bibr" rid="pone.0045203-Jerzykiewicz1">[108]</xref>.</p>
+        <p>The presence of three specimens representing two troodontid species in nearly identical positions suggests that the position of these animals is not random. Xu and Norell <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref> interpreted this posture as a stereotypical brooding or sleeping position and suggest three implications. First, preservation occurred in such a manner that burial retained the life posture of the animal as it lay resting on the ground. This may have resulted from Pompei-like deposition of tuffaceous ashes. Further, this posture represents a behavior shared by theropods such as troodontids and perhaps oviraptorids with modern birds. Finally, this posture may have served to reduce surface area and conserve heat for a homeothermic physiology <xref ref-type="bibr" rid="pone.0045203-Xu5">[16]</xref>.</p>
+        <p>The preserved postures of these troodontids differ markedly from some perimortem postures resulting from a variety of causes of death. An opisthotonic posture consists of hyperextension of the spine with both neck and tail curving over the back. According to one proposal, this posture represents death throes and a response of the central nervous system to various afflictions such as asphyxiation, toxins, or infections <xref ref-type="bibr" rid="pone.0045203-Faux1">[109]</xref> (but see an opposing proposal in <xref ref-type="bibr" rid="pone.0045203-Reisdorf1">[110]</xref>). The inferred cause of death for the Jehol Biota in plinean ash-fall scenarios is often asphyxiation due to exposure to toxic volcanic gasses or ash <xref ref-type="bibr" rid="pone.0045203-Guo1">[111]</xref>. The troodontid specimens also lack the “pugilistic” hyperflexion of hands and toes as commonly seen in humans that perished in pyroclastic flows and surges at Herculaneum and Pompei, Italy, a known perimortem response to death from high temperatures and fire <xref ref-type="bibr" rid="pone.0045203-Mastolorenzo1">[112]</xref>, <xref ref-type="bibr" rid="pone.0045203-Mastolorenzo2">[113]</xref>. However life- and sleep-like postures are retained in a number of the Pompei victims <xref ref-type="bibr" rid="pone.0045203-Mastolorenzo2">[113]</xref>.</p>
+        <p>Absence of opisthotonic or pugilistic postures in these troodontid specimens likely has implications for their taphonomic history. These might include: (1) burial occurring faster that perimortem response; (2) death occurring by a mechanism incapable of stimulating a perimortem posture; or (3) an absence of such responses in troodontids. The last seems unlikely, given that a number of theropod specimens preserve opisthotonic postures <xref ref-type="bibr" rid="pone.0045203-Faux1">[109]</xref>, <xref ref-type="bibr" rid="pone.0045203-Moodie1">[114]</xref>. Presence of life postures in these three troodontid specimens constrains reconstructions of their taphonomic history and contradicts burial in a low energy lahar, as has been proposed for other well-preserved specimens from the lower Yixian Formation of Liaoning <xref ref-type="bibr" rid="pone.0045203-Sereno1">[7]</xref>. Even a low energy lahar is likely to move a small animal out of a perimortem position.</p>
+        <p>Exposure must have been sufficiently limited either temporally or spatially to prohibit significant decay or scavenger activity. We suggest that sheltering within a burrow might be one possible mechanism to explain these specimens. Alternatively, the postures in <italic>Mei long</italic> and <italic>Sinornithoides</italic> may reflect protective responses to volcanic and eolian events, respectively. Unfortunately, like many fossils from the Yixian Formation, detailed stratigraphic and taphonomic data for the <italic>Mei long</italic> specimens are lacking, and only limited taphonomic information has been published for <italic>Sinornithoides</italic>. Consequently, many questions remain about their preservation.</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>Supporting Information</title>
+      <supplementary-material id="pone.0045203.s001" mimetype="image/tiff" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0045203.s001" xlink:type="simple">
+        <label>Figure S1</label>
+        <caption>
+          <p>The non-paravian portion of the phylogenetic analysis of Coelurosauria described in the text. Strict (Nelson’s) Consensus of 36 most parsimonious trees with a length of 1321 steps resulting from the analysis of the matrix from Xu et al. <xref ref-type="bibr" rid="pone.0045203-Xu7">[24]</xref> with <italic>Talos sampsoni</italic> added. Numbers below branches represent Bremer decay indices greater than one. Protocol in text.</p>
+          <p>(TIF)</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="pone.0045203.s002" mimetype="application/msword" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0045203.s002" xlink:type="simple">
+        <label>Table S1</label>
+        <caption>
+          <p>Selected measurements of <italic>Mei long</italic> specimens in millimeters. R and L indicate right and left elements, when applicable. *denotes estimated lengths.</p>
+          <p>(DOC)</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="pone.0045203.s003" mimetype="text/plain" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0045203.s003" xlink:type="simple">
+        <label>Analysis S1</label>
+        <caption>
+          <p>A nexus file containing the matrix used to produce the trees seen in <xref ref-type="fig" rid="pone-0045203-g008">Figures 8</xref> and <xref ref-type="supplementary-material" rid="pone.0045203.s001">S1</xref>. This file is formatted for use with the program TNT.</p>
+          <p>(NEX)</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank T. Huang, former DNHM Director Meng and J.L. Varricchio for their logistical assistance and hospitality in China. We also thank Montana State University and the Department of Earth Sciences for their support. The use of TNT was generously provided free of cost by the Willi Hennig Society. The authors thank L. Hall for his invaluable work on the figures. We thank M. Norell and J. Choinere for reading and commenting on an earlier draft of this manuscript. We thank A. Farke for his helpful editing and two anonymous reviewers whose comments greatly improved this manuscript.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0045203-Zhou1">
+        <label>1</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhou</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Barrett</surname><given-names>PM</given-names></name>, <name name-style="western"><surname>Hilton</surname><given-names>J</given-names></name> (<year>2003</year>) <article-title>An exceptionally preserved Lower Cretaceous ecosystem</article-title>. <source>Nature</source> <volume>421</volume>: <fpage>807</fpage>–<lpage>814</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Rougier1">
+        <label>2</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rougier</surname><given-names>GW</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Novacek</surname><given-names>MJ</given-names></name> (<year>2003</year>) <article-title>A new symmetrodont mammal with fur impressions from the Mesozoic of China</article-title>. <source>Acta Geol Sin-Engl</source> <volume>77</volume>: <fpage>7</fpage>–<lpage>14</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Hu1">
+        <label>3</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hu</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Meng</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>C</given-names></name> (<year>2005</year>) <article-title>Large Mesozoic mammals fed on young dinosaurs</article-title>. <source>Nature</source> <volume>433</volume>: <fpage>149</fpage>–<lpage>152</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Smith1">
+        <label>4</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Smith</surname><given-names>JB</given-names></name>, <name name-style="western"><surname>Harris</surname><given-names>JD</given-names></name> (<year>2001</year>) <article-title>A taxonomic problem concerning two diapsid genera from the Lower Yixian Formation of Liaoning Province, Northeastern China</article-title>. <source>J Vertebr Paleontol</source> <volume>21</volume>: <fpage>389</fpage>–<lpage>391</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Ji1">
+        <label>5</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ji</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Lü</surname><given-names>J</given-names></name>, <name name-style="western"><surname>You</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Yuan</surname><given-names>C</given-names></name> (<year>2006</year>) <article-title>Embryos of Early Cretaceous Choristodera (reptilia) from the Jehol Biota in western Liaoning, China</article-title>. <source>J Paleontol Soc Korea</source> <volume>22</volume>: <fpage>111</fpage>–<lpage>118</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Xu1">
+        <label>6</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name> (<year>2006</year>) <article-title>Non-avian dinosaur fossils from the Lower Cretaceous Jehol Group of western Liaoning, China</article-title>. <source>Geol J</source> <volume>41</volume>: <fpage>419</fpage>–<lpage>437</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Sereno1">
+        <label>7</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>X-J</given-names></name>, <name name-style="western"><surname>Brown</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Tan</surname><given-names>L</given-names></name> (<year>2007</year>) <article-title>New psittacosaurid highlights skull enlargement in horned dinosaurs</article-title>. <source>Acta Palaeontol Pol</source> <volume>52</volume>: <fpage>275</fpage>–<lpage>284</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Zhou2">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Zhou Z, Hou L (2002) The discovery and study of Mesozoic birds in China. In: Chiappe LM, Witmer LM, editors. Mesozoic Birds: above the heads of dinosaurs. Berkeley: University of California Press. 160–183.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Ji2">
+        <label>9</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ji</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>S-A</given-names></name> (<year>1998</year>) <article-title>Two feathered dinosaurs from northeastern China</article-title>. <source>Nature</source> <volume>393</volume>: <fpage>753</fpage>–<lpage>761</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Xu2">
+        <label>10</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Kuang</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>Q</given-names></name>, <etal>et al</etal>. (<year>2004</year>) <article-title>Basal tyrannosauroids from China and evidence for protofeathers in tyrannosauroids</article-title>. <source>Nature</source> <volume>431</volume>: <fpage>680</fpage>–<lpage>684</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Xu3">
+        <label>11</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Zeng</surname><given-names>X</given-names></name>, <name name-style="western"><surname>You</surname><given-names>H</given-names></name> (<year>2009</year>) <article-title>A new feather type in a nonavian theropod and the early evolution of feathers</article-title>. <source>P Natl Acad Sci</source> <volume>USA106</volume>: <fpage>832</fpage>–<lpage>834</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Chang1">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Chang M-M, Chen P-J, Wang Y-Q, Miao D-S, editors (2008) The Jehol fossils: the emergence of feathered dinosaurs, beaked birds and flowering plants. New York: Academic Press. 208 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Zhao1">
+        <label>13</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhao</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Barrett</surname><given-names>PM</given-names></name>, <name name-style="western"><surname>Eberth</surname><given-names>DA</given-names></name> (<year>2007</year>) <article-title>Social behavior and mass mortality in the basal ceratopsian dinosaur <italic>Psittacosaurus</italic> (Early Cretaceous, People’s Republic of China)</article-title>. <source>Palaeontology</source> <volume>50</volume>: <fpage>1023</fpage>–<lpage>1029</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Xu4">
+        <label>14</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X-L</given-names></name>, <name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Wu</surname><given-names>X-C</given-names></name> (<year>2002</year>) <article-title>A basal troodontid from the Early Cretaceous of China</article-title>. <source>Nature</source> <volume>415</volume>: <fpage>780</fpage>–<lpage>784</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Meng1">
+        <label>15</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Meng</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Liu</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Varricchio</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Huang</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Gao</surname><given-names>C</given-names></name> (<year>2004</year>) <article-title>Parental care in an ornithischian dinosaur</article-title>. <source>Nature</source> <volume>431</volume>: <fpage>145</fpage>–<lpage>146</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Xu5">
+        <label>16</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name> (<year>2004</year>) <article-title>A new troodontid dinosaur from China with avian-like sleeping posture</article-title>. <source>Nature</source> <volume>431</volume>: <fpage>838</fpage>–<lpage>841</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Baumel1">
+        <label>17</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Baumel</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name> (<year>1993</year>) <article-title>Osteologia</article-title>. In: <source>Cambridge: Nuthall Ornithological Club</source> <name name-style="western"><surname>Baumel</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>King</surname><given-names>AS</given-names></name>, <name name-style="western"><surname>Breazile</surname><given-names>JE</given-names></name>, <name name-style="western"><surname>Evans</surname><given-names>HE</given-names></name>, <name name-style="western"><surname>Vanden Berge</surname><given-names>JC</given-names></name>, editors. Handbook of avian anatomy: Nomina Anatomica Avium, second edition. <volume>23</volume>: <fpage>45</fpage>–<lpage>132</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Wilson1">
+        <label>18</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Wilson JW (1993) Histological techniques. In: Leiggi P, May P, editors. Vertebrate paleontological techniques. Cambridge: Cambridge University Press. Cambridge. p. 205–234.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Lamm1">
+        <label>19</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lamm</surname><given-names>ET</given-names></name> (<year>1999</year>) <article-title>Histological techniques for small paleontological specimens</article-title>. <source>J Vertebr Paleontol</source> <volume>19</volume>: <fpage>58A</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Lamm2">
+        <label>20</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lamm</surname><given-names>ET</given-names></name> (<year>2001</year>) <article-title>Put it back the way you found it: restoration of histological fossil specimens</article-title>. <source>J Vertebr Paleontol</source> <volume>21</volume>: <fpage>71A</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-FrancillonVieillot1">
+        <label>21</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Francillon-Vieillot H, de Buffrénil V, Castanet J, Géraudie J, Meunier FJ, <etal>et al</etal>. (1990) Microstructure and mineralization of vertebrate skeletal tissues. In: Carter JG, editor. Skeletal Biomineralization: patterns, process and evolutionary trends Vol. 1 New York: Van Nostrand Reinhold. 471–530.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Erickson1">
+        <label>22</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name> (<year>2005</year>) <article-title>Assessing dinosaur growth patterns: A microscopic revolution</article-title>. <source>Trends Ecol Evol</source> <volume>20</volume>: <fpage>677</fpage>–<lpage>684</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Xu6">
+        <label>23</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Tan</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Sullivan</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Han</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Xiao</surname><given-names>D</given-names></name> (<year>2011</year>) <article-title>A short-armed troodontid dinosaur from the Upper Cretaceous of Inner Mongolia and its implications for troodontid evolution</article-title>. <source>PLoS ONE</source> <volume>6(9)</volume>: <fpage>e22916</fpage> doi:10.1371/journal.pone.0022916.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Xu7">
+        <label>24</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Sullivan</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Tan</surname><given-names>QW</given-names></name>, <name name-style="western"><surname>Sander</surname><given-names>M</given-names></name>, <etal>et al</etal>. (<year>2012</year>) <article-title>The taxonomy of the troodontid IVPP V 10597 reconsidered</article-title>. <source>Vertebrata PalAsiatica</source> <volume>50</volume>: <fpage>140</fpage>–<lpage>150</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Zanno1">
+        <label>25</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zanno</surname><given-names>LE</given-names></name>, <name name-style="western"><surname>Varricchio</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>O’Connor</surname><given-names>PM</given-names></name>, <name name-style="western"><surname>Titus</surname><given-names>AL</given-names></name>, <name name-style="western"><surname>Knell</surname><given-names>MJ</given-names></name> (<year>2011</year>) <article-title>A New Troodontid Theropod, <italic>Talos sampsoni</italic> gen. et sp. nov., from the Upper Cretaceous Western Interior Basin of North America</article-title>. <source>PLoS ONE</source> <volume>6(9)</volume>: <fpage>e24487</fpage> doi:10.1371/journal.pone.0024487.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Choiniere1">
+        <label>26</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Choiniere</surname><given-names>JN</given-names></name>, <name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Clark</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Forster</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Guo</surname><given-names>Y</given-names></name>, <etal>et al</etal>. (<year>2010</year>) <article-title>A basal alvarezsauroid theropod from the Early Late Jurassic of Xinjiang, China</article-title>. <source>Science</source> <volume>327</volume>: <fpage>571</fpage>–<lpage>574</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Turner1">
+        <label>27</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Turner</surname><given-names>AH</given-names></name>, <name name-style="western"><surname>Pol</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name> (<year>2011</year>) <article-title>Anatomy of <italic>Mahakala omnogovae</italic> (Theropoda: Dromeosauridae), Tögrögiin Shiree, Mongolia</article-title>. <source>Am Mus Novit</source> <volume>3722</volume>: <fpage>1</fpage>–<lpage>66</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Goloboff1">
+        <label>28</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Goloboff P, Farris J, Nixon K (2003) T.N.T.: Tree Analysis Using New Technology. Program and documentation, available from the authors. Available: <ext-link ext-link-type="uri" xlink:href="http://www.zmuc.dk/public/phylogeny" xlink:type="simple">www.zmuc.dk/public/phylogeny</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Goloboff2">
+        <label>29</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Goloboff</surname><given-names>PA</given-names></name>, <name name-style="western"><surname>Farris</surname><given-names>JS</given-names></name>, <name name-style="western"><surname>Nixon</surname><given-names>KC</given-names></name> (<year>2008</year>) <article-title>TNT, a free program for phylogenetic analysis</article-title>. <source>Cladistics</source> <volume>24</volume>: <fpage>774</fpage>–<lpage>786</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Marsh1">
+        <label>30</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Marsh</surname><given-names>OC</given-names></name> (<year>1881</year>) <article-title>Principal characters of the American Jurassic dinosaurs</article-title>. <source>Part V. Am J Sci, ser 3</source> <volume>21</volume>: <fpage>417</fpage>–<lpage>423</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Gauthier1">
+        <label>31</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gauthier</surname><given-names>J</given-names></name> (<year>1986</year>) <article-title>Saurischian monophyly and the origin of birds</article-title>. In: <source>The origin of birds and the evolution of flight: Mem Calif Acad Sci</source> <name name-style="western"><surname>Padian</surname><given-names>K</given-names></name>, editor. <volume>8</volume>: <fpage>1</fpage>–<lpage>55</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Gilmore1">
+        <label>32</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gilmore</surname><given-names>CW</given-names></name> (<year>1924</year>) <article-title>On <italic>Troodon validus</italic> an ornithopodous dinosaur from thel Belly River Cretaceous of Alberta, Canada</article-title>. <source>Bul Dept Geol Univ Alberta</source> <volume>1</volume>: <fpage>1</fpage>–<lpage>43</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Currie1">
+        <label>33</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>1987</year>) <article-title>Bird-like characteristics of the jaws and teeth of troodontid theropods (dinosauria, saurischia)</article-title>. <source>J Vertebr Paleont</source> <volume>7</volume>: <fpage>72</fpage>–<lpage>81</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Bever1">
+        <label>34</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bever</surname><given-names>GS</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name> (<year>2009</year>) <article-title>The perinate skull of <italic>Byronosaurus</italic> (Troodontidae) with observations on the cranial ontogeny of paravian theropods</article-title>. <source>Am Mus Novit</source> <volume>3657</volume>: <fpage>1</fpage>–<lpage>51</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Pei1">
+        <label>35</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Pei R, Norell M (2011) A new troodontid (Dinosauria: Theropoda) from the Late Cretaceous Djadokhta Formation from Mongolia. Society of Vertebrate Paleontology 71st Annual Meeting Program and Abtsracts: 172.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Russell1">
+        <label>36</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Russell</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Dong</surname><given-names>ZM</given-names></name> (<year>1993</year>) <article-title>A nearly complete skeleton of a new troodontid dinosaur from the Early Cretaceous of the Ordos Basin, Inner Mongolia, People’s Republic of China</article-title>. <source>Can J Earth Sci</source> <volume>30</volume>: <fpage>2163</fpage>–<lpage>2173</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Wellnhofer1">
+        <label>37</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wellnhofer</surname><given-names>P</given-names></name> (<year>1974</year>) <article-title>Das fünfte Skelettexemplar von <italic>Archaeopteryx</italic></article-title>. <source>Palaeontographica</source> <volume>147</volume>: <fpage>169</fpage>–<lpage>216</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Elzanowski1">
+        <label>38</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Elzanowski A (2002) Archaeopterygidae (Upper Jurassic of Germany). In: Chiappe LM, Witmer LM, editors. Mesozoic birds: above the heads of dinosaurs. Berkeley: University of California Press. 129–159.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Mayr1">
+        <label>39</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mayr</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Pohl</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Peters</surname><given-names>DS</given-names></name> (<year>2005</year>) <article-title>A well-preserved <italic>Archaeopteryx</italic> specimen with theropods features</article-title>. <source>Science</source> <volume>310</volume>: <fpage>1483</fpage>–<lpage>1486</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Osborn1">
+        <label>40</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Osborn</surname><given-names>HF</given-names></name> (<year>1924</year>) <article-title>Three new theropoda, <italic>Protoceratops</italic> Zone, Central Mongolia</article-title>. <source>Am Mus Nov</source> <volume>144</volume>: <fpage>1</fpage>–<lpage>12</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Currie2">
+        <label>41</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>1985</year>) <article-title>Cranial anatomy of <italic>Stenonychosaurus inequalis</italic> (Saurischia, Theropoda) and its bearing on the origin of birds</article-title>. <source>Can J Earth Sci</source> <volume>22</volume>: <fpage>1643</fpage>–<lpage>1658</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Makovicky1">
+        <label>42</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Clark</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Rowe</surname><given-names>T</given-names></name> (<year>2003</year>) <article-title>Osteology and relationships of <italic>Byronosaurus jaffei</italic> (Theropoda: Troodontidae)</article-title>. <source>Am Mus Novit</source> <volume>3402</volume>: <fpage>1</fpage>–<lpage>32</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Xu8">
+        <label>43</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Xu X (2002) Deinonychosaurian fossils from the Jehol Group of western Liaoning and the coelurosaurian evolution. PhD dissertation. Chinese Academy of Sciences. 322 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Xu9">
+        <label>44</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X</given-names></name> (<year>2004</year>) <article-title>A new troodontid (Theropoda: Troodontidae) from the Lower Cretaceous Yixian Formation of Western Liaoning, China</article-title>. <source>Acta Geol Sin-Engl</source> <volume>78</volume>: <fpage>22</fpage>–<lpage>26</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Witmer1">
+        <label>45</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name> (<year>1997</year>) <article-title>The evolution of the antorbital cavity of archosaurs: a study in soft-tissue reconstruction in the fossil record with an analysis of the function of pneumaticity</article-title>. <source>J Vertebr Paleont Memoir</source> <volume>3</volume>: <fpage>1</fpage>–<lpage>73</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Currie3">
+        <label>46</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Dong</surname><given-names>Z</given-names></name> (<year>2001</year>) <article-title>New information on Cretaceous troodontids (Dinosauria, Theropoda) from the People’s Republic of China</article-title>. <source>Can J Earth Sci</source> <volume>38</volume>: <fpage>1753</fpage>–<lpage>1766</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Norell1">
+        <label>47</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Beaver</surname><given-names>GS</given-names></name>, <name name-style="western"><surname>Balanoff</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Clark</surname><given-names>JM</given-names></name>, <etal>et al</etal>. (<year>2009</year>) <article-title>Review of the Mongolian Cretaceous dinosaur <italic>Saurornithoides</italic> (Troodontidae: Theropoda)</article-title>. <source>Am Mus Novit</source> <volume>3654</volume>: <fpage>1</fpage>–<lpage>63</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Barsbold1">
+        <label>48</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Barsbold</surname><given-names>R</given-names></name> (<year>1974</year>) <article-title>Saurornithoididae, a new family of small theropod dinosaurs from Central Asian and North America</article-title>. <source>Paleontologia Polonica</source> <volume>30</volume>: <fpage>6</fpage>–<lpage>22</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Makovicky2">
+        <label>49</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Makovicky PJ, Norell MA (2004) Troodontidae In: Weishampel DB, Dodson P Osmólska H, editors. The Dinosauria 2<sup>nd</sup> Ed. Berkeley: University of California Press. 184–195.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Averianov1">
+        <label>50</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Averianov</surname><given-names>AO</given-names></name>, <name name-style="western"><surname>Sues</surname><given-names>HD</given-names></name> (<year>2007</year>) <article-title>A new troodontid (dinosauria: theropoda) from the Cenomanian of Uzbekistan, with a review of troodontid records from the territories of the former Soviet Union</article-title>. <source>J Vertebr Paleont</source> <volume>27</volume>: <fpage>87</fpage>–<lpage>98</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Varricchio1">
+        <label>51</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Varricchio</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>Jackson</surname><given-names>F</given-names></name> (<year>2002</year>) <article-title>Embryos and eggs for the Cretaceous theropods dinosaur <italic>Troodon formosus</italic></article-title>. <source>J Vertebr Paleont</source> <volume>22</volume>: <fpage>564</fpage>–<lpage>576</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Young1">
+        <label>52</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Young RG (1991) A dinosaur nest in the Jurassic Morrison Formation, western Colorado. In: Averett WR, editor. Guidebook for dinosaur quarries and tracksite tour, western Colorado and eastern Utah. Grand Junction: Grand Junction Geological Society. 1–15.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Elzanowski2">
+        <label>53</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Elzanowski</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Wellnhofer</surname><given-names>P</given-names></name> (<year>1992</year>) <article-title>A new link between theropods and birds from the Cretaceous of Mongolia</article-title>. <source>Nature</source> <volume>359</volume>: <fpage>821</fpage>–<lpage>823</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Barsbold2">
+        <label>54</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Barsbold</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Osmólska</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Kurzanov</surname><given-names>SM</given-names></name> (<year>1987</year>) <article-title>On a new troodontid (Dinosauria, Theropoda) from the Early Cretaceous of Mongolia</article-title>. <source>Acta Palaeontol Pol</source> <volume>32</volume>: <fpage>121</fpage>–<lpage>132</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Norell2">
+        <label>55</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Hwang</surname><given-names>S</given-names></name> (<year>2004</year>) <article-title>A troodontid dinosaur from Ukhaa Tolgod (Late Cretaceous Mongolia)</article-title>. <source>Am Mus Novit</source> <volume>3446</volume>: <fpage>1</fpage>–<lpage>9</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Currrie1">
+        <label>56</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currrie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>X-J</given-names></name> (<year>1993</year>) <article-title>A new carnosaur (Dinosauria, Theropoda) from the Jurassic of Xinjiang, People’s Republic of China</article-title>. <source>Can J Earth Sci</source> <volume>30</volume>: <fpage>2037</fpage>–<lpage>2081</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Hu2">
+        <label>57</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hu</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Hou</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Xu</surname><given-names>X</given-names></name> (<year>2009</year>) <article-title>A pre-<italic>Archaeopteryx</italic> troodontid theropod from China with long feathers on the metatarsus</article-title>. <source>Nature</source> <volume>461</volume>: <fpage>640</fpage>–<lpage>643</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Norell3">
+        <label>58</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Clark</surname><given-names>JM</given-names></name> (<year>2000</year>) <article-title>A new troodontid theropod from Ukhaa Tolgod, Mongolia</article-title>. <source>J Vertebr Paleont</source> <volume>20</volume>: <fpage>7</fpage>–<lpage>11</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Nesbitt1">
+        <label>59</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Nesbitt</surname><given-names>SJ</given-names></name>, <name name-style="western"><surname>Turner</surname><given-names>AH</given-names></name>, <name name-style="western"><surname>Spaulding</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Conrad</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name> (<year>2009</year>) <article-title>The theropod furcula</article-title>. <source>J Morphol</source> <volume>270</volume>: <fpage>856</fpage>–<lpage>879</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Hwang1">
+        <label>60</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hwang</surname><given-names>SH</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Gao</surname><given-names>K</given-names></name> (<year>2002</year>) <article-title>New specimens of <italic>Microraptor zhaoianus</italic> (Theropoda: Dromeosauridae) from Northeastern China</article-title>. <source>Am Mus Novit</source> <volume>3381</volume>: <fpage>1</fpage>–<lpage>44</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Gilmore2">
+        <label>61</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gilmore</surname><given-names>CW</given-names></name> (<year>1920</year>) <article-title>Osteology of the carnivorous dinosauria in the United States National Museum, with a special reference to the genera <italic>Antrodemus</italic> (<italic>Allosaurus</italic>) and <italic>Ceratosaurus</italic></article-title>. <source>U S N M Bul</source> <volume>10</volume>: <fpage>1</fpage>–<lpage>159</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Galton1">
+        <label>62</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Galton</surname><given-names>PM</given-names></name> (<year>1971</year>) <article-title>Manus movements of the coelurosaurian dinosaur <italic>Syntarsus</italic> and opposability of the theropod hallux</article-title>. <source>Arnoldia</source> <volume>5</volume>: <fpage>1</fpage>–<lpage>8</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Madsen1">
+        <label>63</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Madsen</surname><given-names>JH</given-names></name> (<year>1976</year>) <article-title><italic>Allosaurus fragilis</italic>: a revised osteology</article-title>. <source>Bulletin of the Utah Geological Society</source> <volume>109</volume>: <fpage>1</fpage>–<lpage>163</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Nicholls1">
+        <label>64</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Nicholls</surname><given-names>EL</given-names></name>, <name name-style="western"><surname>Russell</surname><given-names>AP</given-names></name> (<year>1981</year>) <article-title>A new specimen of <italic>Struthiomimus altus</italic> from Alberta, with comments on the classificatory characters of Upper Cretaceous ornithomimids</article-title>. <source>Can J Earth Sci</source> <volume>18</volume>: <fpage>518</fpage>–<lpage>526</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Barsbold3">
+        <label>65</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Barsbold R, Marayanska T, Osmólska H (1990) Oviraptorosauria. In: Weishampel DB, Dodson P, Osmólska H, editors. The Dinosauria. Berkeley: University of California Press. 249–258.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Sereno2">
+        <label>66</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name> (<year>1993</year>) <article-title>The pectoral girdle and forelimb of the basal theropod <italic>Herrerasaurus ischigulastensis</italic></article-title>. <source>J Vertebr Paleont</source> <volume>13</volume>: <fpage>425</fpage>–<lpage>450</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Carpenter1">
+        <label>67</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Carpenter K, Miles C, Cloward K (2005) New small theropod from the Upper Jurassic Morrison Formation of Wyoming. In: Carpenter K, editor. The carnivorous dinosaurs. Bloomington: Indiana University Press. 23–48.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Ostrom1">
+        <label>68</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ostrom</surname><given-names>JH</given-names></name> (<year>1969</year>) <article-title>Osteology of <italic>Deinonychus antirrhopus</italic>, an unusual theropod from the Lower Cretaceous of Montana</article-title>. <source>Bull Peabody Mus Nat Hist</source> <volume>30</volume>: <fpage>1</fpage>–<lpage>165</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Norell4">
+        <label>69</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name> (<year>1999</year>) <article-title>Features of the dromeosaurid skeleton II: information from newly collected specimens of <italic>Velociraptor mongoliensis</italic></article-title>. <source>Am Mus Novit</source> <volume>3282</volume>: <fpage>1</fpage>–<lpage>45</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Chiappe1">
+        <label>70</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chiappe</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Göhlich</surname><given-names>UB</given-names></name> (<year>2010</year>) <article-title>Anatomy of <italic>Juravenator starki</italic> (Theropoda: Coelurosauria) from the Late Jurassic of Germany</article-title>. <source>Neues Jahrb Geol P-A</source> <volume>258</volume>: <fpage>257</fpage>–<lpage>296</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Xu10">
+        <label>71</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>You</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Du</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Han</surname><given-names>F</given-names></name> (<year>2011</year>) <article-title>An <italic>Archaeopteryx</italic>-like theropod from China and the origin of Avialae</article-title>. <source>Nature</source> <volume>475</volume>: <fpage>465</fpage>–<lpage>470</lpage> doi:10.1038/nature10288.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Czerkas1">
+        <label>72</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Czerkas SA, Yuan C (2002) An arboreal maniraptoran from northeast China. In: Czerkas SJ, editor. Feathered dinosaurs and the origin of flight: The Dinosaur Museum Journal 1. Blanding: The Dinosaur Museum. 63–95.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Zhang1">
+        <label>73</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhang</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Zhou</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X</given-names></name> (<year>2002</year>) <article-title>A juvenile coelurosaurian theropod from China indicates arboreal habits</article-title>. <source>Naturwissenschaften</source> <volume>89</volume>: <fpage>394</fpage>–<lpage>398</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Kobayashi1">
+        <label>74</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Kobayashi Y, Barsbold R (2005) Anatomy of <italic>Harpymimus okladnikovi</italic> Barsbold and Perle 1984 (Dinosauria; Theropoda) of Mongolia. In: Carpenter K, editor. The carnivorous dinosaurs. Indianapolis: Indiana University Press. 97–126.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Currie4">
+        <label>75</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Russel</surname><given-names>DA</given-names></name> (<year>1988</year>) <article-title>Osteology and relationships of <italic>Chirostenotes pergracilis</italic> (Saurischia, Theropoda) from the Judith River (Oldman) Formation of Alberta, Canada</article-title>. <source>Can J Earth Sci</source> <volume>25</volume>: <fpage>972</fpage>–<lpage>986</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Zanno2">
+        <label>76</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zanno</surname><given-names>LE</given-names></name> (<year>2010</year>) <article-title>Osteology of <italic>Falcarius utahensis</italic> (Dinosauria: Theropoda): characterizing the anatomy of basal therizinosaurs</article-title>. <source>Zool J Linn Soc-Lond</source> <volume>158</volume>: <fpage>196</fpage>–<lpage>230</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Zhou3">
+        <label>77</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhou</surname><given-names>Z-H</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X-L</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>F-C</given-names></name>, <name name-style="western"><surname>Xu</surname><given-names>X</given-names></name> (<year>2000</year>) <article-title>Important features of <italic>Caudipteryx</italic> – evidence from two nearly complete new specimens</article-title>. <source>Vertebrat Palasiatic</source> <volume>38</volume>: <fpage>241</fpage>–<lpage>254</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Clark1">
+        <label>78</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Clark JM, Maryanska T, Barsbold R (2004) Therizinosauroidea In: Weishampel DB, Dodson P, Osmólska H, editors. The Dinosauria. Berkeley: University of California Press. 151–164.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Zanno3">
+        <label>79</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Zanno LE, Gillette DD, Albright LL, Titus AL (2009) A new North American therizinosaurid and the role of herbivory in ‘predatory’ dinosaur evolution. P Roy Soc B-Biol Sci doi:10.1098/rspb.2009.1029.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Currie5">
+        <label>80</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Peng</surname><given-names>J-H</given-names></name> (<year>1993</year>) <article-title>A juvenile specimen of <italic>Saurornithoides mongoliensis</italic> from the Upper Cretaceous of northern China</article-title>. <source>Can J Earth Sci</source> <volume>30</volume>: <fpage>2224</fpage>–<lpage>2230</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Osmlska1">
+        <label>81</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Osmólska</surname><given-names>H</given-names></name> (<year>1987</year>) <article-title><italic>Borogovia gracilicrus</italic> gen. et sp. n., a new troodontid dinosaur from the Late Cretaceous of Mongolia</article-title>. <source>Acta Palaeontol Pol</source> <volume>32</volume>: <fpage>133</fpage>–<lpage>150</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Kurzanov1">
+        <label>82</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kurzanov</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Osmólska</surname><given-names>H</given-names></name> (<year>1991</year>) <article-title><italic>Tochisaurus nemegtensis</italic> gen. et sp. n., a new troodontid (Dinosauria, Theropoda) from Mongolia</article-title>. <source>Acta Palaeontol Pol</source> <volume>36</volume>: <fpage>69</fpage>–<lpage>76</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Russell2">
+        <label>83</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Russell</surname><given-names>DA</given-names></name> (<year>1969</year>) <article-title>A new specimen of <italic>Stenonychosaurus</italic> from the Oldman Formation (Cretaceous) of Alberta</article-title>. <source>Can J Earth Sci</source> <volume>6</volume>: <fpage>595</fpage>–<lpage>612</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Wilson2">
+        <label>84</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wilson</surname><given-names>MC</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>1985</year>) <article-title><italic>Stenonychosaurus inequalis</italic> (Saurischia: Theropoda) from the Judith River (Oldman) Formation of Alberta: new findings on metatarsal structure</article-title>. <source>Can J Earth Sci</source> <volume>22</volume>: <fpage>1813</fpage>–<lpage>1817</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Makovicky3">
+        <label>85</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Apesteguia</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Agnolin</surname><given-names>FL</given-names></name> (<year>2005</year>) <article-title>The earliest dromaeosaurid theropods from South America</article-title>. <source>Nature</source> <volume>437</volume>: <fpage>1007</fpage>–<lpage>1011</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Turner2">
+        <label>86</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Turner</surname><given-names>AH</given-names></name>, <name name-style="western"><surname>Pol</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Clarke</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name> (<year>2007</year>) <article-title>A basal dromeosaurid and size evolution preceding avian flight</article-title>. <source>Science</source> <volume>317</volume>: <fpage>1378</fpage>–<lpage>1381</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Novas1">
+        <label>87</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Novas</surname><given-names>FE</given-names></name>, <name name-style="western"><surname>Pol</surname><given-names>D</given-names></name> (<year>2005</year>) <article-title>New evidence on deinonychosaurian dinosaurs from the Late Cretaceous of Patagonia</article-title>. <source>Nature</source> <volume>433</volume> <fpage>858</fpage>–<lpage>861</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Calvo1">
+        <label>88</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Calvo</surname><given-names>JO</given-names></name>, <name name-style="western"><surname>Porfiri</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Kellner</surname><given-names>AWA</given-names></name> (<year>2004</year>) <article-title>On a new maniraptoran dinosaur (Theropoda) from the Upper Cretaceous of Neuquén, Patagonia, Argentina</article-title>. <source>Arquivos do Museu Nacional, Rio de Janerio</source> <volume>62</volume>: <fpage>549</fpage>–<lpage>566</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Norell5">
+        <label>89</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name> (<year>1997</year>) <article-title>Important features of the dromaeosaur skeleton: information from a new specimen</article-title>. <source>Am Mus Novit</source> <volume>3215</volume>: <fpage>1</fpage>–<lpage>28</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Brochu1">
+        <label>90</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Brochu</surname><given-names>CA</given-names></name> (<year>1996</year>) <article-title>Closure of neurocentral sutures during crocodilian ontogeny: implications for maturity assessment in fossil archosaurs</article-title>. <source>J Vertebr Paleont</source> <volume>16</volume>: <fpage>49</fpage>–<lpage>62</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Makovicky4">
+        <label>91</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Sues</surname><given-names>H-D</given-names></name> (<year>1998</year>) <article-title>Anatomy and phylogenetic relationships of the theropod dinosaur <italic>Microvenator celer</italic> from the Lower Cretaceous of Montana</article-title>. <source>Am Mus Novit</source> <volume>3240</volume>: <fpage>1</fpage>–<lpage>27</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Varricchio2">
+        <label>92</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Varricchio</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Moore</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Jackson</surname><given-names>FD</given-names></name>, <etal>et al</etal>. (<year>2008</year>) <article-title>Avian paternal care had dinosaur origin</article-title>. <source>Science</source> <volume>322</volume>: <fpage>1826</fpage>–<lpage>1828</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Sanz1">
+        <label>93</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sanz</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Chiappe</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Pérez-Moreno</surname><given-names>BP</given-names></name>, <name name-style="western"><surname>Moratalla</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Hernández-Carrasquilla</surname><given-names>F</given-names></name>, <etal>et al</etal>. (<year>1997</year>) <article-title>A nestling bird from the Lower Cretaceous of Spain: implications for avian skull and neck evolution</article-title>. <source>Science</source> <volume>276</volume>: <fpage>1543</fpage>–<lpage>1546</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-TumarkinDeratzian1">
+        <label>94</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tumarkin-Deratzian</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Vann</surname><given-names>DR</given-names></name>, <name name-style="western"><surname>Dodson</surname><given-names>P</given-names></name> (<year>2006</year>) <article-title>Bone surface texture as an ontogenetic indicator in long bones of the Canada goose <italic>Branta canadensis</italic> (Anseriformes: Anatidae)</article-title>. <source>Zool J Lin Soc</source> <volume>148</volume>: <fpage>133</fpage>–<lpage>168</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Ostrom2">
+        <label>95</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ostrom</surname><given-names>JH</given-names></name> (<year>1973</year>) <article-title>The ancestry of birds</article-title>. <source>Nature</source> <volume>242</volume>: <fpage>136</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Ostrom3">
+        <label>96</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ostrom</surname><given-names>JH</given-names></name> (<year>1976</year>) <article-title><italic>Archaeopteryx</italic> and the origin of birds</article-title>. <source>Bio J Lin Soc-Lond</source> <volume>8</volume>: <fpage>91</fpage>–<lpage>182</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Sereno3">
+        <label>97</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name> (<year>1997</year>) <article-title>The origin and evolution of dinosaurs</article-title>. <source>Annu Rev Earth Pl Sci</source> <volume>25</volume>: <fpage>435</fpage>–<lpage>489</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Padian1">
+        <label>98</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Padian</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Chiappe</surname><given-names>LM</given-names></name> (<year>1998</year>) <article-title>The origin and early evolution of birds</article-title>. <source>Bio Rev</source> <volume>73</volume>: <fpage>1</fpage>–<lpage>42</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Balanoff1">
+        <label>99</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Balanoff</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Rowe</surname><given-names>T</given-names></name> (<year>2007</year>) <article-title>Osteological description of an embryonic skeleton of the extinct elephant bird, <italic>Aepyornis</italic> (Paleognathae: Ratitae)</article-title>. <source>Soc Vertebr Paleont Memoir</source> <volume>9</volume>: <fpage>1</fpage>–<lpage>27</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Horner1">
+        <label>100</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Horner JR, Currie PJ (1994) Embryonic and neonatal morphology and ontogeny of a new species of <italic>Hypacrosaurus</italic> (Ornithischia, Lambeosauridae) from Montana and Alberta. In: Carpenter K, Hirsch KR, Horner JR, editors. Dinosaur eggs and babies. New York: Cambridge University Press. 312–336.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Anderson1">
+        <label>101</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Anderson</surname><given-names>JF</given-names></name>, <name name-style="western"><surname>Hall-Martin</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Russell</surname><given-names>DA</given-names></name> (<year>1985</year>) <article-title>Long-bone circumference and weight in mammals, birds and dinosaurs</article-title>. <source>J Zool London (A)</source> <volume>207</volume>: <fpage>53</fpage>–<lpage>61</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Chinsamy1">
+        <label>102</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chinsamy</surname><given-names>A</given-names></name> (<year>1990</year>) <article-title>Physiological implications of bone histology of <italic>Syntarsus rhodesiensis</italic> (Saurischia: Theropoda). Palaeontol. Afr</article-title>. <volume>27</volume>: <fpage>77</fpage>–<lpage>82</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Bybee1">
+        <label>103</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bybee</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Lee</surname><given-names>AH</given-names></name>, <name name-style="western"><surname>Lamm</surname><given-names>E-T</given-names></name> (<year>2006</year>) <article-title>Sizing the Jurassic theropod dinosaur <italic>Allosaurus</italic>: assessing growth strategy and evolution of ontogenetic scaling of limbs</article-title>. <source>J Morphol</source> <volume>267(3)</volume>: <fpage>347</fpage>–<lpage>359</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Erickson2">
+        <label>104</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name>, <name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Yerby</surname><given-names>SA</given-names></name>, <etal>et al</etal>. (<year>2004</year>) <article-title>Gigantism and comparative life-history parameters of tyrannosaurid dinosaurs</article-title>. <source>Nature</source> <volume>430</volume>: <fpage>772</fpage>–<lpage>775</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Horner2">
+        <label>105</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>Padian</surname><given-names>K</given-names></name> (<year>2004</year>) <article-title>Age and growth dynamics of <italic>Tyrannosaurus rex</italic></article-title>. <source>P R Soc B</source> <volume>271</volume>: <fpage>1875</fpage>–<lpage>1880</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Varricchio3">
+        <label>106</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Varricchio</surname><given-names>DJ</given-names></name> (<year>1993</year>) <article-title>Bone microstructure of the Upper Cretaceous theropod dinosaur <italic>Troodon formosus</italic></article-title>. <source>J Vertebr Paleontol</source> <volume>13</volume>: <fpage>99</fpage>–<lpage>104</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Erickson3">
+        <label>107</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name>, <name name-style="western"><surname>Curry Rogers</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Varricchio</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Xu</surname><given-names>X</given-names></name> (<year>2007</year>) <article-title>Growth patterns in brooding dinosaurs reveals the timing of sexual maturity in non-avian dinosaurs and the genesis of the avian condition</article-title>. <source>Bio Lett</source> <volume>3</volume>: <fpage>558</fpage>–<lpage>561</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Jerzykiewicz1">
+        <label>108</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Jerzykiewicz</surname><given-names>T</given-names></name> (<year>1996</year>) <article-title>Late Cretaceous dinosaurian habitats of western Canada and central Asia - a comparison from a geological standpoint</article-title>. <source>Memoirs of the Geological Society of India</source> <volume>37</volume>: <fpage>63</fpage>–<lpage>83</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Faux1">
+        <label>109</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Faux</surname><given-names>CM</given-names></name>, <name name-style="western"><surname>Padian</surname><given-names>K</given-names></name> (<year>2007</year>) <article-title>The opisthotonic posture of vertebrate skeletons: postmortem contraction or death throes?</article-title> <source>Paleobiology</source> <volume>33</volume>: <fpage>201</fpage>–<lpage>226</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Reisdorf1">
+        <label>110</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Reisdorf AG, Wuttke M (2012) Re-evaluating Moodie’s Oposthotonic–Posture Hypothesis in Fossil Vertebrates Part I: Reptiles-the taphonomy of the bipedal dinosaurs <italic>Compsognathus longipes</italic> and <italic>Juravenator starki</italic> from the Solnhofen Archipelago (Jurassic, Germany). Palaeobio Palaeoenv. doi:10.1007/s12549-011-0068-y.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Guo1">
+        <label>111</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Guo</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Liu</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X</given-names></name> (<year>2003</year>) <article-title>Effect of Mesozoic volcanic eruptions in the western Liaoining Province, China on paleoclimate and paleoenvironment</article-title>. <source>Sci China Ser D</source> <volume>46</volume>: <fpage>1261</fpage>–<lpage>1272</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Mastolorenzo1">
+        <label>112</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mastolorenzo</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Petrone</surname><given-names>PP</given-names></name>, <name name-style="western"><surname>Pagano</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Incoronato</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Baxter</surname><given-names>PJ</given-names></name>, <etal>et al</etal>. (<year>2001</year>) <article-title>Herculaneum victims of Vesuvius in AD 79</article-title>. <source>Nature</source> <volume>410</volume>: <fpage>769</fpage>–<lpage>770</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Mastolorenzo2">
+        <label>113</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mastolorenzo</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Petrone</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Pappalardo</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Guarino</surname><given-names>FM</given-names></name> (<year>2010</year>) <article-title>Lethal thermal impact at periphery of pyroclastic surges: evidences at Pompeii</article-title>. <source>PLoS ONE</source> <volume>5(6)</volume>: <fpage>e11127</fpage> doi:10.1371/journal.pone.0011127.</mixed-citation>
+      </ref>
+      <ref id="pone.0045203-Moodie1">
+        <label>114</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Moodie</surname><given-names>RL</given-names></name> (<year>1918</year>) <article-title>Studies in paleopathology III. Opisthotonus and allied phenomena among fossil vertebrates</article-title>. <source>Am Nat</source> <volume>52</volume>: <fpage>384</fpage>–<lpage>394</lpage>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

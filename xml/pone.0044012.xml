@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="3.0" xml:lang="en">
+  <front>
+    <journal-meta><journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><issn pub-type="epub">1932-6203</issn><publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher></journal-meta>
+    <article-meta><article-id pub-id-type="publisher-id">PONE-D-12-11197</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0044012</article-id><article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Anatomy and physiology</subject>
+            <subj-group>
+              <subject>Comparative anatomy</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Evolutionary biology</subject>
+            <subj-group>
+              <subject>Paleontology</subject>
+              <subj-group>
+                <subject>Paleobiology</subject>
+                <subject>Paleoecology</subject>
+                <subject>Vertebrate paleontology</subject>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Animal behavior</subject>
+              <subject>Behavioral ecology</subject>
+              <subject>Evolutionary ecology</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Earth sciences</subject>
+          <subj-group>
+            <subject>Paleontology</subject>
+            <subj-group>
+              <subject>Paleobiology</subject>
+              <subject>Paleoecology</subject>
+              <subject>Vertebrate paleontology</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Physiology</subject>
+          <subject>Evolutionary Biology</subject>
+        </subj-group>
+      </article-categories><title-group><article-title>Abdominal Contents from Two Large Early Cretaceous Compsognathids (Dinosauria: Theropoda) Demonstrate Feeding on Confuciusornithids and Dromaeosaurids</article-title><alt-title alt-title-type="running-head">Abdominal Contents from Chinese Compsognathids</alt-title></title-group><contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Xing</surname>
+            <given-names>Lida</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Bell</surname>
+            <given-names>Phil R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Persons</surname>
+            <given-names>W. Scott</given-names>
+            <suffix>IV</suffix>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Ji</surname>
+            <given-names>Shuan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Miyashita</surname>
+            <given-names>Tetsuto</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Burns</surname>
+            <given-names>Michael E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Ji</surname>
+            <given-names>Qiang</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Currie</surname>
+            <given-names>Philip J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group><aff id="aff1">
+        <label>1</label>
+        <addr-line>Department of Biological Sciences, University of Alberta, Edmonton, Alberta, Canada</addr-line>
+      </aff><aff id="aff2">
+        <label>2</label>
+        <addr-line>Pipestone Creek Dinosaur Initiative, Clairmont, Alberta, Canada</addr-line>
+      </aff><aff id="aff3">
+        <label>3</label>
+        <addr-line>Institute of Geology, Chinese Academy of Geological Sciences, Beijing, China</addr-line>
+      </aff><contrib-group>
+        <contrib contrib-type="editor" xlink:type="simple">
+          <name name-style="western">
+            <surname>Farke</surname>
+            <given-names>Andrew A.</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group><aff id="edit1">
+        <addr-line>Raymond M. Alf Museum of Paleontology, United States of America</addr-line>
+      </aff><author-notes>
+        <corresp id="cor1">* E-mail: <email xlink:type="simple">philbyb@gmail.com</email></corresp>
+        <fn fn-type="conflict">
+          <p>The authors have declared that no competing interests exist.</p>
+        </fn>
+        <fn fn-type="con">
+          <p>Analyzed the data: LX PB WSP MB TM PC SJ QJ. Wrote the paper: LX PB WSP TM MB.</p>
+        </fn>
+      </author-notes><pub-date pub-type="collection">
+        <year>2012</year>
+      </pub-date><pub-date pub-type="epub">
+        <day>29</day>
+        <month>8</month>
+        <year>2012</year>
+      </pub-date><volume>7</volume><issue>8</issue><elocation-id>e44012</elocation-id><history>
+        <date date-type="received">
+          <day>18</day>
+          <month>4</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>7</month>
+          <year>2012</year>
+        </date>
+      </history><permissions>
+        
+        <copyright-holder>Xing et al</copyright-holder>
+        <license xlink:type="simple">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions><abstract>
+        <p>Two skeletons of the large compsognathid <italic>Sinocalliopteryx gigas</italic> include intact abdominal contents. Both specimens come from the Jianshangou Beds of the lower Yixian Formation (Neocomian), Liaoning, China. The holotype of <italic>S. gigas</italic> preserves a partial dromaeosaurid leg in the abdominal cavity, here attributed to <italic>Sinornithosaurus.</italic> A second, newly-discovered specimen preserves the remains of at least two individuals of the primitive avialan, <italic>Confuciusornis sanctus</italic>, in addition to acid-etched bones from a possible ornithischian. Although it cannot be stated whether such prey items were scavenged or actively hunted, the presence of two <italic>Confuciusornis</italic> in a grossly similar state of digestion suggests they were consumed in rapid succession. Given the lack of clear arboreal adaptations in <italic>Sinocalliopteryx</italic>, we suggest it may have been an adept stealth hunter.</p>
+      </abstract><funding-group>
+        <funding-statement>The authors have no support or funding to report.</funding-statement>
+      </funding-group><counts>
+        <page-count count="11"/>
+      </counts></article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>Abdominal contents provide the most reliable record of diet in extinct vertebrates although preservation of such remains is rare and frequently difficult to demonstrate unequivocally. The Lower Cretaceous Yixian Formation in northeastern China preserves a remarkably diverse terrestrial fauna in fine-grained volcaniclastic-lacustrine deposits <xref ref-type="bibr" rid="pone.0044012-Chen1">[1]</xref>, <xref ref-type="bibr" rid="pone.0044012-Frsich1">[2]</xref>. Such lagerstätten preserve remarkable anatomical features, including integumentary structures, organic compounds (such as proteins responsible for pigmentation), and abdominal contents in exquisite detail <xref ref-type="bibr" rid="pone.0044012-Li1">[3]</xref>. To date, gut contents have been found in a wide range of Jehol taxa (<xref ref-type="table" rid="pone-0044012-t001">Table 1</xref>), demonstrating clear trophic relationships within the Jehol ecosystem.</p>
+      <table-wrap id="pone-0044012-t001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0044012.t001</object-id><label>Table 1</label><caption>
+          <title>Reported abdominal contents of Jehol taxa.</title>
+        </caption><alternatives>
+          <graphic id="pone-0044012-t001-1" mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0044012.t001" xlink:type="simple"/>
+          <table>
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Taxon</td>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">Abdominal contents</td>
+                <td align="left" colspan="1" rowspan="1">Reference</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Mammalia</td>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Repenomamus</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Psittacosaurus</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1">Hu et al. <xref ref-type="bibr" rid="pone.0044012-Hu1">[67]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Dinosauria</td>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Sinosauropteryx</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1">unidentified mammal</td>
+                <td align="left" colspan="1" rowspan="1">Chen et al. <xref ref-type="bibr" rid="pone.0044012-Chen2">[15]</xref>; Currie and Chen <xref ref-type="bibr" rid="pone.0044012-Currie1">[10]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Sinocalliopteryx</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1"><italic>Sinornithosaurus</italic>, <italic>Confuciusornis</italic>, unidentified ornithiscian</td>
+                <td align="left" colspan="1" rowspan="1">Ji et al. <xref ref-type="bibr" rid="pone.0044012-Ji1">[4]</xref>; this study</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Microraptor</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1">enantiornithine bird</td>
+                <td align="left" colspan="1" rowspan="1">O’Connor et al. <xref ref-type="bibr" rid="pone.0044012-OConnor1">[54]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Aves</td>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Confuciusornis</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1">cf. <italic>Jinanichthys</italic></td>
+                <td align="left" colspan="1" rowspan="1">Dalsätt et al. <xref ref-type="bibr" rid="pone.0044012-Dalstt1">[68]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Hongshanornis</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1">Plant seeds</td>
+                <td align="left" colspan="1" rowspan="1">Zheng et al. <xref ref-type="bibr" rid="pone.0044012-Zheng3">[69]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Jeholornis</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1">Plant seeds</td>
+                <td align="left" colspan="1" rowspan="1">Zhou and Zhang <xref ref-type="bibr" rid="pone.0044012-Zhou1">[70]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Jianchangornis</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1">Fish remains</td>
+                <td align="left" colspan="1" rowspan="1">Zhou et al. <xref ref-type="bibr" rid="pone.0044012-Zhou2">[71]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Sapeornis</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1">Plant seeds</td>
+                <td align="left" colspan="1" rowspan="1">Zheng et al. <xref ref-type="bibr" rid="pone.0044012-Zheng3">[69]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1"/>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Yanornis</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1">Fish remains</td>
+                <td align="left" colspan="1" rowspan="1">Yuan <xref ref-type="bibr" rid="pone.0044012-Yuan1">[72]</xref>; Zhou et al. <xref ref-type="bibr" rid="pone.0044012-Zhou3">[73]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Choristodera</td>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Hyphalosaurus</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1">Fish remains</td>
+                <td align="left" colspan="1" rowspan="1">UALVP 54043, Unpublished</td>
+              </tr>
+              <tr>
+                <td align="left" colspan="1" rowspan="1">Squamata</td>
+                <td align="left" colspan="1" rowspan="1">
+                  <italic>Yabeinosaurus</italic>
+                </td>
+                <td align="left" colspan="1" rowspan="1">Fish remains</td>
+                <td align="left" colspan="1" rowspan="1">Zhou and Wang <xref ref-type="bibr" rid="pone.0044012-Zhou4">[74]</xref></td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives></table-wrap>
+      <p>Compsognathidae, typified by the type species <italic>Compsognathus longipes,</italic> includes a group of relatively small (approximately 1 m long) basal coelurosaurs from the Late Jurassic to Early Cretaceous of Europe and Asia. However, Jehol compsognathids such as <italic>Huaxiagnathus</italic> and <italic>Sinocalliopteryx</italic> attained significantly larger sizes, reaching lengths of up to 2.3 m in the latter <xref ref-type="bibr" rid="pone.0044012-Ji1">[4]</xref>. In their original description of <italic>Sinocalliopteryx gigas</italic>, Ji et al. <xref ref-type="bibr" rid="pone.0044012-Ji1">[4]</xref> commented on the partial leg of an unidentified dromaeosaurid in the posterior region of the abdominal cavity, which they cite as evidence of a highly predaceous lifestyle in <italic>Sinocalliopteryx</italic>. The purpose of this paper is to describe and reassess the abdominal contents of <italic>S. gigas</italic> based on the holotype and a second specimen that indicates wider dietary preferences with implications for feeding strategies of Compsognathidae.</p>
+    </sec>
+    <sec id="s2" sec-type="materials|methods">
+      <title>Materials</title>
+      <p>The holotype of <italic>Sinocalliopteryx gigas</italic> (JMP-V-05-8-01) is a complete, articulated, and exceptionally well-preserved skull and skeleton with long filamentous integument (<xref ref-type="fig" rid="pone-0044012-g001">Figure 1</xref>; <xref ref-type="bibr" rid="pone.0044012-Ji1">[4]</xref>). A new specimen of <italic>Sinocalliopteryx</italic> sp. (CAGS-IG-T1) is a partially articulated but incomplete skeleton lacking the cervical vertebrae, parts of the dorsal and caudal series, both pectoral and pelvic girdles and the proximal parts of both fore- and hindlimbs. Both specimens are from the Jianshangou Beds of the Yixian Formation (Neocomian; <xref ref-type="bibr" rid="pone.0044012-Swisher1">[5]</xref>, <xref ref-type="bibr" rid="pone.0044012-Swisher2">[6]</xref>), Beipiao, western Liaoning Province, northeastern China.</p>
+      <fig id="pone-0044012-g001" orientation="portrait" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0044012.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Holotype of <italic>Sinocalliopteryx gigas</italic> (JMP-V-05-8-01).</title>
+        </caption>
+        <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0044012.g001" xlink:type="simple"/>
+      </fig>
+      <sec id="s2a">
+        <title>Institutional Abbreviations</title>
+        <p><bold>CAGS-IG</bold>, Institute of Geology, Chinese Academy of Geological Sciences, Beijing; China; <bold>JMP</bold>, Jinzhou Museum of Paleontology, Jinzhou, Liaoning Province, China; <bold>NIGP</bold>, Nanjing Institute of Geology and Paleontology, Nanjing, China; <bold>GMV</bold>, China National Geological Museum, Beijing, China.</p>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>Results</title>
+      <sec id="s3a">
+        <title><italic>Sinocalliopteryx</italic> (CAGS-IG-T1) Description and Comparison</title>
+        <p>The skull of CAGS-IG-T1 includes both maxillae, right nasal, right lacrimal, right prefrontal, right jugal, left palatine and vomer, and fragmentary right dentary (<xref ref-type="fig" rid="pone-0044012-g002">Figure 2A, B</xref>). The left maxilla, shown in medial view, has at least ten alveoli, six of which hold teeth. Given that the anterior ramus is incomplete, the maxillary tooth count probably exceeded ten by one or two. The most posterior maxillary alveolus is ventral to or slightly anterior to the anterior end of the maxillary-lacrimal contact. The anterior ramus of the maxilla is demarcated by the transition to the posterodorsally-oriented ascending ramus. The posterodorsal process of the maxilla is dorsoventrally deeper than the horizontal ramus. Near the posterior end, the posterodorsal process splits into the larger and longer lateral prong and the smaller and shorter medial prong, between which the lacrimal was clasped. The medial surface of the maxilla above the palatal shelf is smooth and not excavated into the conspicuous maxillary antrum and promaxillary recess as in other theropods <xref ref-type="bibr" rid="pone.0044012-Witmer1">[7]</xref>. The antorbital fossa has a distinct margin. The maxillary fenestra is absent.</p>
+        <fig id="pone-0044012-g002" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0044012.g002</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title><italic>Sinocalliopteryx gigas</italic> (CAGS-IG-T1), partial skeleton. A, B; skull; C, dorsal vertebrae and ribs.</title>
+            <p>Arrow points to partly covered <italic>Confuciusornis</italic> humerus; D, associated feet; E, associated pedal phalanges and unguals; F, articulated tail with filamentous integument. Abbreviations: C, centrum; Ch, chevron; Dr, dorsal rib; In, integument; Ju; jugal; La, lacrimal; Mt, metatarsal; Mx, maxilla; Na, nasal; Pal, palatine; Pfr, prefrontal; Ph, phalanx; Pm, premaxilla; Po, postorbital; Tc, tooth crown; Un, ungual; V, vomer. Scale bars in C–F equal 10 cm in 1 cm increments.</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0044012.g002" xlink:type="simple"/>
+        </fig>
+        <p>A lacrimal duct is present dorsal to the anterior margin of the preorbital bar. The dorsal edge of the lacrimal is inflated into a longitudinal, dorsally low cornual process. The prefrontal is as long as the anterior ramus of the lacrimal. The postorbital process of the right jugal was anteriorly displaced and now sits on the right and left maxillae. The process retains a groove along its anterior margin that would have received the postorbital. The vomer is dorsoventrally deeper than the horizontal ramus of the maxilla and has a dorsally convex margin. The palatine contacts the maxilla posterior to the maxillary tooth row and posterior to the anterior margin of the antorbital fenestra. The dentary is preserved for the anteroposterior length of three tooth positions.</p>
+        <p>Six dorsal vertebrae are preserved in one of the slabs (<xref ref-type="fig" rid="pone-0044012-g002">Figure 2C</xref>). The neurocentral sutures are visible in all of these vertebrae, but the sutures are not completely open because the neural arches and the centra are tightly knit. All of the dorsal vertebrae lack pleurocoels as in other compsognathids <xref ref-type="bibr" rid="pone.0044012-Ostrom1">[8]</xref>–<xref ref-type="bibr" rid="pone.0044012-Peyer1">[14]</xref>. Six left dorsal ribs are preserved with the vertebral series. In a separate slab, two dorsal ribs, nine medial gastralia, and at least ten lateral gastralia surround the abdominal contents of this specimen. The abdominal contents are between the dorsal ribs and the gastralia and partially overlapped by these elements (<xref ref-type="fig" rid="pone-0044012-g003">Figure 3A–F</xref>). The right and left ischia as well as the abdomen of <italic>Sinocalliopteryx</italic> CAGS-IG-T1 (along with the gastralia and the abdominal contents) have all shifted posteriorly relative to their position in life. Two elements of the abdominal contents (scapulocoracoid and sternum) lie on a horizontal plane between the left and right ischia (<xref ref-type="fig" rid="pone-0044012-g003">Figure 3C</xref>). Two slabs contain caudal vertebrae (<xref ref-type="fig" rid="pone-0044012-g002">Figure 2F</xref>). One of the two slabs contains the 11<sup>th</sup> to 15<sup>th</sup> caudal vertebrae with L-shaped haemal arches. The other slab contains an articulated series of 13 mid- to distal-caudal vertebrae, of which 11 are entirely preserved. In that slab, only the first two vertebrae have dorsoventrally low neural spines. In comparison with the holotype of <italic>Sinocalliopteryx</italic> <xref ref-type="bibr" rid="pone.0044012-Ji1">[4]</xref>, the most anterior vertebra in the series represents the 16th caudal vertebra. All but the last two of the vertebrae are associated with L-shaped haemal arches. In the same slab, filamentous integument is preserved along both the dorsal and ventral margins of the tail (<xref ref-type="fig" rid="pone-0044012-g002">Figure 2F</xref>). The qualities of preservation and preparation on the specimen do not permit microscopic comparison of the integument. The neurocentral sutures are closed in all mid- to distal-caudal vertebrae.</p>
+        <fig id="pone-0044012-g003" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0044012.g003</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Abdominal contents of <italic>Sinocalliopteryx gigas</italic> (CAGS-IG-T1).</title>
+            <p>A, B; block containing <italic>Confuciusornis</italic> (blue) and unidentified ornithischian (red) remains. C, Close up of <italic>Confuciusornis</italic> sternal and pectoral elements (small box in B); D, E; associated skeleton of <italic>Confuciusornis</italic> (large box in B); F, proximal <italic>Confuciusornis</italic> humerus (arrow in <xref ref-type="fig" rid="pone-0044012-g002">Figure 2</xref>). Abbreviations: C, carpal; Dr, dorsal rib; Fu, furcula; Gs, gastralia; H, humerus; Il, ilium; Is, ischium; Mu, manual ungula; Ms, miscellaneous ornithischian bone; Ph, phalanx; Pu, pubis; Ra, radius; Sc, scapulocoracoid; St, sternum. Scale bars in A, B equal 10 cm in 1 cm increments; C, F in 1 mm increments.</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0044012.g003" xlink:type="simple"/>
+        </fig>
+        <p>The forelimb elements are scattered across two slabs. The main forelimb slab has the partially articulated right forearm and hand. The radius, metacarpal II, metacarpal III, and manual phalanx I-1 are complete, whereas other manual elements are overlain on one another such that identification is difficult. Metacarpal III is less than half as wide transversely as metacarpal II. This is the case in <italic>Compsognathus</italic> and <italic>Sinocalliopteryx</italic> <xref ref-type="bibr" rid="pone.0044012-Ji1">[4]</xref>, <xref ref-type="bibr" rid="pone.0044012-Peyer1">[14]</xref>, <xref ref-type="bibr" rid="pone.0044012-Gishlick1">[16]</xref>, but differs from <italic>Huaxiagnathus</italic>, <italic>Nqwebasaurus</italic>, and <italic>Sinosauropteryx</italic>, in which metacarpal II is half as wide transversely as metacarpal III <xref ref-type="bibr" rid="pone.0044012-Currie1">[10]</xref>, <xref ref-type="bibr" rid="pone.0044012-deKlerk1">[11]</xref>, <xref ref-type="bibr" rid="pone.0044012-Hwang1">[13]</xref>. Although the full length of metacarpal II cannot be measured, it is as long as or slightly longer than manual phalanx I-1, as in <italic>Compsognathus, Huaxiagnathus</italic>, <italic>Juravenator</italic>, <italic>Scipionyx</italic>, and the holotype of <italic>Sinocalliopteryx</italic> <xref ref-type="bibr" rid="pone.0044012-Ji1">[4]</xref>, <xref ref-type="bibr" rid="pone.0044012-Chiappe1">[9]</xref>, <xref ref-type="bibr" rid="pone.0044012-Hwang1">[13]</xref>, <xref ref-type="bibr" rid="pone.0044012-Peyer1">[14]</xref>, <xref ref-type="bibr" rid="pone.0044012-Gishlick1">[16]</xref>, <xref ref-type="bibr" rid="pone.0044012-DalSasso1">[17]</xref> but not as in <italic>Sinosauropteryx</italic> in which manual phalanx I-1 is substantially longer <xref ref-type="bibr" rid="pone.0044012-Currie1">[10]</xref>. Manual phalanges II-1 and II-2 and the ungual for the digit are preserved near the metatarsals in a separate slab.</p>
+        <p>Both right and left metatarsals are preserved in a single slab. All of the metatarsals are present for the left foot, whereas the right foot is represented by only metatarsals II–IV (<xref ref-type="fig" rid="pone-0044012-g002">Figure 2D</xref>). In the left foot, metatarsal I is 24% of the length of metatarsal III. Metatarsal V is reduced to a curved splint less than half the length of metatarsal IV. Metatarsals II, III, and IV are cylindrical and straight. Distal to the metatarsals is a complete digit III, and two phalanges of digit I. Additional pedal phalanges are in the distal foot slab. The right pedal phalanges II-1, II-2, III-1, III-2, III-3, IV-3, IV-4, and pedal unguals II–IV are present (<xref ref-type="fig" rid="pone-0044012-g002">Figure 2E</xref>).</p>
+        <p>CAGS-IG-T1 clearly represents a compsognathid, distinguished by the nasal excluded from the antorbital fenestra by the maxilla and lacrimal, the absence of pleurocoelus in the dorsal vertebrae, and the manual phalanx I-1 nearly as long as metacarpal II <xref ref-type="bibr" rid="pone.0044012-Witmer1">[7]</xref>, <xref ref-type="bibr" rid="pone.0044012-Currie1">[10]</xref>, <xref ref-type="bibr" rid="pone.0044012-Holtz1">[12]</xref>, <xref ref-type="bibr" rid="pone.0044012-Peyer1">[14]</xref>, <xref ref-type="bibr" rid="pone.0044012-Martin1">[18]</xref>. CAGS-IG-T1 is anatomically almost identical to JMP-V-05-8-01 (the holotype of <italic>Sinocalliopteryx gigas</italic>; <xref ref-type="bibr" rid="pone.0044012-Ji1">[4]</xref>) and therefore referable to <italic>Sinocalliopteryx gigas</italic>. CAGS-IG-T1 is larger based on the postcranial measurements (<xref ref-type="table" rid="pone-0044012-t002">Table 2</xref>). The size difference between the two specimens is relatively greater in the length of the metatarsals than in the radius or height of the maxilla, presumably due to allometric growth. Although the original diagnosis of <italic>Sinocallipteryx</italic> does not include any characters preserved in CAGS-IG-T1, this specimen and the holotype of <italic>Sinocalliopteryx gigas</italic> can be distinguished from the similarly-sized, contemporaneous compsognathid <italic>Huaxiagnathus</italic> <xref ref-type="bibr" rid="pone.0044012-Hwang1">[13]</xref> based on several features of the maxilla: 1) The maxilla not as tall dorsoventrally in both specimens of <italic>Sinocalliopteryx</italic> as it is in <italic>Huaxiagnathus</italic>, in which the maxilla is two thirds taller at maximum than the anterior ramus; 2) The dorsal margin of the posterodorsal process of the maxilla forms an acute angle with the alveolar margin in <italic>Sinocalliopteryx</italic> whereas in <italic>Huaxiagnathus</italic>, the dorsal margin of the process is subparallel to the alveolar margin; 3) The maxillary fenestra is absent in <italic>Sinocalliopteryx</italic>, whereas the fenestra appears to be present in <italic>Huaxiagnathus</italic> <xref ref-type="bibr" rid="pone.0044012-Hwang1">[13]</xref>; 4) The anterior margin of the antorbital fenestra is dorsal to the seventh or eighth maxillary tooth position in <italic>Huaxiagnathus</italic> <xref ref-type="bibr" rid="pone.0044012-Hwang1">[13]</xref>, whereas the anterior margin of the fenestra is dorsal to at least the ninth or possibly the tenth tooth position in <italic>Sinocalliopteryx</italic>.</p>
+        <table-wrap id="pone-0044012-t002" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0044012.t002</object-id><label>Table 2</label><caption>
+            <title>Select measurements (mm) for <italic>Sinocalliopteryx gigas</italic>.</title>
+          </caption><alternatives>
+            <graphic id="pone-0044012-t002-2" mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0044012.t002" xlink:type="simple"/>
+            <table>
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Element</td>
+                  <td align="left" colspan="1" rowspan="1">JMP-V-05-8-01</td>
+                  <td align="left" colspan="1" rowspan="1">CAGS-IG-T1</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Maxillary height (max)</td>
+                  <td align="left" colspan="1" rowspan="1">40.8</td>
+                  <td align="left" colspan="1" rowspan="1">44.5</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Metatarsal III length</td>
+                  <td align="left" colspan="1" rowspan="1">147.3</td>
+                  <td align="left" colspan="1" rowspan="1">206.3</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="1" rowspan="1">Radius length</td>
+                  <td align="left" colspan="1" rowspan="1">100.7</td>
+                  <td align="left" colspan="1" rowspan="1">118.64</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives></table-wrap>
+      </sec>
+      <sec id="s3b">
+        <title>Abdominal Contents of CAGS-IG-T1</title>
+        <p>A disarticulated but associated skeleton of a confuciusornithine bird is preserved within the posterior part of the <italic>Sinocalliopteryx</italic> abdominal cavityin the vicinity of the distal ends of the ischia and dorsal to the gastral basket (<xref ref-type="fig" rid="pone-0044012-g003">Figure 3A, B</xref>). Other remains are scattered throughout the rest of the block. The associated elements include the furcula, left and right scapulocoracoids, right humerus, both radii, a metacarpal II, several manual phalanges, pelvis, a pedal phalanx, possibly part of the femoral shaft, and several unidentifiable bone fragments (<xref ref-type="fig" rid="pone-0044012-g003">Figure 3D, E</xref>). The proximal end of a second humerus is preserved in the block containing the dorsal vertebrae, whereas the humerus is partly covered by the dorsal ribs (<xref ref-type="fig" rid="pone-0044012-g002">Figures 2C</xref>, <xref ref-type="fig" rid="pone-0044012-g003">3F</xref>). Several additional elements reside in the region between the ischia of <italic>Sinocalliopteryx</italic>, including a dorsal vertebra, at least one phalanx, and part of the shaft of the ?tibiotarsus. The sternum, a ?carpal, and a second right scapulocoracoid are preserved close to the left ischium (<xref ref-type="fig" rid="pone-0044012-g003">Figure 3C</xref>). A fourth scapulocoracoid overlies the left ischium.</p>
+        <p>The furcula, visible in posterior view, is robust and U-shaped. A groove on this posterior surface is typical of <italic>C. santus</italic> <xref ref-type="bibr" rid="pone.0044012-Martin1">[18]</xref>. Four scapulocoracoids indicate the presence of at least two individuals. The scapula and coracoid are fused, a condition restricted among Mesozoic Aves to <italic>Confuciusornis sanctus</italic> and <italic>Archaeopteryx lithographica</italic> <xref ref-type="bibr" rid="pone.0044012-Martin1">[18]</xref>, <xref ref-type="bibr" rid="pone.0044012-Chiappe2">[19]</xref> but also present in some nonavian theropods such as <italic>Velociraptor</italic> <xref ref-type="bibr" rid="pone.0044012-Norell1">[20]</xref>. The sternum is damaged, presumably as a result of digestive processes, but retains a median carina as in <italic>C. sanctus</italic>, whereas a carina is absent in <italic>Changchengornis</italic> <xref ref-type="bibr" rid="pone.0044012-Chiappe2">[19]</xref>. The sternum of <italic>Eoconfuciusornis</italic> apparently did not ossify <xref ref-type="bibr" rid="pone.0044012-Zhang1">[21]</xref>.</p>
+        <p>The humerus is characteristically confuciusornithine, having an expanded proximal end and a triangular deltopectoral crest that constitutes more than one-third of the length of the humerus <xref ref-type="bibr" rid="pone.0044012-Chiappe2">[19]</xref>. An oval foramen pierces the deltopectoral crest, which is an autapomorphic feature of <italic>Confuciusornis</italic> <xref ref-type="bibr" rid="pone.0044012-Chiappe2">[19]</xref>, <xref ref-type="bibr" rid="pone.0044012-Hou1">[22]</xref>. A deltopectoral foramen is absent in all other confuciusornithids including <italic>Eoconfuciusornis</italic> <xref ref-type="bibr" rid="pone.0044012-Zhang1">[21]</xref> and <italic>Changchengornis</italic> <xref ref-type="bibr" rid="pone.0044012-Ji2">[23]</xref>.</p>
+        <p>The postacetabular process of the ilium is shorter than the preacetabular process and tapers distally. There is no evidence of a brevis fossa, which is present in maniraptoran theropods <xref ref-type="bibr" rid="pone.0044012-Chiappe2">[19]</xref>. The distal end of the ischium is missing, but the proximal portion retains a dorsal process that extends towards but does not contact the postacetabular blade (<xref ref-type="fig" rid="pone-0044012-g003">Figure 3D, E</xref>). This feature is present in <italic>C. sanctus</italic> and some enantiornithine birds, but is less developed in <italic>Archaeopteryx</italic> <xref ref-type="bibr" rid="pone.0044012-Martin1">[18]</xref>, <xref ref-type="bibr" rid="pone.0044012-Chiappe2">[19]</xref>.</p>
+        <p>Based on the aforementioned shared features, the avian remains in CAGS-IG-T1 are unequivocally assignable to <italic>Confuciusornis. Confuciusornis</italic> has had a troubled taxonomic history because the description of the type species was inadequate, and as many as five species have been assigned to that genus. Recent studies, however, have demonstrated that all of these specimens fall within the range of variation for the type species and are therefore synonymous with <italic>C. sanctus</italic> <xref ref-type="bibr" rid="pone.0044012-Chiappe2">[19]</xref>, <xref ref-type="bibr" rid="pone.0044012-MarugnLobn1">[24]</xref>. Moreover, a second genus of confuciusornithid, <italic>Jinzhouornis</italic>, and its two constituent species, has also been shown to be qualitatively and quantitatively indistinguishable from <italic>C. sanctus</italic> <xref ref-type="bibr" rid="pone.0044012-Chiappe3">[25]</xref>. In light of this and the morphological considerations already discussed, the associated confuciusornithid remains in CAGS-IG-T1 are assigned to <italic>C. sanctus.</italic></p>
+        <p>In addition to confuciusornithid remains, parts of two large bones are also present within the <italic>Sinocalliopteryx</italic> abdominal cavity (<xref ref-type="fig" rid="pone-0044012-g003">Figure 3A, B</xref>). Both are platy and incomplete with significant surficial modification; the entire surfaces of both elements are deeply pockmarked, resulting in the almost total loss of the original external bone surfaces (<xref ref-type="fig" rid="pone-0044012-g004">Figure 4</xref>). The largest bone, tentatively identified as a scapula, measures 13.5 cm in maximum length and is 6.5 cm wide. The proximal end is expanded dorsoventrally, but the acromion process is incomplete. The anteroventral expansion is larger than the acromion and retroverted such that the posterior margin of the expansion forms an acute angle with the scapula blade. In its short, robust morphology, the scapula resembles the scapulae of <italic>Psittacosaurus</italic> <xref ref-type="bibr" rid="pone.0044012-Xu1">[26]</xref> and the basal ornithopod <italic>Yueosaurus</italic> <xref ref-type="bibr" rid="pone.0044012-Zheng1">[27]</xref>; however, the element is so heavily modified that assignment to any one taxon is contentious.</p>
+        <fig id="pone-0044012-g004" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0044012.g004</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Possible ornithischian scapula (central red element in <xref ref-type="fig" rid="pone-0044012-g003"><bold>Figure 3B</bold></xref>) within the abdomen of <italic>Sinocalliopteryx gigas</italic> (CAGS-IG-T1).</title>
+            <p>Note disorganized bone texture as a result of corrosion by gastric juices.</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0044012.g004" xlink:type="simple"/>
+        </fig>
+      </sec>
+      <sec id="s3c">
+        <title>Abdominal Contents of JMP-V-05-8-01</title>
+        <p>The abdominal contents of JMP-V-05-8-01 resembles an inverted C-shape. Forming the upper part of the ‘C’ is a large oval mass (approx. 10 cm long), centrally and dorsally positioned within the abdominal cavity (<xref ref-type="fig" rid="pone-0044012-g005">Figure 5</xref>). This mass is composed of a dense accumulation of filamentous feather-like structures up to (and possibly exceeding) 22 mm in length. Where they are less densely gathered, the feather-like structures show fibers that branch off from a central filament (<xref ref-type="fig" rid="pone-0044012-g006">Figure 6A, B</xref>). In one area, a single ‘tuft’ shows individual filaments that converge at their bases (<xref ref-type="fig" rid="pone-0044012-g006">Figure 6C, D</xref>) in the same arrangement as the tufted integument described for <italic>Sinornithosaurus</italic> <xref ref-type="bibr" rid="pone.0044012-Xu2">[28]</xref>. The dromaeosaurid pes and distal part of the leg transects this mass posteriorly to form the vertical part of the ‘C’. A collection of feather-like structures occurs along the length of, but apparently is not connected to, the dromaeosaurid tibiotarsus. A central filament, or rachis, is visible in each of these structures. A discretely arcing arrangement of filaments has a striking resemblance to asymmetrical avian contour feathers (<xref ref-type="fig" rid="pone-0044012-g005">Figure 5E, F</xref>). Ventrally, two small, circular masses (approx. 3 cm in diameter) associated with gastroliths <xref ref-type="bibr" rid="pone.0044012-Ji1">[4]</xref> are present anterior to the pubic boot. The proximal end of the dromaeosaurid tibiotarsus coincides with the more posterior of the two smaller masses (<xref ref-type="fig" rid="pone-0044012-g005">Figure 5</xref>). The two circular masses within the gastral basket are made up of fine, indeterminate matter, with no indication of the filamentous structures seen elsewhere in the gut.</p>
+        <fig id="pone-0044012-g005" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0044012.g005</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Abdominal contents of <italic>Sinocalliopteryx gigas</italic> (JMP-V-05-8-01).</title>
+            <p>Blue, undigested feather-like structures; Red, dromaeosaurid hindlimb; Yellow, gastroliths. Greek numerals (i–iii) denote enlargements in <xref ref-type="fig" rid="pone-0044012-g005">Figure 5</xref>. Abbreviations: Dr, dorsal rib; F, femur; H, humerus; Pu, pubis.</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0044012.g005" xlink:type="simple"/>
+        </fig>
+        <fig id="pone-0044012-g006" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0044012.g006</object-id>
+          <label>Figure 6</label>
+          <caption>
+            <title>Undigested filamentous integument within the abdominal cavity of <italic>Sinocalliopteryx gigas</italic> (JMP-V-05-8-01).</title>
+            <p>A, B; Enlargement of <italic>i</italic> in <xref ref-type="fig" rid="pone-0044012-g004">Figure 4</xref>. Filamentous integument showing central vein (arrow in A; grey lines in B). Black lines are margins between adjacent filaments. Note the stomach contents overlie the right dorsal rib (DrR) but are overlain by the left dorsal rib (DrL). C, D; Enlargement of <italic>ii</italic> in <xref ref-type="fig" rid="pone-0044012-g004">Figure 4</xref>. Tuft of filaments showing single point of origin (arrow). E; Enlargement of <italic>iii</italic> in <xref ref-type="fig" rid="pone-0044012-g004">Figure 4</xref> showing scattered filamentous structures. Boxed area and interpretive illustration (F) shows a discrete association of parallel filaments similar to the barbs of an avian feather. Scale  = 5 mm.</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0044012.g006" xlink:type="simple"/>
+        </fig>
+        <p>The dromaeosaurid hindlimb is from the right side of the body and is preserved with its right lateral side exposed (<xref ref-type="fig" rid="pone-0044012-g005">Figure 5</xref>). It is overlain by the left gastralia and the left dorsal ribs and overlays a number of right gastralia and one of the dorsal vertebrae. Therefore, it can be conclusively identified as positioned within the abdominal cavity. The visible limb elements include the tibia, fibula, metatarsals III and IV, and numerous phalanges. Metatarsals I and II are also likely present, but their positions are obscured by matrix and the other limb bones. Some of the phalangeal elements remain articulated, and nearly all the pedal elements are near their articulated positions (<xref ref-type="fig" rid="pone-0044012-g007">Figure 7</xref>). The metatarsals lie parallel to the tibia and fibula, with theirproximal ends adjacent to the distal end of the tibia. The phalanges are positioned in a clinched arrangement (<xref ref-type="fig" rid="pone-0044012-g007">Figure 7</xref>).</p>
+        <fig id="pone-0044012-g007" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0044012.g007</object-id>
+          <label>Figure 7</label>
+          <caption>
+            <title>Close up of <italic>Sinornithosaurus</italic> right hindlimb within the abdominal cavity of <italic>Sinocalliopteryx</italic> (JMP-V-05-8-01).</title>
+            <p>Photograph and interpretive illustration. Gastralia (Gs) and dorsal rib (Dr) belong to <italic>Sinocalliopteryx.</italic> Note the similar lengths of metatarsals III and IV. Abbreviations: Fi, fibula; Mt, metatarsal; T, tibia.</p>
+          </caption>
+          <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0044012.g007" xlink:type="simple"/>
+        </fig>
+        <p>Phalanx II-3 is hypertrophied, which is diagnostic of Dromaeosauridae (<xref ref-type="fig" rid="pone-0044012-g007">Figure 7</xref>). As is common among dromaeosaurids from the Jehol Group (including <italic>Graciliraptor, Microraptor, Sinornithosaurus</italic>, and <italic>Tianyuraptor</italic>), the metatarsals are greatly elongate relative to the length of the tibia and fibula <xref ref-type="bibr" rid="pone.0044012-Xu3">[29]</xref>–<xref ref-type="bibr" rid="pone.0044012-Zheng2">[31]</xref>, and the shaft of phalanx II-2 is not strongly constricted between the articular facets <xref ref-type="bibr" rid="pone.0044012-Xu3">[29]</xref>. Metatarsal IV displays a prominent ventral flange. The metatarsals are semi-arctometarsalian to a greater extent than in <italic>Tianyuraptor</italic> <xref ref-type="bibr" rid="pone.0044012-Zheng2">[31]</xref>. Unfortunately, the metatarsals are crushed and obscure one another, making other potentially diagnostic characters difficult or impossible to observe. Phalanx III-1 is not exceptionally elongate or slender as it is in <italic>Graciliraptor</italic> <xref ref-type="bibr" rid="pone.0044012-Xu5">[32]</xref>. The limb is distinguishable from <italic>Microraptor</italic> based on its overall larger size (tibial length 15.5 cm) and its lower stratigraphic position; however, other, more diagnostic characters of the femur and pedal unguals are missing in JMP-V-05-8-01. The preserved elements are similar to those of <italic>Sinornithosaurus</italic> <xref ref-type="bibr" rid="pone.0044012-Xu3">[29]</xref>, and it is to this genus that the limb is tentatively referred.</p>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <title>Discussion</title>
+      <p>A wide variety of prey items have been identified within the abdominal cavities of compsognathids. Fish and lepidosaurian reptiles were identified within the exceptionally well-preserved digestive tract of <italic>Scipionyx samniticus</italic> <xref ref-type="bibr" rid="pone.0044012-DalSasso2">[33]</xref>, the remains of a lepidosaur (<italic>Bavarisaurus</italic> cf. <italic>macrodactylus</italic>) were found within the holotype of <italic>Compsognathus longipes</italic> <xref ref-type="bibr" rid="pone.0044012-Ostrom1">[8]</xref>, and bones of an unidentified small mammal within the holotype of <italic>Sinosauropteryx</italic> <xref ref-type="bibr" rid="pone.0044012-Currie1">[10]</xref>, <xref ref-type="bibr" rid="pone.0044012-Chen2">[15]</xref>. A second <italic>Sinosauropteryx</italic> specimen (GMV 2124) preserves the jaws of triconodont (<italic>Sinobaatar</italic>) and symmetrodont (<italic>Zhangheotherium</italic>) mammals <xref ref-type="bibr" rid="pone.0044012-Hurum1">[34]</xref>. Miscellaneous, partially-digested bones were also observed within the holotype specimen of <italic>Huaxiagnathus</italic> <xref ref-type="bibr" rid="pone.0044012-Hwang1">[13]</xref>. Based on our identification, the <italic>Sinornithosaurus</italic> limb in <italic>Sinocalliopteryx</italic> (CAGS-IG-T1) corresponds to an individual that can be estimated at roughly one meter in total length <xref ref-type="bibr" rid="pone.0044012-Xu3">[29]</xref>. If the <italic>Sinornithosaurus</italic> was predated upon (rather than scavenged), this would imply <italic>Sinocalliopteryx</italic> was capable of tackling carnivorous prey more than a third its own size. The addition of at least two confuciusornithines and an unidentified ornithischian within the abdominal cavity of CAGS-IG-T1 demonstrates a diverse diet in <italic>Sinocalliopteryx.</italic></p>
+      <fig id="pone-0044012-g008" orientation="portrait" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0044012.g008</object-id>
+        <label>Figure 8</label>
+        <caption>
+          <title><italic>Sinocalliopteryx</italic> as a stealth hunter feeding on the dromaeosaur <italic>Sinornithosaurus</italic> (left) and the primitive bird <italic>Confuciusornis</italic> (right).</title>
+          <p>Illustration by Cheung Chungtat.</p>
+        </caption>
+        <graphic mimetype="image" orientation="portrait" position="float" xlink:href="info:doi/10.1371/journal.pone.0044012.g008" xlink:type="simple"/>
+      </fig>
+      <p>CAGS-IG-T1 possesses abdominal contents in different stages of digestion. The remains of the confuciusornithines, although disarticulated and often broken, still retain relatively smooth (uncorroded) bone surfaces, indicating minimal impact from gastric acids. In contrast, the larger ornithischian bones show considerable corrosive effects and the near total loss of smooth periosteal bone. The marked disparity in digestion (corrosion) between remains indicates a hiatus between the consumption of the ornithischian and subsequent feeding on confuciusornithines.</p>
+      <p>Among the abdominal contents, several confuciusornithine skeletal elements are notably absent (e.g. skull, ribs, vertebrae, synsacrum, tarsometatarsus). It is unclear if these missing body parts were: 1) never consumed by the <italic>Sinocalliopteryx</italic>; 2) were consumed but were then preferentially dissolved/digested/egested; 3) consumed and preserved but are obscured by matrix and other elements; or 4) are preserved in another block that was not recovered. Barring further preparation and the successful recovery of additional components of the specimen, these competing explanations remain untestable.</p>
+      <sec id="s4a">
+        <title>Inferences about the Digestive System of <italic>Sinocalliopteryx</italic></title>
+        <p>Information regarding the organs and internal anatomy of dinosaurs is exceptionally rare. Undoubtedly the best example of preserved internal anatomy is that of the juvenile compsognathid, <italic>Scipionyx samniticus</italic> (SBA-SA 163760), which preserves vestiges of many of the major organs in exquisite detail <xref ref-type="bibr" rid="pone.0044012-DalSasso2">[33]</xref>, <xref ref-type="bibr" rid="pone.0044012-DalSasso3">[35]</xref>. In addition, remnants of the articular cartilages, ligaments, and muscle tissues are also preserved providing unsurpassed insight into the soft tissue anatomy of a theropod <xref ref-type="bibr" rid="pone.0044012-DalSasso2">[33]</xref>. Moreover, as a compsognathid, <italic>Scipionyx</italic> serves as a useful model for interpreting the abdominal contents and the presumed digestive tract of <italic>Sinocalliopteryx.</italic></p>
+        <p>The C-shaped abdominal contents in JMP-V-05-8-01 appear reflective of the original contour of the digestive tract <xref ref-type="bibr" rid="pone.0044012-DalSasso2">[33]</xref>, <xref ref-type="bibr" rid="pone.0044012-DalSasso3">[35]</xref>. Furthermore, the contents become smaller and less identifiable along the length of the inferred gut, presumably as a result of more advanced digestion. The largest mass within the abdomen of JMP-V-05-8-01 contains discernible feather-like structures and the partial leg of an ingested dromaeosaurid. These remains most likely represent a cololite that delimits the stomach. Further along the length of the C-shaped digestive tract, the two smaller food masses are composed of amorphous material suggestive of longer residence times within the digestive tract. Their proximity to the stomach suggests they may have been contained within the duodenal loop, which is distinct in <italic>Scipionyx</italic> <xref ref-type="bibr" rid="pone.0044012-DalSasso2">[33]</xref>, and modern birds <xref ref-type="bibr" rid="pone.0044012-Whittow1">[36]</xref>. In <italic>Scipionyx</italic>, the anterior part of the descending loop of the duodenum (i.e. behind the pyloric sphincter) is dorsoventrally oriented. Further along its length, the duodenum turns posteriorly, becoming parallel with the gastral basket in precisely the same way as the abdominal contents of JMP-V-05-8-01. The duodenum of <italic>Scipionyx</italic> also contains incompletely digested elements (lizard-like squamae and a possible fish vertebra <xref ref-type="bibr" rid="pone.0044012-DalSasso2">[33]</xref>), which is consistent with the progression of ingested remains in <italic>Sinocalliopteryx.</italic></p>
+        <p>There is evidence that crocodilians can increase secretion of stomach acids by shunting deoxygenated blood to the stomach (by increasing levels of PCO<sub>2</sub>; <xref ref-type="bibr" rid="pone.0044012-Farmer1">[37]</xref>), giving them the most acidic foregut yet measured in any animal. Gastric pH may drop as low as 1.2 in crocodilians <xref ref-type="bibr" rid="pone.0044012-Huchzermeyer1">[38]</xref>, whereas it is generally always above 2.6 in birds <xref ref-type="bibr" rid="pone.0044012-Sturkie1">[39]</xref>. The increase in acidity in crocodilians may also be an adaptation to deal with large meals (<italic>A. mississippiensis</italic> will voluntarily consume 23% of its body mass at one time; <xref ref-type="bibr" rid="pone.0044012-Uriona1">[40]</xref>). Because of low acidity, most modern birds are unable to digest bone and instead will compact and orally egest this indigestible material <xref ref-type="bibr" rid="pone.0044012-Sturkie1">[39]</xref>. Given the presence of acid-etched bones in the gut of <italic>Sinocalliopteryx</italic> and <italic>Scipionyx</italic>, as well as the presence of undigested bone and muscle fibers in theropod coprolites <xref ref-type="bibr" rid="pone.0044012-Chin1">[41]</xref>, <xref ref-type="bibr" rid="pone.0044012-Chin2">[42]</xref>, it is known that at least some carnivorous dinosaurs possessed highly acidic foreguts conducive to digestive processing of bone <xref ref-type="bibr" rid="pone.0044012-DalSasso3">[35]</xref>. Preserved theropod feces from Late Cretaceous tyrannosaurids retain modified bone fragments <xref ref-type="bibr" rid="pone.0044012-Chin1">[41]</xref>, <xref ref-type="bibr" rid="pone.0044012-Chin2">[42]</xref>, implying that some ingested bone was not regurgitated in at least some non-avian theropods. However, undigested muscle tissue from a tyrannosaurid coprolite <xref ref-type="bibr" rid="pone.0044012-Chin2">[42]</xref> suggests that some non-avian theropod digestive tracts were not as destructive as those of extant crocodilians. Therefore, modern crocodilians do not necessarily provide ideal analogues for <italic>Sinocalliopteryx</italic> digestion. Based on the digestive efficacy of <italic>Alligator mississippiensis</italic> <xref ref-type="bibr" rid="pone.0044012-Farmer1">[37]</xref>, a predicted minimum gastric residence time of 13 days would be required to reach the level of corrosion observed in the presumed ornithischian bones. By comparison, the gastric residence time for birds is generally less than 12 hours <xref ref-type="bibr" rid="pone.0044012-Whittow1">[36]</xref>.</p>
+        <p>Geo-gastroliths are swallowed sediment particles such as pebbles and grit irrespective of function or deliberate/accidental origin <xref ref-type="bibr" rid="pone.0044012-Wings1">[43]</xref>. Such stones are known from a wide variety of theropods including <italic>Allosaurus</italic> <xref ref-type="bibr" rid="pone.0044012-Ayer1">[44]</xref>, <italic>Baryonyx</italic> <xref ref-type="bibr" rid="pone.0044012-Charig1">[45]</xref>, <italic>Caudipteryx</italic> <xref ref-type="bibr" rid="pone.0044012-Ji3">[46]</xref>, <italic>Lourinhanosaurus</italic> <xref ref-type="bibr" rid="pone.0044012-Mateus1">[47]</xref>, <italic>Nqwebasaurus</italic> <xref ref-type="bibr" rid="pone.0044012-DeKlerk1">[48]</xref>, <italic>Sinornithomimus</italic> <xref ref-type="bibr" rid="pone.0044012-Kobayashi1">[49]</xref>, <italic>Sinosauropteryx</italic> <xref ref-type="bibr" rid="pone.0044012-Dong1">[50]</xref>, <italic>Syntarsus</italic> <xref ref-type="bibr" rid="pone.0044012-Whittle1">[51]</xref>, and possibly <italic>Tarbosaurus</italic> <xref ref-type="bibr" rid="pone.0044012-Suzuki1">[52]</xref>. In a recent review of geo-gastrolith function, Wings <xref ref-type="bibr" rid="pone.0044012-Wings1">[43]</xref> found aid in digestion (trituration, food mixing, stomach cleaning, and mineral supplement) as the most plausible reason for the deliberate ingestion of stomach stones. However, accidental ingestion (e.g. consumption of gastrolith-containing prey) was found to be a major factor in extant carnivores, including crocodilians. The apparent absence of geo-gastroliths in CAGS-IG-T1 suggests such stones were not a critical part of <italic>Sinocalliopteryx</italic> digestion. In fact, Wings <xref ref-type="bibr" rid="pone.0044012-Wings1">[43]</xref> argued that low numbers of stomach stones, such as those found in <italic>Allosaurus</italic> <xref ref-type="bibr" rid="pone.0044012-Wings1">[43]</xref> and <italic>Baryonyx</italic> <xref ref-type="bibr" rid="pone.0044012-Charig1">[45]</xref> are likely the result of accidental ingestion. Discrete accumulations of dozens or hundreds of stones in many individuals, such as those in the ornithomimid <italic>Sinornithomimus</italic> <xref ref-type="bibr" rid="pone.0044012-Kobayashi1">[49]</xref>, are almost certainly digestion aids. It is therefore likely that the few stones found in the holotype of <italic>Sinocalliopteryx</italic> were a result of accidental ingestion. It is notable that geo-gastroliths in <italic>Sinocalliopteryx</italic> occur in the posterior abdomen rather than the stomach where they occur in extant crocodilians <xref ref-type="bibr" rid="pone.0044012-Huchzermeyer1">[38]</xref>. In crocodilians, a particularly strong pyloric sphincter prevents the passage of geo-gastroliths into the midgut <xref ref-type="bibr" rid="pone.0044012-Huchzermeyer1">[38]</xref>, <xref ref-type="bibr" rid="pone.0044012-Stevens1">[53]</xref>. In birds, geo-gastroliths are held within the muscular ventriculus, or gizzard, which functions as the primary trituration site <xref ref-type="bibr" rid="pone.0044012-Stevens1">[53]</xref>. In <italic>Sinocalliopteryx</italic>, the association between geo-gastroliths and the highly processed food masses in the midgut region negate the possibility of a gizzard. Had the animal lived, it is likely that these stones would have been passed in the faeces.</p>
+      </sec>
+      <sec id="s4b">
+        <title>Predation on Flying Prey and Ecological Implications</title>
+        <p>Remains as delicate as small bird bones have presumably short digestion periods, and the multiple <italic>Confuciusornis</italic> within the abdominal cavity of CAGS-IG-T1 must have been consumed in fairly rapid succession, in order for the first individual not to have had time to be digested noticeably beyond that of the second. Moreover, levels of corrosion on all the confuciusornithine elements are similar on a macroscopic level, again suggesting that the birds were consumed in rapid succession. Such short durations between meals provides anecdotal evidence for high metabolic rate in <italic>Sinocalliopteryx</italic>.</p>
+        <p>In both CAGS-IG-T1 and JMP-V-05-8-01, scavenging cannot be definitively ruled out as an alternative to predation. However, as argued by O’Connor et al. <xref ref-type="bibr" rid="pone.0044012-OConnor1">[54]</xref>, a high degree of articulation among gut contents shows that, when ingested, the carcasses were at least fresh enough not to have disarticulated. The association of two or more birds is perhaps more easily explained by selective hunting than by the chance discovery of multiple <italic>C. sanctus</italic> carcasses; however, this is speculative. In the case of CAGS-IG-T1, it is improbable that every individual organism represented within the gut contents was consumed exclusively as a result of scavenging, as true obligate tetrapod scavengers are rare <xref ref-type="bibr" rid="pone.0044012-DeVault1">[55]</xref>.</p>
+        <p>The presence of at least two confuciusornithine birds within the abdominal cavity of <italic>Sinocalliopteryx</italic> (CAGS-IG-T1) argues against circumstantial consumption (i.e. the coincidental scavenging of two or more carcasses of the same species), and suggests a behavioral proficiency for predating on flying prey. It is not known if the dromaeosaurid <italic>Sinornithosaurus</italic> possessed elongate hind and forelimb feathers, as in the closely related <italic>Microraptor</italic>. If it did, the <italic>Sinornithosaurus</italic> remains within JMP-V-05-8-01 may constitute an additional example of a flight-capable maniraptoran eaten by a <italic>Sinocalliopteryx</italic>.</p>
+        <p>O’Connor et al. <xref ref-type="bibr" rid="pone.0044012-OConnor1">[54]</xref> reported on a specimen of <italic>Microraptor</italic> with the remains of an enantiornithine bird within its abdominal cavity, and argued that such presumed predation on a bird with clear arboreal perching adaptations was evidence supporting a highly arboreal/aerial lifestyle in <italic>Microraptor</italic>. Based on various other lines of evidence, we agree with this ultimate conclusion; however, that Jehol birds were evidently on the menu of <italic>Sinocalliopteryx</italic> must be regarded as a strong contradiction to the necessity of O’Connor et al’s <xref ref-type="bibr" rid="pone.0044012-OConnor1">[54]</xref> ecological inference. <italic>Confuciusornis</italic> was not as well adapted to perching as enantiornithine birds, but does nonetheless possess long curved pedal claws and a posteriorly-facing hallux, and was capable of powered flight. While <italic>Sinocalliopteryx</italic> does have proportionately longer arms than most compsognathids and may have been capable of tree climbing, it lacks any definitive arboreal adaptations; at over two meters in length, is best regarded as a predominantly terrestrial animal.</p>
+        <p>Active hunting of flight-capable prey by a land-bound predator may seem intrinsically implausible, but there are abundant extant examples, wild felids among the most famous. The back-footed cat (<italic>Felis nigripes</italic>) of southern Africa routinely ambushes and chases down cursorial birds before they are able to become airborne <xref ref-type="bibr" rid="pone.0044012-Smithers1">[56]</xref>. Servals (<italic>Leptailurus serval</italic>) are long-legged and adept at pouncing on alighted birds, and at snagging fleeing birds midair <xref ref-type="bibr" rid="pone.0044012-Kingdon1">[57]</xref>–<xref ref-type="bibr" rid="pone.0044012-Hunter1">[59]</xref>. Avian prey is known to constitute nearly half the diet of some leopard cats (<italic>Prionailurus bengalensis</italic>) <xref ref-type="bibr" rid="pone.0044012-Sunquist2">[60]</xref>, which both climb trees to prey on roosting birds and ambush foraging birds on the ground. Among canids, foxes are expert bird hunters, commonly taking anseriforme, galliforme, and passeriforme game <xref ref-type="bibr" rid="pone.0044012-Richards1">[61]</xref>, <xref ref-type="bibr" rid="pone.0044012-Sargeant1">[62]</xref>. Among extant reptiles, monitor lizards and various snakes consume birds in both arboreal and terrestrial contexts <xref ref-type="bibr" rid="pone.0044012-Vestjens1">[63]</xref>–<xref ref-type="bibr" rid="pone.0044012-Slip1">[66]</xref>.</p>
+        <p>In a majority of these examples, what is required to successfully apprehend avian prey is not climbing prowess, but stealth, such that the predator can reach its striking distance before the prey takes flight. It should be remembered that <italic>Confuciusornis</italic> and other Jehol birds were not as well adapted for flight as most modern aves, and, therefore, likely required greater time to mount an aerial takeoff and escape. Nevertheless, the evidence of bird predation in <italic>Sinocalliopteryx</italic> suggests that it was a highly capable stealth hunter (<xref ref-type="fig" rid="pone-0044012-g008">Figure 8</xref>).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The authors thank Fucheng Zhang and Xing Xu (The Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, China) for critical comments and suggestions on this paper. Thanks to Cheung Chuntat for the exceptional illustrations in figure 8. All other illustrations by PRB. Detailed revisions by Cristiano Dal Sasso, an anonymous reviewer, and the handling editor Andrew Farke greatly improved the final version and we are appreciative of their efforts.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0044012-Chen1">
+        <label>1</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chen</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Cao</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Li</surname><given-names>W</given-names></name>, <etal>et al</etal>. (<year>2005</year>) <article-title>Jianshangou Bed of the Yixian Formation in west Liaoning, China</article-title>. <source>Sci China Ser D - Earth Sci</source> <volume>48</volume>: <fpage>298</fpage>–<lpage>312</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Frsich1">
+        <label>2</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fürsich</surname><given-names>FT</given-names></name>, <name name-style="western"><surname>Jingeng</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Baoyu</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Yanhong</surname><given-names>P</given-names></name> (<year>2007</year>) <article-title>High resolution palaeoecological and taphonomic analysis of Early Cretaceous lake biota, western Liaoning (NE-China)</article-title>. <source>Pal Pal Pal</source> <volume>253</volume>: <fpage>434</fpage>–<lpage>457</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Li1">
+        <label>3</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Li</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Gao</surname><given-names>K-Q</given-names></name>, <name name-style="western"><surname>Vinther</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Shawkey</surname><given-names>MD</given-names></name>, <name name-style="western"><surname>Clarke</surname><given-names>JA</given-names></name>, <etal>et al</etal>. (<year>2010</year>) <article-title>Plumage color patterns of an extinct dinosaur</article-title>. <source>Science</source> <volume>327</volume>: <fpage>1369</fpage>–<lpage>1372</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Ji1">
+        <label>4</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ji</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Lu</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Yuan</surname><given-names>C</given-names></name> (<year>2007</year>) <article-title>A new giant compsognathid dinosaur with long filamentous integuments from Lower Cretaceous of Northeastern China</article-title>. <source>Acta Geol Sin</source> <volume>81</volume>: <fpage>8</fpage>–<lpage>15</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Swisher1">
+        <label>5</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Swisher</surname><given-names>CC</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>XL</given-names></name>, <name name-style="western"><surname>Zhou</surname><given-names>ZZ</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>YQ</given-names></name>, <name name-style="western"><surname>Jin</surname><given-names>F</given-names></name>, <etal>et al</etal>. (<year>2002</year>) <article-title>Further support for a Cretaceous age for the feathered-dinosaur beds of Liaoning, China: New 40Ar/39Ar dating of the Yixian and Tuchengzi formations</article-title>. <source>Chinese Sci Bull</source> <volume>47</volume>: <fpage>135</fpage>–<lpage>138</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Swisher2">
+        <label>6</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Swisher</surname><given-names>CC</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>YQ</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>XL</given-names></name>, <name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name> (<year>1999</year>) <article-title>Cretaceous age for the feathered dinosaurs of Liaoning, China</article-title>. <source>Nature</source> <volume>400</volume>: <fpage>58</fpage>–<lpage>61</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Witmer1">
+        <label>7</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name> (<year>1997</year>) <article-title>The evolution of the antorbital cavity of Archosaurs: a study in soft-tissue reconstruction in the fossil record with an analysis of the function of pneumaticity</article-title>. <source>J Vert Pal Mem</source> <volume>3</volume>: <fpage>1</fpage>–<lpage>76</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Ostrom1">
+        <label>8</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ostrom</surname><given-names>JH</given-names></name> (<year>1978</year>) <article-title>The osteology of <italic>Compsognathus longipes</italic> Wagner</article-title>. <source>Zitteliana</source> <volume>4</volume>: <fpage>73</fpage>–<lpage>118</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Chiappe1">
+        <label>9</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chiappe</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Gölich</surname><given-names>U</given-names></name> (<year>2010</year>) <article-title>Anatomy of <italic>Juravenator starki</italic> (Theropoda: Coelurosauria) from the Late Jurassic of Germany</article-title>. <source>Neues Jahrbuch für Geologie und Paläontologie Abhandlungen</source> <volume>258</volume>: <fpage>257</fpage>–<lpage>296</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Currie1">
+        <label>10</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Chen</surname><given-names>PJ</given-names></name> (<year>2001</year>) <article-title>Anatomy of <italic>Sinosauropteryx prima</italic> from Liaoning, northeastern China</article-title>. <source>Can J Earth Sci</source> <volume>38</volume>: <fpage>1705</fpage>–<lpage>1727</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-deKlerk1">
+        <label>11</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>de Klerk</surname><given-names>WJ</given-names></name>, <name name-style="western"><surname>Forster</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name>, <name name-style="western"><surname>Chinsamy</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Ross</surname><given-names>CF</given-names></name> (<year>2000</year>) <article-title>A new coelurosaurian dinosaur from the Early Cretaceous of South Africa</article-title>. <source>J Vert Pal</source> <volume>20</volume>: <fpage>324</fpage>–<lpage>332</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Holtz1">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Holtz TR, Molnar RE, Currie PJ (2004) Basal Tetanurae. In D. Weishampel, P. Dodson, and H. Osmólska (eds.) The Dinosauria (2<sup>nd</sup> edition). The University of California Press, Berkeley. 71–110.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Hwang1">
+        <label>13</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hwang</surname><given-names>SH</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Gao</surname><given-names>K-Q</given-names></name> (<year>2004</year>) <article-title>A large compsognathid from the Early Cretaceous Yixian Formation of China</article-title>. <source>J Syst Pal</source> <volume>2</volume>: <fpage>13</fpage>–<lpage>30</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Peyer1">
+        <label>14</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Peyer</surname><given-names>K</given-names></name> (<year>2006</year>) <article-title>A reconsideration of <italic>Compsognathus</italic> from the upper Tithonian of Canjuers, southeastern France</article-title>. <source>J Vert Pal</source> <volume>26</volume>: <fpage>879</fpage>–<lpage>896</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Chen2">
+        <label>15</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chen</surname><given-names>P-J</given-names></name>, <name name-style="western"><surname>Dong</surname><given-names>D-M</given-names></name>, <name name-style="western"><surname>Zheng</surname><given-names>SN</given-names></name> (<year>1998</year>) <article-title>An exceptionally well-preserved theropod dinosaur from the Yixian Formation of China</article-title>. <source>Nature</source> <volume>391</volume>: <fpage>147</fpage>–<lpage>152</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Gishlick1">
+        <label>16</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gishlick</surname><given-names>AD</given-names></name>, <name name-style="western"><surname>Gauthier</surname><given-names>JA</given-names></name> (<year>2007</year>) <article-title>On the manual morphology of <italic>Compsognathus longipes</italic> and its bearing on the diagnosis of Compsognathidae</article-title>. <source>Zool J Linn Soc</source> <volume>149</volume>: <fpage>569</fpage>–<lpage>581</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-DalSasso1">
+        <label>17</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dal Sasso</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Maganuco</surname><given-names>S</given-names></name> (<year>2011</year>) <article-title><italic>Scipionyx samniticus</italic> (Theropoda: Compsognathidae) from the Lower Cretaceous of Italy. Osteology, ontogenetic assessment, phylogeny, soft tissue anatomy, taphonomy and palaeobiology</article-title>. <source>Memorie della Società Italiana de Scienze Naturali e del Museo Civico di Storia Naturale di Milano</source> <volume>37</volume>: <fpage>1</fpage>–<lpage>281</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Martin1">
+        <label>18</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Martin</surname><given-names>LD</given-names></name>, <name name-style="western"><surname>Zhou</surname><given-names>Z</given-names></name> (<year>1998</year>) <article-title>Confuciusornis sanctus compared to Archaeopteryx lithographica</article-title>. <source>Naturwissenchaften</source> <volume>85</volume>: <fpage>286</fpage>–<lpage>289</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Chiappe2">
+        <label>19</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chiappe</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name> (<year>1999</year>) <article-title>Anatomy and systematics of the Confuciusornithidae (Aves) from the late Mesozoic of northeastern China</article-title>. <source>Bull Am Mus Nat Hist</source> <volume>242</volume>: <fpage>1</fpage>–<lpage>89</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Norell1">
+        <label>20</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Makovicky</surname><given-names>PJ</given-names></name> (<year>1999</year>) <article-title>Important features of the dromaeosaurid skeleton II: information from newly collected specimens of <italic>Velociraptor mongoliensis.</italic></article-title>. <source>Am Mus Nov</source> <volume>3282</volume>: <fpage>1</fpage>–<lpage>48</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Zhang1">
+        <label>21</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhang</surname><given-names>FC</given-names></name>, <name name-style="western"><surname>Zhou</surname><given-names>ZH</given-names></name>, <name name-style="western"><surname>Benton</surname><given-names>MJ</given-names></name> (<year>2008</year>) <article-title>A primitive confuciusornithid bird from China and its implications for early avian flight</article-title>. <source>Sci China Ser D - Earth Sci</source> <volume>51</volume>: <fpage>625</fpage>–<lpage>639</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Hou1">
+        <label>22</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hou</surname><given-names>L-H</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>Z-H</given-names></name>, <name name-style="western"><surname>Martin</surname><given-names>LD</given-names></name>, <name name-style="western"><surname>Feduccia</surname><given-names>A</given-names></name> (<year>1995</year>) <article-title>A beaked bird from the Jurassic of China</article-title>. <source>Nature</source> <volume>377</volume>: <fpage>616</fpage>–<lpage>618</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Ji2">
+        <label>23</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ji</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Chiappe</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>S</given-names></name> (<year>1999</year>) <article-title>A new late Mesozoic confuciusornithid bird from China</article-title>. <source>J Vert Pal</source> <volume>19</volume>: <fpage>1</fpage>–<lpage>7</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-MarugnLobn1">
+        <label>24</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Marugán-Lobón</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Chiappe</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Chunling</surname><given-names>G</given-names></name>, <etal>et al</etal>. (<year>2011</year>) <article-title>Quantitative patterns of morphological variation in the appendicular skeleton of the Early Cretaceous bird <italic>Confuciusornis.</italic></article-title>. <source>J Syst Pal</source> <volume>9</volume>: <fpage>91</fpage>–<lpage>101</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Chiappe3">
+        <label>25</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chiappe</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Marugán-Lobón</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Zhou</surname><given-names>Z</given-names></name> (<year>2008</year>) <article-title>Life history of a basal bird: morphometrics of the Early Cretaceous <italic>Confuciusornis.</italic></article-title>. <source>Biol Letters</source> <volume>4</volume>: <fpage>719</fpage>–<lpage>723</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Xu1">
+        <label>26</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name> (<year>1998</year>) <article-title>New <italic>Psittacosaurus</italic> occurrences in the Early Cretaceous Yixian Formation (Liaoning, China) and its stratigraphic significance</article-title>. <source>Vert Palasiatica</source> <volume>36</volume>: <fpage>147</fpage>–<lpage>158</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Zheng1">
+        <label>27</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zheng</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Jin</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Shibata</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Azuma</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Yu</surname><given-names>F</given-names></name> (<year>2012</year>) <article-title>A new ornithischian dinosaur from the Cretaceous Liangtoutanf Formation of Tiantai, Zhejiang Province, China</article-title>. <source>Cret Res</source> <volume>34</volume>: <fpage>208</fpage>–<lpage>219</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Xu2">
+        <label>28</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name> (<year>2001</year>) <article-title>Branched integumental structures in <italic>Sinornithosaurus</italic> and the origin of feathers</article-title>. <source>Nature</source> <volume>410</volume>: <fpage>200</fpage>–<lpage>204</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Xu3">
+        <label>29</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X-L</given-names></name> (<year>2000</year>) <article-title>Troodontid-like pes in the dromaeosaurid <italic>Sinornithosaurus</italic></article-title>. <source>Paleont Soc Korea Sp Publ</source> <volume>4</volume>: <fpage>179</fpage>–<lpage>188</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Xu4">
+        <label>30</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name> (<year>2006</year>) <article-title>Non-avian dinosaur fossils from the Lower Cretaceous Jehol Group of western Liaoning, China</article-title>. <source>Geol J</source> <volume>41</volume>: <fpage>419</fpage>–<lpage>437</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Zheng2">
+        <label>31</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zheng</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>You</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Dong</surname><given-names>Z</given-names></name> (<year>2010</year>) <article-title>A short-armed dromaeosaurid from the Jehol Group China with implications for early dromaeosaurid evolution</article-title>. <source>Proc Roy Soc B</source> <volume>22</volume>: <fpage>211</fpage>–<lpage>217</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Xu5">
+        <label>32</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Xu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X-L</given-names></name> (<year>2004</year>) <article-title>A new dromaeosaur (Dinosauria: Theropoda) from the Early Cretaceous Yixian Formation of western Liaoning</article-title>. <source>Vert PalAsiatica</source> <volume>42</volume>: <fpage>111</fpage>–<lpage>119</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-DalSasso2">
+        <label>33</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dal Sasso</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Maganuco</surname><given-names>S</given-names></name> (<year>2011</year>) <article-title><italic>Scipionyx samniticus</italic> (Theropoda: Compsognathidae) from the Lower Cretaceous of Italy; osteology, ontogenetic assessment, phylogeny, soft tissue anatomy taphonomy and palaeobiology</article-title>. <source>Memorie</source> <volume>37</volume>: <fpage>1</fpage>–<lpage>281</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Hurum1">
+        <label>34</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hurum</surname><given-names>JH</given-names></name>, <name name-style="western"><surname>Luo</surname><given-names>Z−X</given-names></name>, <name name-style="western"><surname>Kielan−Jaworowska</surname><given-names>Z</given-names></name> (<year>2006</year>) <article-title>Were mammals originally venomous</article-title>? <source>Acta Pal Pol</source> <volume>51</volume>: <fpage>1</fpage>–<lpage>11</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-DalSasso3">
+        <label>35</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dal Sasso</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Signore</surname><given-names>M</given-names></name> (<year>1998</year>) <article-title>Exceptional soft tissue preservation in a theropod dinosaur from Italy</article-title>. <source>Nature</source> <volume>392</volume>: <fpage>383</fpage>–<lpage>387</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Whittow1">
+        <label>36</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Whittow GC (2000) Sturkie’s avian physiology. 5<sup>th</sup> ed. Academic Press: San Diego. 704 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Farmer1">
+        <label>37</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Farmer</surname><given-names>CG</given-names></name>, <name name-style="western"><surname>Uriona</surname><given-names>TJ</given-names></name>, <name name-style="western"><surname>Olsen</surname><given-names>DB</given-names></name>, <name name-style="western"><surname>Steenblik</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Sanders</surname><given-names>K</given-names></name> (<year>2008</year>) <article-title>The right-to-left shunt of crocodilians serves digestion</article-title>. <source>Phys Biochem Zool</source> <volume>81</volume>: <fpage>125</fpage>–<lpage>137</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Huchzermeyer1">
+        <label>38</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Huchzermeyer FW (2003) Crocodiles: Biology, husbandry and diseases. Cambridge: CAB International. 352 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Sturkie1">
+        <label>39</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Sturkie PD (2000) Avian physiology, 5<sup>th</sup> Ed. Ithaca: Cornell University Press. 685 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Uriona1">
+        <label>40</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Uriona</surname><given-names>TJ</given-names></name>, <name name-style="western"><surname>Farmer</surname><given-names>CG</given-names></name> (<year>2006</year>) <article-title>Contribution of the diaphragmaticus muscle to vital capacity in post-prandial American alligators (<italic>Alligator mississippiensis</italic>)</article-title>. <source>J Exp Biol</source> <volume>208</volume>: <fpage>3047</fpage>–<lpage>3053</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Chin1">
+        <label>41</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chin</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Tokaryk</surname><given-names>TT</given-names></name>, <name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name>, <name name-style="western"><surname>Calk</surname><given-names>LC</given-names></name> (<year>1998</year>) <article-title>A king-sized theropod coprolite</article-title>. <source>Nature</source> <volume>393</volume>: <fpage>680</fpage>–<lpage>682</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Chin2">
+        <label>42</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chin</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Eberth</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Schweitzer</surname><given-names>MH</given-names></name>, <name name-style="western"><surname>Rando</surname><given-names>TA</given-names></name>, <name name-style="western"><surname>Sloboda</surname><given-names>WJ</given-names></name>, <etal>et al</etal>. (<year>2003</year>) <article-title>Remarkable preservation of undigested muscle tissue within a Late Cretaceous tyrannosaurid coprolite from Alberta, Canada</article-title>. <source>Palaios</source> <volume>18</volume>: <fpage>286</fpage>–<lpage>294</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Wings1">
+        <label>43</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wings</surname><given-names>O</given-names></name> (<year>2007</year>) <article-title>A review of gastrolith function with implications for fossil vertebrates and a revised classification</article-title>. <source>Acta Pal Pol</source> <volume>52</volume>: <fpage>1</fpage>–<lpage>16</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Ayer1">
+        <label>44</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Ayer J (2000) The Howe Ranch dinosaurs. Aathal: Sauriermuseum Aathal. 96 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Charig1">
+        <label>45</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Charig</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Milner</surname><given-names>AC</given-names></name> (<year>1997</year>) <article-title><italic>Baryonyx walkeri</italic>, a fish-eating dinosaur from the Wealden of Surrey</article-title>. <source>Bull Nat Hist Mus Geol Ser</source> <volume>53</volume>: <fpage>11</fpage>–<lpage>70</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Ji3">
+        <label>46</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ji</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Ji</surname><given-names>S-A</given-names></name> (<year>1998</year>) <article-title>Two feathered dinosaurs from northeastern China</article-title>. <source>Nature</source> <volume>393</volume>: <fpage>753</fpage>–<lpage>761</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Mateus1">
+        <label>47</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mateus</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Mateus</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Antunes</surname><given-names>MT</given-names></name>, <name name-style="western"><surname>Mateus</surname><given-names>O</given-names></name>, <name name-style="western"><surname>Taquet</surname><given-names>P</given-names></name>, <etal>et al</etal>. (<year>1998</year>) <article-title>Upper Jurassic theropod dinosaur embryos from Lourinhã, Portugal</article-title>. <source>Mem Acad Ciéncias Lisboa</source> <volume>37</volume>: <fpage>101</fpage>–<lpage>109</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-DeKlerk1">
+        <label>48</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>De Klerk</surname><given-names>WJ</given-names></name>, <name name-style="western"><surname>Forster</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name>, <name name-style="western"><surname>Chinsamy</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Ross</surname><given-names>CF</given-names></name> (<year>2000</year>) <article-title>A new coelurosaurian dinosaur from the Early Cretaceous of South Africa</article-title>. <source>J Vert Pal</source> <volume>20</volume>: <fpage>324</fpage>–<lpage>332</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Kobayashi1">
+        <label>49</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kobayashi</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Lü</surname><given-names>J-C</given-names></name> (<year>2003</year>) <article-title>A new ornithomimid dinosaur with gregarious habits from the Late Cretaceous of China</article-title>. <source>Acta Pal Pol</source> <volume>48</volume> <fpage>235</fpage>–<lpage>259</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Dong1">
+        <label>50</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Dong Z, Chen P (2000) A tiny fossil lizard in the stomach content of the feathered dinosaur <italic>Sinosauropteryx</italic> from northeastern China. Vert PalAsiatica 38 (supplement): 10.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Whittle1">
+        <label>51</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Whittle</surname><given-names>CH</given-names></name>, <name name-style="western"><surname>Everhart</surname><given-names>MJ</given-names></name> (<year>2000</year>) <article-title>Apparent and implied evolutionary trends in lithophagic vertebrates from New Mexico and elsewhere</article-title>. <source>New Mex Mus Nat Hist Sci Bull</source> <volume>17</volume>: <fpage>75</fpage>–<lpage>82</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Suzuki1">
+        <label>52</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Suzuki</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Watabe</surname><given-names>M</given-names></name> (<year>2000</year>) <article-title>Report on the Japan-Mongolia joint paleontological expedition to the Gobi Desert, 1998</article-title>. <source>Hayashibara Mus Nat Sci Res Bull</source> <volume>1</volume>: <fpage>83</fpage>–<lpage>98</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Stevens1">
+        <label>53</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Stevens CE, Hume ID (1995) Comparative physiology of the vertebrate digestive system. Cambridge: Cambridge University Press. 420 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-OConnor1">
+        <label>54</label>
+        <mixed-citation publication-type="other" xlink:type="simple">O’Connor J, Zhou Z, Xu X (2011). Additional specimen of <italic>Microraptor</italic> provides unique evidence of dinosaurs preying on birds. PNAS doi: 10.1073/pnas.1117727108.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-DeVault1">
+        <label>55</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>DeVault</surname><given-names>TL</given-names></name>, <name name-style="western"><surname>Rhodes</surname><given-names>OE</given-names></name>, <name name-style="western"><surname>Shivik</surname><given-names>JA</given-names></name> (<year>2003</year>) <article-title>Scavenging by vertebrates: behavioral, ecological, and evolutionary perspectives on an important energy transfer pathway</article-title>. <source>Oikos</source> <volume>102</volume>: <fpage>225</fpage>–<lpage>234</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Smithers1">
+        <label>56</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Smithers</surname><given-names>RHN</given-names></name> (<year>1971</year>) <article-title>Mammals of Botswana</article-title>. <source>Mem Nat Mus Rhod</source> <volume>4</volume>: <fpage>1</fpage>–<lpage>340</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Kingdon1">
+        <label>57</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Kingdon JS (1977) East African mammals, Vol. 3A (carnivores). London and New York: Academic Press.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Sunquist1">
+        <label>58</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Sunquist M, Sunquist F (2002) Wild cats of the world. Chicago: University of Chicago Press. 145 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Hunter1">
+        <label>59</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Hunter L (2005) Cats of Africa: behaviour, ecology, and conservation. New Holland Publishers. 76 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Sunquist2">
+        <label>60</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Sunquist M, Sunquist F (2002) Wild cats of the world. Chicago: University of Chicago Press. 227 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Richards1">
+        <label>61</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Richards</surname><given-names>DF</given-names></name> (<year>1977</year>) <article-title>Observations on the diet of the Red fox (<italic>Vulpes vulpes</italic>) in South Devon</article-title>. <source>J Zool</source> <volume>183</volume>: <fpage>495</fpage>–<lpage>504</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Sargeant1">
+        <label>62</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sargeant</surname><given-names>AB</given-names></name>, <name name-style="western"><surname>Allen</surname><given-names>SH</given-names></name>, <name name-style="western"><surname>Eberhardt</surname><given-names>RT</given-names></name> (<year>1984</year>) <article-title>Red fox predation on breeding ducks in midcontinent North America</article-title>. <source>Wildlife Monographs</source> <volume>89</volume>: <fpage>3</fpage>–<lpage>41</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Vestjens1">
+        <label>63</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Vestjens</surname><given-names>WJM</given-names></name> (<year>1976</year>) <article-title>Reptilian predation on birds and eggs at Lake Cowal, NSW</article-title>. <source>Emu</source> <volume>77</volume>: <fpage>36</fpage>–<lpage>37</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Losos1">
+        <label>64</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Losos</surname><given-names>JB</given-names></name>, <name name-style="western"><surname>Greene</surname><given-names>HW</given-names></name> (<year>1988</year>) <article-title>Ecological and evolutionary implications of diet in monitor lizards</article-title>. <source>Biol J Linn Soc</source> <volume>35</volume>: <fpage>379</fpage>–<lpage>407</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-RodrguezRobles1">
+        <label>65</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rodríguez-Robles</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Bell</surname><given-names>CJ</given-names></name>, <name name-style="western"><surname>Greene</surname><given-names>HW</given-names></name> (<year>1999</year>) <article-title>Gape size and evolution of diet in snakes: feeding ecology of erycine boas</article-title>. <source>J Zool</source> <volume>248</volume>: <fpage>49</fpage>–<lpage>58</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Slip1">
+        <label>66</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Slip</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Shine</surname><given-names>R</given-names></name> (<year>1988</year>) <article-title>Feeding habits of the diamond python, <italic>Morelia s. spilota</italic>: ambush predation by a boid snake</article-title>. <source>J Herp</source> <volume>22</volume>: <fpage>323</fpage>–<lpage>330</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Hu1">
+        <label>67</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hu</surname><given-names>YM</given-names></name>, <name name-style="western"><surname>Meng</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>YQ</given-names></name> (<year>2005</year>) <article-title>Large Mesozoic mammals fed on young dinosaurs</article-title>. <source>Nature</source> <volume>433</volume>: <fpage>149</fpage>–<lpage>152</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Dalstt1">
+        <label>68</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dalsätt</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Zhou</surname><given-names>ZH</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>FC</given-names></name> (<year>2006</year>) <article-title>Food remains in <italic>Confuciusornis sanctus</italic> suggest a fish diet</article-title>. <source>Naturwissenschaften</source> <volume>93</volume>: <fpage>444</fpage>–<lpage>446</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Zheng3">
+        <label>69</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zheng</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Martin</surname><given-names>LD</given-names></name>, <name name-style="western"><surname>Zhou</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Burnham</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>F</given-names></name>, <etal>et al</etal>. (<year>2011</year>) <article-title>Fossil evidence of avian crops from the Early Cretaceous of China</article-title>. <source>Proc Nat Acad Sci</source> <volume>108</volume>: <fpage>15904</fpage>–<lpage>15907</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Zhou1">
+        <label>70</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhou</surname><given-names>ZH</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>FC</given-names></name> (<year>2002</year>) <article-title>A long-tailed, seed-eating bird from the Early Cretaceous of China</article-title>. <source>Nature</source> <volume>418</volume>: <fpage>405</fpage>–<lpage>409</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Zhou2">
+        <label>71</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhou</surname><given-names>ZH</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>FC</given-names></name>, <name name-style="western"><surname>Li Z</surname><given-names>H</given-names></name> (<year>2009</year>) <article-title>A new basal ornithurine bird (<italic>Jianchangornis microdonta</italic> gen. et sp. nov.) from the Lower Cretaceous of China</article-title>. <source>Vert PalAsiatica</source> <volume>47</volume>: <fpage>299</fpage>–<lpage>310</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Yuan1">
+        <label>72</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Yuan</surname><given-names>C</given-names></name> (<year>2004</year>) <article-title>Further study of <italic>Yanornis martini</italic> (Ornithurae) from the Mesozoic Jehol Biota in western Liaoning, China</article-title>. <source>Acta Geol Sin</source> <volume>78</volume>: <fpage>464</fpage>–<lpage>467</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Zhou3">
+        <label>73</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhou</surname><given-names>ZH</given-names></name>, <name name-style="western"><surname>Clarke</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>FC</given-names></name> (<year>2004</year>) <article-title>Gastroliths in <italic>Yanornis</italic>: An indicaiton of the earliest radical diet-switching and gizzard plasticity in the lineage leading to living birds</article-title>? <source>Naturwissenschaften</source> <volume>91</volume>: <fpage>571</fpage>–<lpage>574</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0044012-Zhou4">
+        <label>74</label>
+        <mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhou</surname><given-names>ZH</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name> (<year>2010</year>) <article-title>Vertebrate diversity of the Jehol Biota as compared with other lagerstätten</article-title>. <source>Sci China Earth Sci</source> <volume>53</volume>: <fpage>1894</fpage>–<lpage>1907</lpage>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

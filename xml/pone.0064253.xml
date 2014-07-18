@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group>
+<journal-title>PLoS ONE</journal-title></journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">PONE-D-12-28922</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pone.0064253</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Ecology</subject><subj-group><subject>Paleoecology</subject></subj-group></subj-group><subj-group><subject>Evolutionary biology</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Paleobiology</subject><subject>Paleoecology</subject><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group><subj-group><subject>Paleontology</subject><subj-group><subject>Paleobiology</subject><subject>Paleoecology</subject><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Earth sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Paleobiology</subject><subject>Paleoecology</subject><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>The Behavioral Implications of a Multi-Individual Bonebed of a Small Theropod Dinosaur</article-title>
+<alt-title alt-title-type="running-head">Behavior in a Small Theropod from Patagonia</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Ibiricu</surname><given-names>Lucio M.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Martínez</surname><given-names>Rubén D.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Casal</surname><given-names>Gabriel A.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Cerda</surname><given-names>Ignacio A.</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><addr-line>Laboratorio de Paleontología, Centro Nacional Patagónico (CONICET-CENPAT), Puerto Madryn, Chubut, Argentina</addr-line></aff>
+<aff id="aff2"><label>2</label><addr-line>Laboratorio de Paleovertebrados, Universidad Nacional de la Patagonia San Juan Bosco, Comodoro Rivadavia, Chubut, Argentina</addr-line></aff>
+<aff id="aff3"><label>3</label><addr-line>Consejo Nacional de Investigaciones Científicas y Tecnológicas (CONICET), Instituto de Investigación en Paleobiología y Geología, Universidad Nacional de Río Negro, Museo Carlos Ameghino, Belgrano, Paraje Pichi Ruca (predio Marabunta), Cipolletti, Río Negro, Argentina</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple"><name name-style="western"><surname>Butler</surname><given-names>Richard J.</given-names></name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>Ludwig-Maximilians-Universität München, Germany</addr-line></aff>
+<author-notes>
+<corresp id="cor1">* E-mail: <email xlink:type="simple">ibiriculm@yahoo.com.ar</email></corresp>
+<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn>
+<fn fn-type="con"><p>Conceived and designed the experiments: LMI RDM GAC IAC. Performed the experiments: LMI IAC. Analyzed the data: LMI GAC. Contributed reagents/materials/analysis tools: RDM GAC IAC. Wrote the paper: LMI. Conducted anatomical study: RDM. Conducted taphonomic study: GAC. Conducted histological study: IAC.</p></fn>
+</author-notes>
+<pub-date pub-type="collection"><year>2013</year></pub-date>
+<pub-date pub-type="epub"><day>15</day><month>5</month><year>2013</year></pub-date>
+<volume>8</volume>
+<issue>5</issue>
+<elocation-id>e64253</elocation-id>
+<history>
+<date date-type="received"><day>21</day><month>9</month><year>2012</year></date>
+<date date-type="accepted"><day>12</day><month>4</month><year>2013</year></date>
+</history>
+<permissions>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Ibiricu et al</copyright-holder><license xlink:type="simple"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions>
+<abstract><sec>
+<title>Background</title>
+<p>Central Patagonia, Argentina, preserves an abundant and rich fossil record. Among vertebrate fossils from the Upper Cretaceous Bajo Barreal Formation of Patagonia, five individuals of the small, non-avian theropod dinosaur <italic>Aniksosaurus darwini</italic> were recovered. Group behavior is an important aspect of dinosaur paleoecology, but it is not well-documented and is poorly understood among non-avian Theropoda.</p>
+</sec><sec>
+<title>Methods/Principal Findings</title>
+<p>The taphonomic association of individuals from the Bajo Barreal Formation and aspects of their bone histology suggest gregarious behavior for <italic>Aniksosaurus</italic>, during at least a portion of the life history of this species. Histology indicates that the specimens were juvenile to sub-adult individuals. In addition, morphological differences between individuals, particularly proportions of the appendicular bones, are probably related to body-size dimorphism rather than ontogenetic stage.</p>
+</sec><sec>
+<title>Conclusions/Significance</title>
+<p>Gregarious behaviour may have conferred a selective advantage on <italic>Aniksosaurus</italic> individuals, contributing to their successful exploitation of the Cretaceous paleoenvironment preserved in the Bajo Barreal Formation. The monospecific assemblage of <italic>Aniksosaurus</italic> specimens constitutes only the second body fossil association of small, coelurosaurian theropods in South America and adds valuable information about the paleoecologies of non-avian theropod dinosaurs, particularly in the early Late Cretaceous of Patagonia.</p>
+</sec></abstract>
+<funding-group><funding-statement>The authors have no support or funding to report.</funding-statement></funding-group><counts><page-count count="11"/></counts></article-meta>
+</front>
+<body><sec id="s1">
+<title>Introduction</title>
+<p>Dinosaur behavior is difficult to infer from the fossil record. The majority of behavioral studies are based on track sites and bone beds <xref ref-type="bibr" rid="pone.0064253-Lockley1">[1]</xref>, <xref ref-type="bibr" rid="pone.0064253-Mathews1">[2]</xref>. Complex social behaviors, such as gregariousness (herding, flocking, etc.) have frequently been inferred from these kinds of data, as well as from associations of bones of conspecific individuals. For example, many ornithischian species have been interpreted as gregarious based on these types of data <xref ref-type="bibr" rid="pone.0064253-Mathews1">[2]</xref>, <xref ref-type="bibr" rid="pone.0064253-Rogers1">[3]</xref>, <xref ref-type="bibr" rid="pone.0064253-Varricchio1">[4]</xref>, <xref ref-type="bibr" rid="pone.0064253-Zhao1">[5]</xref>, and many sauropod dinosaurs have been interpreted as gregarious based on trackways and associations of juvenile and adult individuals <xref ref-type="bibr" rid="pone.0064253-Salgado1">[6]</xref>. In contrast, evidence of gregariousness in Theropoda, particularly non-avian theropods, is controversial <xref ref-type="bibr" rid="pone.0064253-Barco1">[7]</xref>, <xref ref-type="bibr" rid="pone.0064253-Roach1">[8]</xref>, but similarly includes trackways <xref ref-type="bibr" rid="pone.0064253-Barco1">[7]</xref>, <xref ref-type="bibr" rid="pone.0064253-Colbert1">[9]</xref>, <xref ref-type="bibr" rid="pone.0064253-Lockley2">[10]</xref>, <xref ref-type="bibr" rid="pone.0064253-Moreno1">[11]</xref> as well as extrapolation from the behaviors of extant theropods (birds). However, among non-avian theropods, associations of multiple conspecific individuals are less common than in other groups of dinosaurs. Despite frequently made assumptions, such accumulations of conspecific individuals are not always a consequence of the presence of gregariousness <xref ref-type="bibr" rid="pone.0064253-Barco1">[7]</xref>, <xref ref-type="bibr" rid="pone.0064253-Roach1">[8]</xref>.</p>
+<p><italic>Aniksosaurus darwini</italic>, the small theropod examined here, was recovered from the Upper Cretaceous (Cenomanian–Turonian) Bajo Barreal Formation of central Patagonia, Argentina <xref ref-type="bibr" rid="pone.0064253-Martnez1">[12]</xref> (<xref ref-type="fig" rid="pone-0064253-g001">Figure 1</xref>). This theropod displays several morphological features that support its assignment to Coelurosauria, probably as a basal member of the group <xref ref-type="bibr" rid="pone.0064253-Martnez1">[12]</xref> (see below). Materials thus far referred to this taxon include the holotype and associated partial skeletons of in total five individuals recovered from a single 4 m by 2 m quarry. Martinez and Novas <xref ref-type="bibr" rid="pone.0064253-Martnez1">[12]</xref> suggested that fusion of the parts of the axial elements (i.e., neural arches to centra, with the exception of one indeterminate centrum on which the synostosis is well marked) indicates that at least some of the individuals are adults. Nevertheless, numerous long bones recovered from the quarry exhibit noticeable differences in proportions and other features. On the basis of taphonomic association, they suggested that this grouping of conspecific coelurosaurians was an example of gregarious behavior in this non-avian theropod taxon.</p>
+<fig id="pone-0064253-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0064253.g001</object-id><label>Figure 1</label><caption>
+<title>Geographic location of the <italic>Aniksosaurus darwini</italic> quarry (modified from <xref ref-type="bibr" rid="pone.0064253-Castanet1">[17]</xref>).</title>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0064253.g001" position="float" xlink:type="simple"/></fig>
+<p>We tested the hypothesis of gregarious behavior in <italic>Aniksosaurus darwini</italic> using taphonomic, morphological, and histological approaches. We attempted to elucidate: 1) whether the assemblage is truly monospecific based on morphologic data; and, 2) if this is the case, whether or not all the individuals died at the same time based on taphonomic data. The results were analyzed in a paleobiological framework, particularly addressing the question as to whether the morphological differences in <italic>Aniksosaurus</italic> individuals provide evidence of either sexual dimorphism or ontogeny.</p>
+</sec><sec id="s2" sec-type="materials|methods">
+<title>Materials and Methods</title>
+<p>All specimens come from the Lower Member of the Bajo Barreal Formation, Chubut Group, Golfo San Jorge Basin. The specimens were embedded in a fining-upward, green sandstone, with an unconformable lower contact. The age of the locality is early Late Cretaceous (Cenomanian–Turonian <xref ref-type="bibr" rid="pone.0064253-Martnez2">[13]</xref>; <xref ref-type="fig" rid="pone-0064253-g002">Figure 2</xref>).</p>
+<fig id="pone-0064253-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0064253.g002</object-id><label>Figure 2</label><caption>
+<title>Stratigraphic column of the Bajo Barreal Formation in Chubut Province, Argentina showing the stratigraphic level at which <italic>Aniksosaurus darwini</italic> specimens were collected.</title>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0064253.g002" position="float" xlink:type="simple"/></fig>
+<p>The holotype and hypodigm of <italic>Aniksosaurus darwini</italic> comprises elements of the axial and appendicular skeletons of five individuals. The associated materials collected at the site include fourteen vertebrae (cervicals, dorsals, and caudals), five humeri, one fibula, five femora, seven tibiae, five pelvic bones, three phalanges, and eight indeterminate fragments (but correlated to the rest of the identifiable materials), all of <italic>Aniksosaurus</italic>. Herein we focus on the tibiae and femora: an articulated right hind limb, including femur and tibia (Museo Desiderio Torres, Paleovertebrados, Sarmiento, Chubut, Argentina (MDT-PV) 1/48), two left femora (MDT-PV 1/23, 1/26), two right femora (MDT-PV 1/3, 1/27), three left tibiae (MDT-PV 1/1, 1/22, 1/34), and four right tibiae (MDT-PV 1/10, 1/28, 1/44). The morphologies of these elements were described by Martínez and Novas <xref ref-type="bibr" rid="pone.0064253-Martnez1">[12]</xref>; we also examined them firsthand. In order to assess the somatic ages and ontogenetic growth stages of the studied specimens, histological thin sections were made from the mid-shafts of left (MDT-PV 1/1) and right MDT-PV 1/28) tibiae (<xref ref-type="fig" rid="pone-0064253-g003">Figure 3A–D</xref>). These two specimens were chosen on the basis of their different sizes (see below). Thin sections were prepared using the method outlined by Chinsamy and Raath <xref ref-type="bibr" rid="pone.0064253-Chimsamy1">[14]</xref> and studied using a petrographic polarizing microscope. Nomenclature and definitions of structures used in this study are derived from Francillont-Viellont et al. <xref ref-type="bibr" rid="pone.0064253-FrancillonVieillot1">[15]</xref> and Chinsamy-Turan <xref ref-type="bibr" rid="pone.0064253-ChinsamyTuran1">[16]</xref>. Lines of arrested growth (LAGs) were recognized as concentric and uninterrupted lines of discontinuity in the bone <xref ref-type="bibr" rid="pone.0064253-FrancillonVieillot1">[15]</xref>, <xref ref-type="bibr" rid="pone.0064253-ChinsamyTuran1">[16]</xref>, <xref ref-type="bibr" rid="pone.0064253-Castanet1">[17]</xref>, <xref ref-type="bibr" rid="pone.0064253-Ricqls1">[18]</xref>. With some uncertainty, the canals within the bone were considered reflective of the extent and organization of vascularization <xref ref-type="bibr" rid="pone.0064253-Starck1">[19]</xref>.</p>
+<fig id="pone-0064253-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0064253.g003</object-id><label>Figure 3</label><caption>
+<title>Thin sections of tibia of <italic>Aniksosaurus darwini</italic>.</title>
+<p>Tibiae MDT-PV 1/28 (A, C) MDT-PV 1/1 (B, D). Blue bars indicate the relative position at which the thin sections were taken.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0064253.g003" position="float" xlink:type="simple"/></fig></sec><sec id="s3">
+<title>Results</title>
+<sec id="s3a">
+<title>Sedimentology/Paleoenvironment</title>
+<p>The lithology and structure of the Bajo Barreal Formation at the <italic>Aniksosaurus</italic> site (fine, quartzose sandstone with clay intraclasts in a horizon with an unconformable base and parallel lamination: <xref ref-type="fig" rid="pone-0064253-g002">Figure 2</xref>), supports deposition by a unidirectional, low-energy, overbank fluvial deposit, specifically a floodplain deposit produced by the lateral migrating fluvial channel. A fluvial environment is additionally indicated by the superposition of sandstone tabular bodies with coarse sandstones and tuff interclasts. Paleoenvironmental studies in the Bajo Barreal Formation suggest that the sandstone deposits represent multi-episodic, cross-bedded fluvial channels <xref ref-type="bibr" rid="pone.0064253-Figari1">[20]</xref>.</p>
+</sec><sec id="s3b">
+<title>Morphologies of the Femora and Tibiae</title>
+<p>We infer that the materials in general, and the long bones in particular (i.e., the femora and tibiae; <xref ref-type="fig" rid="pone-0064253-g004">Figure 4A–D</xref>), pertain to a single species for the following reasons: 1) duplicate long bones have the same morphologies; 2) the bones, consistently display theropod and coelurosaurian features; and 3) the quarry produced no evidence of any other fossil vertebrates. The femora of <italic>Aniksosaurus</italic> clearly differ from those of abelisaurid theropods, a group well represented in the Bajo Barreal Formation. Abelisaurid femora have proximally projecting anterior trochanters, almost at the level of the femoral head, greater trochanters that are anteroposteriorly expanded, femoral heads that are rectangular in shape, and only slightly pronounced trochanteric shelves. In contrast, in <italic>Aniksosaurus</italic> femora the anterior and greater trochanters lie at the same level, the fourth trochanters are reduced in size, and adductor fossae are poorly developed, all of which are characteristic of coelurosaurian theropods.</p>
+<fig id="pone-0064253-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0064253.g004</object-id><label>Figure 4</label><caption>
+<title>Femur and tibia of <italic>Aniksosaurus darwini</italic>.</title>
+<p>Right femur (MDT-PV 1/3) in posterior (A) and medial (B) views. Right tibia (MDT-PV 1/48) in lateral (C) and anterior (D) views. Abbreviations: ast, astragalar depression; at, anterior trochanter; cf, fibular crest ( = crista fibularis); cfl-bf, caudofemoralis longus/brevis fossa; cn, cnemial crest; ec, ectocondylar tuberosity; fc, fibular condyle; fh, femoral head; 4tr, fourth trochanter; gt, greater trochanter; ic, inner condyle; im, inner malleolus; om, outer malleolus; pig, posterior intercondylar groove; tc, tibial condyle; tfc, tibio-fibular crest.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0064253.g004" position="float" xlink:type="simple"/></fig>
+<p>The femora (<xref ref-type="fig" rid="pone-0064253-g004">Figure 4A–B</xref>), despite having abraded articular ends, are robust and relatively short compared to those of most coelurosaurians, which are gracile and elongate <xref ref-type="bibr" rid="pone.0064253-Martnez1">[12]</xref>, <xref ref-type="bibr" rid="pone.0064253-Novas1">[21]</xref> (<xref ref-type="table" rid="pone-0064253-t001">Table 1</xref>). Although of similar anatomies, the femora can be separated into two morphs based on metrics of the shafts, fourth trochanters, and fossae for the insertion of the Mm. caudofemoralis longus and brevis (<xref ref-type="table" rid="pone-0064253-t001">Table 1</xref>). For example, the right femur MDT-PV 1/3 and the left femur MDT 1/26 have greater shaft perimeter (taken at the distal end of the fourth trochanter), fourth trochanter length, and fossa width than MDT 1/27 (right femur), and 1/48 (right femur, holotype). Moreover, the center of the common fossa for the insertion of the Mm. caudofemoralis longus and brevis is closer to the proximal end of the femur in MDT-PV 1/26 than in MDT-PV 1/3. The femoral shaft of MDT-PV 1/48 is slightly more curved or bowed than in the rest of the femora, and MDT-PV-1/26 and 1/27 (a left and a right femur, respectively) are slightly more bowed close to the distal end than the others (<xref ref-type="fig" rid="pone-0064253-g005">Figure 5A–E</xref>).</p>
+<fig id="pone-0064253-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0064253.g005</object-id><label>Figure 5</label><caption>
+<title>Femora of <italic>Aniksosaurus darwini</italic> in posterior view.</title>
+<p>(A) MDT-PV 1/3*, right femur. (B) MDT-PV 1/26*, left femur. (C) MDT-PV 1/48**, right femur. (D) MDT-PV 1/27**, right femur. (E) MDT-PV 1/23**, left femur. *Femora considered as “Femoral morph 1″ based on morphological characteristics. **Femora considered as “Femoral morph 2″ based on morpho-metrics characteristics.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0064253.g005" position="float" xlink:type="simple"/></fig><table-wrap id="pone-0064253-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0064253.t001</object-id><label>Table 1</label><caption>
+<title>Measurements (in mm) of the femora of <italic>Aniksosaurus darwini</italic>.</title>
+</caption><alternatives><graphic id="pone-0064253-t001-1" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0064253.t001" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Repository number</td>
+<td align="left" rowspan="1" colspan="1">Tl</td>
+<td align="left" rowspan="1" colspan="1">P</td>
+<td align="left" rowspan="1" colspan="1">W-cflb</td>
+<td align="left" rowspan="1" colspan="1">L-cflb</td>
+<td align="left" rowspan="1" colspan="1">L-4tr</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>MDT-PV 1/3</bold></td>
+<td align="left" rowspan="1" colspan="1">250.3</td>
+<td align="left" rowspan="1" colspan="1">105.1</td>
+<td align="left" rowspan="1" colspan="1">20.3</td>
+<td align="left" rowspan="1" colspan="1">34.4</td>
+<td align="left" rowspan="1" colspan="1">61.6</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>MDT-PV 1/26</bold></td>
+<td align="left" rowspan="1" colspan="1">243.4<xref ref-type="table-fn" rid="nt102">*</xref></td>
+<td align="left" rowspan="1" colspan="1">95.2</td>
+<td align="left" rowspan="1" colspan="1">20.1</td>
+<td align="left" rowspan="1" colspan="1">37.1</td>
+<td align="left" rowspan="1" colspan="1">59.2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>MDT-PV 1/48</bold></td>
+<td align="left" rowspan="1" colspan="1">168.3<xref ref-type="table-fn" rid="nt103">**</xref></td>
+<td align="left" rowspan="1" colspan="1">92.5</td>
+<td align="left" rowspan="1" colspan="1">20.1</td>
+<td align="left" rowspan="1" colspan="1">33.2</td>
+<td align="left" rowspan="1" colspan="1">51.2</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>MDT-PV 1/27</bold></td>
+<td align="left" rowspan="1" colspan="1">209.4</td>
+<td align="left" rowspan="1" colspan="1">81.5</td>
+<td align="left" rowspan="1" colspan="1">16.3</td>
+<td align="left" rowspan="1" colspan="1">25.2</td>
+<td align="left" rowspan="1" colspan="1">48.7</td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt101"><label/><p><italic>Abbreviations: L4tr,</italic> fourth trochanter; <italic>L-cflb,</italic> caudofemoralis longus-brevis fossa length; <italic>P,</italic> perimeter; <italic>Tl,</italic> total length; <italic>W-cflF,</italic> caudofemoralis longus-brevis fossa width.</p></fn><fn id="nt102"><label>*</label><p>Articular ends partially preserved;</p></fn><fn id="nt103"><label>**</label><p>Articular ends not preserved. MDT-PV 1/23 (left) is not included because it lacks the features measured.</p></fn></table-wrap-foot></table-wrap>
+<p>The long, slender, straight-shafted holotype tibia (MDT-PV 1/48), which is also the best preserved of all the tibiae, is longer than its associated femur. As with the femora, the tibiae can be segregated into two morphs (<xref ref-type="fig" rid="pone-0064253-g006">Figure 6A–G</xref>) because they exhibit different metrics, particularly in the lengths of the crista fibularis and the perimeters of the shafts (at the distal ends of the crista fibularis), as well as some morphological differences in the development of muscle scars (<xref ref-type="table" rid="pone-0064253-t002">Table 2</xref>). Therefore, in these appendicular bones the morphological and anatomical dimensions above mentioned are considered potentially as dimorphic (see <xref ref-type="fig" rid="pone-0064253-g007">Figure 7A–D</xref>). Nevertheless, none of the individuals are interpreted as adults; therefore, these morphological characteristic could represent an ontogenetic variation, although the former hypothesis is more plausible (see below).</p>
+<fig id="pone-0064253-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0064253.g006</object-id><label>Figure 6</label><caption>
+<title>Tibiae of <italic>Aniksosaurus darwini</italic> in lateral view.</title>
+<p>(A) MDT-PV 1/48*, right tibia. (B) MDT-PV 1/1*, left tibia. (C) MDT-PV 1/22**, left tibia. (D) MDT-PV 1/44**, right tibia. (E) MDT-PV 1/34**, left tibia. (F) MDT-PV 1/28**, right tibia. (G) MDT-PV 1/10**, right tibia. *Tibiae considered as “Tibial morph 1″ based on morphological characteristics. **Tibiae considered as “Tibial morph 2″ based on morphological characteristics.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0064253.g006" position="float" xlink:type="simple"/></fig><fig id="pone-0064253-g007" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0064253.g007</object-id><label>Figure 7</label><caption>
+<title>Comparisons of femora and tibiae of <italic>Anikosaurus darwini</italic>.</title>
+<p>(A) MDT-PV 1/3, right femur in medial view. (B) MDT-PV 1/48, right femur in medial view. (C) MDT-PV 1/28, right tibia. (D) MDT-PV 1/48, right tibia in lateral view. Anatomical abbreviations as in <xref ref-type="fig" rid="pone-0064253-g004">Figure 4</xref> with the exception of: p, perimeter.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0064253.g007" position="float" xlink:type="simple"/></fig><table-wrap id="pone-0064253-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0064253.t002</object-id><label>Table 2</label><caption>
+<title>Measurements (in mm) of the tibiae of <italic>Aniksosaurus darwini</italic>.</title>
+</caption><alternatives><graphic id="pone-0064253-t002-2" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0064253.t002" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Repository number</td>
+<td align="left" rowspan="1" colspan="1">Tl</td>
+<td align="left" rowspan="1" colspan="1">P</td>
+<td align="left" rowspan="1" colspan="1">L-cf</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>MDT-PV 1/48</bold></td>
+<td align="left" rowspan="1" colspan="1">243.1</td>
+<td align="left" rowspan="1" colspan="1">68.5</td>
+<td align="left" rowspan="1" colspan="1">64.5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>MDT-PV 1/22</bold></td>
+<td align="left" rowspan="1" colspan="1">255.09*</td>
+<td align="left" rowspan="1" colspan="1">80.04</td>
+<td align="left" rowspan="1" colspan="1">80.9</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>MDT-PV 1/34</bold></td>
+<td align="left" rowspan="1" colspan="1">236.1*</td>
+<td align="left" rowspan="1" colspan="1">71.1</td>
+<td align="left" rowspan="1" colspan="1">63.6</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>MDT-PV 1/44</bold></td>
+<td align="left" rowspan="1" colspan="1">223.9*</td>
+<td align="left" rowspan="1" colspan="1">71.1</td>
+<td align="left" rowspan="1" colspan="1">55.7</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>MDT-PV 1/10</bold></td>
+<td align="left" rowspan="1" colspan="1">153.8*</td>
+<td align="left" rowspan="1" colspan="1">74.4</td>
+<td align="left" rowspan="1" colspan="1">66.5</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>MDT-PV 1/28</bold></td>
+<td align="left" rowspan="1" colspan="1">146.8*</td>
+<td align="left" rowspan="1" colspan="1">80.1</td>
+<td align="left" rowspan="1" colspan="1">60.3</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>MDT-PV 1/1</bold></td>
+<td align="left" rowspan="1" colspan="1">185.6*</td>
+<td align="left" rowspan="1" colspan="1">65.5</td>
+<td align="left" rowspan="1" colspan="1">58.01</td>
+</tr>
+</tbody>
+</table>
+</alternatives><table-wrap-foot><fn id="nt104"><label/><p><italic>Abbreviations: L-cf</italic>, crista fibularis dorso-ventral length; <italic>P,</italic> perimeter; <italic>Tl</italic>, total length. * Denote bones partially preserved.</p></fn></table-wrap-foot></table-wrap>
+<p>Martinez and Novas <xref ref-type="bibr" rid="pone.0064253-Martnez1">[12]</xref>, based on femoral measurements, suggested that <italic>Aniksosaurus darwini</italic> was approximately 2 m long and 70 cm tall at the hip, and weighed 45–65 kg. However, recent discoveries and descriptions of theropods with bones similar in proportions to <italic>Aniksosaurus</italic> <xref ref-type="bibr" rid="pone.0064253-Novas1">[21]</xref>, <xref ref-type="bibr" rid="pone.0064253-Turner1">[22]</xref>, <xref ref-type="bibr" rid="pone.0064253-Carpenter1">[23]</xref>, <xref ref-type="bibr" rid="pone.0064253-Seebacher1">[24]</xref> suggested different lengths and lighter body weights. Using those comparisons, we suggest a total body length between 2–3 m and a body mass between 35–45 kg. However, the unknown total length of the tail prevents a definitive assessment of body mass for <italic>Aniksosaurus</italic> (see <xref ref-type="bibr" rid="pone.0064253-Hone1">[25]</xref>).</p>
+</sec><sec id="s3c">
+<title>Bone Taphonomic Attributes</title>
+<p>Two different taphonomic stages can be inferred in the materials. These different taphonomic attributes are directly related with increasing subaerial exposure (weathering, see <xref ref-type="bibr" rid="pone.0064253-Behrensmeyer1">[26]</xref>). The majority of the long bones exhibit the same taphonomic characteristics (eroded articular ends, moderate to intense bone surface polishing, longitudinal striation parallel to the long axis of each bone, and irregular flaking (e.g., MDT-PV 1/23; MDT-PV 1/26; MDT-PV 1/27; MDT-PV 1/1; MDT-PV 1/10; MDT-PV 1/22; MDT-PV 1/28; MDT-PV 1/34; MDT-PV 1/48, holotype femur). In contrast, MDT-PV 1/48 (holotype, tibia), MDT-PV 1/44 and MDT-PV 1/3 display slight bone surface polishing and flaking, less marked longitudinal striation and the complete preservation of the articular distal ends. These differences in taphonomic preservation and inferred differences in length of subaerial exposure of the bones, may be related with two burial stages in the overbank events (i.e., the first fluvial deposition did not cover the totality of the bones). Thus, <italic>Aniksosaurus</italic> specimens are considered as parautochthonous (autochthonous materials which have been reworked to some degree but not transported out of their original life habitat, see <xref ref-type="bibr" rid="pone.0064253-Kidwell1">[27]</xref>). Postmortem disarticulation followed soft-tissue decomposition and the action of small, probably vertebrate, scavengers, as evidenced by the presence of small grooves on one of the femora. In contrast, neither cannibalism nor intraspecific competition is evidenced on the bones. However, theropod bite marks are in general rare, which may reflect the careful feeding strategy of those dinosaurs or that they were not habitually osteophagous <xref ref-type="bibr" rid="pone.0064253-Hone2">[28]</xref>. Overall, the bones of <italic>Aniksosaurus</italic> were degraded by: 1) subaerial weathering; 2) decomposition of soft tissue; 3) scavenger action; 4) longitudinal striation caused by weathering; 5) disarticulation (with the exception of the holotype) and re-orientation by fluvial currents; and 6) differential burial in at least two stages of sedimentation.</p>
+</sec><sec id="s3d">
+<title>Bone Spatial Distribution</title>
+<p>As collected, the bones displayed a primary NE–SW orientation and a secondary NW–SE orientation (<xref ref-type="fig" rid="pone-0064253-g008">Figure 8</xref>). This distribution suggests transport by a unidirectional fluvial current <xref ref-type="bibr" rid="pone.0064253-Kreutzer1">[29]</xref>. The distribution of the long bones (<xref ref-type="fig" rid="pone-0064253-g008">Figure 8</xref>) suggests that the long bones acted as barriers for smaller elements. For example, one of the tibiae (MDT-PV 1/34) is juxtaposed next to the ilium and another tibia (MDT-PV 1/22) is placed transversely to the primary NE–SW current orientation; therefore, these long bones acted as barriers to the smaller elements. The transverse orientation of the majority of the elements with respect to stream flow, indicates that current intensity was moderate to low <xref ref-type="bibr" rid="pone.0064253-Behrensmeyer2">[30]</xref>. The combination of both disarticulated and articulated (e.g., the hindlimb of the holotype, supporting short-term distance; <xref ref-type="fig" rid="pone-0064253-g008">Figure 8</xref>) specimens implies some transport by traction and rolling on the bed of the paleo–stream channel. Transport is also suggested by abrasive rounding of the articular surfaces of the vertebrae, the total or partial absence of the articular ends and fourth trochanters of the femora, and the partial preservation of the cristae fibularis in some tibiae <xref ref-type="bibr" rid="pone.0064253-Gutirrez1">[31]</xref>.</p>
+<fig id="pone-0064253-g008" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0064253.g008</object-id><label>Figure 8</label><caption>
+<title>Quarry map for the <italic>Aniksosaurus darwini</italic> site in the Bajo Barreal Formation.</title>
+<p>(A) Map of the site, showing the distribution of the bones as recovered. An asterisk (*) denotes the location of the holotype (right hindlimb). (B) Rose diagram depicting the orientations of all bones recovered in the quarry. (C) Rose diagram depicting the orientations of only the long bones: femora (white) and tibiae (gray). The people in the photograph, RDM and M. Luna have given written informed consent, as outlined in the PLOS ONE consent form, to publication of their photograph.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0064253.g008" position="float" xlink:type="simple"/></fig></sec><sec id="s3e">
+<title>Bone Diagenetic Condition</title>
+<p>Only one bone, a caudal vertebra (MDT-PV 1/13), exhibits lithostatic compaction (permanent deformation of the rock and therefore the bones that are encompassed in it). In contrast, the remaining bones (including several tibiae and femora) exhibit transverse fracturing, transverse to the main long axis, that occurred from the weight of accumulated sediment on the bones (i.e., vertical lithostatic load). The dearth of such plastic deformation among the bones may indicate that the underlying stratum, comprising medium to fine-grained sandstones, absorbed the vertical lithostatic load of overlying unconsolidated sediment prior to mineral replacement of the bones. Based on the models of fossil assemblage proposed by Johnson <xref ref-type="bibr" rid="pone.0064253-Johnson1">[32]</xref>, the accumulation of <italic>Aniksosaurus</italic> individuals was composed almost entirely of remains transported to the site of burial. This is supported by lateral transport (abraded eroded ends, few articulated elements, long bones showing a preferential orientation) and a long postmortem exposure. Therefore, according to Johnson <xref ref-type="bibr" rid="pone.0064253-Johnson1">[32]</xref>, model III of bone accumulation is interpreted at the <italic>Aniksosaurus</italic> site.</p>
+</sec><sec id="s3f">
+<title>Histology</title>
+<p>Because the two histologically studied tibiae (MDT-PV 1/1 and 1/28) show similar microstructures, they are described together. The cortical region of the shaft is composed of compact bone and has a large marrow cavity (<xref ref-type="fig" rid="pone-0064253-g009">Figure 9A–B</xref>). The thickness of the cortical bone is almost equal in both sections (3.9–4.7 mm in MDT-PV 1/1 and 3.8–5.3 mm in MDT-PV 1/28). The perimedullary region is coated by a layer of endosteally deposited, parallel-fibred bone (the inner circumferential layer, ICL) containing flattened osteocyte lacunae (<xref ref-type="fig" rid="pone-0064253-g009">Figure 9C–D</xref>). The cortical bone tissue consists entirely of well vascularized primary bone. Vascular spaces are mainly longitudinally and circumferentially arranged, but some radial and oblique canals are also visible. Except in the outer cortex, where the vascular spaces are commonly simple and large, vascular canals are organized as primary osteons. Some vascular spaces are open to the sub-periosteal margins, and there is evidence that newly forming bone was actively depositing at the periphery. The fibrillar organization of the matrix is variable. While the intrinsic fibers of the inner cortex have a disorganized arrangement, typical of the woven-fibred bone, those located in mid- and outer cortices are well organized, showing a general anisotropy under crossed nicols. The cortical tissue is interrupted by lines of arrested growth (LAGs). The inner growth mark in both specimens consists of a double LAG (<xref ref-type="fig" rid="pone-0064253-g009">Figure 9E</xref>). The narrow (0.05–0.12 mm) spaces between these paired LAGs is composed by parallel-fibered bone in which fibers are more organized than in the surrounding, primary matrix. Two other LAGs are observed closer to the outer cortex (<xref ref-type="fig" rid="pone-0064253-g009">Figure 9F</xref>); the outermost LAG is located 0.15–0.2 mm from the sub-periosteal margin. The complete preserved zones are thick, but their thicknesses are variable (1.7–2.1 mm in the inner zone and 0.4–1.0 mm in outer zone).</p>
+<fig id="pone-0064253-g009" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0064253.g009</object-id><label>Figure 9</label> <caption><title>Bone histology of <italic>Aniksosaurus darwini</italic> tibiae.</title> <p>(A, B) Cyclical growth marks (arrowheads) in the cortical bone tissue of specimens MDT-PV 1/1 (A) and MDT-PV 1/28 (B). (C, D) Close-up of the inner cortex of specimen MDT-PV 1/1 (box inset in A) viewed under normal (C) and polarized (D) light. Compare the soft birefringence in some areas of the primary matrix with the strong birefringence of the ICL. (E) Double LAG (arrowheads) in the cortical tissue of specimen MDT-PV 1/1. (F) Detailed view of the outermost deposited LAGs in specimen MDT-PV 1/1. Except for (D), all figures viewed under normal light. Abbreviations: ICL, inner circumferential layer; MC, marrow cavity; PFB, parallel-fibred bone tissue.</p></caption>
+<graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0064253.g009" position="float" xlink:type="simple"/></fig></sec></sec><sec id="s4">
+<title>Discussion</title>
+<sec id="s4a">
+<title>Behavioral Implications</title>
+<p>The taphonomic evidence indicates that the preserved group of <italic>Aniksosaurus</italic> individuals died penecontemporaneously at approximately the same ontogenetic age and were transported by low to intermediate energy fluvial currents prior to burial. Therefore, the evidence supports the hypothesis that these coelurosaurian dinosaurs were living together (in aggregation) at the time of their death. The absence of evidence of cannibalism is in contrast to a similar group of <italic>Tyrannosaurus rex</italic> individuals <xref ref-type="bibr" rid="pone.0064253-Longrich1">[33]</xref>, <xref ref-type="bibr" rid="pone.0064253-Currie1">[34]</xref>, and argues for an alternative mode of behaviour.</p>
+<p>Based on body fossil and taphonomic evidence, several non-avian theropod taxa have been interpreted as gregarious (e.g., <italic>Coelophysis bauri</italic> <xref ref-type="bibr" rid="pone.0064253-Colbert1">[9]</xref>, <italic>Syntarsus rhodensis</italic> <xref ref-type="bibr" rid="pone.0064253-Raath1">[35]</xref>, <italic>Albertosaurus sarcophagus</italic> <xref ref-type="bibr" rid="pone.0064253-Eberth1">[36]</xref>, <italic>Sinornithomimus dongi</italic> <xref ref-type="bibr" rid="pone.0064253-Varricchio2">[37]</xref>). In South America, body fossil evidence for gregariousness in non-avian theropods is limited to <italic>Mapusaurus roseae</italic> <xref ref-type="bibr" rid="pone.0064253-Coria1">[38]</xref>, <xref ref-type="bibr" rid="pone.0064253-Coria2">[39]</xref> and probably <italic>Bicentenaria argentina</italic> <xref ref-type="bibr" rid="pone.0064253-Novas1">[21]</xref> (see below). However, the South American footprint record of non-avian theropods, particularly in Chile and Peru <xref ref-type="bibr" rid="pone.0064253-Moreno1">[11]</xref>, suggests gregariousness. These previous studies have pertained primarily to large theropods. This study represents the second piece of evidence (in tandem with <italic>Bicentenaria</italic>) in the west-central portion of Gondwana of a small coelurosaurian theropod showing some kind of group association, at least during the juvenile–subadult stage.</p>
+<p>Communal aggregations in extant archosaurs (crocodylians and birds) and mammals are common in many taxa. These taxa engage in such behaviour at different stages and during different circumstances during life (e.g., before and after hatchling/mating, hunting packs). Varricchio et al. <xref ref-type="bibr" rid="pone.0064253-Varricchio2">[37]</xref> suggested that juvenile, non-avian theropods may have herded. Our histological analysis suggests that the hypodigm collection of <italic>Aniksosaurus</italic> specimens pertain to juvenile–subadult individuals. Therefore, <italic>Aniksosaurus</italic> may have been another non-avian theropod taxon in which subadult individuals displayed gregariousness, at least during a specific interval of their life (i.e., as juvenile–subadult individuals).</p>
+<p>The <italic>Bicentenaria</italic> bone assemblage, recently described by Novas et al. <xref ref-type="bibr" rid="pone.0064253-Novas1">[21]</xref>, includes bones of different-sized individuals, likely pertaining to juvenile and adult individuals <xref ref-type="bibr" rid="pone.0064253-Novas1">[21]</xref>. This assemblage also suggests gregarious behavior for <italic>Bicentenaria</italic>, during at least one stage of its life. This together with our data suggests that gregarious behavior may have played an important role in the paleoecology of some basal Gondwanan coelurosaurian dinosaurs.</p>
+<p>Roach and Brinkman <xref ref-type="bibr" rid="pone.0064253-Roach1">[8]</xref> proposed that non-avian theropods may have been more agonistic, cannibalistic, and “diapsid-like” than bird-like in terms of sociality. Our <italic>Aniksosaurus</italic> data contrasts with that hypothesis and supports the inference that gregariousness (including probably some type of group sociability within a herd) could have been common in basal coelurosaurian theropods, although it is quite possible that both modes of behaviour existed. It is also possible, albeit less parsimonious, that the <italic>Aniksosaurus</italic> bone bed does not reflect a group aggregation but rather reflects a coincidental conspecific gathering of individuals, for example at a watering hole. This has been observed with the solitary black rhino, whose carcasses are occasionally found together by water features in the landscape <xref ref-type="bibr" rid="pone.0064253-Berger1">[40]</xref>. Another alternative hypothesis is that the <italic>Aniksosaurus</italic> bone bed represents material accumulated by predators, although the lack of consistent bite marks renders this explanation unlikely.</p>
+</sec><sec id="s4b">
+<title>Ontogenetic Stage and Morphological Variation</title>
+<p>The bone histology of the two examined specimens reveals that they were juveniles–subadults at time of death (<xref ref-type="fig" rid="pone-0064253-g009">Figure 9A–F</xref>). Evidence for immaturity includes: absence of an outer circumferential layer; absence of secondary (Haversian) osteons (even in the innermost cortex); presence of only few growth cycles; and the thickness of the zones. The growth marks (considering the double LAG as one growth mark) allowed us to infer a minimum age of three years for both sectioned specimens.</p>
+<p>On the basis of the number, type, and distribution of growth marks, we conclude that specimens MDT-PV 1/1 and 1/28 died at approximately the same time. First, the double LAG was recorded in the cortex of the two analyzed specimens was deposited in the same growth period for both individuals (2 years prior to death). The presence of a double LAG deposited in two different specimens at the same time indicates that they probably suffered a common environmental stress during that period (assuming a similar rate of periosteal bone deposition). Hence, the studied specimens did not only died at the same ontogenetic stage, but also probably at the same time. The chances of two independent individuals in such a scenario winding up together in the same quarry, to the exclusion of any other taxa, is low. The histology, therefore, reinforces our hypothesis that the <italic>Aniksosaurus</italic> assemblage comprises an aggregation of juvenile–subadult individuals that lived together at the moment of death, as those seen in other groups of dinosaurs (see below, also see <xref ref-type="bibr" rid="pone.0064253-Zhao1">[5]</xref>).</p>
+<p>As mentioned above, both the femora and tibiae display some degree of variation in some morphological features (<xref ref-type="table" rid="pone-0064253-t001">Tables 1</xref>, <xref ref-type="table" rid="pone-0064253-t002">2</xref>). Two morphs are present among the appendicular bones (<xref ref-type="fig" rid="pone-0064253-g005">Figure 5A–E</xref>, <xref ref-type="fig" rid="pone-0064253-g006">Figure 6A–G</xref>). One of the morphs is characterized by more pronounced muscular and ligamentous attachments, whereas those seen in the other morphs are less marked (<xref ref-type="fig" rid="pone-0064253-g007">Figure 7A–B</xref>). Although both morphs are present among the specimens, the disarticulation of the specimens prevents a clear demonstration that those, left and right appendicular elements, characterized by more pronounced muscular and ligamentous attachments correspond to the same individual (i.e., if the left and right appendicular elements correspond one with each other and therefore; they are from the same individuals).</p>
+<p>Interpretation of sexual dimorphism has been proposed in non-avian theropods <xref ref-type="bibr" rid="pone.0064253-Colbert1">[9]</xref>, <xref ref-type="bibr" rid="pone.0064253-Isles1">[41]</xref>, <xref ref-type="bibr" rid="pone.0064253-Molnar1">[42]</xref>, <xref ref-type="bibr" rid="pone.0064253-Barden1">[43]</xref>, <xref ref-type="bibr" rid="pone.0064253-Carrano1">[44]</xref>, <xref ref-type="bibr" rid="pone.0064253-Kaliontzopoulou1">[45]</xref>. Thus, the femora of extant archosaurians (e.g., <italic>Alligator mississippiensis</italic>) exhibit morphological variation in their midshaft, as well as size variation in the muscular and ligamentous attachments. These morphological variations in the femora are related to sex differentiation <xref ref-type="bibr" rid="pone.0064253-Bonnan1">[46]</xref>. In <italic>Aniksosaurus,</italic> these differences could have been related to sexual dimorphism, rather than to intraspecific variation. Nevertheless, as noted for example by Berger <xref ref-type="bibr" rid="pone.0064253-Berger1">[40]</xref> who used extant perissodactyl death assemblages and sex ratios as a models to predict extinct group sociability, adult males and females tend to live separately (except during the mating season). Therefore, although the <italic>Aniksosaurus</italic> specimens are juvenile–subadults, more evidence is required in order to infer if these metrics differences seen in the tibiae and femora reflect sexual dimorphism or intraspecific variation.</p>
+</sec></sec><sec id="s5">
+<title>Conclusions</title>
+<p>Based on taphonomic evidence and aspects of histology we conclude that the basal coelurosaurian theropod dinosaur <italic>Aniksosaurus darwini</italic> engaged in some degree of gregarious behaviour. Our histological data indicate that the individuals were juveniles–subadults. Therefore, this gregarious behaviour was manifest in at least one stage of life. In addition, the morphological size differences of the tibiae and femora could reflect sexual dimorphism rather than either ontogenetic stage or intraspecific variation, although these types of assertions are always difficult to test with the relatively sparse record of extinct dinosaurs. The precise nature of the social behaviour will probably always remain unknown; however, it is conceivable that, if indeed present in <italic>Aniksosaurus</italic>, that social behaviour (at least during the juvenile–subadult stage) was an advantage (e.g., in finding food, capturing prey, providing protection from other predators, and optimizing food resource) for exploiting the Cretaceous landscape represented by the Bajo Barreal Formation. The monospecific assemblage of <italic>Aniksosaurus darwini</italic> constitutes the second example of an aggregation of a small coelurosaurian theropod in South America. There is no doubt that non-avian dinosaurs exhibited a rich diversity of behaviours, probably every bit as complex as those exhibited by extant taxa. Our evidence sheds some light on the complexity of behaviour of non-avian theropods, hints at a role for sexual dimorphism, and augments our understanding of central Patagonian terrestrial ecosystems during the Late Cretaceous.</p>
+</sec></body>
+<back>
+<ack>
+<p>We thank Alejandro Goicoechea (Laguna Palacios ranch) and Ángela Llull (Museum “Desiderio Torres”, Sarmiento, Chubut Province) for allowing access to the specimens and Marcelo Luna (UNPSJB) for preparation. We also thank Daniel Codega (UNSL) for the thin sections. Juan Ignacio Vargas, Juan Manuel Turra, Ezequiel González y Guillermo Mac Donald are thanked for their help during fieldwork. Gabriela Blanco greatly improved the English of the first version. We thank Jerald D. Harris for reviewing the English of the revised version as well as for his comments on the final version of the manuscript and K. Lacovara for reviewing the English of the second revised version. Finally, we thank the Editor, R.J. Butler, David Varricchio and an anonymous reviewer for very helpful comments that highly improved the manuscript.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0064253-Lockley1"><label>1</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lockley</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Schulp</surname><given-names>AS</given-names></name>, <name name-style="western"><surname>Meyer</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Leonardi</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Mamani</surname><given-names>DK</given-names></name> (<year>2002</year>) <article-title>Titanosaurid trackways from the Upper Cretaceous of Bolivia: evidence for large manus, wide-gauge locomotion and gregarious behavior</article-title>. <source>Cretaceous Research</source> <volume>23</volume>: <fpage>383</fpage>–<lpage>400</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Mathews1"><label>2</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mathews</surname><given-names>JC</given-names></name>, <name name-style="western"><surname>Brusatte</surname><given-names>SL</given-names></name>, <name name-style="western"><surname>Williams</surname><given-names>SA</given-names></name>, <name name-style="western"><surname>Henderson</surname><given-names>MD</given-names></name> (<year>2009</year>) <article-title>The first <italic>Triceratops</italic> bonebed and its implications for gregarious behavior</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>29</volume>: <fpage>286</fpage>–<lpage>290</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Rogers1"><label>3</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rogers</surname><given-names>RR</given-names></name> (<year>1990</year>) <article-title>Taphonomy of three dinosaur bone bed in the upper Cretaceous Two Medicine Formation of northwestern Montana</article-title>. <source>Palaios</source> <volume>5</volume>: <fpage>394</fpage>–<lpage>413</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Varricchio1"><label>4</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Varricchio</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name> (<year>1993</year>) <article-title>Hadrosaurid and lambeosaurid bone beds from the Upper Cretaceous Two Medicine Formation of Montana: taphonomic and biologic implications</article-title>. <source>Canadian Journal of Earth Sciences</source> <volume>31</volume>: <fpage>997</fpage>–<lpage>1006</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Zhao1"><label>5</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Zhao</surname><given-names>Q</given-names></name>, <name name-style="western"><surname>Barrett</surname><given-names>PM</given-names></name>, <name name-style="western"><surname>Eberth</surname><given-names>DA</given-names></name> (<year>2007</year>) <article-title>Social behaviour and mass mortality in the basal ceratopsian dinosaur <italic>Psittacosaurus</italic> (Early Cretaceous, People’s Republic of China)</article-title>. <source>Palaeontology</source> <volume>50</volume>: <fpage>1023</fpage>–<lpage>1029</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Salgado1"><label>6</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Salgado</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Canudo</surname><given-names>JI</given-names></name>, <name name-style="western"><surname>Garrido</surname><given-names>AC</given-names></name>, <name name-style="western"><surname>Carballido</surname><given-names>JI</given-names></name> (<year>2012</year>) <article-title>Evidence of gregariousness in Rebbachisaurids (Dinosauria, Sauropoda, Diplodocoidea) from the Early Cretaceous of Neuquén (Rayoso Formation) Patagonia, Argentina</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>32</volume>: <fpage>603</fpage>–<lpage>613</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Barco1"><label>7</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Barco</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Canudo</surname><given-names>JI</given-names></name>, <name name-style="western"><surname>Ruiz-Omeñaca</surname><given-names>JI</given-names></name> (<year>2006</year>) <article-title>New data on <italic>Therangospodus oncalensis</italic> from the Berriasian Fuentesalvo tracksite (Villar del Río, Soria, Spain): an example of gregarious behaviour in theropod dinosaurs</article-title>. <source>Ichnos</source> <volume>13</volume>: <fpage>237</fpage>–<lpage>248</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Roach1"><label>8</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Roach</surname><given-names>BT</given-names></name>, <name name-style="western"><surname>Brinkman</surname><given-names>DL</given-names></name> (<year>2007</year>) <article-title>A reevaluation of cooperative pack hunting and gregariouness in <italic>Deinonychus antirrhopus</italic> and other nonavian theropod dinosaurs</article-title>. <source>Bulletin of the Peabody Museum of Natural History</source> <volume>48</volume>: <fpage>103</fpage>–<lpage>138</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Colbert1"><label>9</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Colbert</surname><given-names>EH</given-names></name> (<year>1989</year>) <article-title>The Triassic dinosaur <italic>Coelophysis</italic></article-title>. <source>Bulletin of the Museum of Northern Arizona</source> <volume>57</volume>: <fpage>1</fpage>–<lpage>160</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Lockley2"><label>10</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Lockley</surname><given-names>MG</given-names></name>, <name name-style="western"><surname>Matsukawa</surname><given-names>M</given-names></name> (<year>1999</year>) <article-title>Some observations on trackway evidence for gregarious behavior among bipedal small dinosaurs</article-title>. <source>Palaeogeography, Palaeoclimatology, Palaeoecology</source> <volume>150</volume>: <fpage>25</fpage>–<lpage>31</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Moreno1"><label>11</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Moreno</surname><given-names>K</given-names></name>, <name name-style="western"><surname>De Valais</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Blanco</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Tomlinson</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Jacay</surname><given-names>J</given-names></name>, <etal>et al</etal>. (<year>2012</year>) <article-title>Large theropod footprint associations in western Gondwana: behavioural and palaeobiogeographic implications</article-title>. <source>Acta Palaeontologica Polonica</source> <volume>57</volume>: <fpage>73</fpage>–<lpage>83</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Martnez1"><label>12</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Martínez</surname><given-names>RD</given-names></name>, <name name-style="western"><surname>Novas</surname><given-names>FE</given-names></name> (<year>2006</year>) <article-title><italic>Aniksosaurus darwini</italic> gen. et sp. nov., a new coelurosaurian theropod from the early Late Cretaceous of central Patagonia, Argentina</article-title>. <source>Revista del Museo Argentino de Ciencias Naturales</source> <volume>8</volume>: <fpage>243</fpage>–<lpage>259</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Martnez2"><label>13</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Martínez</surname><given-names>RD</given-names></name>, <name name-style="western"><surname>Giménez</surname><given-names>O</given-names></name>, <name name-style="western"><surname>Rodríguez</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Luna</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Lamanna</surname><given-names>M</given-names></name> (<year>2004</year>) <article-title>An articulated specimen of the basal titanosaurian (Dinosauria: Sauropoda) <italic>Epacthosaurus sciuttoi</italic> from the early Late Cretaceous Bajo Barreal Formation of Chubut province, Argentina</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>24</volume>: <fpage>107</fpage>–<lpage>120</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Chimsamy1"><label>14</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Chimsamy</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Raath</surname><given-names>MA</given-names></name> (<year>1992</year>) <article-title>Preparation of fossil bone for histological examination</article-title>. <source>Palaeontologia Africana</source> <volume>29</volume>: <fpage>39</fpage>–<lpage>44</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-FrancillonVieillot1"><label>15</label>
+<mixed-citation publication-type="other" xlink:type="simple">Francillon-Vieillot H, de Buffrénil V, Castanet J, Géraudie J, Meunier FJ, <etal>et al</etal>.. (1990) Microstructure and mineralization of vertebrate skeletal tissues. 471–548. In: Carter JG ed. Skeletal biomineralization: patterns, processes and evolutionary trends. Volume 1. Van Nostrand Reinhold, New York. pp.832.</mixed-citation>
+</ref>
+<ref id="pone.0064253-ChinsamyTuran1"><label>16</label>
+<mixed-citation publication-type="other" xlink:type="simple">Chinsamy Turan A (2005) The microstructure of dinosaur bone: deciphering biology with fine-scale techniques. The Johns Hopkins University Press. 195 p.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Castanet1"><label>17</label>
+<mixed-citation publication-type="other" xlink:type="simple">Castanet J, Francillon-Vieillot H, Meunier FJ, de Ricqlès A (1993) Bone and individual aging. In Hall BK, ed. Bone. CRC, Boca Raton Press, Florida. pp.245–283.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Ricqls1"><label>18</label>
+<mixed-citation publication-type="other" xlink:type="simple">Ricqlès A, Meunier FJ, Castanet J, Francillon-Viellot H (1991) Comparative microstructure of bone. In Hall BK, ed. Bone matrix and bone specific products. CRC, Boca Raton Press, Florida. pp.1–78.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Starck1"><label>19</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Starck</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Chinsamy</surname><given-names>A</given-names></name> (<year>2002</year>) <article-title>Bone microstructure and developmental plasticity in birds and others dinosaurs</article-title>. <source>Journal of Morphology</source> <volume>245</volume>: <fpage>232</fpage>–<lpage>246</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Figari1"><label>20</label>
+<mixed-citation publication-type="other" xlink:type="simple">Figari E, Hechem J, Homovc J (1990) Arquitectura depositacional de las areniscas verdes de la Formación Bajo Barreal, Provincia de Chubut. 3° Reunión Argentina de Sedimentología, San Juan, Argentina. Actas: 130–138.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Novas1"><label>21</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Novas</surname><given-names>FE</given-names></name>, <name name-style="western"><surname>Ezcurra</surname><given-names>MD</given-names></name>, <name name-style="western"><surname>Agnolin</surname><given-names>FL</given-names></name>, <name name-style="western"><surname>Pol</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Ortíz</surname><given-names>R</given-names></name> (<year>2012</year>) <article-title>New Patagonian Cretaceous theropod sheds light about the early radiation of Coelurosauria</article-title>. <source>Revista del Museo Argentino de Ciencias Naturales</source> <volume>14</volume>: <fpage>57</fpage>–<lpage>81</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Turner1"><label>22</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Turner</surname><given-names>AH</given-names></name>, <name name-style="western"><surname>Pol</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Clarke</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name>, <name name-style="western"><surname>Norell</surname><given-names>MA</given-names></name> (<year>2007</year>) <article-title>A basal dromaeosaurid and size evolution preceding avian flight</article-title>. <source>Science</source> <volume>317</volume>: <fpage>1378</fpage>–<lpage>1381</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Carpenter1"><label>23</label>
+<mixed-citation publication-type="other" xlink:type="simple">Carpenter K, Miles C, Cloward K (2005) New small theropod from the Upper Jurassic Morrison Formation of Wyoming. In Carpenter K, ed. The carnivorous dinosaurs. Bloomington Indiana University Press. pp.23–48.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Seebacher1"><label>24</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Seebacher</surname><given-names>F</given-names></name> (<year>2001</year>) <article-title>A new method to calculate allometric length-mass relationships of dinosaurs</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>21</volume>: <fpage>51</fpage>–<lpage>60</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Hone1"><label>25</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hone</surname><given-names>DWE</given-names></name> (<year>2012</year>) <article-title>Variation in the tail lengh of non-avian dinosaurs</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>32</volume>: <fpage>1082</fpage>–<lpage>1089</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Behrensmeyer1"><label>26</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Behrensmeyer</surname><given-names>AK</given-names></name> (<year>1978</year>) <article-title>Taphonomic and ecologic information from bone weathering</article-title>. <source>Paleobiology</source> <volume>4</volume>: <fpage>150</fpage>–<lpage>162</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Kidwell1"><label>27</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kidwell</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Fürsich</surname><given-names>FT</given-names></name>, <name name-style="western"><surname>Aigner</surname><given-names>T</given-names></name> (<year>1986</year>) <article-title>Conceptual framework for the analysis and classification of fossil concentration</article-title>. <source>Palaios</source> <volume>1</volume>: <fpage>228</fpage>–<lpage>238</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Hone2"><label>28</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hone</surname><given-names>DWE</given-names></name>, <name name-style="western"><surname>Rauhut</surname><given-names>OWM</given-names></name> (<year>2010</year>) <article-title>Feeding behavior and bone utilization by theropod dinosaurs</article-title>. <source>Lethaia</source> <volume>43</volume>: <fpage>232</fpage>–<lpage>244</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Kreutzer1"><label>29</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kreutzer</surname><given-names>LA</given-names></name> (<year>1988</year>) <article-title>Megafaunal butchering al Lubbock Lake, Texas: a taphonomic reanalysis</article-title>. <source>Quaternary Research</source> <volume>30</volume>: <fpage>221</fpage>–<lpage>231</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Behrensmeyer2"><label>30</label>
+<mixed-citation publication-type="other" xlink:type="simple">Behrensmeyer AK (1990) Terrestrial vertebrate accumulations In: Allison PA, Briggs DEG, eds. Taphonomy. Plenum Press. pp.291–335.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Gutirrez1"><label>31</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gutiérrez</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Kaufmann</surname><given-names>C</given-names></name> (<year>2007</year>) <article-title>Criteria for the identification of formation process in guanaco (<italic>Lama guanicoe</italic>) bone assemblages in fluvial-lacustrine environments</article-title>. <source>Journal of Taphonomy</source> <volume>5</volume>: <fpage>151</fpage>–<lpage>176</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Johnson1"><label>32</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Johnson</surname><given-names>RG</given-names></name> (<year>1960</year>) <article-title>Models and methods for analysis of the mode of formation of fossil assemblages</article-title>. <source>Bulletin Geological Society of America</source> <volume>71</volume>: <fpage>1075</fpage>–<lpage>1085</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Longrich1"><label>33</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Longrich</surname><given-names>NR</given-names></name>, <name name-style="western"><surname>Horner</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>Erickson</surname><given-names>GM</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>2010</year>) <article-title>Cannibalism in <italic>Tyrannosaurus rex.</italic></article-title>. <source>Plos ONE</source> <volume>5</volume>: <fpage>1</fpage>–<lpage>6</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Currie1"><label>34</label>
+<mixed-citation publication-type="other" xlink:type="simple">Currie PJ, Trexler D, Koppelhus EB, Wicks K, Murphy N (2005) An unusual multi-individual tyrannosaurid bonebed in the Two Medicine Formation (Late Cretaceous, Campanian) of Montana (USA). In Carpenter K, ed. The carnivorous dinosaur. Bloomington Indiana University Press. pp.313–324.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Raath1"><label>35</label>
+<mixed-citation publication-type="other" xlink:type="simple">Raath MA (1990) Morphological variation in small theropods and its meaning in systematic: evidence from <italic>Syntarsus rhodiensensis</italic>. In Carpenter K, Currie PJ eds. Dinosaur systematics: approaches and perspectives. Cambridge University Press. pp.91–105.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Eberth1"><label>36</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Eberth</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>2010</year>) <article-title>Stratigraphy, sedimentology, and taphonomy of the <italic>Albertosaurus</italic> bonebed (upper Horseshoe Canyon Formation; Maastrichtian), southern Alberta, Canada</article-title>. <source>Canadian Journal of Earth Sciences</source> <volume>47</volume>: <fpage>1119</fpage>–<lpage>1143</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Varricchio2"><label>37</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Varricchio</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Sereno</surname><given-names>PC</given-names></name>, <name name-style="western"><surname>Xijin</surname><given-names>Z</given-names></name>, <name name-style="western"><surname>Lin</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Wilson</surname><given-names>JA</given-names></name>, <etal>et al</etal>. (<year>2008</year>) <article-title>Mud-trapped herd captures evidence of distinctive dinosaur sociality</article-title>. <source>Acta Palaeontologica Polonica</source> <volume>53</volume>: <fpage>567</fpage>–<lpage>578</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Coria1"><label>38</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Coria</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>2006</year>) <article-title>A new carcharodontosaurid (Dinosauria, Theropoda) from the Upper Cretaceous of Argentina</article-title>. <source>Geodiversitas</source> <volume>28</volume>: <fpage>71</fpage>–<lpage>118</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Coria2"><label>39</label>
+<mixed-citation publication-type="other" xlink:type="simple">Coria RA (2007) Nonavian theropods. In: Gasparini Z, Salgado L, Coria RA, eds. Patagonian Mesozoic reptiles. Bloomington &amp; Indianapolis: Indiana University Press. pp.229–256.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Berger1"><label>40</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Berger</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Dulamseren</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Cain</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Enkkhbileg</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Litchman</surname><given-names>P</given-names></name>, <etal>et al</etal>. (<year>2001</year>) <article-title>Back-casting sociality in extinct species: new perspectives using mass death assemblages and sex ratios. Proc. R. Soc. Lond. B</article-title>. <volume>268</volume>: <fpage>131</fpage>–<lpage>139</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Isles1"><label>41</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Isles</surname><given-names>TE</given-names></name> (<year>2009</year>) <article-title>The socio-sexual behaviour of extant archosaurs: implications for understanding dinosaur behavior</article-title>. <source>Historical Biology</source> <volume>21</volume>: <fpage>139</fpage>–<lpage>214</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Molnar1"><label>42</label>
+<mixed-citation publication-type="other" xlink:type="simple">Molnar RE (2005) Sexual selection and sexual dimorphism in theropods. In Carpenter K, ed. The carnivorous dinosaur. Bloomington Indiana University Press. pp.284–324.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Barden1"><label>43</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Barden</surname><given-names>HE</given-names></name>, <name name-style="western"><surname>Maidment</surname><given-names>SCR</given-names></name> (<year>2011</year>) <article-title>Evidence for sexual dimorphism in the stegosaurian dinosaur <italic>Kentrosaurus aethiopicus</italic> from the Upper Jurassic of Tanzania</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>31</volume>: <fpage>641</fpage>–<lpage>651</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Carrano1"><label>44</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Carrano</surname><given-names>MT</given-names></name>, <name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name>, <name name-style="western"><surname>Forster</surname><given-names>CA</given-names></name> (<year>2002</year>) <article-title>The osteology of <italic>Masiakasaurus knopfleri</italic>, a small abelisauroid (Dinosauria: Theropoda) from the Late Cretaceous of Madagascar</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>22</volume>: <fpage>510</fpage>–<lpage>534</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Kaliontzopoulou1"><label>45</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kaliontzopoulou</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Carretero</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Llorente</surname><given-names>GA</given-names></name> (<year>2007</year>) <article-title>Multivariate and geometric morphometrics in the analysis of sexual dimorphism variation in <italic>Podarcis</italic> lizards</article-title>. <source>Journal of Morphology</source> <volume>268</volume>: <fpage>152</fpage>–<lpage>165</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0064253-Bonnan1"><label>46</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bonnan</surname><given-names>MF</given-names></name>, <name name-style="western"><surname>Farlow</surname><given-names>JO</given-names></name>, <name name-style="western"><surname>Masters</surname><given-names>SL</given-names></name> (<year>2008</year>) <article-title>Using linear and geometric morphometrics to detect intraspecific variability and sexual dimorphism in femoral shape in Alligator mississippiensis and its implications for sexing fossil archosaurs</article-title>. <source>Journal of Vertebrate Paleontology</source> <volume>28</volume>: <fpage>422</fpage>–<lpage>431</lpage>.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>

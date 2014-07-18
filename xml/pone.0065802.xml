@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group>
+<journal-title>PLoS ONE</journal-title></journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">PONE-D-13-09646</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pone.0065802</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Ecology</subject><subj-group><subject>Biota</subject></subj-group></subj-group><subj-group><subject>Evolutionary biology</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Paleobiology</subject><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group><subj-group><subject>Paleontology</subject><subj-group><subject>Paleobiology</subject><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Earth sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Biogeography</subject><subject>Paleobiology</subject><subject>Paleoecology</subject><subject>Vertebrate paleontology</subject></subj-group></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>An Immature <italic>Pachyrhinosaurus perotorum</italic> (Dinosauria: Ceratopsidae) Nasal Reveals Unexpected Complexity of Craniofacial Ontogeny and Integument in <italic>Pachyrhinosaurus</italic></article-title>
+<alt-title alt-title-type="running-head">Facial Ontogeny in <italic>Pachyrhinosaurus</italic></alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Fiorillo</surname><given-names>Anthony R.</given-names></name><xref ref-type="aff" rid="aff1"/><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Tykoski</surname><given-names>Ronald S.</given-names></name><xref ref-type="aff" rid="aff1"/></contrib>
+</contrib-group>
+<aff id="aff1"><addr-line>Perot Museum of Nature and Science, Dallas, Texas, United States of America</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple"><name name-style="western"><surname>Farke</surname><given-names>Andrew A.</given-names></name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>Raymond M. Alf Museum of Paleontology, United States of America</addr-line></aff>
+<author-notes>
+<corresp id="cor1">* E-mail: <email xlink:type="simple">anthony.fiorillo@perotmuseum.org</email></corresp>
+<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn>
+<fn fn-type="con"><p>Conceived and designed the experiments: ARF. Wrote the paper: ARF RST. Collected the specimen and related field locality information: ARF. Preparation of the specimens: RST.</p></fn>
+</author-notes>
+<pub-date pub-type="collection"><year>2013</year></pub-date>
+<pub-date pub-type="epub"><day>19</day><month>6</month><year>2013</year></pub-date>
+<volume>8</volume>
+<issue>6</issue>
+<elocation-id>e65802</elocation-id>
+<history>
+<date date-type="received"><day>7</day><month>3</month><year>2013</year></date>
+<date date-type="accepted"><day>28</day><month>4</month><year>2013</year></date>
+</history>
+<permissions>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Fiorillo, Tykoski</copyright-holder><license xlink:type="simple"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions>
+<abstract>
+<p>A new specimen attributable to an immature individual of <italic>Pachyrhinosaurus perotorum</italic> (Dinosauria, Ceratopsidae) from the Kikak-Tegoseak Quarry in northern Alaska preserves a mix of features that provides refinement to the sequence of ontogenetic stages and transformations inferred for the development of the nasal boss in <italic>Pachyrhinosaurus</italic>. The new specimen consists of an incomplete nasal that includes the posterior part of the nasal horn, the dorsal surface between the horn and the left-side contacts for the prefrontal and frontal, and some of the left side of the rostrum posteroventral to the nasal horn. The combination of morphologies in the new specimen suggests either an additional stage of development should be recognized in the ontogeny of the nasal boss of <italic>Pachyrhinosaurus</italic>, or that the ontogenetic pathway of nasal boss development in <italic>P. perotorum</italic> was notably different from that of <italic>P. lakustai</italic>. Additionally, the presence of a distinct basal sulcus and the lateral palisade texture on the nasal horn of the specimen described here indicate that a thick, cornified horn sheath was present well before the formation of a dorsal cornified pad. A separate rugose patch on the nasal well posterior to the nasal horn is evidence for a cornified integumentary structure, most likely a thick cornified pad, on the posterior part of the nasal separate from the nasal horn prior to the onset of nasal boss formation in <italic>P. perotorum</italic>.</p>
+</abstract>
+<funding-group><funding-statement>Field work was supported by the United States National Science Foundation award OPP 04245594 to Fiorillo (<ext-link ext-link-type="uri" xlink:href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=0424594&amp;HistoricalAwards=false" xlink:type="simple">http://www.nsf.gov/awardsearch/showAward?AWD_ID=0424594&amp;HistoricalAwards=false</ext-link>). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts><page-count count="10"/></counts></article-meta>
+</front>
+<body><sec id="s1">
+<title>Introduction</title>
+<p>The centrosaurine ceratopsid dinosaur <italic>Pachyrhinosaurus</italic> is represented by three species (<italic>P. canadensis</italic> <xref ref-type="bibr" rid="pone.0065802-Sternberg1">[1]</xref>–<xref ref-type="bibr" rid="pone.0065802-Langston2">[3]</xref>; <italic>P. lakustai</italic> <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>; <italic>P. perotorum</italic> <xref ref-type="bibr" rid="pone.0065802-Fiorillo1">[5]</xref>) known from upper Campanian and lower Maastrichtian deposits of Alberta, Canada and the North Slope of Alaska, U.S.A. All three species are known from material representing multiple individuals, with <italic>P. lakustai</italic> and <italic>P. perotorum</italic> known from bone beds that record mass death assemblages <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>, <xref ref-type="bibr" rid="pone.0065802-Fiorillo1">[5]</xref>. The most ubiquitous cranial feature shared by mature individuals of all three species is the presence of a massive, thickened, nasal boss that covers most of the dorsal surface of the skull anterior to the orbits. The nasal boss occupies the same portion of the rostrum that bears erect nasal horns or other nasal ornamentation in more basal centrosaurine taxa <xref ref-type="bibr" rid="pone.0065802-Dodson1">[6]</xref>, <xref ref-type="bibr" rid="pone.0065802-Sampson1">[7]</xref>. Mature specimens of all three species also share the presence of enlarged supraorbital bosses instead of horns, as well as large, laterally curved horns at the P3 locus <xref ref-type="bibr" rid="pone.0065802-Sampson2">[8]</xref> on the parietal frill. It should be noted that an alternative numbering system was recently proposed for identification of centrosaurine epiparietal processes <xref ref-type="bibr" rid="pone.0065802-Farke1">[9]</xref>, but that debate is not pertinent to the specimen we describe here.</p>
+<p>The three <italic>Pachyrhinosaurus</italic> species are differentiated from one another by combinations of craniofacial and frill ornamentation features, which include relative size and coverage of the nasal boss, presence or absence of a rostral comb on the premaxilla, and presence or absence of a medially directed horn on the P2 locus of the parietal frill <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>, <xref ref-type="bibr" rid="pone.0065802-Fiorillo1">[5]</xref>. In addition, <italic>P. perotorum</italic> is diagnosed by the presence of a small, anteriorly-directed horn arising from the anterior edge of the transverse parietal bar and overhanging each parietal fenestra of the frill <xref ref-type="bibr" rid="pone.0065802-Fiorillo1">[5]</xref>. The species may possibly be diagnosed by a rounded, upturned rostral beak (unique among Ceratopsia), and reduction or closure of the frontal fontanelle <xref ref-type="bibr" rid="pone.0065802-Fiorillo1">[5]</xref>.</p>
+<p>The large sample of <italic>Pachyrhinosaurus lakustai</italic> specimens preserves parts of individuals from many ontogenetic stages, which allowed Currie et al. <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref> to verify that the nasal boss in <italic>P. lakustai</italic> is homologous to the nasal horns and other ornamentation present in other centrosaurine taxa. The sample shows that small, immature nasals are unfused and bear a low, blade-like demihorn that may be marked by extensive neurovascular foramina and grooves of variable orientations. The demihorn in immature <italic>P. lakustai</italic> specimens extend from anterior to the border of the narial aperture to nearly the posterior margin of the nasal at the prefrontal and frontal contacts. Larger but still immature specimens show beginnings of the swelling and rapid expansion and build-up of the nasal boss, and only specimens at least two-thirds of ‘adult’ size exhibit a tall, transversely wide boss structure marked laterally with dorsoventral grooves that give the sides of the nasal boss a palisaded texture. It was inferred by Currie et al. <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref> that the ontogenetic development of the nasal boss followed a pattern of nearly isometric growth until attaining approximately two-thirds of ‘adult’ size, followed by rapid lateral migration of the paired demihorns accompanied by massive deposition of bone between them. It was further postulated <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref> that the posterior medially angled surface of the demihorn present in immature specimens grew upward and further posteriorly to eventually take the form of the transversely wide posterior rim of the boss.</p>
+<p>In addition to descriptions of osteology and inferences of ontogeny of the craniofacial bosses in <italic>Pachyrhinosaurus</italic>, these massive and visually bizarre structures have prompted speculation and hypotheses of function, behavior and soft-tissue reconstruction in this and related centrosaurine taxa. It was first suggested by Sternberg <xref ref-type="bibr" rid="pone.0065802-Sternberg1">[1]</xref> that the craniofacial bosses in <italic>Pachyrhinosaurus</italic> were an adaptation for head-butting or head-pushing behavior (<xref ref-type="fig" rid="pone-0065802-g001">Figure 1</xref>), and that the bosses were covered in life by cornified skin. More radical reconstructions of <italic>Pachyrhinosaurus</italic> envisioned a large, rhinoceros-like dermal horn arising from the nasal boss, although such a structure was viewed with skepticism by others <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>, <xref ref-type="bibr" rid="pone.0065802-Hieronymus1">[10]</xref>, <xref ref-type="bibr" rid="pone.0065802-Currie2">[11]</xref>, <xref ref-type="bibr" rid="pone.0065802-Sampson3">[12]</xref>.</p>
+<fig id="pone-0065802-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065802.g001</object-id><label>Figure 1</label><caption>
+<title>Artistic rendering of <italic>Pachyrhinosaurus perotorum</italic> engaged in head-butting/pushing behavior.</title>
+<p>In the first description of <italic>Pachryhinosaurus</italic> by Sternberg <xref ref-type="bibr" rid="pone.0065802-Sternberg1">[1]</xref>, he speculated that the enlarged nasal boss in the taxon might have been used in head battering or pushing behavior, an idea emphasized by this image of two <italic>Pachyrhinosaurus perotorum</italic> sparring with their craniofacial bosses, while a third looks on. Artwork by K. Carr.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065802.g001" position="float" xlink:type="simple"/></fig>
+<p>Here we describe and discuss the implications of a small, incomplete nasal (DMNH 21460) referred to <italic>Pachyrhinosaurus perotorum</italic> from the Kikak-Tegoseak Quarry of Alaska (<xref ref-type="fig" rid="pone-0065802-g002">Figure 2</xref>), the type locality of <italic>P. perotorum</italic> <xref ref-type="bibr" rid="pone.0065802-Fiorillo1">[5]</xref>. The Kikak-Tegoseak Quarry is a monodominant bonebed deposit <xref ref-type="bibr" rid="pone.0065802-Fiorillo2">[13]</xref> with a minimum of eleven individuals represented in the quarry, based upon the number of occipital condyles currently known from the site (including that in the nearly complete skull DMNH 22558). The specimen was collected as a float block found within a meter of the main Kikak-Tegoseak Quarry edge. We are confident that the new specimen can be referred to <italic>P. perotorum</italic> and that it does not represent a second ceratopsid taxon from the site. The specimen is notable because it comes from a smaller, relatively immature individual, contrary to previous published statements about the individuals from the quarry all being of similar ‘adult’ ontogenetic stage <xref ref-type="bibr" rid="pone.0065802-Fiorillo2">[13]</xref> and therefore expands the known age profile of this taxon from the site. The specimen has dorsally enlarged nasal ornamentation marked by lateral grooves and ridges (palisades), but is mediolaterally narrow and anteroposteriorly short. This differs from the ontogenetic trajectory of nasal boss development hypothesized for <italic>P. lakustai</italic> <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>. In addition, the posterior part of the nasal preserves unusual bone texture and structure that provide evidence for a degree of integument complexity not previously recognized in other species of <italic>Pachyrhinosaurus</italic>.</p>
+<fig id="pone-0065802-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065802.g002</object-id><label>Figure 2</label><caption>
+<title>Map showing approximate location of the Kikak-Tegoseak Quarry, North Slope, Alaska, U.S.A.</title>
+<p>Kikak-Tegoseak Quarry indicated by red star.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065802.g002" position="float" xlink:type="simple"/></fig><sec id="s1a">
+<title>Institutional Abbreviations</title>
+<p><bold>CMN</bold>, Canadian Museum of Nature, Ottawa, Ontario, Canada; <bold>DMNH</bold>, Perot Museum of Nature and Science, Dallas, Texas, U.S.A, formerly the Museum of Nature and Science; <bold>TMP</bold>, Royal Tyrrell Museum of Paleontology, Drumheller, Alberta, Canada.</p>
+</sec><sec id="s1b">
+<title>Geological Setting and Locality Information</title>
+<p>The Kikak-Tegoseak Quarry is located in the extensive exposures of the Prince Creek Formation along the a bluff overlooking the Colville River, North Slope Borough, Alaska, USA. (<xref ref-type="fig" rid="pone-0065802-g002">Figure 2</xref>). The Prince Creek Formation is an alluvial unit comprised of sediments shed northward from the rising Brooks Range from late Campanian to Paleocene time <xref ref-type="bibr" rid="pone.0065802-Fiorillo2">[13]</xref>. Radioisotopic dates derived from multiple tuff beds throughout the section of the Prince Creek Formation range from 68 Ma to 71 Ma, with an average estimate of 69.1+/−0.3 Ma <xref ref-type="bibr" rid="pone.0065802-Fiorillo2">[13]</xref>, <xref ref-type="bibr" rid="pone.0065802-Conrad1">[14]</xref>. Palynological samples from the Kikak-Tegoseak Quarry itself correlate well with the radioisotopic data, showing an Early Maastrichtian assemblage <xref ref-type="bibr" rid="pone.0065802-Fiorillo2">[13]</xref>.</p>
+</sec></sec><sec id="s2" sec-type="materials|methods">
+<title>Materials and Methods</title>
+<p>The specimen, DMNH (Perot Museum of Nature and Science) 21460 was collected under BLM permit number AA-86367. The fossil was extracted from its surrounding rock using mechanical pneumatic air tools (air-scribes), and Butvar B-76 was used as both a consolidant and an adhesive in stabilizing and reassembling the specimen. The specimen is housed in the collections of the Perot Museum of Nature and Science, in Dallas, Texas, USA.</p>
+<sec id="s2a">
+<title>Description</title>
+<p>The incomplete specimen DMNH 21460 consists of parts of both right and left nasals fused together to form a single functional unit, hereafter referred to as a singular nasal (<xref ref-type="fig" rid="pone-0065802-g003">Figure 3</xref>). The specimen was broken through the transverse plane anteriorly, the horizontal plane ventrally, and the posterior portion through a nearly sagittal plane just to the right of the midline. It includes the posterior part of the nasal horn, the dorsal surface between the horn and the left-side contacts for the prefrontal and frontal, and some of the left side of the rostrum posteroventral to the nasal horn. The unusual morphology of the specimen led to initial uncertainty as to its position in the skull and whether it also encompassed parts of the frontals, prefrontals, or other supraorbital elements. There are no visible sutural contacts in the specimen, which argues against there being additional elements being incorporated in it. The ventrolaterally directed margin of the specimen’s ventrolateral and posterolateral edges is inconsistent with the raised anterodorsal part of the orbital rim seen in specimens of <italic>P. lakustai</italic> and other centrosaurines <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>, <xref ref-type="bibr" rid="pone.0065802-Sampson2">[8]</xref>, <xref ref-type="bibr" rid="pone.0065802-Farke1">[9]</xref>, <xref ref-type="bibr" rid="pone.0065802-Sampson3">[12]</xref>, <xref ref-type="bibr" rid="pone.0065802-McDonald1">[15]</xref>. A broad, gently convex area of rugose-textured bone covering the posterior part of the specimen bears no similarity with the raised supraorbital horns of immature centrosaurines <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>, <xref ref-type="bibr" rid="pone.0065802-Sampson3">[12]</xref>, <xref ref-type="bibr" rid="pone.0065802-McDonald1">[15]</xref>, <xref ref-type="bibr" rid="pone.0065802-Ryan1">[16]</xref>. It is also very different from the highly derived supraorbital boss of mature specimens of <italic>Pachyrhinosaurus</italic> <xref ref-type="bibr" rid="pone.0065802-Sternberg1">[1]</xref>, <xref ref-type="bibr" rid="pone.0065802-Langston1">[2]</xref>, <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>, <xref ref-type="bibr" rid="pone.0065802-Fiorillo1">[5]</xref>. The nearly vertical, faintly pitted faces of the posterior bone margins are more consistent with the position and likely position for an abutting contact with the frontals or prefrontals. We therefore determined that the specimen represented only an incomplete nasal, preserving the posterior part of the nasal horn core and the span between it and the frontal and prefrontal contacts.</p>
+<fig id="pone-0065802-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065802.g003</object-id><label>Figure 3</label><caption>
+<title>Photographs and interpretive line drawings of DMNH 21460, <italic>Pachyrhinosaurus perotorum</italic> incomplete nasal.</title>
+<p>A. Nasal in left lateral view. B. Line drawing of nasal in left lateral view. C. Nasal in right lateral view. D. Line drawing of nasal in right lateral view. E. Nasal in dorsal view. F. Line drawing of nasal in dorsal view. G. Nasal in anterior view. H. Line drawing of nasal in anterior view. I. Hypothetical ‘subadult’ <italic>Pachyrhinosaurus perotorum</italic> skull outline with DMNH 21460 superimposed to show approximate location of specimen in the skull. Abbreviations: bs, basal sulcus; fr, frontal contact; ms, median sulcus; nh, nasal horn/incipient nasal boss; prf, prefrontal contact; ri, ridge laterally bounding rugose area; rug, rugose patch on dorsal surface of nasal; sb, smooth bone. Gray fill indicates broken bone surfaces or cracks. Scale bars equal 5 cm.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065802.g003" position="float" xlink:type="simple"/></fig>
+<p>The maximum anteroposterior length of the incomplete nasal is 270 mm from the anterior broken surface through the nasal horn to the posterior margin of the bone. Maximum mediolateral width of the specimen is 115.9 mm, and maximum dorsoventral height measured from the most ventral preserved portion of the rostrum lateral surface is 127 mm. The largest immature nasal of <italic>Pachyrhinosaurus lakustai</italic> illustrated by Currie et al. <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref> (TMP.1989.55.1342) is approximately 230 to 240 mm in length, although it is missing the narial bridge portion of the anterior end of the nasal. This suggests DMNH 21460 came from a somewhat larger individual than represented by the known immature nasals of <italic>P. lakustai</italic>. Comparison between DMNH 21460 and the more complete skull of a mature <italic>P. perotorum</italic> (DMNH 22558) suggests the new specimen came from an individual approximately two-thirds or more ‘adult’ size (<xref ref-type="fig" rid="pone-0065802-g004">Figure 4</xref>).</p>
+<fig id="pone-0065802-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065802.g004</object-id><label>Figure 4</label><caption>
+<title>Comparison of new, immature specimen and ‘adult’ skull of <italic>Pachyrhinosaurus perotorum</italic>.</title>
+<p>A. DMNH 21460, <italic>Pachyrhinosaurus perotorum</italic> incomplete nasal superimposed on line drawing of hypothetical immature individual skull. B, DMNH 22558, <italic>Pachyrhinosaurus perotorum</italic> incomplete skull of mature individual. Both images in left lateral view and to scale. Scale bar equals 50 cm.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065802.g004" position="float" xlink:type="simple"/></fig>
+<p>The nasal horn is incomplete, consisting only of the posterior part of the structure. The border of the horn is clearly defined posteroventrally and posteriorly by its bulged, raised edge, and by a narrow band of numerous small foramina and neurovascular grooves immediately adjacent to the bulged rim that parallel the raised surface (<xref ref-type="fig" rid="pone-0065802-g003">Figure 3A through F</xref>). This bordering band was termed the basal sulcus by Hieronymus et al. <xref ref-type="bibr" rid="pone.0065802-Hieronymus1">[10]</xref>. The preserved portion of the nasal horn measures 110 mm from its dorsal tip to the most ventral remnant of the basal sulcus on the left side, and 126.5 mm from the most anterior broken surface to the most posterior point of the basal sulcus on the midline. The nasal horn is widest ventrally (greatest breadth across the preserved parts is 76.5 mm) and narrows dorsally (<xref ref-type="fig" rid="pone-0065802-g003">Figure 3G and H</xref>). This contrasts with the nasal boss of DMNH 22558, a large, mature skull of <italic>Pachyrhinosaurus perotorum</italic> in which the nasal boss is widest dorsally. The cross section revealed by the anterior break through the specimen shows the bone in the lower half of the horn is dense and relatively solid, while the dorsal half is comprised of coarse spongy bone. The dorsal surface of the horn rises 55 mm above the posterior midline point of the basal sulcus, and 98 mm above the posterior edge of the nasal along the frontal contact. The rounded dorsal surface is incised by an undulating sulcus ranging from 2.5 mm to nearly 13 mm wide, and from 1.5 mm to 7.5 mm deep. The median sulcus is limited to the anterior part of the preserved horn, and the inner surfaces of the sulcus are marked by small foramina and an unfinished texture compared to the surrounding horn surface. The lateral surfaces of the horn are marked by several dorsoventrally aligned, low ridges separated from one another by shallow grooves, which together produce the palisade texture previously associated only with fully developed nasal bosses of larger, relatively mature individuals of <italic>Pachyrhinosaurus</italic> <xref ref-type="bibr" rid="pone.0065802-Sternberg1">[1]</xref>, <xref ref-type="bibr" rid="pone.0065802-Langston1">[2]</xref>, <xref ref-type="bibr" rid="pone.0065802-Langston2">[3]</xref>, <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>, <xref ref-type="bibr" rid="pone.0065802-Fiorillo1">[5]</xref>. The presence of lateral palisade texture, combined with the bulging lateral surfaces and beginning of a median sulcus or separation on the dorsal surface suggests the nasal ornamentation of DMNH 21460 could be described as an incipient or ‘proto’ nasal boss.</p>
+<p>The dorsal surface of the nasal slopes posteroventrally from the basal sulcus before flattening out to a nearly horizontal but transversely convex surface halfway between the nasal boss and the posterior edge of the nasal. The posterior edge of the nasal at and immediately lateral to the midline is a nearly vertical surface marked with faint pits and ridges for contact with the anterior end of the frontal and perhaps the prefrontal. The posterior rim of the nasal curves posterolaterally from the midline in a sinuous fashion to its most posterior point, then curves laterally and anterolaterally to round out the posterolateral edge of the bone (<xref ref-type="fig" rid="pone-0065802-g003">Figure 3E and F</xref>). The posterolateral edge of the nasal is dorsoventally thick (1 cm or more), smooth, and instead of having a vertical contact surface it is smoothly rounded off. The sloped surface immediately posterior to the boss is marked by numerous small (≤1 mm) foramina that intersect the surface at a steep or perpendicular angle, and short (1 cm or less), shallow grooves without an apparent preferred orientation. The more horizontal, flattened, posterior part of the nasal has a noticeably different texture. Here the bone surface is faintly and evenly rugose with a high density (20 to 28 foramina per square centimeter) of very small foramina. There are also several larger (1 to 2 cm long) vascular grooves in this area, some of which intersect to form weak branching patterns. The lateral border of this rugose patch is sharply defined by a low ridge that begins even with the midpoint between the nasal boss and the posterior edge of the nasal and curves posteromedially toward the rounded posterior margin of the nasal. The ridge tapers out as it reaches the edge of the nasal. The surface texture of the nasal lateral to the ridge is completely smooth, with no foramina or neurovascular grooves marking the surface. This is in stark contrast to all the other surfaces on the specimen.</p>
+</sec></sec><sec id="s3">
+<title>Results and Discussion</title>
+<sec id="s3a">
+<title>Ontogenetic Implications</title>
+<p>The numerous specimens of <italic>Pachyrhinosaurus lakustai</italic> from the Pipestone Creek locality of Alberta currently provide the broadest series of ontogenetic ‘snapshots’ for <italic>Pachyrhinosaurus</italic> <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>. The sample includes a number of isolated nasals from immature individuals of different developmental stages that formed the basis for understanding growth and modification of the nasal ornamentation from ‘typical’ immature centrosaurine nasal demihorns to the highly derived nasal boss of <italic>Pachyrhinosaurus</italic> <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>. There are differences in DMNH 21460 (<italic>P</italic>. <italic>perotorum</italic>) compared to the growth pattern inferred for <italic>P. lakustai</italic> that may provide additional information in reconstructing ontogenetic transformations in pachyrhinosaurs.</p>
+</sec><sec id="s3b">
+<title>Separation of Nasal Horn and Posterior Edge of Nasal</title>
+<p>The nasal demihorns in immature <italic>P. lakustai</italic> span almost the full anteroposterior length of the nasal, leaving only a short anterior process to meet the nasal process of the premaxilla and a sloped, sculptured, triangular area between the demihorn and the posterior prefrontal-frontal contact <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>. The sculptured area reported in immature <italic>P. lakustai</italic> nasal demihorns may correspond to the rugose patch posterior to the nasal horn in DMNH 21460. The distance between the nasal horn and posterior rim of the nasal in DMNH 21460 is proportionally greater than in specimens of <italic>P. lakustai</italic> <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref> (<xref ref-type="fig" rid="pone-0065802-g003">Figure 3A through D</xref>). The proportions of the posterior part of the nasal relative to the incipient nasal boss in DMNH 21460 (<xref ref-type="fig" rid="pone-0065802-g003">Figure 3I</xref>) more closely resemble those of more basal centrosaurines such as <italic>Styracosaurus</italic> (CMN 86–554) and some immature specimens of <italic>Einiosaurus</italic> <xref ref-type="bibr" rid="pone.0065802-McDonald1">[15]</xref> than fully mature <italic>Pachyrhinosaurus</italic>.</p>
+<p>DMNH 21460 is the only immature nasal currently known from the Kikak-Tegoseak Quarry, and without a greater sample size we are forced into speculation when offering explanations for the relatively wide separation between the nasal boss and posterior end of the nasal in <italic>Pachyrhinosaurus perotorum</italic>. The nasal horn might have originated from a more anterior location than in <italic>P. lakustai</italic>, though this seems tenuous given the apparently conservative nature of nasal horn ontogeny in early-stage centrosaurines <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>, <xref ref-type="bibr" rid="pone.0065802-Sampson3">[12]</xref>, <xref ref-type="bibr" rid="pone.0065802-McDonald1">[15]</xref>. A second hypothesis is that the posterior part of the nasal underwent rapid anteroposterior elongation during development just prior to posterior-ward growth of the nasal boss.</p>
+</sec><sec id="s3c">
+<title>Nasal Boss Development</title>
+<p>DMNH 21460 preserves a mix of features that may provide refinement to the sequence of ontogenetic stages and transformations inferred for the development of the nasal boss in <italic>Pachyrhinosaurus</italic> <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>. <xref ref-type="table" rid="pone-0065802-t001">Table 1</xref> lists five ontogenetic stages that approximate the division of descriptions and discussion of nasal boss ontogeny derived from Currie et al. <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>. DMNH 21460 exhibits some Stage 3 features such as a thickened, incipient nasal boss, and limited development of lateral ridges bounding a median depression (expressed as a median sulcus) on the dorsal surface. DMNH 21460 also has Stage 4 features including complete fusion of the right and left nasals back to their posterior margins, ventral margins of the boss defined by a basal sulcus, and lateral surfaces marked by a palisade texture of parallel dorsoventrally oriented ridges and grooves. Yet there are also features that are either not encompassed by any of the stages or reported specimens of <italic>P. lakustai</italic>, such as apparent lengthening of the posterior part of the nasals and separation of the dorsal zone of sculptured bone from the nasal boss, or they are not synchronous with the framework of stages and transformations reported by Currie et al. <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>.</p>
+<table-wrap id="pone-0065802-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065802.t001</object-id><label>Table 1</label><caption>
+<title>Ontogenetic stages of nasal boss development in <italic>Pachyrhinosaurus</italic> (Stage 1 youngest), based upon descriptions and inferences of Currie et al. <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>.</title>
+</caption><alternatives><graphic id="pone-0065802-t001-1" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065802.t001" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Growth Stage</td>
+<td align="left" rowspan="1" colspan="1">Characteristics</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Stage 1</td>
+<td align="left" rowspan="1" colspan="1">low, paired demihorns with minimal lateral texturing in form of neurovascular grooves</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">demihorn essentially covers nasal from anterior process to posterior edge</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">posterior surface of demihorn not strongly deflected medially and only slightly sculptured</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Stage 2</td>
+<td align="left" rowspan="1" colspan="1">isometric growth of paired (not fused) demihorns, that extend most of the length of nasal</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">lateral surface texturing with larger neurovascular grooves with variable orientation</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">posterior sculptured surface larger, more distinctly sculptured; and deflected medially</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Stage 3</td>
+<td align="left" rowspan="1" colspan="1">at least two-thirds ‘adult’ size</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">fusion of nasals begins anteriorly and progresses posteriorly?</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">thickening of lateral surfaces, “broad tumid expansion” of Currie et al <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref> of demihorns into an incipient boss</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">boss precursor enlarges posteriorly but not yet to posterior edge of nasal</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">posterior sculptured area apparently coalesced into expanding incipient boss</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">dorsal margins with lateral ridges bounding medial depression</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Stage 4</td>
+<td align="left" rowspan="1" colspan="1">lateral surfaces of boss migrate rapidly away from midline, accompanied by rapid deposition of spongy bone between them to form obvious boss structure</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">boss grows rapidly posteriorly to or nearly to posterior edge of nasals</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">boss defined ventrolaterally by distinct basal sulcus</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">lateral surfaces show signs of palisade texture comprised of parallel dorsoventral-oriented ridges and grooves</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Stage 5</td>
+<td align="left" rowspan="1" colspan="1">boss mediolaterally as wide or wider dorsally than ventrally along basal sulcus</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">full nasal boss extends from premaxillary process to posterior edge of nasals, may contact supraorbital bosses in <italic>P. canadensis</italic> and <italic>P. perotorum</italic></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">lateral surfaces extensively marked by palisade texture of dorsventrally oriented grooves and ridges</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">remodeling of boss dorsal surface</td>
+</tr>
+</tbody>
+</table>
+</alternatives></table-wrap>
+<p>The combination of morphologies in DMNH 21460 suggests either an additional stage of development should be recognized in the ontogeny of the nasal boss of <italic>Pachyrhinosaurus</italic>, or that the ontogenetic pathway of nasal boss development in <italic>P. perotorum</italic> was notably different from that of <italic>P. lakustai</italic>. We are not ready to embrace the idea of large differences in the ontogenetic development of this derived structure in such closely related taxa until a larger sample of <italic>P. perotorum</italic> crania provides stronger evidence for it. We instead submit a revised hypothesis of nasal boss development in <italic>Pachyrhinosaurus</italic> that incorporates the data present in DMNH 21460 and the timing of certain morphological expressions relative to other ontogenetic transformations.</p>
+<p><xref ref-type="table" rid="pone-0065802-t002">Table 2</xref> lists a new hypothesis of ontogenetic stages for the development of the nasal boss of <italic>Pachyrhinosaurus</italic>, in which an additional stage is required to encompass the revised onset of morphologies seen in DMNH 21460. In this new hypothesis of nasal boss development, upon attaining at least two-thirds ‘adult’ size (Stage 3) the nasals begin to fuse to one another and the demihorns begin to transform. The nasal horn then begins to thicken laterally, undergoing the “broad tumid expansion” described by Currie et al. <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>. This is reflected in the sample of <italic>Pachyrhinosaurus lakustai</italic> specimens by individuals such as TMP 1989.55.256 <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>. DMNH 21460 represents an intermediate point in ontogeny (Stage 4) between specimens such as TMP 1989.55.256 and full adult crania such as represented by DMNH 22558. Stage 4 is still the point in ontogeny that sees the development of a basal sulcus around the ventral edge of the nasal boss, as well as the onset of the first palisade ridges and grooves on the lateral surfaces of the boss. The new Alaskan specimen shows that it is around this time as well that the nasals are fused along their complete length, and that there may have been a rapid lengthening of the nasal posterior to the incipient nasal boss. Only later in the next stage (Stage 5) do the lateral edges of the nasal ornamentation migrate rapidly outwards to form the true, mediolaterally wide nasal boss. It is also at this time that the nasal boss expands posteriorly, eventually overgrowing or incorporating the part of the nasal that was previously marked by the rugose, sculptured patch seen in DMNH 21460. We designate an additional stage (Stage 6) as ‘full-adult’ stage, in which the nasal boss is as wide or wider dorsally than ventrally, the nasal boss extends to or past the prefrontal and frontal contacts to nearly or actually contact the supraorbital bosses, and the lateral surfaces of the boss are extensively marked by clear palisade-texture ridges and grooves. It is possible that older individuals may also see extensive remodeling of the dorsal surface of the boss, as reported by Currie et al. <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>.</p>
+<table-wrap id="pone-0065802-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065802.t002</object-id><label>Table 2</label><caption>
+<title>New hypothesis of ontogenetic stages for the nasal boss of <italic>Pachyrhinosaurus</italic> based on new information (marked by asterisks) derived from DMNH 21460, an incomplete nasal from an immature <italic>Pachyrhinosaurus perotorum</italic> individual from Alaska.</title>
+</caption><alternatives><graphic id="pone-0065802-t002-2" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065802.t002" xlink:type="simple"/>
+<table><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/></colgroup>
+<thead>
+<tr>
+<td align="left" rowspan="1" colspan="1">Growth Stage</td>
+<td align="left" rowspan="1" colspan="1">Characteristics</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Stage 1</td>
+<td align="left" rowspan="1" colspan="1">low, paired demihorns with minimal lateral texturing in form of neurovascular grooves</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">demihorn essentially covers nasal from anterior process to posterior edge</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">posterior surface of demihorn not strongly deflected medially and only slightly sculptured</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Stage 2</td>
+<td align="left" rowspan="1" colspan="1">isometric growth of paired (not fused) demihorns, that extend most of the length of nasal</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">lateral surface texturing with larger neurovascular grooves with variable orientation</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">posterior sculptured surface larger, more distinctly sculptured; and deflected medially</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Stage 3</td>
+<td align="left" rowspan="1" colspan="1">at least two-thirds ‘adult’ size</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">fusion of nasals begins anteriorly and progresses posteriorly?</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">thickening of lateral surfaces, “broad tumid expansion” of Currie et al <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref> of demihorns into an incipient boss</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Stage 4</td>
+<td align="left" rowspan="1" colspan="1">distinct basal sulcus defines ventral margins of nasal horn/incipient boss</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">dorsoventrally oriented ridges and grooves begin to develop on lateral surfaces of horn/incipient boss, producing palisade texture</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">*rapid anteroposterior lengthening of nasal between incipient boss and posterior edge of nasals</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">*nasal fusion through horn/incipient boss and dorsal surface of nasal complete to posterior edge</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">*sculptured, rugose patch on posterior end of nasal appears, separate from nasal horn/incipient boss</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Stage 5</td>
+<td align="left" rowspan="1" colspan="1">lateral surfaces of nasal boss migrate rapidly away from midline, accompanied by rapid deposition of spongy bone between them to form true boss structure</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">*boss grows posteriorly to or nearly to edge of nasals, overgrowing or incorporating rugose patch on dorsal surface of nasal</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Stage 6</td>
+<td align="left" rowspan="1" colspan="1">boss mediolaterally as wide or wider dorsally than ventrally at basal sulcus</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">full nasal boss extends from premaxillary process to posterior edge of nasals, may contact supraorbital bosses in <italic>P. canadensis</italic> and <italic>P. perotorum</italic></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">lateral surfaces extensively marked by palisade texture of dorsventrally oriented grooves and ridges</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">remodeling of boss dorsal surface</td>
+</tr>
+</tbody>
+</table>
+</alternatives></table-wrap></sec><sec id="s3d">
+<title>Integument Reconstruction</title>
+<p>A recent study by Hieronymus et al. <xref ref-type="bibr" rid="pone.0065802-Hieronymus1">[10]</xref> examined craniofacial bone morphology, surface textures, and histological evidence for integument type in centrosaurine taxa as compared to extant taxa with a variety of integumentary tissues and structures. In that work, several osteological correlates were identified in the study sample that led to models of dermal tissue type, structure size, and position on several centrosaurine taxa, with particular focus on <italic>Pachyrhinosaurus</italic>. It was also determined that the nasal boss of <italic>Pachyrhinosaurus lakustai</italic> shared similarities with the frontal boss of the muskox (<italic>Ovibos moschatus</italic>), and to a lesser extent also with the frontal horn bosses of the African buffalo (<italic>Synceros caffer</italic>) (<xref ref-type="fig" rid="pone-0065802-g005">Figure 5A through C</xref>). Based on those similarities, it was determined that the dorsal surface of the nasal boss of mature <italic>Pachyrhinosaurus</italic> bore a thick, muskox-like, cornified pad, and that the palisade pattern of ridges and grooves on the lateral surfaces of the nasal boss were thought to have supported a thick cornified sheath growing at a shallow angle from the boss <xref ref-type="bibr" rid="pone.0065802-Hieronymus1">[10]</xref>. Growth direction of the sheath and cornified pad were also postulated to be parallel to the orientation of the ridges and grooves on the lateral surfaces of the boss <xref ref-type="bibr" rid="pone.0065802-Hieronymus1">[10]</xref>.</p>
+<fig id="pone-0065802-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065802.g005</object-id><label>Figure 5</label><caption>
+<title>Osteological correlates for a thick cornified pad in <italic>Synceros caffer</italic> and <italic>Pachyrhinosaurus perotorum</italic>.</title>
+<p>A. DMNH 2013, <italic>Synceros caffer</italic> skull in left lateral oblique and dorsolateral view, showing exposed left frontal boss and proximal base of osseous horn core. B. Same specimen in closer, dorsal view centered on rugose frontal boss area. C. Close up of area inside rectangle in B. D. DMNH 21460, <italic>Pachyrhinosaurus perotorum</italic>, close-up of posterior end of nasal in left lateral and slightly dorsal view. E. Close up of area inside rectangle in D. Ellipses in C and E surround clusters of similar densely spaced, small foramina. Abbreviations: bs, basal sulcus; fb, frontal boss; ri, ridge separating rugose area from smooth bone; rug, rugose patch on dorsal surface of nasal; sb, smooth bone surface. Scale bar in A through C shows divisions in cm. Scale bar in D equals 5 cm. Scale bar in E equals 1 cm.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065802.g005" position="float" xlink:type="simple"/></fig>
+<p>The presence of a distinct basal sulcus and the lateral palisade texture on the nasal horn of DMNH 21460 indicate that a thick, cornified horn sheath was present well before the formation of a dorsal cornified pad on the nasal boss. This is also supported by the orientation of some of the foramina on parts of the horn that intersect the surface at tangential angles, producing short grooves and sulci in the bone surface. If the palisade grooves and ridges on the lateral sides of the incipient nasal boss are a reliable indication of the direction of growth, given the cross-sectional shape of the nasal horn in DMNH 21460 (<xref ref-type="fig" rid="pone-0065802-g003">Figure 3G and H</xref>), in this stage of life the nasal of <italic>P. perotorum</italic> bore a substantial anteroposteriorly elongate but mediolaterally narrow nasal horn (<xref ref-type="fig" rid="pone-0065802-g006">Figure 6</xref>).</p>
+<fig id="pone-0065802-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0065802.g006</object-id><label>Figure 6</label><caption>
+<title><italic>Pachyrhinosaurus perotorum</italic> skulls and integument reconstruction through ontogeny.</title>
+<p>Hypothesis of craniofacial changes in osteology and integument through some of the ontogenetic stages of <italic>Pachyrhinosaurus perotorum</italic> listed in <xref ref-type="table" rid="pone-0065802-t002">Table 2</xref>. Stage 2 skull based on juvenile <italic>P. lakustai</italic> of Currie et al. <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>. Stage 4 skull based on DMNH 21460. Stage 6 skull based on DMNH 22558 <xref ref-type="bibr" rid="pone.0065802-Fiorillo1">[5]</xref>. Right-side ‘life’ reconstructions based on hypotheses of <italic>Pachyrhinosaurus</italic> integument structures of Hieronymus et al. <xref ref-type="bibr" rid="pone.0065802-Hieronymus1">[10]</xref>, and new data from DMNH 21460. Light tan indicates ‘normal’ skin, while dark brown indicates cornified scales, horns, sheaths, or other cornified tissue. Scale bar equals 50 cm.</p>
+</caption><graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0065802.g006" position="float" xlink:type="simple"/></fig>
+<p>The dorsal rugose patch on the nasal posterior to the incipient nasal boss of DMNH 21460 is a feature that is either not present, or not recognized on specimens of <italic>Pachryhinosaurus lakustai</italic> <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>, <xref ref-type="bibr" rid="pone.0065802-Hieronymus1">[10]</xref>. The rugose patch is located in the place occupied by the bulbous posterior end of the nasal boss in more mature individuals (DMNH 22558) <xref ref-type="bibr" rid="pone.0065802-Fiorillo1">[5]</xref>. This posterior end of a mature nasal boss is marked by anteroposteriorly oriented grooves and fins in specimens of <italic>P. lakustai</italic> and <italic>P. perotorum</italic> <xref ref-type="bibr" rid="pone.0065802-Currie1">[4]</xref>, <xref ref-type="bibr" rid="pone.0065802-Fiorillo1">[5]</xref>. This surface texture was interpreted to show the growth direction of a thick cornified pad on the dorsal surface of the nasal boss by Hieronymus et al. <xref ref-type="bibr" rid="pone.0065802-Hieronymus1">[10]</xref>. The separation of the incipient nasal boss and the sculptured rugose patch on the posterior part of the nasal in DMNH 21460 shows there was a posteriorly-located cornified skin structure on the nasal that was not originally connected to the nasal horn sheath.</p>
+<p>The question is: what sort of cornified integumentary structure covered the rugose patch on the posterior nasal? The patch can be compared to the osteological correlates listed by Heironymus et al. <xref ref-type="bibr" rid="pone.0065802-Hieronymus1">[10]</xref> to determine the nature of the skin structure located on the posterior nasal. The surface of the rugose patch is faintly pitted and sculptured, bears a few neurovascular grooves with no preferred orientation, and is penetrated by numerous small foramina that appear to intersect the surface at near right-angles. The lateral margin of this textured zone is defined by a raised ridge, with very smooth bone lateral to the ridge.</p>
+<p>We examined the frontal boss of a modern specimen of <italic>Synceros caffer</italic> (DMNH 2013) (<xref ref-type="fig" rid="pone-0065802-g005">Figure 5A through C</xref>) to compare the osteological textures and structure to that on DMNH 21460. The proximal part of the <italic>Synceros</italic> frontal boss, adjacent to the midline, has a rugose texture similar to that in DMNH 21460 (<xref ref-type="fig" rid="pone-0065802-g005">Figure 5D</xref>). The frontal boss in <italic>Synceros</italic> is markedly separated from a median strip of smooth bone by a raised ridge (<xref ref-type="fig" rid="pone-0065802-g005">Figure 5B and C</xref>), much as the rugose patch in DMNH 21460 is separated from a lateral area of very smooth bone (<xref ref-type="fig" rid="pone-0065802-g005">Figure 5D and E</xref>). Closer inspection of the rugose area of the <italic>Synceros</italic> frontal boss reveals small patches of bone penetrated by densely spaced, very small foramina (<xref ref-type="fig" rid="pone-0065802-g005">Figure 5C</xref>), a feature also seen in DMNH 21460 (<xref ref-type="fig" rid="pone-0065802-g005">Figure 5E</xref>). The similarity between the two is additional evidence for a thick cornified pad such as that on the frontal boss of <italic>Synceros caffer</italic> being present on the posterior end of the nasal during an intermediate stage of ontogeny in <italic>Pachyrhinosaurus perotorum</italic> (<xref ref-type="fig" rid="pone-0065802-g006">Figure 6</xref>). This cornified pad may have been subsequently incorporated into the nasal boss integument as the boss expanded posteriorly later in ontogeny.</p>
+</sec><sec id="s3e">
+<title>Conclusions</title>
+<p>Material collected from the Kikak-Tegoseak Quarry of Alaska’s North Slope continues to produce new and unexpected data regarding the centrosaurine ceratopsid <italic>Pachyrhinosaurus perotorum</italic>. The discovery of a relatively immature nasal (DMNH 21460) reveals a more complicated craniofacial ontogeny in <italic>Pachyrhinosaurus</italic> than previously thought. The nasal boss of <italic>Pachyrhinosaurus perotorum</italic>, a structure homologous to the more erect nasal horn of more basal centrosaurine ceratopsids, underwent a point in ontogeny in which the two nasal bones were fully fused to one another and bore an anteroposteriorly long but mediolaterally narrow horn or incipient nasal boss. The long, low incipient boss bore a thick horn sheath that grew in a dorsal direction as indicated by the palisade texture on the lateral surfaces of the incipient boss. The nasal posterior to the incipient nasal boss may also have undergone rapid anteroposterior elongation prior to the onset of full nasal boss formation. Based on work that found osteological correlates of integument between centrosurine and modern taxa <xref ref-type="bibr" rid="pone.0065802-Hieronymus1">[10]</xref>, and comparison to the frontal boss osteology of a modern <italic>Synceros caffer</italic> specimen (DMNH 2013), the evidence supports the hypothesis that a thick cornified pad separate from the nasal horn sheath was present on the posterior part of the nasals of immature <italic>Pachyrhinosaurus perotorum</italic>, prior to development of a full nasal boss. The lateral sheath originally covering the nasal horn and the posterior cornified pad may have combined only later in ontogeny to form a compound epidermal covering over the full nasal boss of mature <italic>Pachyrhinosaurus perotorum</italic>.</p>
+</sec></sec></body>
+<back>
+<ack>
+<p>We thank the numerous members of the various field crews that contributed to the data collecting for this project, particularly D. Norton, P. McCarthy, P. Flaig, T. Adams, K. Newman, C. Strganac, and J. Petula. Preparation of the specimen was mostly performed by H. Keller and RST. We also thank C. Forster for comments on an earlier version of this manuscript and A. Farke, M. Ryan and J. Scannella for their thoughtful reviews of this manuscript. The Barrow Arctic Science Consortium (BASC) and CH2M Hill (formerly Veco Polar Resources) provided logistical support for this project. Lastly, the Arctic Management Unit of the Bureau of Land Management provided administrative support.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0065802-Sternberg1"><label>1</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sternberg</surname><given-names>CM</given-names></name> (<year>1950</year>) <article-title><italic>Pachyrhinosaurus canadensis</italic>, representing a new family of Ceratopsia, from southern Alberta</article-title>. <source>National Museum of Canada Bulletin</source> <volume>118</volume>: <fpage>109</fpage>–<lpage>120</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Langston1"><label>2</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Langston</surname><given-names>W</given-names><suffix>Jr</suffix></name> (<year>1967</year>) <article-title>The thick-headed ceratopsian dinosaur <italic>Pachyrhinosaurus</italic> (Reptilia: Ornithischia), from the Edmonton Formation near Drumheller, Canada</article-title>. <source>Can J Earth Sci</source> <volume>4</volume>: <fpage>171</fpage>–<lpage>186</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Langston2"><label>3</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Langston</surname><given-names>W</given-names><suffix>Jr</suffix></name> (<year>1975</year>) <article-title>The ceratopsian dinosaurs and associated lower vertebrates from the St. Mary River Formation (Maastrichtian) at Scabby Butte, southern Alberta</article-title>. <source>Can J Earth Sci</source> <volume>12</volume>: <fpage>1576</fpage>–<lpage>1608</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Currie1"><label>4</label>
+<mixed-citation publication-type="other" xlink:type="simple">Currie PJ, Langston W Jr, Tanke DH (2008) A new species of <italic>Pachyrhinosaurus</italic> (Dinosauria, Ceratopsidae) from the Upper Cretaceous of Alberta, Canada. In: Currie PJ, Langston W Jr, Tanke DH, editors. A new horned dinosaur from an Upper Cretaceous Bone Bed in Alberta. Ottawa: NRC Research Press. 1–108.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Fiorillo1"><label>5</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Fiorillo</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Tykoski</surname><given-names>RS</given-names></name> (<year>2012</year>) <article-title>A new Maastricthian species of the centrosaurine ceratopsid <italic>Pachyrhinosaurus</italic> from the North Slope of Alaska</article-title>. <source>Acta Palaeontol Pol</source> <volume>57</volume>: <fpage>561</fpage>–<lpage>573</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Dodson1"><label>6</label>
+<mixed-citation publication-type="other" xlink:type="simple">Dodson P, Forster CA, Sampson SD (2004) Ceratopsidae. In: Weishampel DB, Dodson P, Osmolska H, editors. The Dinosauria. Berkeley: University of Californis Press. 494–513.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Sampson1"><label>7</label>
+<mixed-citation publication-type="other" xlink:type="simple">Sampson SD, Loewen MA (2011) Unraveling a radiation: a review of the diversity, stratigraphic distribution, biogeography, and evolution of horned dinosaurs (Ornithischia: Ceratopsidae). In: Ryan MJ, Chinnery-Allgeier BJ, Eberth DA, editors. New Perspectives on Horned Dinosaurs. Bloomington: Indiana University Press. 405–427.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Sampson2"><label>8</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name> (<year>1995</year>) <article-title>Two new horned dinosaurs from the Upper Cretaceous Two Medicine Formation of Montana; with a phylogenetic analysis of the Centrosaurinae (Ornithischia: Ceratopsidae)</article-title>. <source>J Vertebr Paleontol</source> <volume>15</volume>: <fpage>743</fpage>–<lpage>760</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Farke1"><label>9</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Farke</surname><given-names>AA</given-names></name>, <name name-style="western"><surname>Ryan</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Barrett</surname><given-names>PM</given-names></name>, <name name-style="western"><surname>Tanke</surname><given-names>DH</given-names></name>, <name name-style="western"><surname>Braman</surname><given-names>DR</given-names></name>, <etal>et al</etal>. (<year>2011</year>) <article-title>A new centrosaurine from the Late Cretaceous of Alberta, Canada, and the evolution of parietal ornamentation in horned dinosaurs</article-title>. <source>Acta Palaeontol Pol</source> <volume>56</volume>: <fpage>691</fpage>–<lpage>702</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Hieronymus1"><label>10</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hieronymus</surname><given-names>TL</given-names></name>, <name name-style="western"><surname>Witmer</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Tanke</surname><given-names>DH</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>2009</year>) <article-title>The facial integument of centrosaurine ceratopsids: morphological and histological correlates of novel skin structures</article-title>. <source>Anat Rec</source> <volume>292</volume>: <fpage>1370</fpage>–<lpage>1396</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Currie2"><label>11</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>1989</year>) <article-title>Long-distance dinosaurs</article-title>. <source>Nat Hist</source> <volume>6</volume>: <fpage>60</fpage>–<lpage>65</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Sampson3"><label>12</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sampson</surname><given-names>SD</given-names></name>, <name name-style="western"><surname>Ryan</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Tanke</surname><given-names>DH</given-names></name> (<year>1997</year>) <article-title>Craniofacial ontogeny in centrosaurine dinosaurs (Ornithischia: Ceratopsidae): taxonomic and behavioral implications</article-title>. <source>Zool J Linn Soc</source> <volume>121</volume>: <fpage>293</fpage>–<lpage>337</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Fiorillo2"><label>13</label>
+<mixed-citation publication-type="other" xlink:type="simple">Fiorillo AR, McCarthy PJ, Flaig PP, Brandlen E, Norton DW, <etal>et al</etal>.. (2010) Paleontology and paleoenvironmental interpretation of the Kikak-Tegoseak Quarry (Prince Creek Formation: Late Cretaceous), northern Alaska: a multi-disciplinary study of a high-latitude ceratopsian dinosaur bonebed. In: Ryan MJ, Chinnery-Allgeier BJ, Eberth DA, editors. New Perspectives on Horned Dinosaurs. Bloomington: Indiana University Press. 456–447.</mixed-citation>
+</ref>
+<ref id="pone.0065802-Conrad1"><label>14</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Conrad</surname><given-names>JE</given-names></name>, <name name-style="western"><surname>McKee</surname><given-names>EH</given-names></name>, <name name-style="western"><surname>Turrin</surname><given-names>DB</given-names></name> (<year>1990</year>) <article-title>Age of tephra beds at the Ocean Point Dinosaur Locality, North Slope, Alaska, based on K-Ar and <sup>40</sup>Ar/<sup>39</sup>Ar analyses</article-title>. <source>US Geol Surv Bull 1990-</source> <volume>C</volume>: <fpage>1</fpage>–<lpage>12</lpage>.</mixed-citation>
+</ref>
+<ref id="pone.0065802-McDonald1"><label>15</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>McDonald</surname><given-names>AT</given-names></name> (<year>2011</year>) <article-title>A subadult specimen of <italic>Rubeosaurus ovatus</italic> (Dinosauria: Ceratopsidae), with observations on other ceratopsids from the Two Medicine Formation</article-title>. <source>PLoS ONE</source> <volume>6(8)</volume>: <fpage>e22710</fpage> <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pone.0022710" xlink:type="simple">10.1371/journal.pone.0022710</ext-link></comment></mixed-citation>
+</ref>
+<ref id="pone.0065802-Ryan1"><label>16</label>
+<mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ryan</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Russell</surname><given-names>AP</given-names></name>, <name name-style="western"><surname>Ebert</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Currie</surname><given-names>PJ</given-names></name> (<year>2001</year>) <article-title>The taphonomy of a <italic>Centrosaurus</italic> (Ornithischia: Ceratopsidae) Bone Bed from the Dinosaur Park Formation (Upper Campanian), Alberta, Canada, with comments on cranial ontogeny</article-title>. <source>Palaios</source> <volume>16</volume>: <fpage>482</fpage>–<lpage>506</lpage>.</mixed-citation>
+</ref>
+</ref-list></back>
+</article>
